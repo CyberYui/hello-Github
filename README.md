@@ -24,9 +24,13 @@ Anyway,nice to meet you guys~~~
 
 以免时间过长结果自己都不知道了
 
+还好今天一天更新完了 , 不然不知道啥时候才有时间做这些 , 笑死
+
 #### 2021-6-2
 
-> 自本日起 , 一共 star 114 个 , 先不要 star 新项目了 , 尽量这几天介绍完了 ---- 2021-6-2
+> 自本日起 , 一共 star 115 个 , 先不要 star 新项目了 , 尽量这几天介绍完了 ---- 2021-6-2
+>
+> 不得不佩服自己 , 好些项目一看到就知道是干啥的了 , 更新结束 ,以后再 star 了再说了 ---- 2021-6-2
 
 ### SlimeFun
 
@@ -153,3 +157,344 @@ Anyway,nice to meet you guys~~~
 ### Minimal UI
 
 > FF14 游戏相关 mod , 修改了一些 UI 样式为扁平化和透明化 , 让你的 FF14 游戏体验与众不同
+
+### twinkle-tray
+
+> windows 桌面软件 , 用于管理显示器的亮度 , 不需要再去在显示器上按按钮调亮度了
+
+### snatch
+
+> windows 桌面软件 , 用于管理剪贴板 , 个人感觉 windows 自带的 <kbd>WIN+V</kbd>就够用了
+
+### screenity
+
+> 一个简洁免费的 Chrome 插件 , 用处是可以录像以及作为标记工具使用
+
+### FFXIV_TexTools2
+
+> 一个功能更丰富的 FF14 工具 , 没怎么具体研究过
+
+### ephtracy.github.io
+
+> 查看这个仓库的 release , MagicaVoxel Viewer 是一个简单的 3D 像素绘画工具
+>
+> 现在的文件是一个官网的网站模版
+
+### youtube-dl
+
+> 不解释了 , 会翻墙的基本都知道这是啥了
+
+### Locale Emulator
+
+> 软件乱码转区工具 , 玩 GalGame 用的小工具 , 至今连下都没下过 XD
+
+### qBittorrent Enhanced Edition
+
+> 比特彗星 , 干啥的就不说了
+
+### cclose
+
+> Windows 桌面软件 , CClose 是一款小巧轻量的窗口操作增强应用 , 有免费版和付费版
+
+### TileTool
+
+> windows 桌面软件 , 用于 win10 的磁贴美化
+
+### gridea
+
+> 一个静态博客写作客户端 , 有 windows MacOS Linux 三个操作系统的版本 , 语法是 markdown
+
+### imewlconverter
+
+> 深蓝词库转换工具 , 用于转换不同输入法的词库用
+
+### PowerToys
+
+> windows 桌面软件 , 有很多常用的小功能 , 多研究使用 , 我现在就用着一个"长按<kbd>WIN</kbd>键提示快捷键"的功能
+
+### Semantic UI
+
+> 一个简单的前端 UI 框架 , 比起 Bootstrap 来说 , 更喜欢用这个
+
+### 3AReal
+
+> FF14 画质补丁 , 也是一个滤镜而已啦 , 用 GShade 之前用的这个 , 也是不错的滤镜
+
+### mermaid
+
+> markdown 制表工具 , 有相应的网站 , 这里是 mermaid 的源代码地址 , 可以在这里看到它的 JS 源码
+
+### Front-End-Interview-Notebook
+
+> CavsZhouyou 个人总结的一些前端面试笔记 , 可以拿来借鉴借鉴 , 挺不错的
+
+### Waypoints
+
+> 一个网页目录生成工具 , 可以在你滚到某个元素的时候去实时展现成目录的样式 , 老项目了
+
+### jquery.scrollTo
+
+> 基于 JQuery 的一个滚动样式 , 原先做东西拿来实现回到页首用的
+
+### qrcodejs
+
+> 一个用于生成二维码的 JS 库 , 老项目了
+
+### tocbot
+
+> 网页目录生成工具 , 也是个不错的插件了 , 而且时至今日 5 年了都还在维护也是牛逼
+
+### prism
+
+> 代码高亮插件 , 也是一直在维护更新 , 挺不错的
+
+### animate.css
+
+> css 动画库 , 在它的官网上可以实时看到各种用 css 做的动画效果 , 很棒
+
+### typo.css
+
+> 中文网页排版设计 , 针对各种中文格式进行了规定
+
+### EhViewer
+
+> Ehentai APP , 老司机看的 , 不多说了
+
+### Dress
+
+> 程序员女装库 , 可以在这里学习一下简单的 git 版本控制流程 , 不过话说回来 , hso
+
+### HMCL
+
+> Minecraft 启动器
+
+### dadda-translate-crx
+
+> 达达划词翻译 Chrome 插件 , 可以同步到 扇贝和有道 , 只是翻译的话更推荐使用 沙拉查词
+
+### xg2xg
+
+> 用于查询各种技术和服务的小库 , 现阶段还没啥用到的时候
+
+### ikonate
+
+> 矢量图标库 , 一个好用且开源的字体图标库
+
+### leetcode
+
+> haoel 大佬的力扣刷题答案集 , 要刷题的话可以来这里看看解决方案
+
+### github-cheat-sheet
+
+> Git 和 Github 的操作贴士 , 开始不怎么会用 GitHub 的时候天天翻这个来着
+
+### machine-learning-course
+
+> 免费的机器学习课程 , 语言当然是 Python 了
+
+### battle-city
+
+> 坦克大战复刻版 , 用 typescript 写的 , 厉害了
+
+### RemixIcon
+
+> 一套面向设计师和开发者的开源图标库 , 这个图标库的东西是可以免费用于个人和商业项目的
+
+### USTC-Course
+
+> 中国科技大学的课程资源和笔记 , 用于学习
+
+### TNT-Weekly
+
+> 周报 , 前端行业专用的每周要闻 , 由腾讯新闻前端团队收集整理 , 已经出到一百多期了
+
+### FakeScreenshot
+
+> 一个用于伪造网站截图的工具 , 制作的目的是为了防止人们轻易相信 "眼见为实" 的东西
+
+### cat-catch
+
+> 猫抓-Chrome媒体嗅探插件 , 老项目了 , 现在已经被后来居上惹
+
+### carbon-now-cli
+
+> 用于创建代码截图用 , 自带一个官网 , 给同事截图什么的用它就对了 , 虽然是老项目 , 但是针不戳
+
+### TranslucentTB
+
+> windows 桌面应用 , 让你的底部任务栏更加美观
+
+### hosts
+
+> 顾名思义 , 改 hosts 用的
+
+### shadowsocksr-android
+
+> VPS 安卓版工具 , 老软件了 , 现在谁还用搬瓦工吖 (滑稽.jgp)
+
+### persepolis
+
+> Aria 2 的 GUI 工具 , 朋友推荐的 , 老司机应该比我更懂 , 我都没下过这东西...
+
+### 955.WLB
+
+> 针对 [996.ICU](https://github.com/996icu/996.ICU) 的库 , 有啥不一样的顾名思义 , 同样的还有 [1155.Life](https://github.com/formulahendry/1155.Life) 
+
+### kratos
+
+> 一套轻量的 Go 语言微服务框架 , 我还没开始学 , 但是先 mark 上了...
+
+### trackerslist
+
+> 公共比特彗星跟踪器列表
+
+### AriaNg
+
+> 针对 Aria 2 的 web UI 工具 , 也是朋友推荐的 , 我没用过 , 不知道咋用
+
+### mather
+
+> 一款基于web网页的覆盖数学全部学科的数学开源软件 , 编辑公式用的
+
+### hack-movie
+
+> 黑客相关的电影推荐
+
+### ScreenToGif
+
+> 老牌动图截图工具 , 断断续续地在更新 , 但是我现在基本不用它了 
+
+### ProgressGif
+
+> gif 动图的进度显示工具
+
+### GeoPattern
+
+> 一个背景 pattern 生成工具 , 用着很炫酷
+
+### the-art-of-command-line
+
+> 控制台 / 注释 字符画 , 给代码添加调味剂
+
+### awesome-cheatsheets
+
+> 编程语言速查表 , 现阶段支持的语言还挺少的 , 反正没有 Java 和 C++ 啦
+
+### 996.ICU
+
+> 告诉你哪些公司不把程序员当人 (doge.jpg)
+
+### DataStructures
+
+> 自己的数据结构练习 , 之前在慕课网上看的教程一步一步学习的 , 教程到后面断层了现在也就废弃了 , 有朝一日会补全的
+
+### Play-with-Algorithms
+
+> liuyubobobo 大佬的慕课网课程 [《算法与数据结构精解》](http://coding.imooc.com/class/71.html)的官方代码仓库 , 基本废止了 , 但是买课程然后学习自用还是不错的
+
+### vscode-background
+
+> vscode 背景插件的官方库存 , 可以通过这里去学习更新默认图
+
+### shanbay-crx
+
+> 扇贝学习助手Chrome插件 , 之前学习英语单词的时候用的 , 现在好像也不怎么更新了
+
+### Pebble
+
+> 腾讯开源的分布式开发框架 , 拿来学习用的
+
+### Fanvas
+
+> Fanvas是一个把 swf 转为html5 canvas动画的系统 , 也就是把你的 flash 转化成 h5 样式
+
+### omi
+
+> Omi 打造的跨框架、[跨主题](https://tencent.github.io/omi/components/docs/cn.html#/theme?index=0&subIndex=1) UI 组件库 , 鹅厂大佬做的 , 针对小程序开发
+
+### wepy
+
+> 一款让小程序支持组件化开发的框架 , 类 Vue 开发风格
+
+### vscode
+
+> 就是 vscode , 开源的 , 对
+
+### prism-pretty
+
+> Chrome 预览代码的高亮插件 , 基本也是个废止的项目了
+
+### bilibili-helper-o
+
+> 哔哩哔哩辅助工具 , 可以下载 B站 的各种视频 , 以及一些其他的功能
+
+### calculator
+
+> windows 操作系统的默认计算器源码 , 是的 , 源码
+
+### aria2
+
+> 还在用 百度网盘 比特彗星 的我表示这是啥我不知道
+
+### LastMinuteFlashcards
+
+> 用 Python 写的托福单词背词工具 , 还没用过它就已经不维护了
+
+### vue2-happyfri
+
+> vue2 + vuex 的小项目 , 学习用
+
+### vue2-elm
+
+> 上述小项目的大型项目系统 , 配有相关的后台系统 , 可以整合学习
+
+### vue
+
+> vue2 , 就是 vue 啦
+
+### Auto-Lianliankan
+
+> 基于图像识别实现的 QQ游戏 连连看外挂 , 原先可以用 , 现在想用要自己调整了
+
+### Pressure-for-Steam
+
+> Steam 平台的皮肤 , 曾经我们还可以有闲暇时间去定制 steam 的皮肤 , 现在 , 猫猫叹气.jpg
+
+### canvas-test
+
+> whxaxes 大佬的 Canvas 练习内容 , 配有相关的代码 , 拿来学习了 , 现在大佬已经开始做框架了
+
+### thymeleaf-spring
+
+> thymeleaf , 模板框架啦 , 和 freemaker 差不多的东西
+
+### bootstrap
+
+> bootstrap 的原生库 , 现阶段正在进行 Bootstrap 5 的制作 , 大佬们好厉害
+
+### git-it-electron
+
+> 教你如何使用 git bash 的一个教程软件
+
+### csu_rjxy_notify
+
+> 老同学的爬虫 , 已经好久没更新了
+
+### DPlayer
+
+> 一个网页端的 HDML5 视频播放器 , 喜欢吧 , 喜欢就学起来
+
+### Awsome-Front-End-learning-resource
+
+> GitHub 曾经最全的前端学习资源汇总 , 当初就是在这里看起来前端的 , 但是现在基本忘完了 XP
+
+### awesome-comment
+
+> 评论的时候用 , 字符图啥的 , 应有尽有
+
+### 2018_code_calendar_wallpaper
+
+> 2018 年的编程日历壁纸 , 现在项目已经废止了
+
+
+
