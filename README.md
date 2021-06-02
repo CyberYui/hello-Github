@@ -1,22 +1,23 @@
-# hello-world
+# hello-Github
 
-## The tutorial of github
+## 一个通过 Github 教程建立的小仓库(书签)
 
+大噶吼
 
-Hi Humans!
+我是 CyberKaka , 一个毕业于湖南长沙中南大学的本科生
 
-Here is CyberKaka,a student of the CSU(Center South University).
+我很喜欢电脑 , 我也很想成为一个大佬 (草,一种植物)
 
-I like computer,and I also want to be a good programmer.
-
-Also like playing computer games.
-
+哦我也喜欢打游戏
 
 
-Anyway,nice to meet you guys~~~
+
+不管咋样 , 很高兴在这里遇到大家
 -----------------------
 
 ------------------------------
+
+我一直觉得自己之前打的每一段字都不删是件挺好玩的事儿 , 看看以前的傻屌时光还是挺有意思的
 
 无视上面的黑历史
 
