@@ -753,22 +753,27 @@
 >
 >https://github.com/pbatard/rufus
 
-**WinDynamicDesktop**
+### WinDynamicDesktop
 
 > Windows 版本的开源桌面壁纸软件 , 可以通过系统时间动态切换桌面壁纸 , 自带有高清壁纸
 >
 > https://github.com/t1m0thyj/WinDynamicDesktop
 
-**fontforge**
+### fontforge
 
 > 一款用于编辑字体的软件 , 有各种不同的版本 , 十分好用
 >
 > https://github.com/fontforge/fontforge
 
-**Inno Setup**
+### Inno Setup
 
 > 一款开源的安装包制作软件 , 这里是用 delphi 代码编写的源码
 >
 > 我是在果壳网看到它的 , 这种软件需要配合一些东西才能使用哦 https://www.ghpym.com/inno.html
 >
 > https://github.com/jrsoftware/issrc
+
+### edex-ui
+
+> 一个开源的装逼东东 , 可以拿来假装自己是电影里的超级黑客
+> https://github.com/GitSquared/edex-ui
