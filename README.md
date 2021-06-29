@@ -777,3 +777,45 @@
 
 > 一个开源的装逼东东 , 可以拿来假装自己是电影里的超级黑客
 > https://github.com/GitSquared/edex-ui
+
+### organicmaps
+
+> 一个开源的 Android & IOS 离线地图 , 方便出行
+>
+> https://github.com/organicmaps/organicmaps
+
+### The-Complete-FAANG-Preparation
+
+> 一个开源的学习资料库,包含 DSA(数据结构和算法),特定技术主题(操作系统,数据库,SQL,计算网络等)的理论知识及一些内容,并配有不同的编程语言解决方案,主页很有意思
+>
+> https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation
+
+### DouZero
+
+> 开源斗地主,和 AI 打斗地主让你再也不想斗地主
+>
+> https://github.com/kwai/DouZero
+
+### scrcpy
+
+> 显示并控制通过 USB 连接的安卓手机开源软件 , 让你没有工作站也能在连接手机的情况下用电脑控制你的手机
+>
+> https://github.com/Genymobile/scrcpy
+
+### WhyNotWin11
+
+> 用于检测机器是否适合现在就升级 Windows 11 它能帮你看到 CPU 是否兼容 , 显卡是否 ready
+>
+> https://github.com/rcmaehl/WhyNotWin11
+
+### astro
+
+> 建站用的一个开源源码 , 是新的实践方式
+>
+> https://github.com/snowpackjs/astro
+
+### MagicMirror
+
+> 一个支持第三方的开源模块化智能镜子系统 , 通过购买支持它的第三方模块可以实现你的镜子显示你需要的一些功能 , 例如提醒 , 天气等内容
+>
+> https://github.com/MichMich/MagicMirror
