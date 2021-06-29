@@ -1296,11 +1296,94 @@
 >
 > https://github.com/Asabeneh/30-Days-Of-React
 
+### 30 Days Of JavaScript
+
+> 30-Days-Of-JavaScript 是一个 step by step 带新手入门前端的项目 , 在 30 天之内你将了解到大部分的 JS 工具安装 , 浏览器调试 , JS 知识技能等等
+>
+> https://github.com/Asabeneh/30-Days-Of-JavaScript
+
 ### Link Admin
 
 > Link Admin 是一套企业级后端系统框架 , 基于该系统可以快速实现企业级二次开发
 >
 > https://github.com/252956/link-admin-ui
 
+### Files
 
+> 一个文件资源管理器 , 它利用了 Windows 平台的最新特性 , 包括流畅的设计 , 无缝的更新和符合用户期望的性能和生命周期行为的 API
+>
+> 无论你是想简化文件体验还是尝试一些新的东西 , Files 都是一种不错的选择
+>
+> Files 作为一站式的解决方案 , 可用于动态地探索文件 , 如果你想研究文件系统如何开发不妨研究下 Files
+>
+> https://github.com/files-community/Files
 
+### Dockerfile
+
+> Dockerfile 是编写 Docker 镜像文件的最佳实践
+>
+> 如何使用 : 将 Dockerfile 复制到你自己的项目中 , 并根据注释创建你的 Dockerfile 即可
+>
+> https://github.com/hexops/dockerfile
+
+### Mega Project List
+
+> Projects 是一个老项目 , 但是个好项目 , 它收录了大量编程实践 , 你可以学习之后将它们应用于你的业务中
+>
+> https://github.com/karan/Projects
+
+### Work Adventure
+
+> Work Adventure 以 16 位 RPG 电子游戏的形式呈现的协作 Web 应用程序 ( 虚拟办公室 ) 
+>
+> 在 Work Adventure 中 , 你可以在办公室里四处走动 , 与同事聊天 ( 使用视频聊天功能 , 当你走到一位同事旁边时就会触发视频聊天功能 ) 
+>
+> https://github.com/thecodingmachine/workadventure
+
+### miaosha
+
+> miaosha 是一款秒杀系统设计与实现
+>
+> 高并发大流量的秒杀是面试常见问题 , 该项目不仅有具体问题的解决思路 , 还有具体代码实现和示例 demo
+>
+> https://github.com/qiurunze123/miaosha
+
+### faceai
+
+> faceai 是一款优秀入门级 AI 项目以及教程 , 内容涵盖：人脸 , 视频 , 文字的检测和识别
+>
+> 他不仅包含最基本的人脸检测 , 识别 ( 图片 , 视频 )  , 轮廓标识 , 头像合成 ( 给人戴帽子 )  , 还有表情识别 ( 生气 , 厌恶 , 恐惧等 )  , 视频对象提取 , 图片修复 ( 可用于水印去除 )  , 图片自动上色等等
+>
+> 推荐这个开源项目不是因为它的内容强大 , 而是它的教程写的实在太好了
+>
+> 手把手教你如何使用这个项目 , 做出上述功能来。在每篇功能文章的教程里 , 不仅仅写了每个功能的技术实现方案 , 还有具体重点关键代码的注释和解释以及具体实现 , 让你非常轻松的能够看懂 , 学习和使用
+>
+> 对于想要入门或者了解机器学习的初学者不能再友好了
+>
+> https://github.com/vipstone/faceai
+
+### showdoc
+
+> showdoc 是一款基于 JavaScript 实现的开源在线文档工具
+>
+> 支持 : 
+>
+> 多端编辑查看 , 权限管理 , 文档导出 , Markdown 语法等，功能虽不多但已足够用了
+>
+> 推荐自建自用 , 小团队内部使用
+>
+> https://github.com/star7th/showdoc
+
+### My  wonderful world of macOS
+
+> my-mac-os 项目罗列了作者自用 , 收集的 macOS 上实用 , 炫酷的软件
+>
+> https://github.com/nikitavoloboev/my-mac-os
+
+### Demo - Figma - Twitter
+
+> 开源图标 UI 库
+>
+> 支持 CSS , SVG , Figma , NPM 等
+>
+> https://github.com/astrit/css.gg
