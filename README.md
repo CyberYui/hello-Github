@@ -49,6 +49,10 @@
 >
 > 至今一共 star 项为 200 个
 
+### 2021-6-30
+
+> 没忍住 , 又添加了 repo 了...
+
 -------------------------------------------------
 
 ### SlimeFun
@@ -1390,3 +1394,25 @@
 > 支持 CSS , SVG , Figma , NPM 等
 >
 > https://github.com/astrit/css.gg
+
+### stylus-shortcut
+
+> 基于 stylus 实现的快速编写 CSS 样式的库
+>
+> https://github.com/kwokronny/stylus-shortcut
+
+### pattern.css
+
+> 用漂亮的图形填充背景的 CSS 库 , 免去了下载 pattern 的烦恼
+>
+> 我原先下载 pattern 是在这个网站 : https://www.toptal.com/designers/subtlepatterns/
+>
+> https://github.com/bansal-io/pattern.css
+
+### duf
+
+> 一款查看磁盘空间情况的命令行工具，足以代替 df 命令
+>
+> 上手简单使用方便，界面简洁且友好同时支持 Linux , macOS 和 Windows
+>
+> https://github.com/muesli/duf
