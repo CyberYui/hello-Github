@@ -1416,3 +1416,25 @@
 > 上手简单使用方便，界面简洁且友好同时支持 Linux , macOS 和 Windows
 >
 > https://github.com/muesli/duf
+
+### vue-manage-system
+
+> 基于Vue.js + Element UI 的后台管理系统解决方案
+>
+> https://github.com/xzfxz/vue-manager-system
+
+### renren-fast
+
+> renren-fast是一个轻量级的Java快速开发平台，能快速开发项目并交付【接私活利器】
+>
+> https://github.com/zhaoqicheng/renren-fast
+>
+> 这个项目的 GitHub 维护比较少 , 可以在 gitee 上面看
+>
+> https://gitee.com/renrenio/renren-fast
+
+### renren-fast-vue
+
+> renren-fast-vue基于vue、element-ui构建开发，实现 [renren-fast](https://gitee.com/renrenio/renren-fast) 后台管理前端功能，提供一套更优的前端解决方案 , 其实就是 renren-fast 的前后端分离版本
+>
+> https://github.com/renrenio/renren-fast-vue
