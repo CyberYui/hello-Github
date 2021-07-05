@@ -1460,3 +1460,7 @@
 > 相关的主题可以在这里看到
 >
 > https://github.com/JanDeDobbeleer/oh-my-posh/tree/main/themes
+>
+> 期间遇到很多问题 , 参照了这个帖子完成了设置
+>
+> https://blog.csdn.net/weixin_44490152/article/details/113854767
