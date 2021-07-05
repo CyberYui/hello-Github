@@ -1444,3 +1444,9 @@
 > 更纱黑体 , 一个用于编程的字体 , 在控制台和代码区域显示很不错
 >
 > https://github.com/be5invis/Sarasa-Gothic
+
+### iTerm Color Schemes
+
+> 全网最全配色方案 , 可用于多种终端内 , 比如 Windows terminal
+>
+> https://github.com/mbadolato/iTerm2-Color-Schemes
