@@ -1450,3 +1450,13 @@
 > 全网最全配色方案 , 可用于多种终端内 , 比如 Windows terminal
 >
 > https://github.com/mbadolato/iTerm2-Color-Schemes
+
+### oh-my-posh
+
+> WIndows Terminal PowerShell 的终极解决方案 , 能让命令行更加漂亮的主题设置
+>
+> https://github.com/JanDeDobbeleer/oh-my-posh
+>
+> 相关的主题可以在这里看到
+>
+> https://github.com/JanDeDobbeleer/oh-my-posh/tree/main/themes
