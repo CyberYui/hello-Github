@@ -53,6 +53,10 @@
 
 > 没忍住 , 又添加了 repo 了...
 
+#### 2021-7-6
+
+> 前几天GitHub 发布了 Copilot , 会帮你补全代码 , 给你的注释提出建议 , 预测你即将使用的代码组件…如此神奇的 AI 技术 , 简直令人震惊
+
 -------------------------------------------------
 
 ### SlimeFun
@@ -1435,7 +1439,7 @@
 
 ### renren-fast-vue
 
-> renren-fast-vue基于vue、element-ui构建开发，实现 [renren-fast](https://gitee.com/renrenio/renren-fast) 后台管理前端功能，提供一套更优的前端解决方案 , 其实就是 renren-fast 的前后端分离版本
+> renren-fast-vue基于vue , element-ui构建开发，实现 [renren-fast](https://gitee.com/renrenio/renren-fast) 后台管理前端功能，提供一套更优的前端解决方案 , 其实就是 renren-fast 的前后端分离版本
 >
 > https://github.com/renrenio/renren-fast-vue
 
@@ -1470,3 +1474,21 @@
 > 基于 vue.js 2.0 的又一个 UI 框架 , 编码风格就是典型的 vue 风格 , 内容还是挺丰富的 , 只不过有付费版本
 >
 > https://github.com/iview/iview
+
+### Devops Exercises
+
+> Devops-exercises 收录了大量运维 , SRE 人员需要掌握的知识，包括 Linux , Jenkins , AWS , Prometheus , Docker , Python , K8s 在内的 20 多个技术领域的练习
+>
+> https://github.com/bregman-arie/devops-exercises
+
+### How they SRE
+
+> howtheysre 记录了国内外各地的技术团队 , 组织是如何实践站点可靠性工程 ( SRE , 全称 Site Reliability Engineering ), 这些团队包括 Atlassian , 百度 , Google , Netflix 在内的 50+ 公司
+>
+> https://github.com/upgundecha/howtheysre
+
+### Machine Learning for Beginners - A Curriculum
+
+> ML-For-Beginners 是微软开源的机器学习课程 , 你可在 12 周上完他们安排的 24 节机器学习相关课程
+>
+> https://github.com/microsoft/ML-For-Beginners
