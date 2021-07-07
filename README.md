@@ -1492,3 +1492,9 @@
 > ML-For-Beginners 是微软开源的机器学习课程 , 你可在 12 周上完他们安排的 24 节机器学习相关课程
 >
 > https://github.com/microsoft/ML-For-Beginners
+
+### JimuReport
+
+> jeecg 团队的积木报表源码 , 一款免费的数据可视化工具 , 功能可以在线使用 , 但是有的源码是没有的
+>
+> https://github.com/jeecgboot/JimuReport
