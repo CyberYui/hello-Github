@@ -1574,3 +1574,51 @@
 > 使用 SwiftUI 编写 , 先体验它的好 , 再剖析它的妙
 >
 > https://github.com/gao-sun/eul
+
+### Halo
+
+> 一款现代化的个人独立博客系统 , 给习惯写博客的同学多一个选择
+>
+> 项目配有相应的开发文档和部署文档 , 而且有相关的项目端 , 是个不错的部署练手内容
+>
+> https://github.com/halo-dev/halo
+
+### vueblog
+
+>一个基于SpringBoot + Vue开发的前后端分离博客项目 , 带有超级详细开发文档和讲解视频
+>
+>十分适合正在学习 JS 和 Vue , 但是还未接触过vue开发 , 或者前后端分离的同学
+>
+>https://github.com/MarkerHub/vueblog
+
+### N-blog
+
+> 使用 Express + MongoDB 搭建多人博客
+>
+> https://github.com/nswbmw/N-blog
+
+### Typecho
+
+> 用 PHP 编写的博客平台 , 简单且强力的一款博客
+>
+> https://github.com/typecho/typecho
+
+### HelloDjango
+
+> **完全免费 , 开源的 HelloDjango 系列教程之博客开发**
+>
+> 是一个文档十分详细的 Python 编写的博客系统 , 很适合作为 Python 项目入手
+>
+> https://github.com/HelloGitHub-Team/HelloDjango-blog-tutorial
+
+### TrafficMonitor
+
+> 一款用于Windows平台的网速监控悬浮窗软件 , 可以显示当前网速 , CPU及内存利用率 , 支持嵌入到任务栏显示 , 支持更换皮肤 , 历史流量统计等功能
+>
+> https://github.com/zhongyang219/TrafficMonitor
+
+### MoChat
+
+> 一套通用的企业微信管理系统 , 是一个开源的企业微信应用开发框架&引擎
+>
+> https://github.com/mochat-cloud/mochat
