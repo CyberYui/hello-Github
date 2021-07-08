@@ -1379,7 +1379,7 @@
 >
 > 支持 : 
 >
-> 多端编辑查看 , 权限管理 , 文档导出 , Markdown 语法等，功能虽不多但已足够用了
+> 多端编辑查看 , 权限管理 , 文档导出 , Markdown 语法等 , 功能虽不多但已足够用了
 >
 > 推荐自建自用 , 小团队内部使用
 >
@@ -1415,9 +1415,9 @@
 
 ### duf
 
-> 一款查看磁盘空间情况的命令行工具，足以代替 df 命令
+> 一款查看磁盘空间情况的命令行工具 , 足以代替 df 命令
 >
-> 上手简单使用方便，界面简洁且友好同时支持 Linux , macOS 和 Windows
+> 上手简单使用方便 , 界面简洁且友好同时支持 Linux , macOS 和 Windows
 >
 > https://github.com/muesli/duf
 
@@ -1429,7 +1429,7 @@
 
 ### renren-fast
 
-> renren-fast是一个轻量级的Java快速开发平台，能快速开发项目并交付【接私活利器】
+> renren-fast是一个轻量级的Java快速开发平台 , 能快速开发项目并交付【接私活利器】
 >
 > https://github.com/zhaoqicheng/renren-fast
 >
@@ -1439,7 +1439,7 @@
 
 ### renren-fast-vue
 
-> renren-fast-vue基于vue , element-ui构建开发，实现 [renren-fast](https://gitee.com/renrenio/renren-fast) 后台管理前端功能，提供一套更优的前端解决方案 , 其实就是 renren-fast 的前后端分离版本
+> renren-fast-vue基于vue , element-ui构建开发 , 实现 [renren-fast](https://gitee.com/renrenio/renren-fast) 后台管理前端功能 , 提供一套更优的前端解决方案 , 其实就是 renren-fast 的前后端分离版本
 >
 > https://github.com/renrenio/renren-fast-vue
 
@@ -1477,7 +1477,7 @@
 
 ### Devops Exercises
 
-> Devops-exercises 收录了大量运维 , SRE 人员需要掌握的知识，包括 Linux , Jenkins , AWS , Prometheus , Docker , Python , K8s 在内的 20 多个技术领域的练习
+> Devops-exercises 收录了大量运维 , SRE 人员需要掌握的知识 , 包括 Linux , Jenkins , AWS , Prometheus , Docker , Python , K8s 在内的 20 多个技术领域的练习
 >
 > https://github.com/bregman-arie/devops-exercises
 
@@ -1498,3 +1498,79 @@
 > jeecg 团队的积木报表源码 , 一款免费的数据可视化工具 , 功能可以在线使用 , 但是有的源码是没有的
 >
 > https://github.com/jeecgboot/JimuReport
+
+### 小说精品屋-plus (Novel-plus)
+
+> 基于小说精品屋-plus构建的Spring Cloud 微服务小说门户平台 , 是一个不错的 Java 项目
+>
+> 说精品屋-plus是在**小说精品屋**的基础上 , 去除了漫画和弹幕模块 , 专注于小说 , 是一个多端（PC , WAP）阅读 , 功能完善的原创文学CMS系统 , 由前台门户系统 , 作家后台管理系统 , 平台后台管理系统 , 爬虫管理系统等多个子系统构成 , 支持会员充值 , 订阅模式 , 新闻发布和实时统计报表等功能
+>
+> https://github.com/201206030/novel-plus
+>
+> 相关的老项目地址在这里 https://github.com/201206030/fiction_house
+
+### homeland
+
+> 一款开源不限制商用的精致社区/论坛系统 , 开发语言为 Ruby , 由 Ruby China 社区各位大佬们创建的
+>
+> https://github.com/ruby-china/homeland
+
+### File Browser
+
+> 在线文件管理系统 , 用 Go 语言编写的开源项目
+>
+> 安装成功后直接指定目录即可运行起来一个 Web 文件管理系统 , 支持文件浏览 , 生成分享链接 , 批量上传 , 文件夹管理 , 用户系统等功能
+>
+> https://github.com/filebrowser/filebrowser
+
+### HumHub
+
+> 在线开源的社交平台 , 开发语言为 PHP , 真的是厉害
+>
+> 这个项目基于 Yii 2 框架实现 , 包含了社交平台所需的基本功能而且运行简单 , 跑起来后来个二次开发 , 搞一个有特色的社交平台
+>
+> https://github.com/humhub/humhub
+
+### Wiki.js
+
+> 强大且漂亮的开源维基平台 , 它的图标 LOGO 是真的好看 , I了I了
+>
+> 项目采用 Vue.js+Node.js+Git 实现 , 可直接部署用于团队内部多人协作下的写作和知识管理
+>
+> **想要做全栈的小伙伴 , 快拿下这个项目吧** 
+>
+> https://github.com/Requarks/wiki
+
+### explainshell
+
+> 一个用于解析 Linux 命令的网站 , 使用 Python 作为开发语言 , 好家伙语言越来越多了
+>
+> 输入命令就能解析出对应的命令说明和参数解释 , 属于比较新颖的 Web 项目
+>
+> https://github.com/idank/explainshell
+
+### DungeonRush
+
+> 虽然直译过来叫地牢奔跑 , 但是实际上是一个不一样的单机贪吃蛇游戏
+>
+> 该项目适用于 C 语言初学者 , 尝试使用跨平台图形库开发软件的同学
+>
+> 参考本项目可以写出一个可玩性高的游戏 , 收获满满的成就感
+>
+> https://github.com/Rapiz1/DungeonRush
+
+### ChineseChess
+
+> 基于 Qt5 开发的中国象棋网络对战平台 , 项目是用 C++ 编写的
+>
+> 实现了联机 , 单机 , AI 等功能 , 边玩边学吧
+>
+> https://github.com/xmuli/chinessChess
+
+### eul
+
+> 一款极简免费的 macOS 状态监控工具
+>
+> 使用 SwiftUI 编写 , 先体验它的好 , 再剖析它的妙
+>
+> https://github.com/gao-sun/eul
