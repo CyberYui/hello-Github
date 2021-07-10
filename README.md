@@ -1628,3 +1628,9 @@
 > 推荐用的书签库 , 在这里没事可以随便康康
 >
 > https://github.com/PanJiaChen/awesome-bookmarks
+
+### Learn Regex
+
+> 学习正则表达式的项目 , 配有中文版 , 虽然不是很完整但是作为学习很不错
+>
+> https://github.com/ziishaned/learn-regex
