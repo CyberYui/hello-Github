@@ -1622,3 +1622,9 @@
 > 一套通用的企业微信管理系统 , 是一个开源的企业微信应用开发框架&引擎
 >
 > https://github.com/mochat-cloud/mochat
+
+### Awesome-bookmarks
+
+> 推荐用的书签库 , 在这里没事可以随便康康
+>
+> https://github.com/PanJiaChen/awesome-bookmarks
