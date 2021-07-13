@@ -1257,7 +1257,7 @@
 
 ### Naming cheatsheet
 
-> naming-cheatsheet 是一个两年之前的项目 , 这周焕发了新生一周获得了近 5k star。本项目旨在帮你解决命名困难的问题 , 教你如何便捷 , 轻松地进行命名
+> naming-cheatsheet 是一个两年之前的项目 , 这周焕发了新生一周获得了近 5k star , 本项目旨在帮你解决命名困难的问题 , 教你如何便捷 , 轻松地进行命名
 >
 > 命名谨记以下三点 (SID) :  
 >
@@ -1367,7 +1367,7 @@
 >
 > 推荐这个开源项目不是因为它的内容强大 , 而是它的教程写的实在太好了
 >
-> 手把手教你如何使用这个项目 , 做出上述功能来。在每篇功能文章的教程里 , 不仅仅写了每个功能的技术实现方案 , 还有具体重点关键代码的注释和解释以及具体实现 , 让你非常轻松的能够看懂 , 学习和使用
+> 手把手教你如何使用这个项目 , 做出上述功能来 , 在每篇功能文章的教程里 , 不仅仅写了每个功能的技术实现方案 , 还有具体重点关键代码的注释和解释以及具体实现 , 让你非常轻松的能够看懂 , 学习和使用
 >
 > 对于想要入门或者了解机器学习的初学者不能再友好了
 >
@@ -1634,3 +1634,83 @@
 > 学习正则表达式的项目 , 配有中文版 , 虽然不是很完整但是作为学习很不错
 >
 > https://github.com/ziishaned/learn-regex
+
+### Fakeflix
+
+> 如果你想要使用 Redux 构建一个中等复杂度的 Web 应用 , 不妨试试 Fakeflix , 项目作者拿它练手 , 复制了 Netflix 的原有布局 , 并在此基础之上添加了自己的路由和交互动效
+>
+> 所以 Fakeflix 不是传统意义上的复制项目
+>
+> https://github.com/Th3Wall/Fakeflix
+
+### Psyduck
+
+> Psyduck 是一个使用 XMind 记录 Linux 操作系统 , 网络 , C++ , Golang 以及数据库的一些设计的项目
+>
+> 项目作者之前也曾用 XMind 脑图来记录 CS 基础问题
+>
+> 面对一个大问题 , 学会将其分解成一个一个的小问题 , 然后逐一地处理 , 不失为一个好方法
+>
+> https://github.com/SmartKeyerror/Psyduck
+
+### 50 Projects in 50 Days
+
+> 50projects50days 是一个面向前端新手同学的项目 , 它用 50 个涵盖 CSS , HTML , Javascript 相关的练手项目让你在实践中掌握前端技能点
+>
+> https://github.com/bradtraversy/50projects50days
+
+### transfer.sh
+
+> Transfer.sh 是一个命令行文件共享工具 , 支持上传下载 , 加密传输
+>
+> 目前支持 Amazon s3 , Google Driver , Storj 和本地存储等方式
+>
+> https://github.com/dutchcoders/transfer.sh
+
+### Security Scorecards
+
+> Security Scorecards 是正如字面上所说 , 是一个安全健康度检测项目 , 它会根据开源项目近 90 天是否有 commit 来判断项目是否活跃 , 以及项目是否使用工具来自动更新项目依赖版本 , 项目是否有 CI 流程 , 令牌是否有授权等等 18 个方面 , 来判断项目的“安全”健康度
+>
+> 有了这个项目也不用担心自己的项目用到的开源项“年久失修”了
+>
+> https://github.com/ossf/scorecard
+
+### mimikatz
+
+> Mimikatz 是个作者用来练习 C 语言的一个项目 , 它主要针对 Windows 安全问题 , 如作者所说它可以从内存中提取明文密码 , 哈希 , PIN 码和 kerberos 凭据 ( ticket )
+>
+> 此外它还能做哈希传递 , 凭据传递或构建黄金凭证
+>
+> https://github.com/gentilkiwi/mimikatz
+
+### IoT for Beginners - A Curriculum
+
+> IoT-For-Beginners 是微软开源的同其他系列类似的 12 周 24 堂课程的教程
+>
+> 带你入门 IoT 开发
+>
+> https://github.com/microsoft/IoT-For-Beginners
+
+### SigNoz
+
+> SigNoz 可帮助开发人员监控应用以及排除故障问题 , 是 DataDog , NewRelic 等产品的开源替代品 , 特性：
+>
+> - 支持应用 metric 指标 , 例如：P50 , P90 , P99 延迟和错误率 
+> - 应用中最慢的端点 
+> - 精准的请求跟踪 
+> - 根据服务名称 , 延迟 , 错误 , 注释进行筛选 
+> - 统一指标和跟踪 , 你无需在 Prometheus 和 Jaeger 间切换来定位问题
+>
+> https://github.com/SigNoz/signoz
+
+### How they SRE
+
+> howtheysre 记录了国内外各地的技术团队 , 组织是如何实践站点可靠性工程 ( SRE , 全称 Site Reliability Engineering), 这些团队包括 Atlassian , 百度 , Google , Netflix 在内的 50+ 公司
+>
+> https://github.com/upgundecha/howtheysre
+
+### Devops-Exercises
+
+> Devops-exercises 收录了大量运维 , SRE 人员需要掌握的知识 , 包括 Linux , Jenkins , AWS , Prometheus , Docker , Python , K8s 在内的 20 多个技术领域的练习
+>
+> https://github.com/bregman-arie/devops-exercises
