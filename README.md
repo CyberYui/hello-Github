@@ -1720,3 +1720,9 @@
 > Devops-exercises 收录了大量运维 , SRE 人员需要掌握的知识 , 包括 Linux , Jenkins , AWS , Prometheus , Docker , Python , K8s 在内的 20 多个技术领域的练习
 >
 > https://github.com/bregman-arie/devops-exercises
+
+### seafile
+
+> Seafile 是一款优秀的开源企业云盘软件 , 拥有文件版本管理 , 跨平台文件同步和共享等功能 , 可以方便自建一个私有的云存储服务
+>
+> https://github.com/haiwen/seafile
