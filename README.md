@@ -1726,3 +1726,13 @@
 > Seafile 是一款优秀的开源企业云盘软件 , 拥有文件版本管理 , 跨平台文件同步和共享等功能 , 可以方便自建一个私有的云存储服务
 >
 > https://github.com/haiwen/seafile
+
+Julia
+
+> Julia 是一个新的高性能动态高级编程语言 , 它是为了整合各种语言的优点而设定的 , 比 Python 更加快速
+>
+> 语法和其他编程语言类似 , 易于其他语言用户学习 , 顶尖的程序员通常使用 Julia , Go 和 Rust
+>
+> Julia 是一门开源的编程语言 , 它擅长数学和技术任务 , 而 Go 则擅长模块化程序 , Rust 是系统编程的首选 , Julia 也有 Python 无法比拟的优点
+>
+> https://github.com/JuliaLang/julia
