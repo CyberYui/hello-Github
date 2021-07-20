@@ -1736,3 +1736,15 @@ Julia
 > Julia 是一门开源的编程语言 , 它擅长数学和技术任务 , 而 Go 则擅长模块化程序 , Rust 是系统编程的首选 , Julia 也有 Python 无法比拟的优点
 >
 > https://github.com/JuliaLang/julia
+
+### Awesome Mac
+
+> Awesome Mac 收集各种类别非常好用的 Mac 应用程序 , 软件以及工具 , 包括开发者工具 , 设计和产品 , 虚拟机 , 通信 , 数据恢复 , 音视频 , 书签阅读等等 20 多个分类 , 并加上了是否开源 , 是否可在 App Store 下载 , 是否免费等图标
+>
+> https://github.com/jaywcjlove/awesome-mac
+
+### LXGW WenKai
+
+> 一款基于 FONTWORKS 的 Klee One 的开源中文字体
+>
+> https://github.com/lxgw/LxgwWenKai
