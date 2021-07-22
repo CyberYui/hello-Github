@@ -1764,3 +1764,9 @@ Julia
 > 它不仅提供了常见的压测功能 , 还支持格式化结果并输出为图表或动态显示当前结果
 >
 > https://github.com/tsenart/vegeta
+
+### VisualCppRedist AIO
+
+> 微软运行库安装包发行目录 , 可以每过一段时间就来看一下
+>
+> https://github.com/abbodi1406/vcredist
