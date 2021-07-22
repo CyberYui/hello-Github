@@ -1748,3 +1748,19 @@ Julia
 > 一款基于 FONTWORKS 的 Klee One 的开源中文字体
 >
 > https://github.com/lxgw/LxgwWenKai
+
+### DesktopNaotu
+
+> 百度脑图的本地化版本 , 即使没有互联网也能使用它
+>
+> https://github.com/NaoTu/DesktopNaotu
+
+### Vegeta
+
+> 一款用 Go 语言编写的多功能 HTTP(S) 压测工具
+>
+> 安装方便 , 功能齐全 , 使用简单 , 还可作为命令行工具或者开发库进行使用
+>
+> 它不仅提供了常见的压测功能 , 还支持格式化结果并输出为图表或动态显示当前结果
+>
+> https://github.com/tsenart/vegeta
