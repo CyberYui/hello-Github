@@ -1770,3 +1770,9 @@ Julia
 > 微软运行库安装包发行目录 , 可以每过一段时间就来看一下
 >
 > https://github.com/abbodi1406/vcredist
+
+### Xshell-ColorScheme
+
+> Xshell 的配色方案 , 可以自行下载并导入到 xshell 中 , 在 XShell 中点击 <kbd>工具→配色方案</kbd> 可以看到导入导出选项
+>
+> https://github.com/netsarang/Xshell-ColorScheme
