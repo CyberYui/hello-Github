@@ -1782,3 +1782,9 @@ Julia
 > 一个开源的 office 在线查看和编辑工具 , 配有相关的各种文档 , 我收藏的是 docker 的文档
 >
 > https://github.com/ONLYOFFICE
+
+### Nushell
+
+> 基于Rust编写的高效命令行工具 , 创建具有现代感的灵活的跨平台Shell
+>
+> https://github.com/nushell/nushell
