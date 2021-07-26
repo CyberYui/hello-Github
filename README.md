@@ -1788,3 +1788,9 @@ Julia
 > 基于Rust编写的高效命令行工具 , 创建具有现代感的灵活的跨平台Shell
 >
 > https://github.com/nushell/nushell
+
+### Erda
+
+> Erda 是一款基于多云架构的一站式企业数字化平台 , 为企业提供 DevOps , 微服务治理 , 多云管理以及快数据管理等云厂商无绑定的 IT 服务
+>
+> https://github.com/erda-project/erda
