@@ -2110,3 +2110,70 @@ Julia
 >
 > https://github.com/blueedgetechno/windows11
 
+### Nintendo
+
+> 1. 红白机模拟器 , 有不同语言写的不同开源项目 , 统一在这里显示了
+>
+> > C++ : https://github.com/amhndu/SimpleNES
+>
+> > GO : https://github.com/fogleman/nes
+>
+> 此外还有 Nintendo 64 位游戏机的模拟器
+>
+> > C++ : https://github.com/project64/project64
+>
+> 2. **Gameboy** -- 即 GBA 
+>
+>    > Python : https://github.com/Baekalfen/PyBoy
+>
+>    > C : https://github.com/mgba-emu/mgba
+>
+>    > GO : https://github.com/HFO4/gameboy.live
+>
+>    > Java : https://github.com/trekawek/coffee-gb
+>
+>    > Swift : https://github.com/gabrieloc/GIOVANNI
+
+### SEGA
+
+> 世嘉的小霸王模拟器 , 是用 C++ 编写的
+>
+> https://github.com/reicast/reicast-emulator
+
+### Sony
+
+> 索尼 PS 模拟器开源项目
+>
+> > PS1 : 用 C# 写的开源模拟器
+> >
+> > https://github.com/BluestormDNA/ProjectPSX 
+> >
+> > PS1 for Android : https://github.com/stenzek/duckstation
+>
+> > PSP : 用 C C++ 编写的
+> >
+> > https://github.com/hrydgard/ppsspp
+>
+> > PS2 : 用 C++ 写的
+> >
+> > https://github.com/PCSX2/pcsx2
+>
+> > PS3 : 用 C++ 写的
+> >
+> > https://github.com/RPCS3/rpcs3
+
+### Microsoft
+
+> 微软 XBOX 开源项目
+>
+> > Xbox 360 : 用 C++ 写的
+> >
+> > https://github.com/xenia-project/xenia
+
+### Game Opensource
+
+> 收录一些关于游戏的开源项目
+>
+> 1. 集多种游戏机模拟器的开源项目 : OpenEmu 可以在 macOS 上回味童年的项目
+>
+> https://github.com/OpenEmu/OpenEmu
