@@ -2177,3 +2177,61 @@ Julia
 > 1. 集多种游戏机模拟器的开源项目 : OpenEmu 可以在 macOS 上回味童年的项目
 >
 > https://github.com/OpenEmu/OpenEmu
+
+### Modern unix
+
+> 收录常见的 Unix 命令的更快更智能的替代品集合
+>
+> 你可以在 modern-unix 中看到 cat 替代品 bat , ls 替代品 exa 等等的身影
+>
+> https://github.com/ibraheemdev/modern-unix
+
+### mapus
+
+> Mapus 是一种在地图上协作探索和注释的工具 , 用于多端出行方案协同解决
+>
+> 用户可在地图上绘制 , 添加标记 , 线条 , 区域 , 查找要去的地方 , 以及观察其他用户等等
+>
+> https://github.com/alyssaxuu/mapus
+
+### rasa
+
+> Rasa 是一个可用于制作聊天机器人的机器学习框架
+>
+> 主要处理文本和语音 , 它可对会话进行管理 , 以及支持对接 Slack , Facebook 等平台
+>
+> 现阶段支持的对接平台为 :
+>
+> - Facebook Messenger
+> - Slack
+> - Google Hangouts
+> - Webex Teams
+> - Microsoft Bot Framework
+> - Rocket.Chat
+> - Mattermost
+> - Telegram
+> - Twilio
+> - Your own custom conversational channels
+>
+> 语音助手为 :
+>
+> - Alexa Skills
+> - Google Home Actions
+>
+> https://github.com/RasaHQ/rasa
+
+### DSA-Bootcamp-Java
+
+> DSA-Bootcamp-Java 由代码示例 , 作业和完整的数据结构教程 , 以及算法 Java 训练营的课程组成
+>
+> 如果你是一个新手 , 可以尝试用这个课程来学习下 , 当然视频是油管的
+>
+> https://github.com/kunal-kushwaha/DSA-Bootcamp-Java
+
+### Mitmproxy
+
+> Mitmproxy 是个供渗透测试人员和软件开发人员使用的抓包工具
+>
+> 支持 SSL / TLS 代理
+>
+> https://github.com/mitmproxy/mitmproxy
