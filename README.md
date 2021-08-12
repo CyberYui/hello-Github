@@ -2235,3 +2235,9 @@ Julia
 > 支持 SSL / TLS 代理
 >
 > https://github.com/mitmproxy/mitmproxy
+
+### mxGraph
+
+> 一个最近使用颇多的 JS 前端可视化图形框架
+>
+> https://github.com/jgraph/mxgraph
