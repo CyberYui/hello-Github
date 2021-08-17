@@ -1513,7 +1513,7 @@
 
 > 基于小说精品屋-plus构建的Spring Cloud 微服务小说门户平台 , 是一个不错的 Java 项目
 >
-> 说精品屋-plus是在**小说精品屋**的基础上 , 去除了漫画和弹幕模块 , 专注于小说 , 是一个多端（PC , WAP）阅读 , 功能完善的原创文学CMS系统 , 由前台门户系统 , 作家后台管理系统 , 平台后台管理系统 , 爬虫管理系统等多个子系统构成 , 支持会员充值 , 订阅模式 , 新闻发布和实时统计报表等功能
+> 说精品屋-plus是在**小说精品屋**的基础上 , 去除了漫画和弹幕模块 , 专注于小说 , 是一个多端 ( PC , WAP ) 阅读 , 功能完善的原创文学CMS系统 , 由前台门户系统 , 作家后台管理系统 , 平台后台管理系统 , 爬虫管理系统等多个子系统构成 , 支持会员充值 , 订阅模式 , 新闻发布和实时统计报表等功能
 >
 > https://github.com/201206030/novel-plus
 >
@@ -2040,7 +2040,7 @@ Julia
 
 ### CheatSheetSeries
 
-> OWASP（开放式 Web 应用程序安全项目）速查表
+> OWASP ( 开放式 Web 应用程序安全项目 ) 速查表
 >
 > 项目由 OWASP 社区的安全专家编写 , 列举了多种安全问题和解决方案 , 从而更好地保护你的 Web 应用
 >
@@ -2094,7 +2094,7 @@ Julia
 
 ### Tinode Instant Messaging Server ( 聊天 )
 
-> Chat 是个即时通讯软件 , 后端用 Golang , 客户端使用了 Swift（iOS）和 Java（Android）网页端使用了 webapp 
+> Chat 是个即时通讯软件 , 后端用 Golang , 客户端使用了 Swift ( iOS ) 和 Java ( Android ) 网页端使用了 webapp 
 >
 > 如果你想学习如何制作一个聊天软件 , 不妨试试这个移动端 , 网页端 , 桌面端皆有的开源项目
 >
@@ -2104,7 +2104,7 @@ Julia
 
 > windows11 这个开源项目是希望在 Web 上复制 Windows 11 桌面体验
 >
-> 使用 React , CSS（SCSS）和 JS 等技术实现
+> 使用 React , CSS ( SCSS ) 和 JS 等技术实现
 >
 > 在线体验地址 : https://win11.blueedge.me/
 >
@@ -2241,3 +2241,58 @@ Julia
 > 一个最近使用颇多的 JS 前端可视化图形框架
 >
 > https://github.com/jgraph/mxgraph
+
+### 反向面试
+
+> 海外项目 reverse-interview 的译文版 , 主要针对面试中反问面试官时的问题 , 通过这些问题能帮助你快速地了解到具体岗位职责和需要掌握的技术
+>
+> https://github.com/yifeikong/reverse-interview-zh
+
+### Textual
+
+> Textual 是 Python 知名终端美化项目 Rich 的作者开发的终端框架 , 它由 async 提供支持 , 并从 Web 开发中借用了许多技术
+>
+> 你可以用它来构建任何 TUI ( Text User Interface ) 项目 , 颜值一定不会低
+>
+> https://github.com/willmcgugan/textual
+
+### swc
+
+> Swc 是一个用 Rust 编写的超快的 Typescript / Javascript 编译器
+>
+> 同时它也可以作为一个转译库被 Rust 和 JS 直接使用
+>
+> 它罗列了和 Babel 的对比表
+>
+> https://github.com/swc-project/swc
+
+### PlayCover
+
+> 用过 iPhone 和 MacBook 的小伙伴一定体验过有些能安装在 iPhone 上的应用和游戏 , 偏偏不能在 MacBook 上使用
+>
+> PlayCover 便是一个兼容 iOS 应用和游戏的工具 , 目前它只支持 M1 的苹果本 , 对 Intel 的支持还在开发中
+>
+> https://github.com/Letscoder/PlayCover
+
+### localstack
+
+> Localstack 是个功能齐全的本地 AWS 云堆栈 ( Cloud Stack )  , 你可基于它进行离线开发和测试云 , Serviceless 应用程序
+>
+> https://github.com/localstack/localstack
+
+### absurd-sql
+
+> absurd-sql 是一个一定会让你惊叹的一个改造项目 , 它是 sql.js 的后端实现 ( sql.js 是 sqlite 的 Webassembly 版 ) 将 IndexedDB 当作磁盘 , 并以块存储形式将数据存储在 IndexDB 中 , 同时 , 这意味着 sqlite3 数据库被持久化了
+>
+> 你可以在线体验这个服务：https://priceless-keller-d097e5.netlify.app/
+>
+> https://github.com/jlongster/absurd-sql
+
+### MeiliSearch
+
+> MeiliSearch , 同样是用 Rust 写的开源搜索引擎
+>
+> 搜索速度快 , 全文搜索 , 支持汉字 , 容易安装和维护
+>
+> https://github.com/meilisearch/MeiliSearch
+
