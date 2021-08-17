@@ -13,3 +13,15 @@
 > 一个用来看 M1 芯片适配软件情况的网站 , 十分方便
 >
 > https://isapplesiliconready.com/zh
+
+-------------------
+
+#### 下面是我需要整理的书签 , 只是给自己看的
+
+https://blog.csdn.net/zhouzhouruize/article/details/105113522
+
+https://blog.csdn.net/qq_45372125/article/details/107592268
+
+https://blog.csdn.net/zhouzhouruize/article/details/93303980
+
+https://www.jianshu.com/p/9d6e615a3d75
