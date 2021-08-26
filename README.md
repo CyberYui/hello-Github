@@ -2296,3 +2296,61 @@ Julia
 >
 > https://github.com/meilisearch/MeiliSearch
 
+### Realtime-Voice-Clone-Chinese
+
+> AI 拟声工具 , 可以在 5s 内克隆特定声音并生成任意语音的内容 , 此项目 fork 自 CorentinJ/Real-Time-Voice-Cloning , 支持了中文的发音
+>
+> ## 特性
+>
+> 🌍 **中文** 支持普通话并使用多种中文数据集进行测试：adatatang_200zh, magicdata
+>
+> 🤩 **PyTorch** 适用于 pytorch，已在 1.9.0 版本（最新于 2021 年 8 月）中测试，GPU Tesla T4 和 GTX 2060
+>
+> 🌍 **Windows + Linux** 在修复 nits 后在 Windows 操作系统和 linux 操作系统中进行测试
+>
+> 🤩 **Easy & Awesome** 仅使用新训练的合成器（synthesizer）就有良好效果，复用预训练的编码器/声码器
+>
+> https://github.com/babysor/Realtime-Voice-Clone-Chinese
+
+### Image to LaTeX
+
+> Image to LaTeX 能将图片中的公式变成 Latex 格式
+>
+> 如果你不知道这个式子用 Latex 怎么写 , 不妨直接截图 , 上传让 Image to LaTeX 帮你解析成 Latex 代码
+>
+> https://github.com/kingyiusuen/image-to-latex
+
+### Papers We Love
+
+> 读学术论坛是一个了解新技术的一个重要方式
+>
+> Papers We Love ( PWL ) 收录了和 CS 相关的论文 , 你可以在这里找到最新的学术论坛
+>
+> https://github.com/papers-we-love/papers-we-love
+
+### GoKart
+
+> Go Security Static Analysis
+>
+>  Go 语言 静态分析工具 , 使用 SSA ( 单一静态分配 ) 查找你 Go 程序中的漏洞
+>
+> 它能够跟踪变量和函数参数的来源 , 确定输入源是否安全
+>
+> https://github.com/praetorian-inc/gokart
+
+### NvChad
+
+> NvChad 能让你的 neovim cli 像个 IDE 一样兼顾颜值和快速
+>
+> 使用它的配置 , 你也能有个高颜值终端
+>
+> https://github.com/NvChad/NvChad
+
+### Viddy
+
+> Viddy 可用来替代 watch 命令 , 并美化 , 高亮结果 , 此外它还支持搜索功能
+>
+> https://github.com/sachaos/viddy
+
+
+
