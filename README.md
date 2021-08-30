@@ -2705,3 +2705,47 @@ Julia
 > 目前已支持 Linux  , Windows , macOS 多个主流操作系统 , 可安装 Catalina (10.15) , Mojave (10.14) 和 High Sierra (10.13) 等多个不同版本的苹果系统
 >
 > https://github.com/myspaghetti/macos-virtualbox
+
+### canvas-special
+
+> 经典的 Canvas 实例集合。包括五子棋、坦克大战、动态背景、动画粒子特效等
+>
+> https://github.com/bxm0927/canvas-special
+
+### brave-browser
+
+> 快速 , 干净 , 开源的网页浏览器
+>
+> 由 JavaScript 的创造者布兰登·艾克基于 Chromium 网页浏览器和 Blink 排版引擎构建 , 拥有阻止网站追踪的特点并且内置了广告拦截器
+>
+> 支持 Android , Linux , macOS , iOS , Windows 操作系统
+>
+> https://github.com/brave/brave-browser
+
+### LearnOpenGL
+
+> LearnOpenGL 教程的中文翻译
+>
+> OpenGL 是一个图形 API , 包含了一系列可以操作图形 , 图像的函数
+>
+> https://github.com/LearnOpenGL-CN/LearnOpenGL-CN
+
+### Learn-Web-Hacking
+
+> Web 安全学习笔记
+>
+> https://github.com/LyleMi/Learn-Web-Hacking
+
+### chineseocr_lite
+
+> 轻量级中文 OCR 项目
+>
+> 提供将图片上的中文转成字符串的功能
+>
+> https://github.com/DayBreak-u/chineseocr_lite
+
+### ASRT_SpeechRecognition
+
+> 基于深度学习的中文语音识别系统
+>
+> https://github.com/nl8590687/ASRT_SpeechRecognition
