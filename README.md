@@ -205,6 +205,8 @@
 
 > Spring Boot 的相关文章 , 有教程也有相关代码
 >
+> [PS] 这个自己看了看有点没看太懂
+>
 > https://github.com/fishpro/spring-boot-study
 
 ### QuickLook
@@ -2352,5 +2354,70 @@ Julia
 >
 > https://github.com/sachaos/viddy
 
+### spring-boot-examples
 
+> Spring Boot 的常用模块及其他内容的相关教程和技术栈的示例代码 , 快速简单容易上手
+>
+> https://github.com/ityouknow/spring-boot-examples
 
+### spring-boot
+
+> Spring 的官方 Git 库
+>
+> https://github.com/spring-projects/spring-boot
+
+### SpringBoot-labs
+
+> 一个涵盖了现阶段 Spring 相关技术栈的整体项目 , 用来学习 Spring boot 很不错
+>
+> https://github.com/YunaiV/SpringBoot-Labs
+
+### spring-boot-demo
+
+> 成功集成以下模块的 Spring-Boot 案例:
+>
+> actuator(监控)
+>
+> admin(可视化监控)
+>
+> logback(日志)
+>
+> aopLog(通过AOP记录web请求日志)
+>
+> 统一异常处理(json级别和页面级别)
+>
+> freemarker(模板引擎)
+>
+> thymeleaf(模板引擎)
+>
+> Beetl(模板引擎)
+>
+> Enjoy(模板引擎)
+>
+> JdbcTemplate(通用JDBC操作数据库)
+>
+> JPA(强大的ORM框架)
+>
+> mybatis(强大的ORM框架)
+>
+> 通用Mapper(快速操作Mybatis)
+>
+> PageHelper(通用的Mybatis分页插件)
+>
+> mybatis-plus(快速操作Mybatis)
+>
+> BeetlSQL(强大的ORM框架)
+>
+> upload(本地文件上传和七牛云文件上传)
+>
+> redis(缓存)
+>
+> ehcache(缓存)
+>
+> https://github.com/xkcoding/spring-boot-demo
+
+### SpringAll
+
+> Spring Boot 的又一个学习系列
+>
+> https://github.com/wuyouzhuguli/SpringAll
