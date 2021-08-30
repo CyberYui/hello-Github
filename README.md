@@ -2421,3 +2421,287 @@ Julia
 > Spring Boot 的又一个学习系列
 >
 > https://github.com/wuyouzhuguli/SpringAll
+
+### cpufetch
+
+> 获取 CPU 信息的命令行工具 , 由 C 语言编写
+>
+> https://github.com/Dr-Noob/cpufetch
+
+### AduSkin
+
+> 一款简约漂亮的 WPF UI 库 , 可供学者参考和使用
+>
+> [PS] 所谓的 WPF UI , 指的是用来创建桌面客户端应用程序的 UI 框架
+>
+> https://github.com/aduskin/AduSkin
+
+### simdjson
+
+> 每秒可解析千兆字节的高性能 JSON 解析库
+>
+> https://github.com/simdjson/simdjson
+
+### devices.css
+
+> 仅用 CSS 实现手机和平板设备的平面模型
+>
+> 机型包含 iPhone , Android , Lumia 和 iPad
+>
+> https://github.com/marvelapp/devices.css
+
+### lindb
+
+> 可水平拓展 , 高性能的分布式时序数据库 , 通过 GO 语言编写
+>
+> 支持海量数据存储以及快速并行查询和计算
+>
+> 已在饿了么内部使用 , 存储了全量的监控数据
+>
+> 每天增量写入 TB 量级 , 共计 PB 级的数据
+>
+> https://github.com/lindb/lindb
+
+### learning_tools (GO)
+
+> Go 代码集合
+>
+> 包含了 Go 语言实用三方库 , 微服务 , 数据库 , 算法等代码片段
+>
+> 虽然内容丰富但缺少分类和梳理
+>
+> 就算这样还是要推荐给寻找 Go 进阶之路的小伙伴 , 因为内容真的很好
+>
+> https://github.com/hwholiday/learning_tools
+
+### Sharingan
+
+> 基于 Go 的流量 录制/回放 工具
+>
+> 实现在不影响线上服务的前提下 , 线下采用线上的真实请求和参数进行测试
+>
+> 特别适合线上重要服务重构后的回归测试 , 真实流量的测试有助于提早发现问题 , 避免重大事故
+>
+> https://github.com/didi/sharingan
+
+### gocron
+
+> 基于 Go 语言实现的轻量级定时任务管理平台 , 功能：
+>
+> - Web 管理界面
+> - 定时任务可精确到秒
+> - 任务失败可重试 , 超时强制停止
+> - 账户权限控制
+>
+> https://github.com/ouqiang/gocron
+
+### sealos
+
+> 一条命令即可快速部署 Kubernetes(k8s) 集群的工具
+>
+> 3min装完 , 700M , 100年证书 , 生产环境稳如老狗
+>
+> https://github.com/fanux/sealos
+
+### Android-skin-support
+
+> 方便好用的 Android 换肤框架
+>
+> https://github.com/ximsfei/Android-skin-support
+
+### Lettuce - Advanced Java Redis client
+
+> 线程安全的高级 Java Redis 客户端
+>
+> 基于 Netty 实现了非阻塞 I/O , 支持同步 , 异步 , 集群 , 哨兵 , 管道等功能
+>
+> https://github.com/lettuce-io/lettuce-core
+
+### didact (JavaScript)
+
+> 教你从零写一个 React 框架
+>
+> 通过一系列的文章和代码 , 教授如何实现 React 框架 , 从而能够更好的理解 React 内部原理
+>
+> https://github.com/pomber/didact
+
+### iDataV
+
+> 大屏数据可视化项目集合
+>
+> https://github.com/yyhsong/iDataV
+
+### milkdown
+
+> 一款清爽见即所得的 Markdown 编辑器
+>
+> 不同于大多数 Markdown 编辑器它是插件驱动的 , 类似开源可自由扩展的 Typora
+>
+> 项目由 prosemirror+remark 构建 , 入门开发者从中可以学习到如何使用 prosemirror 来开发富文本编辑器 , 以及如何设计一个针对编辑器的插件系统
+>
+> https://github.com/Saul-Mirone/milkdown
+
+### flat
+
+> 前后端完全开源 , 功能丰富的在线教室项目
+>
+> 通过它可以快速完成支持多人视频 , 语音 , 白板互动 , 录制回放等功能的在线教室
+>
+> https://github.com/netless-io/flat
+
+### react-beautiful-dnd
+
+> 漂亮易用的 React 列表拖拽库
+>
+> https://github.com/atlassian/react-beautiful-dnd
+
+### icon-workshop
+
+> 图标工场 - 移动应用图标生成工具
+>
+> 能够一键生成多种尺寸的 iOS/Android 应用图标和 APP 启动图
+>
+> https://github.com/zhanghuanchong/icon-workshop
+
+### moviepy
+
+> 用于处理视频的 Python 库
+>
+> 支持视频剪辑 , 自定义效果 , 视频合成 , 格式转化 , 插入文字等功能
+>
+> 专于注视频但不局限于此 , 还支持处理音频和 GIF 图片
+>
+> 虽然现在视频剪辑的工具很丰富 , 但如果要批量处理视频 , 用 Python+moviepy 写个脚本应该可以一劳永逸 , 节省时间
+>
+> https://github.com/Zulko/moviepy
+
+### weiboSpider
+
+> Python 写的微博爬虫 , 命令行直接启动
+>
+> 支持获取微博用户 , 内容字段丰富
+>
+> 虽然爬虫的实战项目很多 , 但能一直更新的很少 , 因为只要数据源变动爬虫就要跟进迭代
+>
+> 这个项目更新稳定回复问题及时实属不易 , 希望大家在享受项目带来的便利同时也可以 Star 支持一下
+>
+> ```python
+> # 安装
+> $ git clone https://github.com/dataabc/weiboSpider.git
+> $ cd weiboSpider
+> $ pip install -r requirements.txt
+> # 启动
+> $ python3 -m weibo_spider
+> ```
+>
+> https://github.com/dataabc/weiboSpider
+
+### pyinstrument
+
+> 简单易用的 Python 代码性能分析库 , 优化 Python 代码的工具
+>
+> 支持 Python 3.7+ 能够分析异步代码 , 仅需一条命令即可显示具体到函数的耗时 , 快速指出影响代码性能的地方 , 帮助提高代码性能让你的代码快人一步
+>
+> ```python
+> # 命令模式
+> Usage: pyinstrument [options] scriptfile [arg] ...
+> # 代码片段模式
+> from pyinstrument import Profiler
+> 
+> profiler = Profiler()
+> profiler.start()
+> # 要分析的代码
+> profiler.stop()
+> 
+> profiler.print()
+> # 还支持 flask 等 Web 框架
+> ```
+>
+> https://github.com/joerick/pyinstrument
+
+### termpair (Python)
+
+> 浏览器远程+实时操作命令行的工具
+>
+> 让开发者安全实时的共享终端 , 特别适合服务器非桌面系统的环境
+>
+> 有了它下次再遇到问题 , 求助大佬远程协助就方便多了
+>
+> ```python
+> # 安装
+> pip install termpair
+> # 起服务
+> termpair serve
+> # 生成远程控制终端的链接
+> termpair share
+> ```
+>
+> https://github.com/cs01/termpair
+
+### ray
+
+> 基于 Python 的分布式计算框架 , 采用动态图计算模型
+>
+> 使用起来很方便可通过装饰器的方式 , 仅需修改极少的的代码 , 让原本运行在单机的 Python 代码轻松实现分布式计算
+>
+> 目前多用于机器学习方面
+>
+> https://github.com/ray-project/ray
+
+### toydb
+
+> Rust 写的分布式 SQL 数据库实战项目
+>
+> 作为一个学习项目并不适合于生产环境 , 但通过该项目你可以学习如何用 Rust 实现 Raft 协议 , 符合 ACID 的事物引擎 , SQL 解析 , 数据持久化等
+>
+> 适合对数据库底层运作原理感兴趣的小伙伴
+>
+> https://github.com/erikgrinaker/toydb
+
+### NetNewsWire
+
+> 适用于 macOS 和 iOS 的 RSS 阅读器
+>
+> https://github.com/Ranchero-Software/NetNewsWire
+
+### insomnia
+
+> 基于 Electron 支持 GraphQL , REST , gRPC 的调试工具 , 请求网络接口的桌面应用
+>
+> 不仅有简约漂亮的界面 , 还支持 Windows , Linux , macOS 主流操作系统
+>
+> https://github.com/Kong/insomnia
+
+### keframe
+
+> Flutter 流畅度优化组件
+>
+> 通过分帧渲染解决由于构建导致的卡顿问题 , 适用于复杂列表或者页面切换的场景
+>
+> https://github.com/LianjiaTech/keframe
+
+### authpass
+
+> 基于 Flutter 开发的适用于所有平台的密码管理器
+>
+> 可通过 Dropbox 等云服务同步数据 , 支持自动填充密码
+>
+> https://github.com/authpass/authpass
+
+### Unity3DTraining
+
+> Unity 游戏开发练习项目集合
+>
+> 包含仿写泡泡龙 , 跑酷 , 切水果等游戏的源码 , 还有作者收集的游戏效果源码和相关文章
+>
+> https://github.com/XINCGer/Unity3DTraining
+
+### macos-virtualbox
+
+> 帮你在 VirtualBox 上安装 macOS 操作系统的工具
+>
+> 这个工具是一个 Bash 脚本 , 运行后只需要按回车即可完成安装
+>
+> 目前已支持 Linux  , Windows , macOS 多个主流操作系统 , 可安装 Catalina (10.15) , Mojave (10.14) 和 High Sierra (10.13) 等多个不同版本的苹果系统
+>
+> https://github.com/myspaghetti/macos-virtualbox
