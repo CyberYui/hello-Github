@@ -2749,3 +2749,10 @@ Julia
 > 基于深度学习的中文语音识别系统
 >
 > https://github.com/nl8590687/ASRT_SpeechRecognition
+
+### UidGenerator
+
+> UidGenerator是Java实现的 , 基于[Snowflake](https://github.com/twitter/snowflake)算法的唯一ID生成器
+>
+> https://github.com/baidu/uid-generator
+
