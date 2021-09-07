@@ -2798,7 +2798,11 @@ Julia
 >
 > https://github.com/LeekHub/leek-fund
 
+### Office Tool Plus
 
+> 用来安装 Office 软件的小工具 , 官网为 https://otp.landian.vip/zh-cn/
+>
+> https://github.com/YerongAI/Office-Tool
 
 
 
