@@ -2756,3 +2756,49 @@ Julia
 >
 > https://github.com/baidu/uid-generator
 
+### faker2
+
+> 收集全网目前能正常使用的脚本 , 包括但不限于懒人签到 , 积分换话费等
+>
+> https://github.com/shufflewzc/faker2
+
+### Folly
+
+> FaceBook 开源的基于 C++14 的库 , 作为 C++14 标准库的补充
+>
+> https://github.com/facebook/folly
+
+### lkmpg ( The Linux Kernel Module Programming Guide )
+
+> 基于 5.x 的 Linux 内核编程指南 , 也可以直接访问 https://sysprog21.github.io/lkmpg/ 来阅读本书
+>
+> https://github.com/sysprog21/lkmpg
+
+### kubescape
+
+> 第一个 K8s 部署检测工具 , 它能检测你的 K8s 是否如 NSA , CISA 在 Kubernetes Hardening Guidance 中规定那样安全部署
+>
+> https://github.com/armosec/kubescape
+
+### vscode-drawio
+
+> 可以实现在 VS Code 中画流程图
+>
+> https://github.com/hediet/vscode-drawio
+
+### vscode-leetcode
+
+> 上班摸鱼的同时还要继续提升自我来刷题的 vscode-leetcode
+>
+> https://github.com/LeetCode-OpenSource/vscode-leetcode
+
+### leek-fund
+
+> 从一颗“小韭菜”实现财富自由的「韭菜盒子」leek-fund , 即在 vscode 中查看股票等内容
+>
+> https://github.com/LeekHub/leek-fund
+
+
+
+
+
