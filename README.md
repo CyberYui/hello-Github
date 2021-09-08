@@ -2804,5 +2804,51 @@ Julia
 >
 > https://github.com/YerongAI/Office-Tool
 
+### lifeRestart
 
+> 人生重开模拟器 , 就是一个多分支内容的文字游戏
+>
+> https://github.com/VickScarlet/lifeRestart
+
+### x11docker
+
+> X11docker 是一个可在 Docker 容器中运行 GUI 应用或者 Linux , macOS 桌面的工具库
+>
+> - 安全
+> - 低依赖性
+> - 可选功能，如支持 GPU、声音、网络摄像头和打印机。
+> - 可用 SSH、VNC 或 HTML5 进行远程访问。
+> - 易用
+>
+> https://github.com/mviereck/x11docker
+
+### podman
+
+> Podman ( POD 管理器 ) 是一个用于管理容器和镜像 , 挂载到容器中的卷以及由一组容器组成的 POD 的工具
+>
+> https://github.com/containers/podman
+
+### GFPGAN
+
+> GFPGAN 是腾讯开源的人脸修复算法
+>
+> 它利用丰富和多样的先验封装在预先训练的面部 GAN ( 如 StyleGAN2 ) 盲脸部复原
+>
+> https://github.com/TencentARC/GFPGAN
+
+### prettymaps
+
+> 由 Python 编写的将 OpenStreetMap 数据绘制漂亮的地图的工具
+>
+> 项目基于 osmnx , matplotlib 和 shape 库
+>
+> https://github.com/marceloprates/prettymaps
+
+### termdbms
+
+> 用 Go 语言编写的用于查看和（最终）编辑数据库的 TUI ( Terminal User Interface )
+>
+> 目前只支持 SQLite , MySQL 的支持在规划中
+>
+> https://github.com/mathaou/termdbms
 
