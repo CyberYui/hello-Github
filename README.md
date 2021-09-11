@@ -2852,3 +2852,14 @@ Julia
 >
 > https://github.com/mathaou/termdbms
 
+### dev-sidecar
+
+> 开发者边车 , 包含一些好用的小工具
+>
+> 1. **dns优选** 
+> 2. **请求拦截**
+> 3. **github加速**
+> 4. **Stack Overflow**
+> 5. **npm加速**
+>
+> https://github.com/docmirror/dev-sidecar
