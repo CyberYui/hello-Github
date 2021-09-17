@@ -2863,3 +2863,9 @@ Julia
 > 5. **npm加速**
 >
 > https://github.com/docmirror/dev-sidecar
+
+### HEU_KMS_Activator
+
+> 用于激活 windows 全版本以及 office 全版本的工具
+>
+> https://github.com/zbezj/HEU_KMS_Activator
