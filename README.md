@@ -2876,3 +2876,11 @@ Julia
 >
 > https://github.com/Chuyu-Team/Dism-Multi-language
 
+### NVM for Windows
+
+> nvm , 全名 node.js version management , 顾名思义是一个nodejs的版本管理工具
+>
+> 通过它可以安装和切换不同版本的nodejs
+>
+> https://github.com/coreybutler/nvm-windows
+
