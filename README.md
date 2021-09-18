@@ -2869,3 +2869,10 @@ Julia
 > 用于激活 windows 全版本以及 office 全版本的工具
 >
 > https://github.com/zbezj/HEU_KMS_Activator
+
+### Dism ++
+
+> 小白也能轻松上手的 Windows 系统优化工具
+>
+> https://github.com/Chuyu-Team/Dism-Multi-language
+
