@@ -2884,3 +2884,8 @@ Julia
 >
 > https://github.com/coreybutler/nvm-windows
 
+### EverythingToolbar
+
+> 让 Everything 替代电脑自身的搜索的工具 , 从而使电脑可以停掉搜索服务
+>
+> https://github.com/stnkl/EverythingToolbar
