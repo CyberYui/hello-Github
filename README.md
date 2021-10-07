@@ -3449,3 +3449,12 @@ Julia
 >
 > https://github.com/7eu7d7/genshin_auto_fish
 
+### PicGo
+
+> 一个用于快速上传图片并获取图片 URL 链接的工具 , 可以连接多种云平台 , 很方便
+>
+> 官网是 https://molunerfinn.com/PicGo/
+>
+> 除此以外 , 还允许开发插件进行使用
+>
+> https://github.com/Molunerfinn/PicGo
