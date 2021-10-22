@@ -3466,3 +3466,9 @@ Julia
 > 捏起手指就可以变成画笔 , 清空画布也只需握拳就能办到
 >
 > https://github.com/handtracking-io/yoha
+
+### books
+
+> 整理了各种关于计算机学习的书籍 PDF 文件 , 包括但不限于中文书籍
+>
+> https://github.com/ossaw/books
