@@ -4308,3 +4308,64 @@ Julia
 > 全方位帮你调参 , 自动找到最优参数
 >
 > https://github.com/optuna/optuna
+
+### PD Runner
+
+> 一个用来启动苹果电脑上所有安装的虚拟机 , 并运行在本地环境中
+>
+> 我们知道 Parallels Desktop 是款运行在 macOS 上的虚拟机软件 , PD Runner 就是一个类似的启动器
+>
+> 但是现在项目由于被奸商拿去编译转售 , 现在不开放源码了
+>
+> https://github.com/lihaoyun6/PD-Runner
+
+### ControlFlag
+
+> ControlFlag 是 Intel 实验室开源的代码 bug 检测工具 , 可以帮助我们检测代码中是否存在 bug
+>
+> 它是通过挖掘开源项目中的典型模式来判断代码是否有异常的
+>
+> https://mp.weixin.qq.com/s/sgJHqqt3EctWnsuSm8JWag
+
+### Notifire
+
+> Notifire 提供 API 供你来管理多种事务通知 , 例如 : 邮件通知 , 短信通知 , 消息推送
+>
+> 它具有以下特点 : 
+>
+> - 一个 API 可管理所有通知信息
+> - 配备模版引擎 , 用于进阶使用 ( 布局和设计 )
+> - 易用 , 方便集成
+> - 用 TS 可预测静态类型写入
+>
+> https://github.com/notifirehq/notifire
+
+### Zphisher
+
+> Zphisher 是个新手友好的学习安全的项目
+>
+> 它提供了 30+ 网络钓鱼页面模版 , 用它可以部署一个或者多个钓鱼网站
+>
+> 进而了解到网络钓鱼工具的工作原理
+>
+> 友情提醒 : 尝试该项目存在一定的风险
+>
+> https://github.com/htr-tech/zphisher
+
+### simdjson
+
+> 网上 JSON 无所不在 , 服务器要花很多时间来解析这些 JSON 文件
+>
+> simdjson 是一个 JSON 处理器 , 它每秒能解析 GB 的 JSON 数据
+>
+> 官方也给出了相关测试数据 : 6 GB/s 压缩 JSON , 13 GB/s 校验 UTF-8 , 3.5 GB/s 校验 NDJSON
+>
+> https://github.com/simdjson/simdjson
+
+### Designing Data-Intensive Applications
+
+> *Designing Data-Intensive Applications* 的中文翻译
+>
+> 简称 DDIA , 是本深入浅出讲解数据系统设计的书籍 , 它讲述概念时主要讲解来龙去脉而非强调定义
+>
+> https://github.com/Vonng/ddia
