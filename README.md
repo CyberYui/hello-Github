@@ -4369,3 +4369,13 @@ Julia
 > 简称 DDIA , 是本深入浅出讲解数据系统设计的书籍 , 它讲述概念时主要讲解来龙去脉而非强调定义
 >
 > https://github.com/Vonng/ddia
+
+### OpenArk
+
+> OpenArk是一款Windows平台上的开源Ark工具
+>
+> Ark是Anti-Rootkit ( 对抗恶意程序 ) 的简写
+>
+> OpenArk目标成为逆向工程师 , 编程人员的工具 , 同时也能为那些希望清理恶意软件的用户服务
+>
+> https://github.com/BlackINT3/OpenArk
