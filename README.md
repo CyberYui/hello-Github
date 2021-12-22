@@ -71,7 +71,7 @@
 
 > 根本赶不上公众号大佬们的推送速度 , 最近换了份工作 , 正在抓紧理解业务流程
 >
-> 现在简单查阅到了 11月29日 的更新推文 , 这条记录只是给自己提个醒
+> 现在简单查阅到了 12月13日 的更新推文 , 这条记录只是给自己提个醒
 
 -------------------------------------------------
 
@@ -4863,3 +4863,101 @@ Julia
 > 采用的是神经风格迁移 + 生成对抗网络 ( GAN ) 的组合 , 转换速度快
 >
 > https://github.com/TachibanaYoshino/AnimeGANv2
+
+### patterns-of-distributed-systems
+
+> 《分布式系统模式》开源文章集
+>
+> 是 Unmesh Joshi 编写的一系列关于分布式系统实现的文章
+>
+> 这个系列的文章采用模式的格式 , 介绍了像 Kafka , Zookeeper 这种分布式系统在实现过程采用的通用模式
+>
+> 是学习分布式系统实现的基础
+>
+> https://github.com/dreamhead/patterns-of-distributed-systems
+
+### Filament
+
+> Filament 是一个实时的基于物理的渲染引擎 ( PBR ) 
+>
+> 适用于 Android , iOS , Windows , Linux , macOS 和 WebGL2
+>
+> 作为一个相对“历史悠久”的渲染工具 , Filament 的文档非常详细 , 你可以从官方的 GitHub 仓库中阅读文档或者是访问文档站 https://google.github.io/filament/
+>
+> https://github.com/google/filament
+
+### Scientific Visualization : Python + Matplotlib
+
+> scientific-visualization-boo 是 Python + Matplotlib 实现数据可视化的开源书籍
+>
+> 通过本书你可以学到各式各样的可视化数据呈现效果
+>
+> https://github.com/rougier/scientific-visualization-book
+
+### tldraw
+
+> tldraw 是一个能让你画出手绘风的绘图工具 , 它还能识别笔重 , 根据你的鼠标压力呈现不一样的笔触
+>
+> 当然你也可以基于它绘制流程图
+>
+> tldraw 除了常规的桌面 App 之外 , 只支持网页端绘图 , 以及它有对应的 VS Code 扩展可在 VS Code 中绘图
+>
+> https://github.com/tldraw/tldraw
+
+### CasaOS
+
+> CasaOS 是一个基于 Docker 生态系统的开源家庭云系统
+>
+> 系统专为家庭场景设计 , 致力于打造世界上最简单 , 易用 , 优雅的家庭云系统
+>
+> 它兼容树莓派和 x86 设备
+>
+> https://github.com/IceWhaleTech/CasaOS
+
+### QOI
+
+> qoi 是个算法复杂度为 O(n) 的图片压缩工具
+>
+> 它可以将 RGB 和 RGBA 图像无损地压缩为与 PNG 格式大小
+>
+> https://github.com/phoboslab/qoi
+
+### snarkOS
+
+> SnarkOS 是隐私技术公司 Aleo 开源的用于私有 Web 应用程序的去中心化操作系统
+>
+> 该系统的推荐配置比较偏向服务器 , 可以看一下 , 但实际并没必要去运行它
+>
+> https://github.com/AleoHQ/snarkOS
+
+### SwiftPamphletApp
+
+> SwiftPamphletApp 是一个 Swift 使用手册 , 同样也是一个用来学习 Swift 源码如何实现一个 App 的项目
+>
+> 它面向 Swift 零基础的同学 , 内容主要是一些直接可用的小例子
+>
+> 例子可以直接在工程中用或自己调试着看 , “ 与其讲一堆 , 不如调着试” 
+>
+> https://github.com/ming1016/SwiftPamphletApp
+
+### REKCARC-TSC-UHT
+
+> REKCARC-TSC-UHT 收录了一名清华 CS 学子四年必修的几门课程
+>
+> 除了专业课之外还有线代 , 微积分 , 统计等辅助课程
+>
+> https://github.com/PKUanonym/REKCARC-TSC-UHT
+
+### Zinc
+
+> Zinc 是一个提供全文索引的搜索引擎
+>
+> 说到全文索引自然会提到 ElasticSearch , 正如它 Profile 中写的那样
+>
+> Zinc 是 ES 轻量级替代方案 , 运行时的 RAM 小于 100 MB
+>
+> 以 bluge 作为基础索引库
+>
+> 如果你并非 ES 重度使用用户不妨试试 zinc
+>
+> https://github.com/prabhatsharma/zinc
