@@ -4961,3 +4961,179 @@ Julia
 > 如果你并非 ES 重度使用用户不妨试试 zinc
 >
 > https://github.com/prabhatsharma/zinc
+
+### JNDI-Injection-Exploit
+
+> JNDI-Injection-Exploit 并非是一个新项目 , 它是一个可用于 Fastjson , Jackson 等相关漏洞的验证的工具 , 作为 JNDI 注入利用工具 , 它能生成 JNDI 链接并启动后端相关服务进而检测系统
+>
+> https://github.com/welk1n/JNDI-Injection-Exploit
+
+### The Legend of Zelda : Ocarina of Time
+
+> oot 是一个反编译游戏塞尔达传说·时之笛的项目 , 目前项目处于半成品状态
+>
+> 项目从 scratch 中重新构建代码 , 并用游戏中发现的信息以及静态 , 动态分析
+>
+> 如果你想通过这个项目了解反编译知识 , 建议先保存好个人的塞尔代资产
+>
+> https://github.com/zeldaret/oot
+
+### Tabby
+
+> Tabby ( 曾叫 Terminus ) 是一个可配置 , 自定义程度高的终端模拟器 , SSH 和串行客户端
+>
+> 适用于 Windows , macOS 和 Linux
+>
+> 它是一种替代 Windows 标准终端 conhost , PowerShell ISE , PuTTY , macOS terminal 的存在
+>
+> 但它不是新的 shell 也不是 MinGW 和 Cygwin 的替代品
+>
+> 此外 , 它并非一个轻量级工具 , 如果你注重内存 , 可以考虑 Conemu 或 Alacritty
+>
+> https://github.com/Eugeny/tabby
+
+### WantWords
+
+> WantWords 是清华大学计算机系自然语言处理实验室 ( THUNLP ) 开源的反向字词查询工具
+>
+> 反向词典并非是查询反义词的词典 , 而是基于目前网络词广泛使用导致部分场景下
+>
+> 我们表达某个意思未能找到精准的用词 , 所以它可以让你通过想要表达的意思来找寻符合语境的词汇
+>
+> 你可以在线体验反向词典：https://wantwords.thunlp.org/ 
+>
+> https://github.com/thunlp/WantWords
+
+### perf-book
+
+> 《现代 CPU 的性能分析和调优》开源书籍
+>
+> 你可以通过 `python.exe export_book.py && pdflatex book.tex && bibtex book && pdflatex book.tex && pdflatex book.tex` 命令导出 pdf
+>
+> https://github.com/dendibakh/perf-book
+
+### Monoio
+
+> Monoio 是字节开源基于 io-uring 的 thread-per-core 模型高性能 Rust Runtime
+>
+> 旨在为高性能网络中间件等场景提供必要的运行时
+>
+> https://github.com/bytedance/monoio
+
+### RedisJSON
+
+> RedisJSON 是一个 Redis 模块
+>
+> 它实现了将 JSON ECMA-404 标准作为 Redis 原生数据类型
+>
+> 允许从 Redis Key ( 文档 ) 中存储 , 更新和获取 JSON 值
+>
+> https://github.com/RedisJSON/RedisJSON
+
+### Turborepo
+
+> Turborepo 是一个快速的构建系统 , 适用于 JavaScript/TypeScript 单库
+>
+> 这些单库包含多个项目的代码库 , 且在代码库中通常用多个框架 , 特性 :
+>
+> - 增量构建
+> - 内容感知 Hash
+> - 云缓存
+> - 并行执行
+> - 运行时零开销
+> - 任务管道
+> - 精简子集
+> - 约定配置
+> - 浏览器生成配置文件 , 可在 Chrome 或 Edge 了解哪些任务花费最长
+>
+> https://github.com/vercel/turborepo
+
+### space-shooter.c
+
+> space-shooter.c 这是一款跨平台 2D 空间射击游戏 , 使用 C 语言系统库编写
+>
+> https://github.com/tsherif/space-shooter.c
+
+### DooTask
+
+> DooTask 是一款轻量级的开源在线项目任务管理工具
+>
+> 提供各类文档协作工具 , 在线思维导图 , 在线流程图 , 项目管理 , 任务分发 , 即时 IM , 文件管理等工具
+>
+> https://github.com/kuaifan/dootask
+
+### mold
+
+> Mold 是现代链接器 ( Linker ) , Unix 链接器的替代品
+>
+> 它比 LLVM lld 链接器快好几倍 , 而 LLVM lld 链接器是作者早些年写的
+>
+> 下图为 GNU gold , LLVM lld , mold 性能图
+>
+> https://github.com/rui314/mold
+
+### grype
+
+> grype 是扫描容器安全性的工具供应商 Anchore 开源的容器映像和文件系统的漏洞扫描器
+>
+> 支持常见 Linux 发行版诸如 CentOS , Debian , 也支持多语言 , 例如 : Ruby , Java , JavaScript ... 
+>
+> https://github.com/anchore/grype
+
+### Real-Time-Rendering-4th-Bibliography-Collection
+
+> 《Real-Time Rendering 4th》( RTR4 ) 参考文献合集典藏
+>
+> 目前已收录超过 2000 份的 《Real-Time Rendering 4th》( RTR4 ) 参考文献
+>
+> https://github.com/QianMo/Real-Time-Rendering-4th-Bibliography-Collection
+
+### Wesnoth
+
+> 韦诺之战游戏的 C++ 源码 , 一款免费开源的回合制策略游戏
+>
+> 背景是为夺回韦诺的王位而战 , 游戏支持中文 , 包含丰富的地图 , 超多兵种和种族
+>
+> 玩法多样高自由度 , 还支持玩家 DIY 地图以及线上多人战役
+>
+> 但缺点是攻击的命中概率出奇的低 , 容易导致血压上升
+>
+> 很多玩家吐槽：”别的游戏要钱 , 这个游戏要命” 
+>
+> 会 C++ 的大神快来修改下参数 , 救救孩子们吧
+>
+> https://github.com/wesnoth/wesnoth
+
+### Teeworlds
+
+> 复古的多人在线射击游戏
+>
+> 由卡通的画面 , 简单的物理引擎 , 经典兵器组成 , 最多支持 16 名玩家对战
+>
+> 提供了单人 , 团队 , 夺旗子等竞赛模式 , 这个游戏很考验操作 , 在枪林弹雨间到处飞取敌人首级 , 很刺激
+>
+> https://github.com/teeworlds/teeworlds
+
+### shapez.io
+
+> 让你尽情发挥创造力 , 享受思维乐趣的益智类游戏
+>
+> 游戏目标是通过建造工厂生产符合要求的图形 , 操作简单只需设置好设施就会自动创造出各种图形
+>
+> 但随着关卡的深入难度将逐渐提高 , 越来越烧脑
+>
+> https://github.com/tobspr/shapez.io
+
+### Veloren
+
+> 一款独立的像素风格 RPG 游戏
+>
+> 它的灵感来自 塞尔达传说：旷野之息 , 矮人要塞 , 我的世界 等游戏
+>
+> 游戏里可以制作道具 , 合成物品 , 战斗升级 , 驯养生物
+>
+> 还可以探索地牢洞穴 , 在空中滑翔 , 与 NPC 交易
+>
+> 游戏拥有广阔的开放世界 , 虽然画质不高但其素材和音乐等均为原创 , 开源不易且行且珍惜
+>
+> https://github.com/veloren/veloren
