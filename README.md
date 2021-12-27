@@ -4641,6 +4641,8 @@ Julia
 > 如果是搭建中小型的 Web 服务 , 它完全够用而且省时省心
 >
 > https://github.com/caddyserver/caddy
+>
+> [注] 正在查看文档中 , 看起来 caddy 十分好用
 
 ### croc
 
