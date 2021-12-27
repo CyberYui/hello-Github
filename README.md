@@ -4642,7 +4642,9 @@ Julia
 >
 > https://github.com/caddyserver/caddy
 >
-> [注] 正在查看文档中 , 看起来 caddy 十分好用
+> [注] 正在查看文档中
+>
+> caddy 的部署十分方便 , 基本不需要任何环境配置 , 正在学习中
 
 ### croc
 
