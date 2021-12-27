@@ -73,6 +73,12 @@
 >
 > 现在简单查阅到了 12月22日 的更新推文 , 这条记录只是给自己提个醒
 
+#### 2021-12-27
+
+> 基本赶上进度了 , 之前在测试服务器上运行了一个 DooTask 感觉还挺不错
+>
+> 但是尝试在自己的 1C1G 的小管子上运行就失败了 , 看样子云服务器的配置还是太低了23333
+
 -------------------------------------------------
 
 ### SlimeFun
@@ -5137,3 +5143,55 @@ Julia
 > 游戏拥有广阔的开放世界 , 虽然画质不高但其素材和音乐等均为原创 , 开源不易且行且珍惜
 >
 > https://github.com/veloren/veloren
+
+### immudb
+
+> 不可变数据库是加密数据库 , 类似区块链技术的数据经过加密和可被验证
+>
+> 而 immudb 是该领域的佼佼者 , 它号称最快的不可变数据库 , 基于零信任模型构建数据
+>
+> 作为一款数据库产品 , 它也可以充当 kv 和关系型数据库的角色来处理数据
+>
+> https://github.com/codenotary/immudb
+
+### MarkText
+
+> marktext 是一个简单而优雅的 markdown 编辑器
+>
+> 可用于 Linux , macOS 和 Windows 系统
+>
+> 如果你是个 md 用户 , 不妨试试这个项目会给你带来惊喜哟
+>
+> https://github.com/marktext/marktext
+>
+> [注]把玩之后发现的一些问题
+>
+> 1. 相比于 typora , 的确有更多的配色啥的 , 但是程序流畅度不如 typora
+> 2. 没有官方简中
+> 3. 快捷键和 typora 差不多 , 易于上手 , 可以再等它优化优化
+
+### misbrands
+
+> 受启发于 Java 版本的 JavaScript 贴纸 , misbrands 收录了有些有意思的混合装常见 logo
+>
+> 比如 React , Ubuntu , RubyOnRails , 快来看看你认出来哪些不正常的贴纸 ~
+>
+> 这里所有的贴纸都是有问题的 , 简直逼死强迫症
+>
+> https://github.com/mkrl/misbrands
+
+### PaddleSpeech
+
+> PaddleSpeech 是基于飞桨 PaddlePaddle 的语音方向的开源模型库
+>
+> 用于语音和音频中的各种关键任务的开发 , 包含大量基于深度学习前沿和有影响力的模型
+>
+> https://github.com/PaddlePaddle/PaddleSpeech
+
+### OnlySwitch
+
+> OnlySwitch 是一个 Swift 编写的多功能合一状态栏按钮 , 可用来隐藏新版 MacBook Pro 的刘海
+>
+> 快速开启系统暗黑模式以及连接 AirPods 等等 macOS 常见操作
+>
+> https://github.com/jacklandrin/OnlySwitch
