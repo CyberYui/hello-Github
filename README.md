@@ -5199,3 +5199,343 @@ Julia
 > 快速开启系统暗黑模式以及连接 AirPods 等等 macOS 常见操作
 >
 > https://github.com/jacklandrin/OnlySwitch
+
+### Quadsort
+
+> 一种比快速排序快 , 稳定的归并排序算法
+>
+> 项目包含原理讲解 , C 语言实现 , 性能对比和排序过程
+>
+> https://github.com/scandum/quadsort
+
+### miniLisp
+
+> 用 1000 行 C 语言写的 Lisp 解释器
+>
+> 实现了整数 , 符号 , 局部变量 , 条件语句 , 宏和垃圾回收等功能
+>
+> 为了让读者更好地理解项目 , 代码中包含了丰富的注释
+>
+> https://github.com/rui314/minilisp
+
+### mpv
+
+> 功能强大 , 免费开源 , 支持多平台的极简播放器
+>
+> 底层采用了 MPlayer , mplayer2 和 FFmpeg 等开源项目
+>
+> 支持多种音视频格式 , 高清视频 , GPU 解码 , 自定义等功能
+>
+> 追求极简的命令行启动 + 快捷键操作方式 , 让它成为了技术爱好者的首选视频播放器
+>
+> https://github.com/mpv-player/mpv
+
+### jynew
+
+> 采用 Unity 重制的《金庸群侠传》3D 版
+>
+> https://github.com/jynew/jynew
+
+### Cutter
+
+> 一款免费开源的逆向工程平台
+>
+> 采用 Rizin 作为核心引擎并集成了 Ghidra 反编译器 , 它界面简洁功能强大 , 深受逆向工程师们的喜爱
+>
+> - 支持多种语言和主题
+> - 二进制搜索
+> - 十六进制编辑器
+> - Python 脚本和插件
+> - 支持 Linux , macOS , Windows
+>
+> https://github.com/rizinorg/cutter
+
+### bpftrace
+
+> Linux 高级追踪工具和语言
+>
+> 该工具基于 eBPF 和 BBC 实现了通过探针机制采集内核和程序运行的信息
+>
+> 然后用图表等方式将信息展示出来 , 帮助开发者找到隐藏较深的 Bug , 安全问题和性能瓶颈
+>
+> https://github.com/iovisor/bpftrace
+
+### Cataclysm-DDA
+
+> 《大灾变：黑暗之日》( Cataclysm: Dark Days Ahead ) 是一款以世界末日为背景的生存游戏
+>
+> 游戏中没有任何任务 , 唯一的目标就是活下去
+>
+> 玩家可以通过寻找食物 , 装备等资源建造避难所 , 还支持车辆改装 , 制作物品等特色机制
+>
+> 支持 Windows , Linux , macOS , Android 系统
+>
+> https://github.com/CleverRaven/Cataclysm-DDA
+
+### heti
+
+> 专为中文内容展示设计的排版样式 , 它会让你的中文网站变得好看
+>
+> - 贴合网格的排版
+> - 全标签样式美化
+> - 预置多种排版样式
+> - 简/繁体中文支持
+> - 移动端支持
+>
+> https://github.com/sivan/heti
+
+### k9s
+
+> 监控和管理 K8s 集群的命令行工具
+>
+> 它安装简单功能齐全 , 命令行交互的操作方式可以轻松地解决日常问题
+>
+> https://github.com/derailed/k9s
+
+### kind
+
+> 使用 Docker 容器作为节点 , 在本地快速运行起 Kubernetes 集群的工具
+>
+> 通过该工具可以快速创建媲美 k8s 原生的本地环境 , 而且占用资源相对较少启动速度快
+>
+> 多用于本地开发和测试 k8s 原生组件 , 不能用于线上环境
+>
+> https://github.com/kubernetes-sigs/kind
+
+### air
+
+> 有代码变动就会自动重启服务的 Go 工具
+>
+> 在开发 Go Web 项目时 , 每次修改后都需要手动编译 , 重启服务
+>
+> 这个工具会在文件和目录发生变动后 , 自动编译并重启服务 , 大大提高了开发效率
+>
+> https://github.com/cosmtrek/air
+
+### JuiceFS
+
+> 高性能 POSIX 共享文件系统
+>
+> 像使用本地存储一样高效使用海量云端存储 , 可同时被多台主机同时挂载读写
+>
+> https://github.com/juicedata/juicefs
+
+### sniffer
+
+> 用于查看进程和连接的流量情况的命令行工具
+>
+> 界面简洁美观 , 支持进程 , Socket 等不同视角查看流量数据
+>
+> https://github.com/chenjiandongx/sniffer
+
+### AndResGuard
+
+> 混淆压缩 APK 的工具
+>
+> 原理是采用资源混淆的方式 , 不涉及编译过程仅通过变短资源路径实现压缩和混淆
+>
+> 使用方法简单只需传入一个打包好的 APK 文件
+>
+> https://github.com/shwenzhang/AndResGuard
+
+### DataHub
+
+> 基于 Java 开发的元数据治理平台 , 可接入 Hive , Kafka , ES , MySQL 等数据源
+>
+> 随着公司业务的发展 , 数据的复杂度会呈指数倍增长 , 通过文档和口口相传的方式管理数据关系的方式终将被淘汰
+>
+> 如果你体验过到处问数据库的字段含义 , 没捋清某个字段导致线上事故 , 分析数据毫无头绪等情况
+>
+> 这个时候就需要元数据治理平台 , 它提供浏览 , 搜索和管理每个字段的含义 , 关系 , 来源等信息
+>
+> 通过元数据的方式更好的治理和挖掘数据的价值
+>
+> https://github.com/linkedin/datahub
+
+### Termux application
+
+> 运行在 Android 上的开源终端模拟器
+>
+> 提供了 Linux 环境和 Shell 通过自带的包管理器
+>
+> 能够在手机上安装和运行 ssh , Python , gcc , htop , git , vim 等工具
+>
+> https://github.com/termux/termux-app
+
+### Addax
+
+> 支持多种异构数据源离线同步工具
+>
+> 服务于大数据的 ETL 工具 , 可快速实现 MySQL , HDFS , Hive , HBase 等数据源之间的数据同步
+>
+> 主要用于离线采集各类数据到数据仓库或者大数据平台
+>
+> https://github.com/wgzhao/addax
+
+### Arco Design
+
+> 基于 ArcoDesign 的 React/Vue UI 组件库
+>
+> 包含 60 多个开箱即用的高质量组件 , 还提供了可视化的样式配置平台 , 可用于快速构建企业级管理后台
+>
+> https://github.com/arco-design/arco-design
+
+### Context
+
+> 带上下文的网页笔记浏览器插件
+>
+> 大多数时候我们使用书签来标记网站链接
+>
+> 但在一些特定的场景中比如阅读文章和浏览信息时 , 就需要对特定的句子及其上下文进行标记
+>
+> 这个项目提取了信息的内容和位置 , 有上下文容易回顾 , 一键跳转方便溯源
+>
+> https://github.com/betterRunner/context-note
+
+### S2
+
+> 高性能多维交叉分析表格工具
+>
+> 提供 KPI 趋势表 , 占比表 , 对比表等多种表格样式 , 开箱即用上手简单拥有详细的文档
+>
+> 通过按需渲染和虚拟滚动等方式 , 实现在百万级数据量秒级渲染 , 滚动不卡顿
+>
+> https://github.com/antvis/S2
+
+### prisma
+
+> 适用于 Node.js 和 TypeScript 的 ORM
+>
+> 支持主流数据库可用于开发 REST API , GraphQL API , gRPC API 等任何需要连接数据库的程序
+>
+> 项目还包括了数据迁移工具和管理数据的 GUI 工具
+>
+> https://github.com/prisma/prisma
+
+### Vienna
+
+> 适用于 macOS 的免费 RSS 订阅工具
+>
+> https://github.com/ViennaRSS/vienna-rss
+
+### Laravel-tips
+
+> Laravel 编码技巧集合
+>
+> https://github.com/LaravelDaily/laravel-tips
+
+### PHPWord
+
+> 提供了读/写多种文档文件格式的 PHP 库
+>
+> 支持 Microsoft Office , 富文本（RTF）等文档格式
+>
+> https://github.com/PHPOffice/PHPWord
+
+### orjson
+
+> 更快更强的 Python JSON 库
+>
+> 支持比如日期 , numpy 数组等丰富的数据类型 , 而且速度更快
+>
+> https://github.com/ijl/orjson
+
+### tiler
+
+> 将图片转化成各种较小图块拼接成的图像工具
+>
+> 马赛克风格的图片转化工具 , 支持自定义拼接图案和符号
+>
+> 工具实用方便 , 代码简单易懂 , 适合对图像感兴趣的小伙伴学习和上手
+>
+> https://github.com/nuno-faria/tiler
+
+### rumps
+
+> 简单的 macOS 状态栏 Python 库
+>
+> https://github.com/jaredks/rumps
+
+### Simula
+
+> Linux 上的 VR 窗口管理工具
+>
+> 通过该工具 + VR 设备可轻松实现“目光所及皆桌面”的效果
+>
+> 它基于 Godot 开发安装简单实用方便 , 支持 HTC Vive Pro , Valve Index 等 VR 设备
+>
+> https://github.com/SimulaVR/Simula
+
+### penpot
+
+> 开源的设计和原型在线平台
+>
+> 它不仅完全免费还提供 Docker 自建和在线使用 , 而且支持中文和团队共享
+>
+> 缺点是平台提供的组件太少了 , 第一次上手需要自己从形状开始搞 , 不过可以自定义组件做到一劳永逸
+>
+> 如果你在寻找开源 , 免费的原型设计平台 , 不妨试试它
+>
+> https://github.com/penpot/penpot
+
+### design-resources-for-developers
+
+> 设计资源集合
+>
+> 项目包含了图片 , 网站模版 , CSS 框架 , UI 等资源
+>
+> https://github.com/bradtraversy/design-resources-for-developers
+
+### KOReader
+
+> 电子墨水（E-Ink）设备的开源阅读软件
+>
+> 适用于 Kindle , Kobo , PocketBook , Android 和 Linux 等设备
+>
+> 拥有设置字体 , 行距 , 文本样式等功能
+>
+> 最厉害的是适应水墨屏设备的 PDF 文件排版优化功能
+>
+> 极大的提高了 PDF 文件在 Kindle 等设备的阅读体验
+>
+> https://github.com/koreader/koreader
+
+### DoomCaptcha
+
+> 毁灭战士射击游戏形式的验证码
+>
+> https://github.com/vivirenremoto/doomcaptcha
+
+### wsa_pacman
+
+> 轻松地在 Windows11 安装 Android 应用的桌面工具
+>
+> 使用该工具可以实现双击安装 Android 应用
+>
+> 基于系统自带的 WSA 实现 , 不需要安装第三方模拟器
+>
+> https://github.com/alesimula/wsa_pacman
+
+### School of SRE
+
+> 领英开源的成为 SRE（网站可靠性工程师）的入门级教程
+>
+> 内容涵盖 Web , Linux , Git , 计算机网络 , 数据库 , 安全等方面
+>
+> https://github.com/linkedin/school-of-sre
+
+### Everything curl
+
+> 《关于 curl 的所有东西》
+>
+> 由 curl 项目发起者撰写的书 , 内容包括 curl 入门 , 开源 , 源码 , 项目等方面
+>
+> https://github.com/bagder/everything-curl
+
+### Spleeter
+
+> 基于 Tensorflow 实现的音轨分离工具
+>
+> 可以用于提取音乐中的人声 , 鼓 , 钢琴等乐器
+>
+> https://github.com/deezer/spleeter
