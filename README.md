@@ -5539,3 +5539,11 @@ Julia
 > 可以用于提取音乐中的人声 , 鼓 , 钢琴等乐器
 >
 > https://github.com/deezer/spleeter
+
+### Build your own X
+
+> 通过这个项目 , 你能学会如何创造自己的操作系统 , 编程语言 , 搜索引擎 , 框架 , 工具库 ...
+>
+> 想要造轮子 / 提高编程能力或者需要项目经历的同学一定不要错过
+>
+> https://github.com/danistefanovic/build-your-own-x
