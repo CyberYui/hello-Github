@@ -5547,3 +5547,9 @@ Julia
 > 想要造轮子 / 提高编程能力或者需要项目经历的同学一定不要错过
 >
 > https://github.com/danistefanovic/build-your-own-x
+
+### AWESOME
+
+> 关于 GitHub 上所有有关 Awesome 标签的项目 , 涵盖了各种类目 , 所有有趣的话题目录
+>
+> https://github.com/sindresorhus/awesome
