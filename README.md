@@ -5593,3 +5593,11 @@ Julia
 > Python Fire 可用于将 Python 代码对象自动生成命令行界面 CLI 的库
 >
 > https://github.com/google/python-fire
+
+### Three.js
+
+> 现阶段很火的一个易用 , 轻量 , 跨浏览器的通用3D库 , 当前构建仅包括 WebGL 渲染器
+>
+> 但是为了保证兼容性 , 也可以使用 WebGPU , SVG , 和 CSS3D 来进行渲染
+>
+> https://github.com/mrdoob/three.js
