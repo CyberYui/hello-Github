@@ -5553,3 +5553,43 @@ Julia
 > 关于 GitHub 上所有有关 Awesome 标签的项目 , 涵盖了各种类目 , 所有有趣的话题目录
 >
 > https://github.com/sindresorhus/awesome
+
+### Bitburner
+
+> Bitburner 是一款基于编程的增量游戏
+>
+> 在这款基于文本的增量 RPG 游戏中 , 玩家扮演反乌托邦世界的 Hacker 用 JavaScript 编写脚本来自动化游戏玩法 , 学习技能 , 玩迷你游戏 , 解决谜题等
+>
+> https://github.com/danielyxie/bitburner
+
+### Asynq
+
+> Asynq 是一个 Go 库用排列任务并与 worker 一起进行异步处理 , 具有简易 , 可靠 , 高效等特性
+>
+> 它的工作原理 : 
+>
+> 客户端将任务放入队列 , 服务器从队列中拉出任务并为每个任务启动一个 worker goroutine , 多个 worker 同时处理任务
+>
+> https://github.com/hibiken/asynq
+
+### NOTFLIX
+
+> NOTFLIX 是个 shell 脚本
+>
+> 能检索 magnet 链接并通过 webtorrent 在终端转化视频流并播放
+>
+> https://github.com/Bugswriter/notflix
+
+### Lapce
+
+> Lapce 是用纯 Rust 写的代码编辑器 , UI 采用 Druid
+>
+> 它用 Xi-Editor 的 Rope Science 进行文本编辑 , 并使用 Wgpu 进行渲染
+>
+> https://github.com/lapce/lapce
+
+### Python Fire
+
+> Python Fire 可用于将 Python 代码对象自动生成命令行界面 CLI 的库
+>
+> https://github.com/google/python-fire
