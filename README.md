@@ -5601,3 +5601,77 @@ Julia
 > 但是为了保证兼容性 , 也可以使用 WebGPU , SVG , 和 CSS3D 来进行渲染
 >
 > https://github.com/mrdoob/three.js
+
+### Stats
+
+> Stats 菜单栏系统监控器 , 主要针对 Mac 系统
+>
+> 你可以看到电池余量 , 磁盘用量 , 网络情况 , CPU 使用率等等系统信息
+>
+> 支持中文在内的多语言版本
+>
+> https://github.com/exelban/stats
+
+### awesome-metaverse
+
+> awesome-metaverse 收录了现有的元宇宙概念应用
+>
+> 介于「元宇宙是什么」的观点各家有所不同 , 所以这个项目是一个集大成者 , 可以看到各式各样别人眼中的“元宇宙” , 分为 WebXR , Social VR , Avatar Providers , Protocols and Standards , Books , Movies , Articles and Blogs , White Papers 和 Links 等分类
+>
+> https://github.com/M3-org/awesome-metaverse
+
+### Seatunnel
+
+> seatunnel 分布式数据集成平台 , 可用于数据同步 , 集成 , ETL , 聚合等场景 , 支持多数据源处理
+>
+> 它具有以下特性 :
+>
+> - 简单易用 , 灵活配置 , 无需开发
+> - 实时流式处理
+> - 离线多源数据分析
+> - 高性能 , 海量数据处理能力
+> - 模块化和插件化 , 易于扩展
+> - 支持利用 SQL 做数据处理和聚合
+> - 支持 Spark Structured Streaming
+> - 支持 Spark 2.x
+>
+> https://github.com/apache/incubator-seatunnel
+
+### 90DaysOfDevOps
+
+> 90DaysOfDevOps 学习仓 , 作者将会在 90 天构建他的 DevOps 知识体系
+>
+> 如果你有兴趣了解 DevOps 知识 , 不妨和他一起每天花 1 个小时了解 DevOps 不同领域的基础知识
+>
+> https://github.com/MichaelCade/90DaysOfDevOps
+
+### Dioxus
+
+> Dioxus 一个可移植 , 高性能 , 符合 ergonomic 原则 , 类 React 框架
+>
+> 可在 Rust 中构建跨平台的用户界面
+>
+> 它可用来交付 Web 应用程序 , 桌面应用程序 , 静态站点 , 实时视图应用程序 , 移动应用程序 ( WIP ) 等等
+>
+> https://github.com/DioxusLabs/dioxus
+
+### Mizu
+
+> Kubernetes 的 API 流量查看器 , 可以查看微服务之间的所有 API 通信情况 , 方便你调试和排查故障
+>
+> 特性 : 
+>
+> - 简单又强大的 CLI
+> - 实时监控网络流量 , 支持 HTTP/1.1 在内的多种协议
+> - 免部署安装
+> - 丰富的过滤机制
+>
+> https://github.com/up9inc/mizu
+
+### sunflower-farmers
+
+> sunflower-farmers 是一款基于区块链的游戏
+>
+> 玩家可以通过游戏赚取向日葵农民代币
+>
+> https://github.com/sunflower-farmers/sunflower-farmers
