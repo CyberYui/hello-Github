@@ -5675,3 +5675,9 @@ Julia
 > 玩家可以通过游戏赚取向日葵农民代币
 >
 > https://github.com/sunflower-farmers/sunflower-farmers
+
+### DesktopXiuXian
+
+> 桌面修仙模拟器 , 平时没事可以玩玩
+>
+> https://github.com/851896022/DesktopXiuXian
