@@ -5681,3 +5681,17 @@ Julia
 > 桌面修仙模拟器 , 平时没事可以玩玩
 >
 > https://github.com/851896022/DesktopXiuXian
+
+### Apifox
+
+> Apifox 是 API 文档 , 调试 , Mock , 测试一体化协作平台
+>
+> 对标 `Postman + Swagger + Mock + JMeter`
+>
+> 通过一套系统 , 一份数据 , 解决多个系统之间的数据同步问题
+>
+> 只要定义好 API 文档 , API 调试 , API 数据 Mock , API 自动化测试就可以直接使用 , 无需再次定义
+>
+> API 文档和 API 开发调试使用同一个工具 , API 调试完成后即可保证和 API 文档定义完全一致
+>
+> https://github.com/apifox/apifox
