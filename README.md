@@ -5695,3 +5695,78 @@ Julia
 > API 文档和 API 开发调试使用同一个工具 , API 调试完成后即可保证和 API 文档定义完全一致
 >
 > https://github.com/apifox/apifox
+
+### flash-linux
+
+> 带你读 Linux 0.11 核心代码并理解背后的操作系统设计思考
+>
+> 按照作者的宣言 “ 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码 ” 
+>
+> 这是一个 Linux 代码趣读项目 , 可以从章节名称感受下画风 : 
+>
+> - 第 5 回 进入保护模式前的最后一次折腾内存
+> - 第 8 回 烦死了又要重新设置一遍 idt 和 gdt2
+>
+> 不过目前作者暂时只更新完了 2 个部分内容 , 还有 4 部分内容在更新中
+>
+> https://github.com/sunym1993/flash-linux0.11-talk
+
+### annotated_latex_equations
+
+> annotated_latex_equations 让你可以写出彩色方程注释的项目
+>
+> 可以参考示例编写出自己的 Latex 文件
+>
+> https://github.com/synercys/annotated_latex_equations
+
+### mae
+
+> mae 是 Facebook 人工智能实验室研究科学家 KaimingHe 开源的 Masked Autoencoders PyTorch 实现
+>
+> Masked Autoencoder 是一种更为通用的图像去噪自动编码器
+>
+> 有兴趣的小伙伴可以阅读论文 https://arxiv.org/pdf/2111.06377.pdf 来了解该技术
+>
+> https://github.com/facebookresearch/mae
+
+### Bevy
+
+> Bevy 是一个 Rust 写的 data-driven 游戏引擎 , 对新手友好 , 可用来做 2D 或 3D 游戏
+>
+> 不过才开源 1 年多 , 距离成熟的引擎还有一段路 , 如果你对它有兴趣不妨来学习研究下
+>
+> https://github.com/bevyengine/bevy
+
+### Files
+
+> Files 是仿 Windows 11 的一个文件管理器
+>
+> 它拥有多个选项卡 , 窗格 , 列 , 上下文菜单和标签中的 shell 扩展等功能
+>
+> https://github.com/files-community/Files
+
+### Astro
+
+> Astro 是一个快速建站工具
+>
+> 它结合目前验证过的高性能最佳实践 , 在尽量使用少 JavaScritp 的前提下保证你网站的运行速度
+>
+> 如果一张图片需要 4.0 的 TTI 在 Astro 这大概需要 2.3 秒 , 这是一个对静态网站非常友好的小工具
+>
+> https://github.com/withastro/astro
+
+### Hitomi Downloader
+
+> Hitomi-Downloader 一个强大的下载工具
+>
+> 能下载图片 , 视频 , 音乐 , 文本等等格式文件 , 而你只需要复制粘贴一个网页地址即可
+>
+> https://github.com/KurtBestor/Hitomi-Downloader
+
+### Music Player
+
+> 虽然知道 Swift 各个版本大有不同
+>
+> 这里选了一个项目代码注释详实的项目 Music-Player 仅供 “ 白衣 ” 学习之用
+>
+> https://github.com/bpolat/Music-Player
