@@ -5853,3 +5853,11 @@ Julia
 > 可对数据文件进行 SQL 查询 , 支持 JSON , CSV , Excel , Parquet 等等数据文件
 >
 > https://github.com/multiprocessio/dsq
+
+### SofGAN
+
+> SofGAN : 具有动态样式的人脸图像生成器
+>
+> 简单来说 , 就是能通过计算机视觉和模式识别技术 , 生成一张可动态调整风格的人物肖像
+>
+> https://github.com/apchenstu/sofgan
