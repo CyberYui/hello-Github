@@ -5010,7 +5010,7 @@ Julia
 >
 > 我们表达某个意思未能找到精准的用词 , 所以它可以让你通过想要表达的意思来找寻符合语境的词汇
 >
-> 你可以在线体验反向词典：https://wantwords.thunlp.org/ 
+> 你可以在线体验反向词典 : https://wantwords.thunlp.org/ 
 >
 > https://github.com/thunlp/WantWords
 
@@ -5108,7 +5108,7 @@ Julia
 >
 > 但缺点是攻击的命中概率出奇的低 , 容易导致血压上升
 >
-> 很多玩家吐槽：”别的游戏要钱 , 这个游戏要命” 
+> 很多玩家吐槽 : ”别的游戏要钱 , 这个游戏要命” 
 >
 > 会 C++ 的大神快来修改下参数 , 救救孩子们吧
 >
@@ -5138,7 +5138,7 @@ Julia
 
 > 一款独立的像素风格 RPG 游戏
 >
-> 它的灵感来自 塞尔达传说：旷野之息 , 矮人要塞 , 我的世界 等游戏
+> 它的灵感来自 塞尔达传说 : 旷野之息 , 矮人要塞 , 我的世界 等游戏
 >
 > 游戏里可以制作道具 , 合成物品 , 战斗升级 , 驯养生物
 >
@@ -5262,7 +5262,7 @@ Julia
 
 ### Cataclysm-DDA
 
-> 《大灾变：黑暗之日》( Cataclysm: Dark Days Ahead ) 是一款以世界末日为背景的生存游戏
+> 《大灾变 : 黑暗之日》( Cataclysm: Dark Days Ahead ) 是一款以世界末日为背景的生存游戏
 >
 > 游戏中没有任何任务 , 唯一的目标就是活下去
 >
@@ -5861,3 +5861,116 @@ Julia
 > 简单来说 , 就是能通过计算机视觉和模式识别技术 , 生成一张可动态调整风格的人物肖像
 >
 > https://github.com/apchenstu/sofgan
+
+### daytripper
+
+> 上班摸鱼用激光绊脚器 , 分为发射器和接收器两个部分 , 设置好之后会拌雷触发开关时自动切换桌面
+>
+> https://github.com/dekuNukem/daytripper
+
+### tinyssh
+
+> 极简SSH服务器 , 为了便于学习仅保留了基础功能 , 而且抛弃了较旧的加密算法 , 项目的学习价值大于实用价值 , 适合对 SSH 和加密知识感兴趣的小伙伴
+>
+> https://github.com/janmojzis/tinyssh
+
+### LiveCharts2
+
+> 简单 , 灵活 , 强大的 .Net 图表库
+>
+> 支持 WPF , WinForms , WinUI , UWP 等
+>
+> https://github.com/janmojzis/tinyssh
+
+### PowerRemoteDesktop
+
+> 仅用 PowerShell 实现的远程桌面工具 , 它易于安装和使用 , 功能齐全 , 未依赖现有的协议和工具
+>
+> https://github.com/DarkCoderSc/PowerRemoteDesktop
+
+### .NET-Backend-Developer-Roadmap
+
+> 面向 2022 年的 .net 后端学习路线图
+>
+> https://github.com/Elfocrash/.NET-Backend-Developer-Roadmap
+
+### PDFPatcher
+
+> 多功能的 PDF 工具箱 , 可用于修改 PDF 文件信息 , 支持 :
+>
+> - 修改 , 合并 PDF 文档
+> - 自动生成书签
+> - 书签编辑器
+> - 高速无损地导出文件中的图片
+> - 等等
+>
+> https://github.com/wmjordan/PDFPatcher
+
+### timg
+
+> 在终端查看图片 , 动图 , 视频的命令行工具
+>
+> ```shell
+> timg some-image.jpg # 展示图片
+> timg --loops=3 some-animated.gif # 循环展示三次动图
+> timg some-video.mp4 # 播放视频
+> ```
+>
+> https://github.com/hzeller/timg
+
+### oclint
+
+> 强大的静态代码分析工具 , 可以用来检查 C , C++ , 和 Obj-C 的代码 , 发现潜在 Bug , 提高代码质量
+>
+> https://github.com/oclint/oclint
+
+### CGraph
+
+> 无第三方依赖的 DAG 调度框架 , 实现了依赖节点依次执行 , 无依赖节点并发执行的逻辑
+>
+> 项目结构清晰 , 文档齐全 , 不仅代码中包含关键注释 , 还有示例代码和讲解文章
+>
+> 初学者可以通过该项目学到图调度方式 , 模块开发 , 模板编程 , 多线程编程 , 设计模式和通用算法的知识
+>
+> https://github.com/ChunelFeng/CGraph
+
+### gotests
+
+> 自动生成 Go 语言测试代码的工具
+>
+> 该项目基于表驱动测试法 ( TableDrivenTests ) 自动生成测试代码
+>
+> 表驱动测试法是创建一张数据表格 , 每一行为输入和预期输出值 , 然后用这张表格的数据测试代码
+>
+> https://github.com/cweill/gotests
+
+### gotop
+
+> 用 Go 写的系统监控命令行工具 , 带有实时折线图 , 看起来比较炫酷
+>
+> https://github.com/xxxserxxx/gotop
+
+### minio
+
+> 采用 Go 编写的开源对象存储服务
+>
+> 支持存储图片 , 视频 , 日志等文件 , 还拥有方便操作的 Web 管理后台
+>
+> 虽然轻量却有着不错的性能 , 同时采用 RS code 编码算法实现即使丢失一半的硬盘 , 依旧可以找回数据
+>
+> 适用于大数据 , 机器学习等场景
+>
+> - 高性能 : 单个文件最大支持 5T , 读写速率最高可以达到 55Gb/s 和 35Gb/s
+> - 可扩展 : 不同集群可以组合 , 支持跨越多个数据中心
+> - 云原生 : 支持容器化 , 基于 K8S 的编排 , 多租户
+> - 对接多种后端存储 : 支持 S3 , DAS ,  NAS , Google 等云存储
+>
+> https://github.com/minio/minio
+
+### octosql
+
+> 用 SQL 的方式查询多个数据源的命令行工具
+>
+> 支持用 SQL 查询 CSV , JSON 文件和多种数据库中的数据 , 甚至可以在它们之间自由 JOIN
+>
+> https://github.com/cube2222/octosql
