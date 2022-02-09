@@ -6120,3 +6120,90 @@ Julia
 > 打包全部功能后的 SDK 体积还不到 3 MB , 适用于 Android , iOS 等操作系统
 >
 > https://github.com/joyycom/VNN
+
+### React Wordle
+
+> Wordle 是春节前火起来的文字游戏
+>
+> 玩家要在 6 次尝试中猜中某 5 个字母组合成的单词
+>
+> 如果字母正确位置不正确则显示为黄色 , 若字母和位置正确则为绿色
+>
+> 但是每日只更新一个单词 , 本库则是受启发于 Wordle 的开源版本 , 它采用了蓝色来表示正确的字母
+>
+> 你可以通过该链接访问试玩 https://word-guessing-game-cwackerfuss.vercel.app/
+>
+> 除了开源的单词版本 , 国内的工程师 antfu 也开发了成语版本
+>
+> 相比单词版本更难 , 因为它加入了声调 , 你可以来这里挑战你的成语储备 https://handle.antfu.me/
+>
+> https://github.com/cwackerfuss/react-wordle
+
+### Black
+
+> Black 是个 Python 代码格式化工具
+>
+> 无需研究特定缩进 , 换行专注写代码 , Black 将会帮你实现代码的 “ 美化排版 ” 
+>
+> https://github.com/psf/black
+
+### linkedin-skill-assessments-quizzes
+
+> linkedin-skill-assessments-quizzes 收录了大量领英评估测试题和答案
+>
+> 包括 Git , React , JSON , 机器学习等等方面内容 , 可用来检测你是否掌握了这些方面的知识
+>
+> https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes
+
+### Cider
+
+> Cider 是个用 Vue 制作的音乐播放器
+>
+> 让你享受到 Apple Music , 支持 Windows , Linux , macOS 等系统
+>
+> https://github.com/ciderapp/Cider
+
+### NextUI
+
+> NextUI 是高颜值 , 快速 , 现代的 React UI 库 , 你可以用它构建好看的网站
+>
+> https://github.com/nextui-org/nextui
+
+### Trilium Notes
+
+> Trilium Notes 是一个分层的笔记应用程序 , 专注于建立大型个人知识库 , 特性 :
+>
+> - 笔记可以排列成任意深的树 , 单个笔记可以放在树中的多个位置（请参阅克隆）
+> - 丰富的所见即所得笔记编辑功能 , 包括带有markdown自动格式化功能的表格 , 图像和数学
+> - 支持编辑使用源代码的笔记 , 包括语法高亮显示
+> - 笔记之间快速导航 , 全文搜索和笔记挂起
+> - 可用性和性能均能很好地扩展至超过 10 万个笔记
+> - 针对智能手机和平板电脑进行触摸优化的移动前端
+> - Evernote 和 Markdown 导入导出
+> - 等等
+>
+> https://github.com/zadam/trilium
+
+### plane-notify
+
+> 本库是一名美国学生为了追踪特斯拉 ( Tesla ) 创始人马斯克的私人飞机行踪 , 并将其公布到社交媒体平台而开源的项目
+>
+> 它能追踪指定飞机是否起飞或者降落
+>
+> https://github.com/Jxck-S/plane-notify
+
+### ColossalAI
+
+> 仅用一半数量的 GPU 完成同样的 GPT-3 训练 , 不仅能加速 GPT-3 , 对于 GPT-2 , ViT , BERT 等多种模型的表现也都非常强眼 : 
+>
+> - 半小时左右就能预训练一遍 ViT-Base/32
+> - 2 天训完 15 亿 参数的 GPT 模型
+> - 5 天训完 83 亿 参数的 GPT 模型
+>
+> 与业内主流的 AI 并行系统——英伟达 Megatron-LM 相比 , 在同样使用 512 块 GPU 训练 GPT-2 模型时 , Colossal-AI 的加速比是其2倍
+>
+> 而在训练 GPT-3 时 , 更是可以节省近千万元的训练费用
+>
+> 此外在训练 GPT-2 时 , 显存消耗甚至能控制在 Megatron-LM 的十分之一以下
+>
+> https://github.com/hpcaitech/ColossalAI
