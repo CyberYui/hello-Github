@@ -5974,3 +5974,149 @@ Julia
 > 支持用 SQL 查询 CSV , JSON 文件和多种数据库中的数据 , 甚至可以在它们之间自由 JOIN
 >
 > https://github.com/cube2222/octosql
+
+### Thumbnailator
+
+> Java 的缩略图生成库
+>
+> https://github.com/coobird/thumbnailator
+
+### Momo Code Sec Inspector
+
+> Java 静态代码安全审计工具插件 , 它能在你的编码过程中发现代码的潜在安全风险 , 并提供一键修复的功能
+>
+> 插件可以直接在 IDEA 的插件市场中安装
+>
+> https://github.com/momosecurity/momo-code-sec-inspector-java
+
+### js-sdsl
+
+> 实用的 JavaScript 数据结构库 , 实现了 LinkList , Queue , Set , Map 等数据结构
+>
+> 严格的单元测试提供了正确性和性能的保证 , 可以用于各种需要到高级数据结构的场景
+>
+> https://github.com/ZLY201/js-sdsl
+
+### resume
+
+> 在线简历生成器 , 轻松实现在线简历
+>
+> 支持在线预览 , 编辑和下载 PDF 简历
+>
+> https://github.com/visiky/resume
+
+### Shepherd
+
+> 用来引导用户浏览网站的 JavaScript 库
+>
+> https://github.com/shipshapecode/shepherd
+
+### lottery
+
+> 年会抽奖程序 , 基于 Express + Three.js 的 3D 球体抽奖项目
+>
+> 能够自定义文字 , 图片和抽奖规则 , 还支持一键导入抽奖人员和导出抽奖结果
+>
+> https://github.com/moshang-xc/lottery
+
+### Stay
+
+> 移动端 Safari 浏览器的插件管理器 , 提供了丰富的脚本管理能力 , 还支持运行油猴插件
+>
+> 内置的脚本库提供了 App 防跳转 , 广告拦截 , 自动展开文本等功能
+>
+> https://github.com/shenruisi/Stay
+
+### esupdater
+
+> 基于 Canal 的 ES 增量更新框架 , 适用于把 MySQL 的增量数据 , 实时更新到 ES 实现同步更新搜索数据
+>
+> https://github.com/WGrape/esupdater
+
+### Django Grappelli
+
+> 美化 Django 默认管理后台界面的库
+>
+> https://github.com/sehmaschine/django-grappelli
+
+### trzsz
+
+> 简单实用的文件传输工具
+>
+> 支持 tmux 和 iTerm2 一起使用 , 并且有显示上传 / 下载进度的进度条
+>
+> https://github.com/trzsz/trzsz
+
+### fastlane
+
+> 一款专为 iOS 和 Android 开发者提供自动化构建的工具
+>
+> 上手简单使用方便 , 能够帮助开发者自动完成 App 打包 , 签名 , 测试 , 发布 , 提交到 App Store , Google Play 等工作 , 实现一条命令发布应用
+>
+> https://github.com/fastlane/fastlane
+
+### iGlance
+
+> macOS 状态栏系统监视器
+>
+> https://github.com/iglance/iGlance
+
+### m-cli
+
+> macOS 命令行工具
+>
+> 可以实现在终端用简短命令操作 macOS 系统 , 比如管理蓝牙 , 打开 Wi-Fi , 清空废纸篓 , 操作 iTunes 等
+>
+> https://github.com/rgcr/m-cli
+
+### WhiteSur-gtk-theme
+
+> 仿苹果 Big Sur 风格的 GTK 主题
+>
+> https://github.com/vinceliuice/afWhiteSur-gtk-theme
+
+### JetBrainsMono
+
+> JetBrains 为开发者开源的免费字体
+>
+> 该字体形状简单没有不必要的细节 , 从而阅读起来十分轻松而且小尺寸时显示更加清晰
+>
+> https://github.com/JetBrains/JetBrainsMono
+
+### one-html-page-challenge
+
+> 单个 HTML 页面的挑战 , 该项目汇集了满足仅有一个 HTML 文件 , 小于 1 Mb , 不可介入 API , 不能引用库条件下实现的创意网页
+>
+> https://github.com/Metroxe/one-html-page-challenge
+
+### realworld
+
+> 该项目汇集了不同技术栈的实战项目
+>
+> 这里有采用不同编程语言框架 , 实现相同功能内容网站的项目代码
+>
+> 例如用 Vue.js+Django 开发包含注册 , 登录 , 发布文章 , 标签 , 评论等功能的网站
+>
+> 该库让你通过简单但完整的实战项目 , 快速上手新的技术栈 , 消除刚接触某个技术时的手足无措
+>
+> https://github.com/gothinkster/realworld
+
+### rust-course
+
+> 《Rust 语言圣经》开源书籍
+>
+> 涵盖了 Rust 语言从入门到精通的全部知识
+>
+> 该书目前还未完成 , 正处于积极更新的状态
+>
+> https://github.com/sunface/rust-course
+
+### VNN
+
+> 高性能 , 轻量级的神经网络部署框架
+>
+> 支持人脸关键点检测 , 卡通图像风格化 , 天气场景识别等功能
+>
+> 打包全部功能后的 SDK 体积还不到 3 MB , 适用于 Android , iOS 等操作系统
+>
+> https://github.com/joyycom/VNN
