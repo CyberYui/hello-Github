@@ -6274,3 +6274,13 @@ Julia
 > 例如 : Stripe ,  Slack ,  Google Sheets ,  Airtable
 >
 > https://github.com/ToolJet/ToolJet
+
+### Real-CUGAN
+
+> B 站开源一个使用百万级动漫数据进行训练的 , 结构与Waifu2x兼容的通用动漫图像超分辨率模型
+>
+> 它支持**2x\3x\4x**倍超分辨率 , 其中2倍模型支持4种降噪强度与保守修复 , 倍/4倍模型支持2种降噪强度与保守修复
+>
+> 可以用来修复视频和图片 , 十分方便
+>
+> https://github.com/bilibili/ailab/tree/main/Real-CUGAN
