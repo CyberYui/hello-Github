@@ -79,6 +79,10 @@
 >
 > 但是尝试在自己的 1C1G 的小管子上运行就失败了 , 看样子云服务器的配置还是太低了23333
 
+#### 2022-02-14
+
+> 最近有些懈怠了 , 过了个年都快玩傻了 , 从今天开始照常学习了 , 争取把这些 Star 都看看 , 不让它们吃灰
+
 -------------------------------------------------
 
 ### SlimeFun
@@ -2806,7 +2810,7 @@ Julia
 
 ### leek-fund
 
-> 从一颗“小韭菜”实现财富自由的「韭菜盒子」leek-fund , 即在 vscode 中查看股票等内容
+> 从一颗“小韭菜”实现财富自由的 [ 韭菜盒子 ] leek-fund , 即在 vscode 中查看股票等内容
 >
 > https://github.com/LeekHub/leek-fund
 
@@ -5616,7 +5620,7 @@ Julia
 
 > awesome-metaverse 收录了现有的元宇宙概念应用
 >
-> 介于「元宇宙是什么」的观点各家有所不同 , 所以这个项目是一个集大成者 , 可以看到各式各样别人眼中的“元宇宙” , 分为 WebXR , Social VR , Avatar Providers , Protocols and Standards , Books , Movies , Articles and Blogs , White Papers 和 Links 等分类
+> 介于 [ 元宇宙是什么 ] 的观点各家有所不同 , 所以这个项目是一个集大成者 , 可以看到各式各样别人眼中的“元宇宙” , 分为 WebXR , Social VR , Avatar Providers , Protocols and Standards , Books , Movies , Articles and Blogs , White Papers 和 Links 等分类
 >
 > https://github.com/M3-org/awesome-metaverse
 
@@ -6207,3 +6211,66 @@ Julia
 > 此外在训练 GPT-2 时 , 显存消耗甚至能控制在 Megatron-LM 的十分之一以下
 >
 > https://github.com/hpcaitech/ColossalAI
+
+### Giftie
+
+> Giftie 是一个用来搞定 [ 送礼问题 ] 的终极解决方案
+> 采用 [ 自定义文案 ] + [ 自定义礼物 ] + [ 抽奖 ] 的形式 , 让礼物的接收方感受到来自于你的真心和爱意
+>
+> https://github.com/KKKyrie/giftie
+
+### TuWeiQingHua
+
+> honeyed-words-generator 是一个土味情话生成器
+>
+> 至于有多土 , 你可以通过 demo 来感受下它的甜
+>
+> https://github.com/zerosoul/honeyed-words-generator
+
+### Logseq
+
+> Logseq 是一款知识管理协作软件
+>
+> 支持 Markdown 和 Emacs Org 模式记笔记 , 可离线使用
+>
+> 最重要的是它关注隐私 , 本地存储和用户控制 , 服务器永远不会存储或分析私人笔记
+>
+> https://github.com/logseq/logseq
+
+### NewPipe
+
+> NewPipe 是一个轻巧的 Android 串流前端 , 它只解析网站来获取必要的资讯
+>
+> 无需安装 Google 服务也可以使用
+>
+> https://github.com/TeamNewPipe/NewPipe
+
+### Ampernetacle
+
+> 这是用于在 Oracle Cloud Infrastructure 上部署 K8s 集群的 Terraform 配置
+>
+> 它创建了一些虚拟机并使用 kubeadm 在第一台机器上安装 K8s 控制平面 , 并将其他机器作为工作节点加入
+>
+> https://github.com/jpetazzo/ampernetacle
+
+### HVM
+
+> HVM ( High-order Virtual Machine ) 是一个纯函数式编译的 Rust 运行时
+>
+> 它是惰性的 , 非垃圾收集的和大规模并行的运行时
+>
+> 在某些情况下 , 它可以比大多数功能运行时 ( 包括 Haskell 的 GHC ) 快得多
+>
+> https://github.com/Kindelia/HVM
+
+### ToolJet
+
+> ToolJet 是一个开源的低代码框架 , 可以快速构建和部署内部工具 , 而无需工程团队付出太多努力
+>
+> 通过 ToolJet 可以连接数据源 , 如 PostgreSQL ,  MongoDB ,  Elasticsearch 等等
+>
+> 它支持导入 OpenAPI 规范和 OAuth2 授权 , 以及外部服务
+>
+> 例如 : Stripe ,  Slack ,  Google Sheets ,  Airtable
+>
+> https://github.com/ToolJet/ToolJet
