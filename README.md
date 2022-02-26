@@ -6284,3 +6284,9 @@ Julia
 > 可以用来修复视频和图片 , 十分方便
 >
 > https://github.com/bilibili/ailab/tree/main/Real-CUGAN
+
+### TS-SE-Tool
+
+> 欧卡2和美卡的存档修改器 , 具体使用方法可以参照 https://www.bilibili.com/video/av97938403 这个视频
+>
+> https://github.com/LIPtoH/TS-SE-Tool
