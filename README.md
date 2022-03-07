@@ -6290,3 +6290,150 @@ Julia
 > 欧卡2和美卡的存档修改器 , 具体使用方法可以参照 https://www.bilibili.com/video/av97938403 这个视频
 >
 > https://github.com/LIPtoH/TS-SE-Tool
+
+### DevToysMac
+
+> DevToysMac 是为用 Mac 本开发代码的研发同学准备的瑞士军刀
+>
+> 收录大量实用开发小工具 , 包括 : JSON 格式化工具 , Base 64 编码 , JSON 转 Yaml 工具等等
+>
+> https://github.com/ObuchiYuki/DevToysMac
+
+### Font-Awesome
+
+> Font Awesome 拥有大量高颜值图标 , 且已经迭代了 6 个大版本 , 使用十分方便
+>
+> 作为设计师 , 开发的工具箱 , 你可以直接使用上面的图标 HTML , CSS 代码构建你自己有意思的网站
+>
+> https://github.com/FortAwesome/Font-Awesome
+
+### SAHI
+
+> sahi , 即 Slicing Aided Hyper Inference , 一个轻量级视觉库 , 用于执行大规模的目标检测和实例分割
+>
+> https://github.com/obss/sahi
+
+### Unredacter
+
+> unredacter 是一个破解马赛克图片原始信息的项目
+>
+> 它旨在展示用马赛克给图片“加密”是多么不可靠
+>
+> https://github.com/BishopFox/unredacter
+
+### HowToCook
+
+> 程序员做饭指南 , 项目发起人在家做饭过程中发现网上菜谱制作过程中会多出一些材料
+>
+> 对于习惯了形式语言的他非常的不友好 , 于是他发起了做饭指南项目 , 结合实际做菜经验用更精准的方式来做常见菜
+>
+> https://github.com/Anduin2017/HowToCook
+
+### DreamScene2
+
+> 小巧的 Windows 动态桌面工具
+>
+> 适用于 Windows10/11 系统 , 支持视频 , 网页动画播放
+>
+> https://github.com/he55/DreamScene2
+
+### magic
+
+> 炫酷的 CSS3 动画库
+>
+> https://github.com/miniMAC/magic
+
+### Nali
+
+> 离线查询 IP 地理信息和 CDN 服务提供商的终端工具
+>
+> https://github.com/zu1k/nali
+
+### revive
+
+> 快速且易扩展的 Go 代码检查工具
+>
+> 它比 golint 更快 , 更灵活 , 深受广大 Go 开发者的喜爱
+>
+> https://github.com/mgechev/revive
+
+### go-chart
+
+> Go 原生图表库
+>
+> 支持折线图 , 柱状图 , 饼图等
+>
+> https://github.com/wcharczuk/go-chart
+
+### filestash
+
+> 在线文件管理工具
+>
+> 在浏览器上管理 FTP , SFTP , Git , S3 , MySQL , Dropbox 等服务中的文件和数据
+>
+> 支持编辑文件 , 图片管理 , 视频转码 , Office 文档 , 全文搜索等功能
+>
+> https://github.com/mickael-kerjean/filestash
+
+### Vitess
+
+> 用于横向扩展 MySQL 数据库的集群系统
+>
+> 基于 Go 语言的并发特性 , 它能够轻松处理数千个连接
+>
+> 还可以根据配置好的规则 , 自动优化影响数据库性能的查询 , 运维方面支持自动处理主故障转移和备份等功能
+>
+> https://github.com/vitessio/vitess
+
+### ThingsBoard
+
+> 完全开源的物联网 IoT 平台
+>
+> 它使用行业的标准物联网协议 MQTT , CoAP 和 HTTP 连接设备 , 支持数据收集 , 处理 , 可视化和设备管理等功能
+>
+> 通过该项目可快速实现物联网平台搭建 , 从而成为众多大型企业的首选 , 行业覆盖电信 , 智慧城市 , 环境监测等
+>
+> https://github.com/thingsboard/thingsboard
+
+### From-Java-To-Kotlin
+
+> 展示 Java 和 Kotlin 语法上差别的项目 , 让有 Java 基础的程序员可以快速上手 Kotlin
+>
+> https://github.com/MindorksOpenSource/from-java-to-kotlin
+
+### Glide
+
+> 流畅快速的 Android 图片加载库
+>
+> 为了实现快速加载和展示图像 , Glide 会自动缩减像素采样 , 缓存 , 积极重用减少垃圾回收
+>
+> 使用上一行代码就可以实现图片加载和展示，同时网络请求部分可灵活接入任何库
+>
+> https://github.com/bumptech/glide
+
+### jjwt
+
+> 适用于 Java 和 Android 的 JWT（JSON Web Token）库
+>
+> https://github.com/jwtk/jjwt
+
+### noclip
+
+> 电子游戏关卡的数字博物馆 , 该项目包含了很多游戏的场景模型 , 可在线自由浏览
+>
+> https://github.com/magcius/noclip.website
+
+### ts-node
+
+> 可直接在 Node.js 上执行 TypeScript 代码的库
+>
+> 通过 JIT 方式将 TypeScript 代码转换成 JavaScript , 实现不需要预编译即可在 Node.js 上运行 TypeScript 代码
+>
+> https://github.com/TypeStrong/ts-node
+
+
+
+
+
+
+
