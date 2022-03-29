@@ -6761,7 +6761,7 @@ Julia
 >
 > 作者认为现在主流的编辑器都基于 Electron , 而它依赖于 Chromium 实例
 >
-> 这样会造成性能损耗 , RAM 使用过高，从而编辑器不能充分利用所有的系统资源，所以他萌生了开发 CodeEdit 的念头。目前该项目尚未发布版本，可通过源码编译来试运行。从项目 logo 设计风格来说，🤔 延续了之前苹果 icon 的设计风格
+> 这样会造成性能损耗 , RAM 使用过高 , 从而编辑器不能充分利用所有的系统资源 , 所以他萌生了开发 CodeEdit 的念头。目前该项目尚未发布版本 , 可通过源码编译来试运行。从项目 logo 设计风格来说 , 🤔 延续了之前苹果 icon 的设计风格
 >
 > https://github.com/CodeEditApp/CodeEdit
 
@@ -6775,8 +6775,311 @@ Julia
 
 ### OneFile
 
-> OneFile 汇集了仅一个文件，好玩的开源项目
+> OneFile 汇集了仅一个文件 , 好玩的开源项目
 >
 > 这里有游戏 , 编译器 , 服务器 , 工具 , 实用库等 , 它们运行简单 , 甚至复制代码就能跑
 >
 > https://github.com/521xueweihan/OneFile
+
+### hashcat
+
+> 一款强大的密码恢复工具
+>
+> 破解速度超快支持多种算法 , 适用于 Linux , macOS 和 Windows 操作系统
+>
+> ```shell
+> 安装：brew install hashcat
+> 常用参数：
+> -a  指定破解模式：“-a 0”字典攻击 , “-a 1” 组合攻击；“-a 3”掩码攻击
+> -m  指定要破解的 hash 类型：默认为 MD5
+> --force 忽略破解过程中的警告
+> 
+> 常用破解模式：
+> 0：Straight（字典破解）
+> 1：Combination（组合破解）
+> 3：Brute-force（掩码暴力破解）
+> 6：Hybrid Wordlist + Mask（字典+掩码破解）
+> 7：Hybrid Mask + Wordlist（掩码+字典破解）
+> 
+> 常用掩码设置：
+> l：纯小写字母 abcdefghijklmnopqrstuvwxyz
+> u：纯大写字母 ABCDEFGHIJKLMNOPQRSTUVWXYZ
+> d：纯数字 0123456789
+> 
+> 举例：破解 8 位数字密码
+> hashcat -a 3 -m 0 --force 0D7002A70CCDE8BF4BA2A4A5572A85E9(密码md5字符串) ?l?l?l?l?l
+> ```
+>
+> https://github.com/hashcat/hashcat
+
+### reptyr
+
+> 能够把旧终端运行中的程序 , 迁移到新终端窗口的实用工具
+>
+> 只需要使用神奇的 `reptyr PID` 语句即可
+>
+> https://github.com/nelhage/reptyr
+
+### PluginCore
+
+>适用于 ASP.NET Core 的轻量级插件框架
+>
+>开箱即用自带插件管理 Web 界面
+>
+>https://github.com/yiyungent/PluginCore
+
+### Log
+
+> 浏览器 console.log  风格的 CSS 库
+>
+> https://github.com/adamschwartz/log
+
+### hh-lol-prophet
+
+> 英雄联盟对局先知工具
+>
+> 免费合法不封号 , 原理是基于 LOL 客户端接口获取用户数据 , 实现开局前对玩家信息分析和打分
+>
+> https://github.com/real-web-world/hh-lol-prophet
+
+### Gota
+
+> Go 语言的数据处理库
+>
+> 该库提供了类似 Python 语言 Pandas 库的功能 , 以及 Series 和 DataFrames 的数据结构 , 支持用列的方式高效地处理数据
+>
+> https://github.com/go-gota/gota
+
+### illustrated-tls
+
+> 图解 TLS 连接
+>
+> 用在线交互的方式讲解 TLS 的全过程 , 从建立 TLS 1.2 客户端发送 ping 再到接收 pong , 详细到每一个字节
+>
+> https://github.com/syncsynchalt/illustrated-tls
+
+### gse
+
+> Go 的高性能多语言分词库
+>
+> 它是结巴分词的 Go 语言实现 , 支持中文和接入 ES 等功能
+>
+> https://github.com/go-ego/gse
+
+### LSPosed
+
+> 运行于 Android 操作系统的钩子框架
+>
+> 支持 Android 8-12 系统 , 能够拦截几乎所有 Java 函数的调用 , 从而可被用来修改 Android 系统和软件的功能
+>
+> https://github.com/LSPosed/LSPosed
+
+### supertokens-core
+
+> 开源的身份验证方案
+>
+> 为你的应用轻松增加登录 , 会话管理等功能 , 支持自行搭建服务
+>
+> 可用作 Auth0 的开源替代品
+>
+> https://github.com/supertokens/supertokens-core
+
+### charts
+
+> 简单 , 零依赖 , 响应式的 SVG 图表库
+>
+> https://github.com/frappe/charts
+
+### lax.js
+
+> 用于滚动时创建平滑和好看动画的库
+>
+> 简单轻量仅 4KB 大小 , 但功能齐全且灵活
+>
+> https://github.com/alexfoxy/lax.js
+
+### Chameleon
+
+> 一端所见即多端所见
+>
+> 适应不同环境的跨端整体解决方案 , 支持 Web , 小程序 , 快应用 等平台
+>
+> https://github.com/didi/chameleon
+
+### reveal.js
+
+> 一款 HTML 演示框架
+>
+> 让你摆脱传统死板的 PPT 制作方法 , 可以方便地使用 HTML , Markdown 语言制作 PPT
+>
+> https://github.com/hakimel/reveal.js
+
+### tinykeys
+
+> 极小的键盘事件监听库
+>
+> https://github.com/jamiebuilds/tinykeys
+
+### compose-tetris
+
+> 基于 Jetpack Compose 的俄罗斯方块游戏
+>
+> 这是一个 Kotlin 项目
+>
+> https://github.com/vitaviva/compose-tetris
+
+### HBDNavigationBar
+
+> 自定义 UINavigationBar 的组件 , 用于各种状态之间平滑切换
+>
+> 这是一个 Objective-C 项目
+>
+> https://github.com/listenzz/HBDNavigationBar
+
+### saleor
+
+> 用 Python 开发的电商平台
+>
+> 采用 Django+GraphQL API+React 构建 , 功能丰富支持移动端 , 订单 , 商品 , 用户管理等
+>
+> https://github.com/saleor/saleor
+
+### Pokete
+
+> 运行在终端里的口袋妖怪类游戏
+>
+> 虽然游戏图像采用简单的 ASCII 码构建 , 但商店 , 小精灵 , 对战等功能一应俱全
+>
+> ```python
+> 运行方法：
+> # pip install scrap_engine
+> $ git clone https://github.com/lxgr-linux/pokete.git
+> $ ./pokete/pokete.py
+> ```
+>
+> https://github.com/lxgr-linux/pokete
+
+### tiptop
+
+> 炫酷的命令行系统监控工具
+>
+> ```python
+> 安装：pip install tiptop
+> 运行：tiptop
+> ```
+>
+> https://github.com/nschloe/tiptop
+
+### rembg
+
+> 简单实用的删除图像背景/抠图工具
+>
+> ```python
+> from rembg import remove
+> from PIL import Image
+> 
+> input_path = 'input.png'
+> output_path = 'output.png'
+> 
+> input = Image.open(input_path)
+> output = remove(input)
+> output.save(output_path)
+> ```
+>
+> https://github.com/danielgatis/rembg
+
+### textdistance
+
+> 计算文本距离的常用算法库
+>
+> 包含计算文本相似度 , 多样性 , 编辑距离 , 压缩等多种算法
+>
+> 所有算法均采用 Python 实现 , 容易理解调用方便
+>
+> ```python
+> import textdistance
+> textdistance.hamming.normalized_similarity('test', 'text')
+> # 相似度为 0.75
+> ```
+>
+> https://github.com/life4/textdistance
+
+### english-words
+
+> 大型英语单词文本
+>
+> 它是基于 WordNet 英语词汇数据库整理的文本文件 , 可用于英语自动提示 , 自动搜索等功能
+>
+> https://github.com/dwyl/english-words
+
+### design-patterns-for-humans
+
+> 人人都能看懂的设计模式教程 , 设计模式看这个就够了
+>
+> https://github.com/kamranahmedse/design-patterns-for-humans
+
+### Learn-Vim
+
+> 学习 Vim 的指南
+>
+> 该教程不是 “ 大而全的百科全书 ” , 它着重介绍了 Vim 中最常用的功能 , 让你可以快速熟悉和使用 Vim
+>
+> https://github.com/iggredible/Learn-Vim
+
+### electerm
+
+> 一款支持 SSH/SFTP 的终端工具
+>
+> 支持中文和 Windows , Linux , macOS 操作系统
+>
+> https://github.com/electerm/electerm
+
+### blog-os
+
+> 用 Rust 从零开发一个操作系统的教程
+>
+> 保姆级教程 !
+>
+> 从空文件夹开始 , 一步步搭建开发环境 , 通过原理描述 , 代码示例讲解操作系统背后的原理
+>
+> 硬要说缺点的话就是教程是英文的 , 但是配上代码示例读起来不是很费劲
+>
+> https://github.com/phil-opp/blog_os
+
+### Deep-Learning-with-TensorFlow-book
+
+>TensorFlow 深度学习书籍
+>
+>https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book
+
+### microfrontends
+
+> 《微前端的那些事儿》 
+>
+> 将 Web 应用由单一的单体应用 , 转变为多个小型前端应用聚合为一的应用
+>
+> https://github.com/phodal/microfrontends
+
+### deep-learning-for-image-processing
+
+> 深度学习在图像处理方面的教程
+>
+> 该项目配以视频的方式介绍知识点和搭建方法 , 对应的 PTT 在 course_ppt 目录下
+>
+> https://github.com/WZMIAOMIAO/deep-learning-for-image-processing
+
+### awesome-automl-papers
+
+> 汇集了自动机器学习 ( AutoML ) 相关的论文 , 文章 , 教程等资源的项目
+>
+> https://github.com/hibayesian/awesome-automl-papers
+
+### jina
+
+> 一款易用的神经搜索框架
+>
+> 神经搜索是指用非结构化数据 , 搜索非结构化数据
+>
+> Jina 简化了神经搜索系统的搭建流程 , 使开发者可以快速构建以图搜图 , 以文字搜图 , 问答机器人 , 照片去重 , 海量标签分类等应用
+>
+> https://github.com/jina-ai/jina
