@@ -7127,3 +7127,73 @@ Julia
 > 中华人民共和国法律手册 , 可快速查找某条法律法规
 >
 > https://github.com/RanKKI/LawRefBook
+
+### reddit-place-script-2022
+
+> Place 协作绘画 , 通过绘制画布的某个模块用户参与其制作
+>
+> 一张画布有多种元素组成 , 有人将乔布斯绘制进去 , 也有人绘制了海贼王罗杰 , 也有人加入了阿根廷国旗
+>
+> reddit-place-script-2022 则是让你能快速绘制像素画的小工具 , 有了它就能在 Reddit 的 Place 下绘制一幅画
+>
+> https://github.com/rdeepak2002/reddit-place-script-2022
+
+### kestra
+
+> Kestra 是一个无限可伸缩的编排和调度平台 , 可以创建 , 运行 , 调度和监控数以百万计的复杂管道
+>
+> 特性 : 
+>
+> - 支持任意工作流
+> - 易上手
+> - 易扩展
+> - 多种触发机制 , 可通过 API , schedule , 检测 , 事件等形式触发执行
+> - 丰富的用户界面
+>
+> https://github.com/kestra-io/kestra
+
+### V
+
+> 了解一个不新的编译语言 : v , 它简单 , 快速 , 安全 , 用于开发可维护的软件
+>
+> v 可在 < 1s 内编译本身 , 且不存在库依赖关系
+>
+> 此外 , 该语言还具有一些有意思的特性 : 
+>
+> 无空值 , 无全局变量 , 无未定义行为 , 默认不可变 , 跨平台 , 内置 ORM 等等
+>
+> https://github.com/vlang/v
+
+### mantine
+
+> Mantine 是个 React 组件库 , 包含 120+ 可定制组件和 Hook , 支持暗黑主题
+>
+> 你可以按需勾选所需组件 , 并快速构建全能的 Web 应用
+>
+> https://github.com/mantinedev/mantine
+
+### Amplication
+
+> Amplication 可帮助 Node.js 从业人员开发高质量 Node.js 应用程序 , 而无需花费时间在重复的编码任务上
+>
+> Amplication 可自动生成用 TypeScript 和 Node.js 构建的后端应用 , 以及用 React 构建的客户端
+>
+> https://github.com/amplication/amplication
+
+### Windows10Debloater
+
+> Windows10Debloater 可用来删除 Windows 预安装不必要的应用程序
+>
+> 停止部分遥测功能以及阻止 Cortana 作为搜索引擎 , 禁用不必要的计划任务等等
+>
+> https://github.com/Sycnex/Windows10Debloater
+
+### eCapture
+
+> 通过 eBPF 捕获没有 CA 证书的 SSL/TLS 文本内容 , 项目特性 :
+>
+> - SSL/HTTPS 数据导出功能 , 针对 HTTPS 的数据包抓取 , 不需要导入 CA 证书
+> - `bash` 的命令捕获 , HIDS 的 `bash` 命令监控解决方案
+> - MySQL 等数据库的数据库审计解决方案
+>
+> https://github.com/ehids/ecapture
