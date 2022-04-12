@@ -7197,3 +7197,41 @@ Julia
 > - MySQL 等数据库的数据库审计解决方案
 >
 > https://github.com/ehids/ecapture
+
+### OpenBB Terminal
+
+> 一个非常棒的股票和加密市场终端 , 允许散户们利用先进的数据科学和计算机技术来进行投资
+>
+> 它开放了对 Pandas , Numpy , Scipy , Jupyter , Pytorch , Tensorflow , Sklearn 等等框架的支持
+>
+> https://github.com/OpenBB-finance/OpenBBTerminal
+
+### JavaScript-testing-best-practices
+
+> 收录截止到 2022.04 全面而翔实的 JavaScript 和 Node.js 测试最佳实践
+>
+> 当中包括各类 JS , Node.js 可靠性指南
+>
+> https://github.com/goldbergyoni/javascript-testing-best-practices
+
+### Hackathon Starter
+
+> hackathon-starter 一个 Node.js 应用程序模版 , 具有以下特性 :
+>
+> - 邮箱和密码进行本地身份验证
+> - 支持 Twitter , Google , GitHub , Linkedin , Instagram 等第三方登录验证
+> - Flash 通知
+> - MVC 项目结构
+> - 支持 Node.js 集群
+> - 可通过中间件自动编译 Sass 样式表
+> - 支持表格信息收集
+>
+> https://github.com/sahat/hackathon-starter
+
+### pkg
+
+> pkg 命令接口可让你把 Node.js 项目打包成可执行文件 , 甚至在没有安装 Node.js 的设备上运行
+>
+> 值得注意的是 , pkg 本身是为了在容器中使用的 , 所以并不提倡在无服务器环境中用 pkg
+>
+> https://github.com/vercel/pkg
