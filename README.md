@@ -7235,3 +7235,75 @@ Julia
 > 值得注意的是 , pkg 本身是为了在容器中使用的 , 所以并不提倡在无服务器环境中用 pkg
 >
 > https://github.com/vercel/pkg
+
+### fd
+
+> fd 是一个命令行工具 , 提供了多种方便的选项进行文件的搜索 , 而且默认是彩色输出
+>
+> 项目本身是由 Rust 语言编写的 , 作为系统级编程语言 Rust 拥有媲美 C++ 的运行速度
+>
+> 更优秀的是 , 它提供了强大功能方便用户按照各种条件进行搜索
+>
+> https://github.com/sharkdp/fd
+
+### A Little Game Called Mario
+
+> 项目作者提倡任何人都加入到这个以马里奥 Mario 为主角的游戏中 , 项目采用了游戏引擎 Godot 编写
+>
+> 如果你玩过 Switch 的马里奥制造 , 这个同马里奥制造类似
+>
+> 你可以设计你自己的马里奥游戏
+>
+> 包括 Dance Mario , Sokoban Mario , Flappy Mario, 都是一些经典游戏同 Mario 结合的成果
+>
+> https://github.com/a-little-org-called-mario/a-little-game-called-mario
+
+### httpie
+
+> httpie 是一个命令行 HTTP 客户端 , 支持 JSON , 自定义颜色 , 会话 , 下载 , 插件等特性
+>
+> 它是为测试 , 调试和与 API 和 HTTP 服务器交互而设计的
+>
+> 其中 `http` 和 `https` 命令允许创建和发送任意的 HTTP 请求
+>
+> https://github.com/httpie/httpie
+
+### Personal Security Checklist
+
+> personal-security-checklist 是一个包含 300+ 安全技巧的清单
+>
+> 以保护你的数字信息 ( 包括授权认证 , 邮件 , 信息 , 媒体 , 手机 ) 安全和隐私
+>
+> https://github.com/Lissy93/personal-security-checklist
+
+### RisingWave
+
+> risingwave 是国内 singularity-data 开源的云流数据库 , 使用 SQL 作为接口语言
+>
+> 流数据库是以动态的连续数据流作为基本对象 , 以实时性作为主要特征的数据库
+>
+> https://github.com/singularity-data/risingwave
+
+### Lexical
+
+> lexical 一个可扩展的 JavaScript 网页文本编辑器框架
+>
+> 旨在提供可靠性 , 可访问性和高性能的文本编辑服务
+>
+> 你可以将它当作你的网页文本编辑器 , 可以通过 https://lexical.dev/ 在线体验它的特性
+>
+> https://github.com/facebook/lexical
+
+### Excelize
+
+> excelize 允许你用 Golang 语言来读写 Microsoft Excel ( XLAM/XLSM/XLSX/ XLTM/XLTX )
+>
+> https://github.com/qax-os/excelize
+
+### funNLP
+
+> 在入门到熟悉 NLP 的过程中 , 项目作者用到了很多 GitHub 上的包 , 遂在 funNLP 项目中整理了一下
+>
+> 项目收录了包括 : 中英文敏感词 , 语言检测 , 中外手机号 , 电话归属地 , 运营商查询 , 名字推断性别在内的 300+ 种 NLP 项目
+>
+> https://github.com/fighting41love/funNLP
