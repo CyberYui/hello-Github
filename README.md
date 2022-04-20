@@ -7307,3 +7307,9 @@ Julia
 > 项目收录了包括 : 中英文敏感词 , 语言检测 , 中外手机号 , 电话归属地 , 运营商查询 , 名字推断性别在内的 300+ 种 NLP 项目
 >
 > https://github.com/fighting41love/funNLP
+
+### UserScript
+
+> 自动翻页油猴脚本的编写者 , 提供了他自己常用的一些油猴脚本
+>
+> https://github.com/XIU2/UserScript
