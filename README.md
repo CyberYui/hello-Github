@@ -7313,3 +7313,53 @@ Julia
 > 自动翻页油猴脚本的编写者 , 提供了他自己常用的一些油猴脚本
 >
 > https://github.com/XIU2/UserScript
+
+### HowToLiveLonger
+
+> HowToLiveLonger 程序员延寿指南
+>
+> 分析了 ACM ( All-Cause Mortality/全因死亡率 ) 相关的文献
+>
+> 总结在饮食 , 营养物质 , 药物 , 运动 , 情绪等方面 , 如何进行才能更稳健地活着增加寿命
+>
+> https://github.com/geekan/HowToLiveLonger
+
+### 30-seconds-of-code
+
+> 30-seconds-of-code 收录了大量 JS 代码片段 , 而这些代码片段可能会解决前端工程师的需求问题
+>
+> 在线访问 https://www.30secondsofcode.org/ 可搜索相关的 feature 对应的代码片段
+>
+> https://github.com/30-seconds/30-seconds-of-code
+
+### Grasscutter
+
+> Grasscutter 再现 Steam 的割草游戏
+>
+> 玩家需要控制割草机清除变异的青草  , 并躲避障碍物和四处横行的草怪
+>
+> https://github.com/Grasscutters/Grasscutter
+
+### Memray
+
+> Memray 是 Python 的内存分析器
+>
+> 它可以跟踪 Python 代码 , 本地扩展模块和 Python 解释器本身中的内存分配
+>
+> https://github.com/bloomberg/memray
+
+### iRingo
+
+> iRingo 解锁完整的 Apple 功能和集成服务
+>
+> 适用于 iOS/iPadOS/macOS/watchOS , 支持 macOS 12.3/iOS 15.4/iOS 14.8
+>
+> https://github.com/VirgilClyne/iRingo
+
+### Warp
+
+> Warp 一款基于现代 Rust GPU 加速高颜值终端 , 可以让你和你的团队更高效
+>
+> 具有快速 , 安全的特性 , 兼容 zsh , fish , bash 等终端
+>
+> https://github.com/warpdotdev/Warp
