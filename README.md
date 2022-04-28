@@ -6788,25 +6788,25 @@ Julia
 > 破解速度超快支持多种算法 , 适用于 Linux , macOS 和 Windows 操作系统
 >
 > ```shell
-> 安装：brew install hashcat
-> 常用参数：
-> -a  指定破解模式：“-a 0”字典攻击 , “-a 1” 组合攻击；“-a 3”掩码攻击
-> -m  指定要破解的 hash 类型：默认为 MD5
+> 安装 : brew install hashcat
+> 常用参数 : 
+> -a  指定破解模式 : “-a 0”字典攻击 , “-a 1” 组合攻击；“-a 3”掩码攻击
+> -m  指定要破解的 hash 类型 : 默认为 MD5
 > --force 忽略破解过程中的警告
 > 
-> 常用破解模式：
-> 0：Straight（字典破解）
-> 1：Combination（组合破解）
-> 3：Brute-force（掩码暴力破解）
-> 6：Hybrid Wordlist + Mask（字典+掩码破解）
-> 7：Hybrid Mask + Wordlist（掩码+字典破解）
+> 常用破解模式 : 
+> 0 : Straight（字典破解）
+> 1 : Combination（组合破解）
+> 3 : Brute-force（掩码暴力破解）
+> 6 : Hybrid Wordlist + Mask（字典+掩码破解）
+> 7 : Hybrid Mask + Wordlist（掩码+字典破解）
 > 
-> 常用掩码设置：
-> l：纯小写字母 abcdefghijklmnopqrstuvwxyz
-> u：纯大写字母 ABCDEFGHIJKLMNOPQRSTUVWXYZ
-> d：纯数字 0123456789
+> 常用掩码设置 : 
+> l : 纯小写字母 abcdefghijklmnopqrstuvwxyz
+> u : 纯大写字母 ABCDEFGHIJKLMNOPQRSTUVWXYZ
+> d : 纯数字 0123456789
 > 
-> 举例：破解 8 位数字密码
+> 举例 : 破解 8 位数字密码
 > hashcat -a 3 -m 0 --force 0D7002A70CCDE8BF4BA2A4A5572A85E9(密码md5字符串) ?l?l?l?l?l
 > ```
 >
@@ -6951,7 +6951,7 @@ Julia
 > 虽然游戏图像采用简单的 ASCII 码构建 , 但商店 , 小精灵 , 对战等功能一应俱全
 >
 > ```python
-> 运行方法：
+> 运行方法 : 
 > # pip install scrap_engine
 > $ git clone https://github.com/lxgr-linux/pokete.git
 > $ ./pokete/pokete.py
@@ -6964,8 +6964,8 @@ Julia
 > 炫酷的命令行系统监控工具
 >
 > ```python
-> 安装：pip install tiptop
-> 运行：tiptop
+> 安装 : pip install tiptop
+> 运行 : tiptop
 > ```
 >
 > https://github.com/nschloe/tiptop
@@ -7363,3 +7363,288 @@ Julia
 > 具有快速 , 安全的特性 , 兼容 zsh , fish , bash 等终端
 >
 > https://github.com/warpdotdev/Warp
+
+### LVGL
+
+> 美观易用的轻量级嵌入式系统图形库
+>
+> - 拥有丰富的图形组件 : 按键 , 图表 , 图片等
+> - 支持多种输入设备 : 触摸屏 , 键盘 , 按键等
+> - 最低资源占用 : 64 kB ROM , 16 kB RAM
+> - 不依赖特定的硬件平台 , 可在多种显示屏上运行
+> - 支持多语种 : 中文 , 韩文 , 阿拉伯文等
+> - 丰富详细的示例
+>
+> https://github.com/lvgl/lvgl
+
+### uthash
+
+> 为 C 语言提供哈希表的库
+>
+> 由于 C 语言中没有类似字典的数据结构 , 该库提供了哈希表常见的查询 , 插入 , 删除 , 排序等函数
+>
+> 使用方法简单 , 仅需引入一个头文件
+>
+> https://github.com/troydhanson/uthash
+
+### warpd
+
+> 用键盘代替鼠标的工具
+>
+> 拥有多种操作模式比如方向键移动鼠标和区域选择 , 但仅支持 Linux 和 macOS 系统
+>
+> https://github.com/rvaiya/warpd
+
+### Cytopia
+
+> 免费开源的像素风模拟城市建设游戏
+>
+> https://github.com/CytopiaTeam/Cytopia
+
+### FileCentipede
+
+> 一个用 C++ 和 Qt 编写的跨平台文件下载器
+>
+> 它界面简洁 , 下载速度快 , 支持多协议 , 还有浏览器插件可用来下载网页中的视频和音频
+>
+> https://github.com/filecxx/FileCentipede
+
+### ydb
+
+> Yandex 开源的企业级分布式 SQL 数据库
+>
+> 具有高可用 , 易扩展 , 事务 , 强一致性 , 灾后自动恢复等特点
+>
+> 提供 Web 平台方便查询以及 Go , Java , Python , JavaScript  等多种编程语言 SDK
+>
+> https://github.com/ydb-platform/ydb
+
+### simple.css
+
+> 超轻量级的 CSS 框架
+>
+> 不引入新的样式类 , 仅把 HTML 元素设为合理值
+>
+> 从而实现仅用 HTML 元素就可以构建美观 , 响应式的网页
+>
+> https://github.com/kevquirk/simple.css
+
+### monitoror
+
+> 平铺的监控工具
+>
+> 安装简单配置方便的 “ 监控墙 ” , 所有监控指标以平铺的方式展示 , 美观且一目了然
+>
+> 支持 Linux , macOS 和 Windows 主流操作系统
+>
+> https://github.com/monitoror/monitoror
+
+### grose
+
+> 由 Go 语言实现的推荐系统引擎
+>
+> 无需具备推荐系统相关知识 , 就能轻而易举地搭建推荐系统
+>
+> 开发者只需将用户信息 , 物料信息和互动数据 ( 例如点赞 , 收藏等 ) 导入系统 , Gorse 就会自动训练模型为每个用户生成推荐
+>
+> https://github.com/gorse-io/gorse
+
+### lal
+
+> 纯 Go 开发的流媒体服务器
+>
+> 完备的直播服务器 , 支持多种常见编码格式和 RTMP , RTSP , HLS 等协议
+>
+> https://github.com/q191201771/lal
+
+### Casdoor
+
+> 提供登陆界面的身份访问管理平台
+>
+> 提供中文界面的用户管理后台 , 支持多种第三方登录 , 单点登录以及手机/邮箱验证码 , 找回密码等功能
+>
+> https://github.com/casdoor/casdoor
+
+### Guice
+
+> 轻量级 Java 依赖注入框架
+>
+> 不需要大量的模版代码 , 即可编写依赖注入的代码
+>
+> 使开发和调试更容易 , 更快速 , 适合个人开发者在小项目中使用
+>
+> https://github.com/google/guice
+
+### databasir
+
+> 一款数据库模型文档管理平台
+>
+> 支持自动同步数据库元数据并生成文档 , 解决数据模型文档管理中的内容更新不及时等问题
+>
+> https://github.com/vran-dev/databasir
+
+### streamx
+
+> Flink/Spark 极速开发框架 , 一站式流数据处理平台
+>
+> 提供开箱即用的流式大数据开发体验 , 可在平台上统一管理配置 , 开发 , 测试 , 部署 , 监控 , 运维的整个过程
+>
+> https://github.com/streamxhub/streamx
+
+### stendhal
+
+> 一款免费 , 开源的多人在线冒险 ( MMORPG ) 游戏
+>
+> 项目采用 Java 语言编写 , 虽然游戏画面复古还是 2D 但拥有数百种物品 , 怪物 , NPC , 任务和自由交易组成的丰富世界
+>
+> 玩家可以通过完成任务得到经验和金钱 , 更新装备逐渐变强探索更多新的地图
+>
+> 该游戏从 2005 年开源持续维护至今
+>
+> https://github.com/arianne/stendhal
+
+### nanoid
+
+> 用于生成随机 ID 的 JS 库
+>
+> - 小巧 : 无依赖 , 仅 130 字节
+> - 快速 : 比 UUID 快 60%
+> - 安全 : 加密的强随机 API , 可在集群中使用
+> - 紧凑 : 它使用比 UUID 更大的字母表
+> - 易用 : 已移植到 20 多种编程语言
+>
+> https://github.com/ai/nanoid
+
+### cnchar
+
+> 小巧的汉字处理 JS 库
+>
+> 支持简体字拼音 , 多音字 , 笔画数等功能
+>
+> https://github.com/theajack/cnchar
+
+### Rough.js
+
+> 手绘风格的图形库
+>
+> 可以让你用素描 , 类似手绘的风格来绘制图形
+>
+> https://github.com/rough-stuff/rough
+
+### hammerspoon
+
+> 强大的 macOS 自动化工具
+>
+> 通过该项目可以方便地用 Lua 脚本与 macOS 系统 API 进行交互
+>
+> 实现操作窗口 , 鼠标 , 文件系统 , 屏幕等功能
+>
+> 可用于打造各种 macOS 便捷工具
+>
+> https://github.com/Hammerspoon/hammerspoon
+
+### pikepdf
+
+> 用于读取和写入 PDF 文件的 Python 库
+>
+> https://github.com/pikepdf/pikepdf
+
+### docker-py
+
+> 用 Python 操作 Docker 的库
+>
+> Docker 官方出品的 Python 库 , 可以用来批量 , 自动管理镜像
+>
+> https://github.com/docker/docker-py
+
+### pinry
+
+> 分享图片的开源网站
+>
+> 该项目前后端分离采用 Vue.js + Django 等技术栈 , 网站以平铺的方式展示图片
+>
+> 支持浏览 , 上传和搜索图片以及管理后台 , 个人页 , 增加标签等功能
+>
+> https://github.com/pinry/pinry
+
+### modin
+
+> 更快 , 类似 pandas 的数据处理和分析库
+>
+> 底层通过 Ray 或 Dask 加速计算 , 上层兼容大部分 pandas API
+>
+> 所以使用起来十分简单 , 仅需更改一行代码即
+>
+> https://github.com/modin-project/modin
+
+### WordPress-iOS
+
+> 官方开源的 WordPress iOS 客户端
+>
+> https://github.com/wordpress-mobile/WordPress-iOS
+
+### iRedMail
+
+> 开箱即用的免费邮件服务器
+>
+> 通过该项目可以快速在 Linux/BSD 上部署邮件服务 , 除此之外还拥有 Web 管理平台 , 数据均存储在服务器上 , 即保证了数据隐私还易于迁移和备份
+>
+> https://github.com/iredmail/iRedMail
+
+### RedisInsight
+
+> 官方开源的 Redis 桌面管理工具
+>
+> 提供了可视化操作界面 , 监控 , 内存分析 , 管理 Redis 集群等功能
+>
+> https://github.com/RedisInsight/RedisInsight
+
+### getwidget
+
+> 免费开源的 Flutter UI 库
+>
+> 包含 1000 多种常用组件 , 帮你快速 , 轻松地构建 Flutter 应用
+>
+> https://github.com/ionicfirebaseapp/getwidget
+
+### SmartIDE
+
+> 快速搭建云开发环境的工具
+>
+> 不需要手动安装任何工具 , SDK , 编辑器和设置环境变量等繁琐操作
+>
+> 一条命令即可获得所需的开发环境和 IDE , 轻松实现云端开发
+>
+> https://github.com/SmartIDE/SmartIDE
+
+### vcard-personal-portfolio
+
+> 用来展示个人信息的网站
+>
+> https://github.com/codewithsadee/vcard-personal-portfolio
+
+### awk
+
+> 《AWK 程序设计语言》中文翻译
+>
+> https://github.com/wuzhouhui/awk
+
+### Tensorflow-Internals
+
+> 《TensorFlow 内核剖析》
+>
+> 通过剖析 TF 源码的方式 , 介绍它的架构 , 领域模型 , 工作原理等知识
+>
+> 虽然讲解的 1.2 版本已经过时 , 但仍然可以用来了解知名机器学习框架的内部原理
+>
+> https://github.com/horance-liu/tensorflow-internals
+
+### rCore-Tutorial-Book-v3
+
+> 用 Rust 语言从零开始写一个基于 RISC-V 架构的类 Unix 内核
+>
+> 清华大学开源的中文教程 , 从计算机发展历史开始科普 , 一步步说到为何操作系统会诞生 , 以及现代操作系统必须具备的特性
+>
+> 实践方面也是从空文件夹开始 , 像搭乐高积木一样 , 慢慢将操作系统的核心开发出来 , 教程读起来简直像看小说一样让人欲罢不能
+>
+> https://github.com/rcore-os/rCore-Tutorial-Book-v3
