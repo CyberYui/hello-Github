@@ -7707,3 +7707,54 @@ Julia
 > 有了 FanControl.Release , 你就可以定制你自己的 Windows 风扇控制软件
 >
 > https://github.com/Rem0o/FanControl.Releases
+
+### gradio
+
+> Gradio 是个可视化工具 , 以便让你的机器学习模型快速创建漂亮的用户界面
+>
+> 你可轻松地在浏览器中演示训练模型 , 或通过拖拽图像 , 粘贴文本 , 录制音频等方式“尝试”并查看模型的输出
+>
+> https://github.com/gradio-app/gradio
+
+### DALLE2-pytorch
+
+> DALLE2-pytorch 用 Pytorch 实现了 OpenAI 文本到图片的 DALL-E 2
+>
+> 即基于已有图片进行二次创作生成不同风格的图像变体
+>
+> https://github.com/lucidrains/DALLE2-pytorch
+
+### jsonhero-web
+
+> JSON Hero 是一个开源 , 高颜值的 JSON 浏览器 , 可以让你快速浏览 , 搜索和浏览 JSON 文件 , 特性 :
+>
+> - 多种 JSON 查看方式 : 列视图 , 树视图 , 编辑器视图
+> - 自动推断字符串内容 , 并提供有用的预览
+> - 创建推断 JSON Schema 来校验 JSON
+> - 快速扫描相关值来检查边缘情况
+> - 支持键值来检索 JSON 文件
+> - 键盘可访问
+> - 路径支持可轻松共享 url
+>
+> https://github.com/jsonhero-io/jsonhero-web
+
+### Directus
+
+> Directus 一个管理 SQL 数据库的实时 API 和应用程序仪表板 , 特性 :
+>
+> - REST & GraphQL API : 在任意 SQL 数据库上快速创建 Node.js API
+> - 纯 SQL 管理 : 适用于所有 SQL 数据库 , 无迁移成本
+> - 支持多款 SQL 数据库 : MySQL , PostgreSQL 等等
+> - 支持本地或者云上使用
+> - 可扩展 , 支持自定义；
+> - 先进仪表盘 : 无代码 Vue.js 应用无需培训成本即可上手
+>
+> https://github.com/directus/directus
+
+### tmagic-editor
+
+> tmagic-editor 可视化开源项目是从魔方平台演化而来的开源项目
+>
+> 即通过可视化的操作快速搭建网页
+>
+> https://github.com/Tencent/tmagic-editor
