@@ -7648,3 +7648,62 @@ Julia
 > 实践方面也是从空文件夹开始 , 像搭乐高积木一样 , 慢慢将操作系统的核心开发出来 , 教程读起来简直像看小说一样让人欲罢不能
 >
 > https://github.com/rcore-os/rCore-Tutorial-Book-v3
+
+### Spacedrive
+
+> Spacedrive 是个跨平台文件资源管理器 , 由用 Rust 写的虚拟分布式文件系统 VDFS 提供技术支持
+>
+> 无论是云端 , 还是本地硬盘 , Spacedrive 可将多个设备的文件组合变成你私人的分布式云
+>
+> 值得一提的是 , 该项目开源不到一周获得了超过 7k 的 star , 可见其受欢迎程度
+>
+> https://github.com/spacedriveapp/spacedrive
+
+### PyScript
+
+> PyScript 是 Scratch , JSFiddle 或其他“易用”的编程框架的 Python 替代品
+>
+> 它让 Web 成为一个友好的 , 可攻击的 , 任何人都可以编写有趣的交互式应用程序的地方
+>
+> 参考下方示例即可使用 PyScript
+>
+> ```html
+> <link rel="stylesheet" href="https://pyscript.net/alpha/pyscript.css" />
+> <script defer src="https://pyscript.net/alpha/pyscript.js"></script>
+> ```
+>
+> https://github.com/pyscript/pyscript
+
+### mastodon
+
+> mastodon 是一个开源的社交网络服务 , 支持发布文本 , 视频 , 图片等内容形式
+>
+> 它基于 ActivityPub ( 用于构建去中心化社交网络应用的协议 ) , 用户可以关注并发现新朋友
+>
+> 注意 , 这里的微博为 microblogging 的直译 , 而非 Weibo 的意思
+>
+> https://github.com/mastodon/mastodon
+
+### jsonvisio
+
+> jsonvisio 是 JSON 数据可视化工具
+>
+> 它可以无缝地在图形上展示数据 , 而无需重构任何东西 , 直接粘贴或导入文件即可
+>
+> 如它的 logo 所示 , 它的数据将变成类树形呈现
+>
+> https://github.com/AykutSarac/jsonvisio.com
+
+### fleet
+
+> Fleet 是 Rust 的快速构建工具
+>
+> Fleet 编译比 `cargo` 编译快 5 倍
+>
+> https://github.com/dimensionhq/fleet
+
+### FanControl.Releases
+
+> 有了 FanControl.Release , 你就可以定制你自己的 Windows 风扇控制软件
+>
+> https://github.com/Rem0o/FanControl.Releases
