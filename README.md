@@ -7782,3 +7782,46 @@ Julia
 > - 博客自定义主题, 实现高度定制化
 >
 > https://github.com/leanote/leanote
+
+### Gogs
+
+> Gogs 是一款极易搭建的自助 Git 服务 , 特性 :
+>
+> - 控制面板 , 用户页面以及活动时间线
+> - 通过 SSH , HTTP 和 HTTPS 协议操作仓库
+> - 管理用户 , 组织和仓库
+> - 仓库和组织级 Webhook , 包括 Slack , Discord 和钉钉
+> - 仓库 Git 钩子 , 部署密钥和 Git LFS
+> - 仓库工单 ( Issue ), 合并请求 ( Pull Request ), Wiki , 保护分支和多人协作
+> - 从其它代码平台迁移和镜像仓库以及 Wiki
+> - 在线编辑仓库文件和 Wiki
+>
+> https://github.com/gogs/gogs
+
+### Bash-Oneliner
+
+> 一组方便的 Bash 单命令行程序和终端技巧 , 用于数据处理和 Linux 系统维护
+>
+> 项目作者通过整理日常的工作和 LPIC 考试中遇到命令汇集本项目
+>
+> 比如下方的快捷命令 :
+>
+> ```bash
+> Ctrl + n : same as Down arrow.
+> Ctrl + p : same as Up arrow.
+> Ctrl + r : begins a backward search through command history.(keep pressing Ctrl + r to move backward)
+> Ctrl + s : to stop output to terminal.
+> Ctrl + q : to resume output to terminal after Ctrl + s.
+> Ctrl + a : move to the beginning of line.
+> Ctrl + e : move to the end of line.
+> ```
+>
+> https://github.com/onceupon/Bash-Oneliner
+
+### Supabase
+
+> supabase 是一个开源的 Firebase 替代品
+>
+> 使用 Postgres 数据库 , 身份验证 , 即时 API , 实时订阅和存储启动项目
+>
+> https://github.com/supabase/supabase
