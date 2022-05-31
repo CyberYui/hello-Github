@@ -7895,3 +7895,471 @@ Julia
 > 兼容大多数的邮箱供应商 , 包括 Gmail 和 Outlook 等厂家
 >
 > https://github.com/M66B/FairEmail
+
+### entr
+
+> 在文件有改动时自动触发任意命令的工具
+>
+> 采用 kqueue 或 inotify 事件通知接口监听文件改动事件 , 避免轮询造成的资源浪费
+>
+> 可用于实现自动编译 , 重启 , 测试 , 同步等功能
+>
+> https://github.com/eradman/entr
+
+### open-gpu-kernel-modules
+
+> 英伟达开源的 Linux GPU 内核驱动
+>
+> https://github.com/NVIDIA/open-gpu-kernel-modules
+
+### sioyek
+
+> 免费开源的 PDF 阅读器
+>
+> 支持交互式快速搜索文档
+>
+> 而且就算文档中的引用没有链接也可以直接跳转
+>
+> 特别适合 PC 端阅读和研究论文 , 技术文档等
+>
+> https://github.com/ahrm/sioyek
+
+### ServerStatus
+
+> 多服务器云监控
+>
+> 轻松监控多台服务器状态的工具 , 用于解决多个不同平台下的服务器状态监控问题
+>
+> https://github.com/cppla/ServerStatus
+
+### FreeRDP
+
+> 完全免费的远程桌面管理工具
+>
+> 此项目为远程桌面协议 ( RDP ) 的一个开源实现
+>
+> 通过它可以轻松实现 macOS 或 Linux 远程操作 Windows 桌面系统
+>
+> 反之亦可 , 使用起来十分方便和流畅
+>
+> https://github.com/FreeRDP/FreeRDP
+
+### TowerDefense-GameFramework-Demo
+
+> 开源的塔防游戏示例
+>
+> 此项目主要用来上手和学习基于 Unity 引擎的游戏框架 GameFramework
+>
+> https://github.com/DrFlower/TowerDefense-GameFramework-Demo
+
+### Cpp_Primer_Practice
+
+> 《C++ Primer》中文版第 5 版的学习笔记
+>
+> 该项目不仅包含学习笔记还有课后习题的答案
+>
+> https://github.com/applenob/Cpp_Primer_Practice
+
+### serenity
+
+> 开源桌面操作系统
+>
+> 一款披着复古外衣现代的类 Unix 开源操作系统
+>
+> 从内核到 Web 浏览器均采用 C++ 编写
+>
+> 没有依赖现成的第三方库
+>
+> https://github.com/SerenityOS/serenity
+
+### polybar
+
+> 超酷的 Linux 桌面状态栏工具 , 使用时无需精通 shell 就能上手
+>
+> https://github.com/polybar/polybar
+
+### weui
+
+> 微信开源的原生基础样式库
+>
+> 为微信内网页和小程序量身设计的样式库
+>
+> 包括按钮 , 徽章 , 进度条 , 图标 , 对话框等各式元素
+>
+> https://github.com/Tencent/weui
+
+### httprunner
+
+> 开源的 API 测试工具 , 支持丰富的网络协议
+>
+> 涵盖接口测试 , 性能测试等测试类型的测试工具
+>
+> - 多种网络协议 : 支持 HTTP(S)/HTTP2/WebSocket/RPC 等
+> - 多格式可选 : 测试用例支持 YAML/JSON/go test/pytest 格式
+> - 双执行引擎 : 同时支持 Golang/Python 两个执行引擎
+> - 一键部署 : 一条命令在 macOS/Linux/Windows 完成安装部署
+> - 网络性能采集 : 在场景化接口测试的基础上 , 可额外采集网络链路性能指标
+>
+> https://github.com/httprunner/httprunner
+
+### fx
+
+> 命令行 JSON 浏览工具
+>
+> 看似简单却十分实用的 JSON 命令行查询工具 , 支持流式和交互式两种查询方式
+>
+> https://github.com/antonmedv/fx
+
+### ants
+
+> 高性能 goroutine 池
+>
+> 实现了大规模下的 goroutine 调度和复用
+>
+> 还有如任务提交 , 动态调整 pool 大小 , 查询运行状态等实用接口
+>
+> https://github.com/panjf2000/ants
+
+### jclasslib
+
+> Java 字节码浏览器
+>
+> 支持可视化操作 , 查看 , 编辑编译好的 Java 类文件的开发工具
+>
+> https://github.com/ingokegel/jclasslib
+
+### Ruoyi
+
+> 开箱即用的权限管理系统
+>
+> 基于 SpringBoot 开发的后台管理系统
+>
+> 包含用户管理 , 部门管理 , 角色管理 , 登录日志 , 定时任务 , 服务监控等功能
+>
+> 可以用来快速构建 CMS , CRM , OA 等系统
+>
+> https://github.com/yangzongzhuan/RuoYi
+
+### Shardingsphere
+
+> 一套开源的分布式数据库增强计算引擎
+>
+> 可将多种数据库转换为分布式数据库的生态系统
+>
+> https://github.com/apache/shardingsphere
+
+### hertzbeat
+
+> 易用友好的云监控系统
+>
+> 适用于应用服务 , 数据库 , 网站 , API , 操作系统等监控的场景
+>
+> 可以帮助中小型团队快速搭建监控系统
+>
+> https://github.com/dromara/hertzbeat
+
+### fortune-sheet
+
+> 类似 Excel 的电子表格组件
+>
+> 使用简单无需繁琐的配置 , 内置多种 Excel 常用功能
+>
+> 支持在线协同编辑
+>
+> https://github.com/ruilisi/fortune-sheet
+
+### xterm.js
+
+> 功能齐全的终端前端组件
+>
+> 用 TypeScript 编写的前端组件 , 提供了完整的终端功能
+>
+> 支持鼠标事件 , 丰富的 Unicode 支持
+>
+> https://github.com/xtermjs/xterm.js
+
+### WebGAL
+
+> 易于开发的网页端视觉小说引擎
+>
+> 无需开发基础分分钟就能学会所有语法 , 马上开始创作自己的 Galgame
+>
+> https://github.com/MakinoharaShoko/WebGAL
+
+### bytemd
+
+> 掘金社区开源的 Markdown 编辑器组件
+>
+> 基于 Svelte 构建的 Markdown 编辑器组件 , 功能齐全还可以通过插件扩展功能
+>
+> 默认安全且兼容 SSR , 适用于 React , Vue 和 Angular 框架
+>
+> https://github.com/bytedance/bytemd
+
+### PermissionX
+
+> 解决 Android 运行时权限的库
+>
+> 时至今日它依旧在持续更新
+>
+> https://github.com/guolindev/PermissionX
+
+### Flarum framework
+
+> 简约大方的论坛项目
+>
+> 这是一个用 PHP+Mithril 开发的免费 , 美观 , 简单 , 速度快的论坛系统
+>
+> https://github.com/flarum/framework
+
+### pyenv
+
+> 简单易用的 Python 版本管理工具
+>
+> 它支持 global , local , shell 三种模式
+>
+> 开发者可以根据情况灵活地切换不同的 Python 版本 , 这一切仅需一条命令
+>
+> ```shell
+> 安装 pyenv：brew install pyenv
+> 安装 Python：pyenv install 3.10.4
+> 切换版本：pyenv shell｜local｜global
+> shell：当前 shell
+> local：当前目录
+> global：全局
+> ```
+>
+> https://github.com/pyenv/pyenv
+
+### Archery
+
+> 在线 SQL 审核平台
+>
+> 采用 Django+Bootstrap 框架开发而成
+>
+> 支持 MySQL , Oracle 等数据库的 SQL 上线 , 备份 , 慢日志查询等功能
+>
+> https://github.com/hhyo/Archery
+
+### xxh
+
+> 在 SSH 服务器时带上自己喜欢的 shell
+>
+> xxh 可以把你最喜欢的 shell 带到任何地方
+>
+> https://github.com/xxh/xxh
+
+### Handright
+
+> 模拟手写体中文的 Python 库
+>
+> 基于 PIL 开发实现的工具库
+>
+> 能够输出手写体中文的图片 , 支持自定义背景图
+>
+> https://github.com/Gsllchb/Handright
+
+### OneForAll
+
+> 功能强大的子域收集工具
+>
+> 具有强大的子域收集能力 , 支持子域验证 , 速度快等特点的子域扫描工具
+>
+> https://github.com/shmilylty/OneForAll
+
+### solidus
+
+> 开源的简约电商平台
+>
+> 基于 Ruby on Rails 构建的电商平台 , 界面清爽代码完全开源
+>
+> https://github.com/solidusio/solidus
+
+### mdBook
+
+> Rust 官方开源的 Markdown 电子书构建工具
+>
+> 类似 Gitbook 可以将 Markdown 文件制作成在线书籍
+>
+> 简单易用非常适合创建教程 , 课程材料 , 开源书籍等文稿
+>
+> https://github.com/rust-lang/mdBook
+
+### TermiWatch
+
+> 终端风格的 iWatch 手表面
+>
+> https://github.com/kuglee/TermiWatch
+
+### opensource.guide
+
+> GitHub 官方的开源指南
+>
+> 为想学习如何创建和贡献开源项目的个人 , 社区和公司提供的资源集合
+>
+> https://github.com/github/opensource.guide
+
+### A-Programmers-Guide-to-English
+
+> 专为程序员编写的英语学习指南
+>
+> 一位程序员提升英语水平的实践经验分享 , 还有相关训练方法和用到的工具
+>
+> https://github.com/yujiangshui/A-Programmers-Guide-to-English
+
+### code996
+
+> 根据 git 的提交时间推断工作强度的工具
+>
+> 通过分析 git 提交记录 , 得出是否加班 , 工作强度的可视化图表的工具
+>
+> https://github.com/hellodigua/code996
+
+### Thanks-Mirror
+
+> 国内公共仓库镜像的集合
+>
+> 该项目包含开发常用的库 , 软件 , 系统镜像地址以及使用的方法
+>
+> https://github.com/eryajf/Thanks-Mirror
+
+### flutter_floatwing
+
+> Flutter 的 Android 浮动窗口插件
+>
+> 该插件能够让开发者使用 Flutter 完成浮动窗口的功能开发
+>
+> 同时无需任何原生 Android 开发的背景
+>
+> https://github.com/jiusanzhou/flutter_floatwing
+
+### wechat-report
+
+> 自制微信聊天年度报告
+>
+> 教你如何生成和女朋友微信聊天记录的年度报告项目
+>
+> https://github.com/myth984/wechat-report
+
+### TCP-IP-NetworkNote
+
+> 《TCP/IP 网络编程》学习笔记
+>
+> 除了笔记还包含书中的代码实现和课后习题回答
+>
+> https://github.com/riba2534/TCP-IP-NetworkNote
+
+### machine-learning-yearning-cn
+
+> 《Machine Learning Yearning》中文版
+>
+> 《机器学习训练秘籍》样稿吴恩达著
+>
+> https://github.com/deeplearning-ai/machine-learning-yearning-cn
+
+### mindsdb
+
+> 用 SQL 开启机器学习的数据库
+>
+> 把机器学习引入 SQL 数据库将模型作为虚拟表 ( AI-table ) 从而省去了数据准备 , 预处理等步骤
+>
+> 可以直接用 SQL 查询时间序列 , 回归 , 分类预测的结果 , 实现简化机器学习开发流程的效果
+>
+> https://github.com/mindsdb/mindsdb
+
+### machine_learning_complete
+
+> 全面的机器学习教程库
+>
+> 一份包含 30 多个 Jupyter Notebook 的集合库
+>
+> 内容涵盖机器学习所需的 Python 基础 , 数据操作 , 清洗 , 分析 , 可视化常用的库和工具
+>
+> 以及经典机器学习 , NLP , 计算机视觉等算法
+>
+> 一份面面俱到的机器学习入门教程
+>
+> https://github.com/Nyandwi/machine_learning_complete
+
+### HumanSystemOptimization
+
+> 人体系统调优不完全指南 , 收录了一系列日常生活指南
+>
+> 像组成原理一样 , 我们也可以系统 , 科学地调优我们的人体系统 , 更好地生活工作
+>
+> 本指南特殊的地方在于 , 它会讲日常实践背后的原理
+>
+> https://github.com/zijie0/HumanSystemOptimization
+
+### beautify-github-profile
+
+> 试试 beautify-github-profile , 你可以用一套齐全的 GitHub 个人主页美化工具以及美化指南来“装扮”主页
+>
+> https://github.com/rzashakeri/beautify-github-profile
+
+### payload
+
+> 一个采用 TypeScript , Express , MongoDB , React 实现的内容管理系统
+>
+> 它的特点是——Code First , 换而言之你可以用代码实现你想要做的事情
+>
+> 除了使用特点 , Payload 支持本地存储 , 多版本 , 草稿箱 , 富文本编辑等等特性。
+>
+> https://github.com/payloadcms/payload
+
+### flipper
+
+> Flipper 是 Facebook 开源的面向移动端开发人员的调试平台
+>
+> 适用 iOS 和 Android 开发 , 还支持了浏览器 , Node.js 相关 JS 应用调试
+>
+> 作为一个调试工具 , 它集成了日志查看 , 布局检测 , 性能监控等功能
+>
+> 除了自带功能 , 它也支持你开发自己的插件来可视化 , 调试移动端应用程度的数据
+>
+> https://github.com/facebook/flipper
+
+### MuJoCo
+
+> MuJoCo 是一个开源的多关节动力学物理引擎
+>
+> 可以应用在生物力学 , 机器人 , 图形 , 动画方面开发的物理模拟
+>
+> MuJoCo 的 runtime 模拟模块经过调优能最大限度地提高性能
+>
+> 并对内置 XML 编译器预先分配的底层数据结构进行操作
+>
+> MuJoCo 包含原生 GUI 可在 OpenGL 中渲染
+>
+> 此外 , 它还提供了 Unity 游戏引擎的 Python 绑定和插件
+>
+> https://github.com/deepmind/mujoco
+
+### jakt
+
+> Jakt 是一种内存安全的系统编程语言 , 它目前被转换为 C++ , 它的设计目标是 :
+>
+> - 内存安全
+> - 代码易读
+> - 提升开发效率
+> - 高性能
+> - 有趣
+>
+> 在 Jakt 中声明结构有 2 种方式 : `struct` 和 `class` , 下面为 struct 的基本语法
+>
+> ```javascript
+> struct Point {
+>     x: i64
+>     y: i64
+> }
+> ```
+>
+> https://github.com/SerenityOS/jakt
+
+### paopao-ce
+
+> PaoPao 是一个用 Gin , ZinC , Vue , TS 实现的推特风格的微社区
+>
+> 想了解一个微社区是如何实现 , 不妨看看这个项目
+>
+> https://github.com/rocboss/paopao-ce
