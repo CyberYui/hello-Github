@@ -7825,3 +7825,73 @@ Julia
 > 使用 Postgres 数据库 , 身份验证 , 即时 API , 实时订阅和存储启动项目
 >
 > https://github.com/supabase/supabase
+
+### the-super-tiny-compiler
+
+> 一个仅 1000 行左右的迷你编译器
+>
+> 注释占了代码量的 80% , 实际代码只有 200 行
+>
+> 完整地实现了编译器所需基本功能
+>
+> https://github.com/jamiebuilds/the-super-tiny-compiler
+
+### PINBALL
+
+> 使用 Flutter 和 Firebase 实现的弹珠游戏 pinball
+>
+> 你可访问 https://pinball.flutter.dev/ 在线体验该款游戏
+>
+> https://github.com/flutter/pinball
+
+### nowinandroid
+
+> nowinandroid 一个完全由 Kotlin 和 Jetpack Compose 构建的功能完整的 Android 应用程序
+>
+> 它遵循 Android 设计和开发的最佳实践 , 旨在为开发者提供有用的参考
+>
+> https://github.com/android/nowinandroid
+
+### samples
+
+> Samples 收录了大量 Flutter 编写的示例
+>
+> 可以学习下来 pick Flutter 的最佳实践
+>
+> https://github.com/flutter/samples
+
+### mitmproxy2swagger
+
+> 一个自动转换 mitmproxy 捕获到 OpenAPI 3.0 规范的工具
+>
+> 你可以通过运行应用程序并捕获流量来自动反向工程 REST API
+>
+> https://github.com/alufers/mitmproxy2swagger
+
+### Runestone
+
+> Runestone 是一个适用于 iOS 的高性能纯文本编辑器
+>
+> 具有语法高亮显示 , 行号 , 不可见字符等特性
+>
+> https://github.com/simonbs/Runestone
+
+### LiveTerm
+
+> LiveTerm 让你快速搭建一个终端风格的网站
+>
+> 具有高度可定制 , 易用等特性
+>
+> 它由 Next.js 提供支持
+>
+> 而你拥有这么一个有意思的网站 , 只需要处理一个 `config.json` 文件
+>
+> https://github.com/Cveinnt/LiveTerm
+
+### FairEmail
+
+> FairEmail 是一款功能齐全 , 面向隐私的 Android 邮件程序
+>
+> 兼容大多数的邮箱供应商 , 包括 Gmail 和 Outlook 等厂家
+>
+> https://github.com/M66B/FairEmail
