@@ -8371,3 +8371,58 @@ Julia
 > 想了解一个微社区是如何实现 , 不妨看看这个项目
 >
 > https://github.com/rocboss/paopao-ce
+
+### chinese-programmer-wrong-pronunciation
+
+> 它收录了部分容易读错音的单词
+>
+> 像是 Admin , AJAX , LINQ , Main…以及大部分单词
+>
+> 例如 Kubernetes 在用 Kube 简写时的特殊读音
+>
+> https://github.com/shimohq/chinese-programmer-wrong-pronunciation
+
+### auto-animate
+
+> auto-animate 一个零配置 , 开箱即用的动画工具
+>
+> 可流畅运行在你的 Web 应用中
+>
+> 可同 React , Vue 或者是其他 Javascript 程序一起使用
+>
+> 只用一行代码 , 你可以实现列表排序 , 增减选项等等功能
+>
+> https://github.com/formkit/auto-animate
+
+### GitNoter
+
+> GitNoter 是一个 Web 应用 , 允许用户在自己的 git 仓库中存储笔记 , 特性 :
+>
+> - GitHub 登录
+> - 高颜值的操作界面
+> - 支持 Markdown 语法
+> - 支持 Markdown 预览
+> - 剪切板功能可快速拷贝代码段
+> - 直接在根目录存储笔记
+> - 笔记设有缓存以避免额外的 API 调用
+> - urls 可添加书签
+>
+> https://github.com/git-noter/gitnoter
+
+### dashy
+
+> dashy 是一个服务自托管启动页
+>
+> 它可方便让你通过图标访问对应应用 , 也可以通过搜索等常规方式找寻应用
+>
+> 它可将你所有同防火墙 , DNS 等等相关的服务汇集在一处 , 方便你访问
+>
+> 最重要的是 , 这大概是我见过最好看的服务管理工具了
+>
+> https://github.com/Lissy93/dashy
+
+### DeepFaceLive
+
+> DeepFaceLive 支持你在 流媒体/视频通话 时实时换脸
+>
+> https://github.com/iperov/DeepFaceLive
