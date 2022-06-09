@@ -8426,3 +8426,9 @@ Julia
 > DeepFaceLive 支持你在 流媒体/视频通话 时实时换脸
 >
 > https://github.com/iperov/DeepFaceLive
+
+### SpleeterGUI
+
+> 用来分离人声和乐器声音的音频提取软件 , 十分好用 , 借用了 Python 的 Spleeter 库
+>
+> https://github.com/thooore/SpleeterGUI
