@@ -3219,7 +3219,7 @@ Julia
 >
 > GTK : https://www.gtk.org/
 >
-> GTK+（GIMP Toolkit)是一套源码以LGPL许可协议分发 , 跨平台的图形工具包
+> GTK+ ( GIMP Toolkit)是一套源码以LGPL许可协议分发 , 跨平台的图形工具包
 >
 > 最初是为 GIMP 写的 , 现在已成为一个功能强大 , 设计灵活的通用图形库
 >
@@ -4572,7 +4572,7 @@ Julia
 >
 > 设置好后 , 它将覆盖你所有的家用设备
 >
-> 你不需要任何客户端软件 , 它作为一个 DNS 服务器 , 将跟踪域（你设置的）重定向到一个“黑洞” , 从而阻止你的设备连接到那些服务器
+> 你不需要任何客户端软件 , 它作为一个 DNS 服务器 , 将跟踪域 ( 你设置的 ) 重定向到一个“黑洞” , 从而阻止你的设备连接到那些服务器
 >
 > https://github.com/AdguardTeam/AdGuardHome
 
@@ -5444,7 +5444,7 @@ Julia
 
 > 提供了读/写多种文档文件格式的 PHP 库
 >
-> 支持 Microsoft Office , 富文本（RTF）等文档格式
+> 支持 Microsoft Office , 富文本 ( RTF ) 等文档格式
 >
 > https://github.com/PHPOffice/PHPWord
 
@@ -5504,7 +5504,7 @@ Julia
 
 ### KOReader
 
-> 电子墨水（E-Ink）设备的开源阅读软件
+> 电子墨水 ( E-Ink ) 设备的开源阅读软件
 >
 > 适用于 Kindle , Kobo , PocketBook , Android 和 Linux 等设备
 >
@@ -5534,7 +5534,7 @@ Julia
 
 ### School of SRE
 
-> 领英开源的成为 SRE（网站可靠性工程师）的入门级教程
+> 领英开源的成为 SRE ( 网站可靠性工程师 ) 的入门级教程
 >
 > 内容涵盖 Web , Linux , Git , 计算机网络 , 数据库 , 安全等方面
 >
@@ -6189,7 +6189,7 @@ Julia
 
 > Trilium Notes 是一个分层的笔记应用程序 , 专注于建立大型个人知识库 , 特性 :
 >
-> - 笔记可以排列成任意深的树 , 单个笔记可以放在树中的多个位置（请参阅克隆）
+> - 笔记可以排列成任意深的树 , 单个笔记可以放在树中的多个位置 ( 请参阅克隆 ) 
 > - 丰富的所见即所得笔记编辑功能 , 包括带有markdown自动格式化功能的表格 , 图像和数学
 > - 支持编辑使用源代码的笔记 , 包括语法高亮显示
 > - 笔记之间快速导航 , 全文搜索和笔记挂起
@@ -6425,7 +6425,7 @@ Julia
 
 ### jjwt
 
-> 适用于 Java 和 Android 的 JWT（JSON Web Token）库
+> 适用于 Java 和 Android 的 JWT ( JSON Web Token ) 库
 >
 > https://github.com/jwtk/jjwt
 
@@ -6457,7 +6457,7 @@ Julia
 >
 > 一款适合程序员的笔记工具 , 拥有和其它工具不一样的体验
 >
-> - 技术笔记 : 可直接在文档中运行代码块（默认支持 JS 代码 , 其它语言需配置）
+> - 技术笔记 : 可直接在文档中运行代码块 ( 默认支持 JS 代码 , 其它语言需配置 ) 
 > - 制作辅助工具 : 可在文档中嵌入 HTML 组件来制作辅助工具
 > - 画图和图表 : 支持嵌入多种图形 , 思维导图 , Plantunl , Drawio , Mermaid  , ECharts
 > - 工作日报 : 支持任务代办列表 , 使用“宏替换”功能可以方便地生成日报周报
@@ -6803,11 +6803,11 @@ Julia
 > --force 忽略破解过程中的警告
 > 
 > 常用破解模式 : 
-> 0 : Straight（字典破解）
-> 1 : Combination（组合破解）
-> 3 : Brute-force（掩码暴力破解）
-> 6 : Hybrid Wordlist + Mask（字典+掩码破解）
-> 7 : Hybrid Mask + Wordlist（掩码+字典破解）
+> 0 : Straight ( 字典破解 ) 
+> 1 : Combination ( 组合破解 ) 
+> 3 : Brute-force ( 掩码暴力破解 ) 
+> 6 : Hybrid Wordlist + Mask ( 字典+掩码破解 ) 
+> 7 : Hybrid Mask + Wordlist ( 掩码+字典破解 ) 
 > 
 > 常用掩码设置 : 
 > l : 纯小写字母 abcdefghijklmnopqrstuvwxyz
@@ -8540,7 +8540,7 @@ Julia
 > - 可在多个不同数据库间比较数据差异 , 比如 : PostgreSQL → Snowflake ;
 > - 输出详细的行差异 ;
 > - 提供简单 CLI 和 API 用来监控和预警 ;
-> - 桥接（转换）列的数据类型以及精度 , 比如 : double 到 float 到十进制的互相转换 ;
+> - 桥接 ( 转换 ) 列的数据类型以及精度 , 比如 : double 到 float 到十进制的互相转换 ;
 > - 在 10s 内处理表中超 10 亿行数据 ;
 >
 > https://github.com/datafold/data-diff
@@ -8796,3 +8796,77 @@ Julia
 > 实现更轻松 , 快速地浏览英文网站 , 文章等内容的功能
 >
 > https://github.com/ansh/jiffyreader.com
+
+### checkchan-dist
+
+> 网页内容监控工具
+>
+> 能监测网页内容变化 , 并发送异动通知
+>
+> 可用来跟踪网站内容 , 追番剧和小说
+>
+> https://github.com/easychen/checkchan-dist
+
+### cpp-game-engine-book
+
+> 《游戏引擎浅入浅出》
+>
+> 该书介绍了如何从零制作一个完整的游戏引擎
+>
+> 内容包含从基础的环境搭建 , 到后面的骨骼动画 , 多线程渲染 , 阴影实现等方面
+>
+> https://github.com/ThisisGame/cpp-game-engine-book
+
+### huatuo
+
+> huatuo 是一个零成本 , 高性能 , 低内存占用的 Unity 全平台原生 C# 热更方案
+>
+> huatuo 扩充了 IL2CPP 的代码
+>
+> 使它由纯 AOT Runtime 变成 'AOT+Interpreter' 混合 Runtime
+>
+> 进而原生支持动态加载 Assembly , 使得基于 IL2CPP backend 打包的游戏能
+>
+> 在 Android , iOS , Consoles 等限制 JIT 的平台上高效地以 AOT+interpreter 混合模式执行
+>
+> 从而 , 从底层彻底地支持热更新
+>
+> https://github.com/focus-creative-games/huatuo
+
+### gophish
+
+> Gopish 是一个开源的网络钓鱼工具包 , 专为企业和渗透测试人员设计
+>
+> 它有极易上手的快速入门教程 , 并提高你的“钓鱼”和安全意识的能力
+>
+> https://github.com/gophish/gophish
+
+### PicoBoot
+
+> PicoBoot 让你可用 Raspberry Pi Pico ( 树莓派 Pico ) 替代 NGC ( Nintendo GameCube ) 的IPL 芯片
+>
+> 这样你只要花 6 刀 , 折合人民币 40 元左右购入树莓派 Pico 相当于有了一台游戏机
+>
+> 可以玩 NGC 的游戏 , 比如 : 塞尔达 , 马里奥赛车等等
+>
+> https://github.com/webhdx/PicoBoot
+
+### Storybook
+
+> Storybook 是一个 UI 组件的开发环境
+>
+> 有了它 , 你可以浏览组件库 , 查看每个组件的不同状态 , 并交互式地开发和测试组件
+>
+> https://github.com/storybookjs/storybook
+
+### Fresh
+
+> Fresh 是下一代 Web 框架 , 具有快速 , 可靠 , 简洁等特性 :
+>
+> - 边缘的即时渲染 ;
+> - Runtime 零开销：默认情况下不存在 JS 客户端的传输 ;
+> - 没有构建环节 ;
+> - 免配置 ;
+> - 开箱即用 , 支持 TS ;
+>
+> https://github.com/denoland/fresh
