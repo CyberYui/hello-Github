@@ -6798,7 +6798,7 @@ Julia
 > ```shell
 > 安装 : brew install hashcat
 > 常用参数 : 
-> -a  指定破解模式 : “-a 0”字典攻击 , “-a 1” 组合攻击；“-a 3”掩码攻击
+> -a  指定破解模式 : “-a 0”字典攻击 , “-a 1” 组合攻击 ;“-a 3”掩码攻击
 > -m  指定要破解的 hash 类型 : 默认为 MD5
 > --force 忽略破解过程中的警告
 > 
@@ -7754,7 +7754,7 @@ Julia
 > - 纯 SQL 管理 : 适用于所有 SQL 数据库 , 无迁移成本
 > - 支持多款 SQL 数据库 : MySQL , PostgreSQL 等等
 > - 支持本地或者云上使用
-> - 可扩展 , 支持自定义；
+> - 可扩展 , 支持自定义 ;
 > - 先进仪表盘 : 无代码 Vue.js 应用无需培训成本即可上手
 >
 > https://github.com/directus/directus
@@ -8432,3 +8432,367 @@ Julia
 > 用来分离人声和乐器声音的音频提取软件 , 十分好用 , 借用了 Python 的 Spleeter 库
 >
 > https://github.com/thooore/SpleeterGUI
+
+### nginxconfig.io
+
+> 通过 nginxconfig 你可以了解 Nginx 的工作原理 , 以及你输入的参数是如何影响整个 Web 服务的
+>
+> 此外 , nginxconfig 会根据你的需求生成最佳配置文件 , 让你更方便地使用 Nginx
+>
+> https://github.com/digitalocean/nginxconfig.io
+
+### svg-spinners
+
+> SVG Spinners 收录了一组 24x24 的旋转器 , 可用在你的页面中
+>
+> BTW , 项目开源不到 1 周已经获得近 3k 的 star
+>
+> https://github.com/n3r4zzurr0/svg-spinners
+
+### Lorien
+
+> Lorien 是一个基于 Godot 的白板应用 , 适用于 macOS , Windows 和 Linux
+>
+> 作为一个不限画布大小的绘图和白板应用 , 你可以用它来记录你的疯狂 idea
+>
+> 脑暴时以此为记录工具 , 也可以当作工作和学习中的笔记工具 , Lorien 有高性能 , 易用等特性
+>
+> https://github.com/mbrlabs/Lorien
+
+### Swifter Swift
+
+> SwifterSwift 是 500 多个原生 Swift 扩展的集合 , 
+>
+> 为 iOS , macOS , tvOS , watchOS 和 Linux 提供了适用于各种原生数据类型
+>
+> 以及 UIKit 和 Cocoa 类的便捷方法 , 语法糖和性能改进
+>
+> https://github.com/SwifterSwift/SwifterSwift
+
+### SQLite
+
+> SQLite 是一个小巧的数据库
+>
+> 如果你是个移动端研发人员 , 一定对这个轻巧的库有印象 , 它被集成在应用程序中
+>
+> 而 SQLite.swift 则是基于 SQLite3 的 Swift 层 , 提供了 SQL 语句和解析上的“编译信心”
+>
+> https://github.com/stephencelis/SQLite.swift
+
+### siyuan
+
+> 思源笔记是一款本地优先的个人知识管理系统 , 支持细粒度块级引用和 Markdown 所见即所得
+>
+> https://github.com/siyuan-note/siyuan
+
+### jak-project
+
+> PS2 经典游戏 Jak and Daxter 不知道你玩过没
+>
+> jak-project 用定制版的 Lisp 语言 GOAL 让经典游戏重现 PC 端
+>
+> 你可以在 Linux 和 Windows 上玩这款游戏
+>
+> https://github.com/open-goal/jak-project
+
+### pingu
+
+> 我们见过很多终端美化器 , 而 pingu 是一个特定命令的美化工具
+>
+> 当你尝试在终端 ping 某个服务 , 例如 GitHub 时 , 你将会得到一只和你 say hey 的小企鹅
+>
+> https://github.com/sheepla/pingu
+
+### T3
+
+> t3 全称 tooll 3 , 是个实时动画工具包
+>
+> 你可以在诸如 VS Code , 或者是 Rider 之类的 IDE 中使用它
+>
+> 有了它 , 你可以生成各种酷炫的动画
+>
+> https://github.com/still-scene/t3
+
+### lean-side-bussiness
+
+> 这是作者继《程序员如何优雅地挣零花钱》之后的升级版
+>
+> 在实际案例中 , 添加「独立开发变现」和「网课变现实践」等实践内容
+>
+> 如果你对副业感兴趣 , 仅供参考打开下副业思路
+>
+> https://github.com/easychen/lean-side-bussiness
+
+### spring-cloud-tencent
+
+> Spring Cloud Tencent 是腾讯开源的一站式微服务解决方案
+>
+> 它实现了 Spring Cloud 标准微服务 SPI
+>
+> 开发者可以基于 Spring Cloud Tencent 快速开发 Spring Cloud 云原生分布式应用
+>
+> https://github.com/Tencent/spring-cloud-tencent
+
+### data-diff
+
+> data-diff 一个用于跨数据库比较数据不同的命令行工具和 Python 库 , 特性 :
+>
+> - 可在多个不同数据库间比较数据差异 , 比如 : PostgreSQL → Snowflake ;
+> - 输出详细的行差异 ;
+> - 提供简单 CLI 和 API 用来监控和预警 ;
+> - 桥接（转换）列的数据类型以及精度 , 比如 : double 到 float 到十进制的互相转换 ;
+> - 在 10s 内处理表中超 10 亿行数据 ;
+>
+> https://github.com/datafold/data-diff
+
+### milvus
+
+> Milvus 一个用于处理非结构化数据检索的搜索引擎
+>
+> 如果你从事深度学习工作 , 对这个向量引擎应该是不陌生的
+>
+> 在 2.0 重构版中 , Milvus 计算和存储分离的架构设计让它更方便地上云
+>
+> 这一点使其成为一款云原生的向量数据库
+>
+> https://github.com/milvus-io/milvus
+
+### a-picture-is-worth-a-1000-words
+
+> 当我们学一门技术的时候 , 一定会做笔记
+>
+> 而这个项目的作者将她学习过程中的技术采用涂鸦的形式记录下来
+>
+> 用简单的涂鸦来记录复杂的知识点
+>
+> 目前项目涉猎了算法 , 前端 , git , 机器学习等技术领域
+>
+> 以及软件使用方法 , 比如 : 微软 Teams 的用法
+>
+> https://github.com/girliemac/a-picture-is-worth-a-1000-words
+
+### Lively
+
+> Windows 动态桌面壁纸工具
+>
+> 支持 Windows 用户设置多种动画文件为桌面壁纸的工具
+>
+> 不仅安装简单效果炫酷 , 而且完全免费
+>
+> https://github.com/rocksdanister/lively
+
+### NES.css
+
+> NES 风格的 CSS 框架
+>
+> NES 就是我们小时候玩的“红白机”
+>
+> 如果你喜欢这种像素风格的画面 , 该项目可以让你轻松实现类似“红白机”复古游戏风格的网页
+>
+> https://github.com/nostalgic-css/NES.css
+
+### navidrome
+
+> Go 写的开源音乐服务器
+>
+> 该项目可以用来搭建自己的音乐网站
+>
+> 功能丰富支持中文界面 , 专辑封面 , 多用户 , 各种音频格式 , 播放列表等功能
+>
+> 而且硬件要求低即使是在树莓派上也能流畅地运行
+>
+> https://github.com/navidrome/navidrome
+
+### natpass
+
+> 多功能主机管理平台
+>
+> Go 写的主机管理 Web 平台
+>
+> 支持 shell 和远程桌面管理 Linux , Windows 和 macOS 系统的主机
+>
+> https://github.com/lwch/natpass
+
+### server
+
+> 多用户的屏幕分享服务
+>
+> 它可以快速启动一个在线共享屏幕的服务
+>
+> 让用户无需安装任何软件 , 仅使用浏览器就能分享自己的屏幕画面
+>
+> 项目基于网页实时通信(WebRTC) 实现
+>
+> 由 STUN/TURN 协议完成内网穿透和浏览器端对端的连接 , 既实用又有源码可以学习
+>
+> https://github.com/screego/server
+
+### go-best-practice
+
+> 编写可维护 Go 代码的建议
+>
+> 《Go 语言最佳实践》一文的中文翻译版
+>
+> https://github.com/llitfkitfk/go-best-practice
+
+### baritone
+
+> Minecraft 游戏机器人
+>
+> 它可以帮你自动完成寻路 , 采集矿石等操作
+>
+> https://github.com/cabaletta/baritone
+
+### cat
+
+> CAT 是基于 Java 开发的实时应用监控平台 , 为美团点评提供了全面的实时监控告警服务。
+>
+> 作为服务端项目基础组件 , 提供了 Java , C/C++ , Node.js , Python , Go 等多语言客户端
+>
+> 已经在美团点评的基础架构中间件框架深度集成
+>
+> 优势是它是一个实时系统
+>
+> CAT 大部分系统是分钟级统计 , 但是从数据生成到服务端处理结束是秒级别
+>
+> 监控数据是全量统计 , 客户端预计算
+>
+> 链路数据是采样计算
+>
+> https://github.com/dianping/cat
+
+### DataX
+
+> 高效的离线数据同步工具 , 阿里开源的数据同步框架
+>
+> 可用于解决各种主流关系数据库 , HDFS , HBase 等数据源之间的数据同步问题
+>
+> https://github.com/alibaba/DataX
+
+### dicebear
+
+> 供设计师和开发者使用的头像库
+>
+> 可根据传入的字符串 , 自动生成对应用户头像的库
+>
+> 还有免费的接口服务 , 支持多种不同的风格
+>
+> 比如 : 像素 , 冒险家 , 标识等
+>
+> https://github.com/dicebear/dicebear
+
+### visual-drag-demo
+
+> 教你做低代码平台的项目
+>
+> 低代码平台的核心功能就是拖拽组件生成页面
+>
+> 该项目用 Vue 实现了一个可视化拖拽组件库
+>
+> 不仅如此还有配套讲解技术要点和原理分析的文章
+>
+> https://github.com/woai3c/visual-drag-demo
+
+### FFCreator
+
+> 轻量级的视频加工库
+>
+> 完全基于 Node.js 实现的快速制作视频的工具
+>
+> 能够根据添加的图片 , 视频和音乐 , 轻松地制作出新的视频
+>
+> https://github.com/tnfe/FFCreator
+
+### DearPyGui
+
+> 强大的 Python GUI 库
+>
+> 底层采用 GPU 渲染提供了卓越的性能
+>
+> 内置多种现成的部件和样式控制 , 文档详细包含丰富的示例 , 可以轻松上手
+>
+> https://github.com/hoffstadt/DearPyGui
+
+### sqlfluff
+
+> SQL 代码风格检查工具
+>
+> 编程语言的 linter 工具随处可见 , 但是少有 SQL 的工具
+>
+> 该项目就是用来检查 , 统一 SQL 代码风格的工具
+>
+> 支持 MySQL , BigQuery , Hive 等多种 SQL 方言
+>
+> https://github.com/sqlfluff/sqlfluff
+
+### nonebot2
+
+> Python 异步聊天机器人框架
+>
+> 该项目基于 Python 的异步特性 , 可以轻松处理大量的消息
+>
+> 提供命令行脚手架 , 支持多种 IM 平台 , 能够快速构建聊天机器人 , 消息通知等项目
+>
+> https://github.com/nonebot/nonebot2
+
+### gollum
+
+> 基于 Git 的轻量级 wiki 系统
+>
+> 后端采用 Ruby 编写 , 然后 Git 作为文件存储的 wiki 系统
+>
+> 功能够用部署简单 , 但界面比较“简朴”
+>
+> https://github.com/gollum/gollum
+
+### SwiftFormat
+
+> 用于格式化 Swift 代码的工具
+>
+> 当多人合作开发项目的时候 , 一致的代码风格就变得至关重要
+>
+> 该项目可以自动统一 Swift 代码风格
+>
+> 支持多种编辑器和命令行方式调用
+>
+> 适用于 macOS 和 Linux , 让 Swift 代码风格统一变得十分简单和方便
+>
+> https://github.com/nicklockwood/SwiftFormat
+
+### WhatsNewKit
+
+> 轻松展示应用新功能的 Swift 组件
+>
+> 当开发者为应用增加了新功能 , 就需要在用户更新后告知新功能和内容
+>
+> 通过该组件可以轻松展示新功能 , 支持高度自定义 , SwiftUI , iOS 和 macOS 系统
+>
+> https://github.com/SvenTiigi/WhatsNewKit
+
+### codi.vim
+
+> 显示每一行代码结果的 Vim 插件
+>
+> 在 Vim 编辑器里交互式展示 , 输入的每一行代码的运行结果
+>
+> 支持如 Python , Ruby , PHP , JavaScript 等多种编程语言
+>
+> https://github.com/metakirby5/codi.vim
+
+### live2d-widget
+
+> 网页的 Live2D 看板娘
+>
+> 通过该项目可以轻松地在网页上 , 添加可爱的“看板娘”
+>
+> https://github.com/stevenjoezhang/live2d-widget
+
+### jiffyreader.com
+
+> 仿生阅读英文的浏览器插件
+>
+> 通过加粗单词的首字母部分提高阅读效率
+>
+> 实现更轻松 , 快速地浏览英文网站 , 文章等内容的功能
+>
+> https://github.com/ansh/jiffyreader.com
