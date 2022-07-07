@@ -8885,7 +8885,7 @@ Julia
 >
 > 💡 发送匹马信息到聊天界面|查看召唤师战绩|查看召唤师绝活英雄|查看召唤师战绩详情
 >
-> https://github.com/java-S12138/frank	
+> https://github.com/java-S12138/frank
 
 ### python-cheatsheet
 
