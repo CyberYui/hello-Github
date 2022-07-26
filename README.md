@@ -9022,3 +9022,135 @@ Julia
 > 不管哪种方式 , 都极客范儿十足
 >
 > https://github.com/chubin/cheat.sh
+
+### RealWorld
+
+>它是一个由多种不同开源框架 , 以单独(前端/后端)或相互组合(全栈)的方式 , 实现一个类似博客的知识分享平台——Conduit 的示例项目集合 , 里面的项目覆盖前端 , 后端 , 客户端方向 , 它们采用不同编程语言的多种知名开源框架实现上述功能的类博客知识平台
+>
+>https://demo.realworld.io/
+>
+>由于内容参差不齐 , 这里将 HelloGitHub 公众号的推荐项目也放上来
+>
+>#### 前端
+>
+>Vue + Vite
+>
+>> 地址：https://github.com/mutoe/vue3-realworld-example-app
+>
+>Vue + Nuxt
+>
+>> 地址：https://github.com/pocojang/nuxt-realworld
+>
+>Angular + NgRx + Nx
+>
+>> 地址：https://github.com/stefanoslig/angular-ngrx-nx-realworld-example-app
+>
+>React + Next + SWR
+>
+>> 地址：https://github.com/reck1ess/next-realworld-example-app
+>
+>#### 后端
+>
+>Python + Django + GraphQL
+>
+>> 地址：https://github.com/ramzitannous/medium-graphql-backend
+>
+>Rust + ActixWeb + Diesel
+>
+>> 地址：https://github.com/snamiki1212/realworld-v1-rust-actix-web-diesel
+>
+>Go + Gin
+>
+>> 地址：https://github.com/gothinkster/golang-gin-realworld-example-app
+>
+>Java + Spring Boot + MyBatis
+>
+>> 地址：https://github.com/gothinkster/spring-boot-realworld-example-app
+>
+>Swift + Vapor
+>
+>> 地址：https://github.com/iq3addLi/swift-vapor-layered-realworld-example-app
+>
+>#### 客户端
+>
+>Kotlin
+>
+>> 地址：https://github.com/coding-blocks-archives/Conduit_Android_Kotlin
+>
+>React Native
+>
+>> 地址：https://github.com/Kisilov-Vadim/realworld
+>
+>更多内容可以查看 : 
+>
+>> https://github.com/search?q=realworld
+
+### DropWizard
+
+> Java 的 RESTful Web 框架 , 用于快速构建框架项目
+>
+> https://github.com/dropwizard/dropwizard
+
+### Bun
+
+> Bun 是用 Zig 编写高性能 JavaScript Runtime
+>
+> 提供了包括打包 , 转译 , 安装和运行 JS , TS 项目的所有功能
+>
+> Bunt 内置原生 Bundler , 编译器 , 任务运行器和 npm 客户端 , 它的一些特性有 :
+>
+> - 支持诸如 fetch , WebSocket 之类的 Web API
+> - 由于它内嵌 JavaScriptCore , 它的性能比 V8 更快速 , 高效 (尽管因此它更加难被嵌入)
+> - JavaScript / TypeScript / JSX transpiler
+> - JavaScript & CSS bundler
+> - package.json 脚本的任务运行器
+> - 兼容 npm 包的包管理器
+>
+> https://github.com/oven-sh/bun
+
+### Discoart
+
+> 有了 DiscoArt , 你一行代码就能用 Disco Diffusion 生成画作
+>
+> 作为一个 AI 方面的图像应用 , 它引入了一些便捷的功能
+>
+> 支持结果复现 , 持久性 , gRPC / HTTP 服务 , 以便集成到更大规模的应用场景下
+>
+> https://github.com/jina-ai/discoart
+
+### PocketBase
+
+> ocketBase 一个开源的 Go 后端 , 具有以下特性 :
+>
+> - 以实时订阅模式内嵌 SQLite 数据库
+> - 内置文件 , 用户管理
+> - 便捷的管理仪表盘
+> - REST-ish API
+>
+> https://github.com/pocketbase/pocketbase
+
+### searxng
+
+> SearXNG 一个免费的互联网元搜索引擎
+>
+> 它聚合来自各种搜索服务和数据库的搜索 ( 查询 ) 结果
+>
+> 使用 SearXNG 的用户既不被跟踪也不被分析 , 所以相对用户隐私安全较高
+>
+> 不过 , 该项目目前遇到比较大的问题是多语言支持问题
+>
+> https://github.com/searxng/searxng
+
+### MassCode
+
+> massCode 允许你使用多级文件夹以及标签来组织代码片段
+>
+> 每个代码片段都有片段-标签 , 这提供了更高层次的组织 , 也更方便你来复用代码
+>
+> https://github.com/massCodeIO/massCode
+
+### create-t3-app
+
+> create-t3-app 让你以最快的方式启动一个独立 , 全栈 , 类型安全 NextJS 应用
+>
+> https://github.com/t3-oss/create-t3-app
