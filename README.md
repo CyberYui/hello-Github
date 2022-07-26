@@ -9170,7 +9170,7 @@ Julia
 > - 编程语言 : Go（94%）
 > - Star 数 : 9.3k
 > - 可替代 : `df` 命令
-> - 介绍 : 通过彩色表格的方式展示磁盘使用情况的工具 , 不仅对设备进行了分类，还支持结果排序 , 
+> - 介绍 : 通过彩色表格的方式展示磁盘使用情况的工具 , 不仅对设备进行了分类 , 还支持结果排序 , 
 > - 用法 : `duf`
 > - 适用平台 : Windows , Linux , macOS
 > - 地址 : https://github.com/muesli/duf
@@ -9180,7 +9180,7 @@ Julia
 > - 编程语言 : Rust（99%）
 > - Star 数 : 3k
 > - 可替代 : `ps` 命令
-> - 介绍 : 能够展示进程占用的 TCP/UDP 端口 , Docker 容器名称等更多信息的命令行进程管理工具，以及轻松地按列排序和关键字过滤进程 , 
+> - 介绍 : 能够展示进程占用的 TCP/UDP 端口 , Docker 容器名称等更多信息的命令行进程管理工具 , 以及轻松地按列排序和关键字过滤进程 , 
 > - 用法 : `procs 待过滤的关键字`
 > - 适用平台 : Linux , macOS 和 Windows 上存在一些问题
 > - 地址 : https://github.com/dalance/procs
@@ -9190,7 +9190,7 @@ Julia
 > - 编程语言 : Rust（99%）
 > - Star 数 : 4.4k
 > - 可替代 : `top` 命令
-> - 介绍 : 图形化实时监控进程和系统资源的工具 , 支持实时展示 CPU , 内存 , 硬盘 , 网络 , 进程 , 温度等指标，而且还可通过插件扩展可视化效果，相较于其它同类型的开源项目，该项目更加活跃 , 
+> - 介绍 : 图形化实时监控进程和系统资源的工具 , 支持实时展示 CPU , 内存 , 硬盘 , 网络 , 进程 , 温度等指标 , 而且还可通过插件扩展可视化效果 , 相较于其它同类型的开源项目 , 该项目更加活跃 , 
 > - 用法 : `btm`
 > - 适用平台 : Windows , Linux , macOS
 > - 地址 : https://github.com/ClementTsang/bottom
@@ -9200,7 +9200,7 @@ Julia
 > - 编程语言 : Rust（92%）
 > - Star 数 : 18.4k
 > - 可替代 : `ls` 命令
-> - 介绍 : 更加人性化地显示目录下文件的工具 , 它通过不同颜色展示来区别文件类型，还支持以树状的方式展示文件层级 , 展示 Git 状态等方便的功能 , 
+> - 介绍 : 更加人性化地显示目录下文件的工具 , 它通过不同颜色展示来区别文件类型 , 还支持以树状的方式展示文件层级 , 展示 Git 状态等方便的功能 , 
 > - 用法 : `exa -l`
 > - 适用平台 : Linux , macOS
 > - 地址 : https://github.com/ogham/exa
@@ -9210,7 +9210,7 @@ Julia
 > - 编程语言 : Rust（98%）
 > - Star 数 : 6.9k
 > - 可替代 : `cd` 命令
-> - 介绍 : 更聪明的 `cd` 命令 , 能够记住你最常使用的目录，从而让目录跳转更加方便和快捷 , 
+> - 介绍 : 更聪明的 `cd` 命令 , 能够记住你最常使用的目录 , 从而让目录跳转更加方便和快捷 , 
 > - 用法 : `z 目录`
 > - 适用平台 : Windows , Linux , macOS
 > - 地址 : https://github.com/ajeetdsouza/zoxide
@@ -9220,7 +9220,7 @@ Julia
 > - 编程语言 : Rust（94%）
 > - Star 数 : 45.6k
 > - 可替代 : `grep` 命令
-> - 介绍 : 超快的文本搜索工具 , 不仅快还更加人性化，比如自动忽略 .gitignore 中的文件 , 自动递归搜索 , 自动高亮展示匹配的结果 , 
+> - 介绍 : 超快的文本搜索工具 , 不仅快还更加人性化 , 比如自动忽略 .gitignore 中的文件 , 自动递归搜索 , 自动高亮展示匹配的结果 , 
 > - 用法 : `rg '关键字' 目录`
 > - 适用平台 : Windows , Linux , macOS
 > - 地址 : https://github.com/BurntSushi/ripgrep
@@ -9240,7 +9240,7 @@ Julia
 > - 编程语言 : Python（92%）
 > - Star 数 : 22.4k
 > - 可替代 : `curl` 和 `wget` 命令
-> - 介绍 : 全能但不臃肿的命令行 HTTP 客户端 , 使用起来极其方便，支持请求 , 会话 , 下载 , JSON 等功能 , 该项目经历了 Star 清零的事件（误操作），这才不到一年的时间，现在已经拥有超过 2 万的 Star 啦！
+> - 介绍 : 全能但不臃肿的命令行 HTTP 客户端 , 使用起来极其方便 , 支持请求 , 会话 , 下载 , JSON 等功能 , 该项目经历了 Star 清零的事件（误操作） , 这才不到一年的时间 , 现在已经拥有超过 2 万的 Star 啦！
 > - 用法 : `http/https 地址`
 > - 适用平台 : Windows , Linux , macOS
 > - 地址 : https://github.com/httpie/httpie
@@ -9254,3 +9254,66 @@ Julia
 > - 用法 : `hyperfine '命令1' '命令2'`
 > - 适用平台 : Windows , Linux , macOS
 > - 地址 : https://github.com/sharkdp/hyperfine
+
+### LOGTO
+
+> 一个验证工具 , 在几分钟内即可构建集登录 , 身份验证和用户身份为一体的系统
+>
+> 它提供基于 OIDC 的身份认证服务和包含用户名 , 电话 , 邮件和社交登录方式的终端体验
+>
+> 并且提供多语言支持 , 特性 :
+>
+> - 集前后端为一体的验证方案
+> - 开箱即用 , 之前需要编写的部分代码现在可以不用写了
+>
+> https://github.com/logto-io/logto
+
+### rust-by-practice
+
+> rust-by-practice 用各类具有挑战性的例子 , 练习 , 项目让你在实践中提升 Rust 编写技能
+>
+> 从而缩短你同 Rust “老手”的距离
+>
+> https://github.com/sunface/rust-by-practice
+
+### trpc
+
+> tRPC 让你更轻松地构建和使用全类型安全的 API , 而不需要模式或代码生成 , 部分特性 :
+>
+> - 可用在生产环境
+> - 无代码 , 运行时膨胀 , 管道构建
+> - 轻量 , DEP 为 0 且客户端痕迹很小
+> - 易于集成到现有的项目中
+> - 支持订阅
+> - 支持批量处理请求
+>
+> https://github.com/trpc/trpc
+
+### how-web-works
+
+> 当你敲下 google.com ( 类似于 baidu.com ) 会发生什么呢 ? 此项目意在解答此类问题
+>
+> 它包含了如何识别键入信息 , 解析 url , 检查 HSTS 列表 , DNS 查找等等在内的 20+ 个过程
+>
+> https://github.com/vasanthk/how-web-works
+
+### pi-hole
+
+> pi-hole 是一个 DNS 漏洞 , 可以保护设备免受“广告”内容 , 而无需安装任何客户端软件 , 特性 :
+>
+> - 易安装 , 不到十分钟在引导下即可安装完成
+> - 果断拦截非必需内容
+> - 快响应 , DNS 缓存可加快日常浏览速度
+> - 轻量级 , 只需少量软硬件
+> - 高颜值仪表盘 , 查看日常信息
+> - 可屏蔽 IPv4 和 IPv6 广告
+>
+> https://github.com/pi-hole/pi-hole
+
+### software-papers
+
+> software-papers 收录了大量软件工程相关的论文
+>
+> 从计算机起源到函数式编程都有相关论文
+>
+> https://github.com/facundoolano/software-papers
