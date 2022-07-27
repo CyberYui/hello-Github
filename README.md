@@ -9317,3 +9317,64 @@ Julia
 > 从计算机起源到函数式编程都有相关论文
 >
 > https://github.com/facundoolano/software-papers
+
+### carbon-lang
+
+> Google 又出了个新编程语言——carbon-lang , 此语言作为 C++ 的继承者 , 将会继承 C++ 的优势
+>
+> 所以 , 从 C++ 迁移到 Carbon 的成本相对其他编程语言 (如Rust) 会更低
+>
+> Carbon 的设计目标 :
+>
+> - 性能优先的软件
+> - 易读 , 易理解 , 易写
+> - 安全实践和测试机制
+> - 快速 , 可扩展
+> - 支持主流操作系统 , 硬件架构 , 环境
+> - 方便与 C++ 相互迁移
+>
+> 同时官方也放出了 C++ 和 Carbon 写法的对比
+>
+> https://github.com/carbon-language/carbon-lang
+
+### lensm
+
+> lensm 是用于查看 Golang 组件和源代码的工具
+>
+> https://github.com/loov/lensm
+
+### scan4all
+
+> scan4all 集成 vscan , Nuclei , KSubdomain , Subfinder 等渗透工具
+>
+> 并对这些集成工具进行代码级别优化 , 参数优化 , 且对个别模块进行重写 , 实现充分自动化 , 智能化
+>
+> 目前它支持 20+ 种密码破解 , 可以用来进行系统漏洞扫描
+>
+> https://github.com/hktalent/scan4all
+
+### Wails
+
+> 为 Go 程序提供 Web 界面的传统方法是通过内置 Web 服务器
+>
+> Wails 提供了一种不同的方法 : 它提供了将 Go 代码和 Web 前端一起打包成单个二进制文件的能力
+>
+> 通过提供的工具 , 可以很轻松地完成项目的创建 , 编译和打包
+>
+> https://github.com/wailsapp/wails
+
+### xechat-idea
+
+> 用 JetBrains 全系列开发工具的工程师 , 现在可以在生产力工具里面摸鱼了
+>
+> xechat-idea 基于 Netty 的 IDEA 即时聊天插件 : 让你能够在 IDEA 里实现聊天 , 下棋 , 斗地主
+>
+> https://github.com/anlingyi/xechat-idea
+
+### lemon-cleaner
+
+> 腾讯柠檬清理是针对 macOS 系统专属制定的清理工具
+>
+> 主要功能包括 : 重复文件和相似照片的识别 , 软件的定制化垃圾扫描 , 可视化的全盘空间分析 , 内存释放 , 浏览器隐私清理以及设备实时状态的监控等
+>
+> https://github.com/Tencent/lemon-cleaner
