@@ -9772,3 +9772,48 @@ Julia
 > 让编程小白也能轻松拥有 AI “魔法”
 >
 > https://github.com/Baiyuetribe/paper2gui
+
+### gum
+
+> 一个非常酷 , 高颜值的 shell 脚本工具
+>
+> 有了它你不用写 Go 代码就可以获得 bubbles 和 lipgloss 的力量
+>
+> 值得一提的是 , 虽然 gum 是新开源的项目 , 但它的教程和示例非常详实
+>
+> https://github.com/charmbracelet/gum
+
+### tabler
+
+> Tabler 一个基于 Bootstrap 的 HTML 仪表盘 UI 工具包 , 可自定义所需布局和组件
+>
+> 只要你会一点基础的 HTML 和 CSS 知识 , 便可灵活使用 tabler
+>
+> 它的特性 :
+>
+> - 多端支持 , 支持移动设备 , 平板 , 桌面
+> - 多浏览器支持 , 兼容主流的浏览器 , 比如 : Chrome , Firefox+ , Safari , Opera
+> - HTML5 和 CSS3
+> - 代码整洁
+> - 配有 Demo 页面
+>
+> https://github.com/tabler/tabler
+
+### lotion
+
+>  lotion 用 Vue3 实现的 Notion , 功能 :
+>
+> - 基于 Block 的编辑器
+> - 拖拽可重新排序
+> - 基础的 Markdown 语法支持
+> - 输入 `/` 可使用命令菜单和快捷键
+>
+> https://github.com/Dashibase/lotion
+
+### comcast
+
+> Comcast 模拟糟糕的网络连接 , 来构建更强壮的系统
+>
+> 它可以模拟延迟 , 带宽限制 , 数据包丢失 , 数据包损坏等等常见网络情况
+>
+> https://github.com/tylertreat/comcast
