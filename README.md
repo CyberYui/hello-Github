@@ -9823,3 +9823,9 @@ Julia
 > 一个以隐私和安全为核心的软件和服务列表合集
 >
 > https://github.com/Lissy93/awesome-privacy
+
+### Hexo
+
+> 一个快速 , 简洁且高效的博客框架 , 想要部署博客的话 , 通过这个项目可以很方便地部署
+>
+> https://github.com/hexojs/hexo
