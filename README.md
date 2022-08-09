@@ -9829,3 +9829,47 @@ Julia
 > 一个快速 , 简洁且高效的博客框架 , 想要部署博客的话 , 通过这个项目可以很方便地部署
 >
 > https://github.com/hexojs/hexo
+
+### HelloWord-Smart Keyboard
+
+> 硬核开源 up 主稚晖君的新作品——智能键盘 , 可以直接去B站搜索相关视频
+>
+> 这款开源键盘是稚晖君和 up 主 Xikii 合作的 , 键盘会在 Xikii 的淘宝店出售
+>
+> https://github.com/peng-zhihui/HelloWord-Keyboard
+
+### piano-trainer
+
+>GitHub 官方推荐的一个钢琴训练项目 , Piano Trainer 支持多种方式 , 采用多种音调来练习钢琴 , 搭配 MIDI 使用最佳 :
+>
+>- 兼容 MIDI ( MIDI是能连接电脑使用的电子键盘 )
+>- 多平台支持 Linux , macOS , Windows 均可使用
+>- 可视化调试
+>
+>https://github.com/ZaneH/piano-trainer
+
+### userver
+
+> 一个开源的异步框架 , 提供了丰富的抽象组件用于快速 , 方便地构建 C++ 微服务 , 服务和程序
+>
+> 它有效地解决了 I/O 交互问题 , 用户可无感知地使用它来进行操作
+>
+> https://github.com/userver-framework/userver
+
+### lyra
+
+> 采用 TypeScript 编写的全文索引引擎 , 具有快速 , 内存化 , 错别字容错等特性
+>
+> 它的使用简单 , 先创建一个数据库实例并设置索引模式 (schema) 即可
+>
+> 通过 https://nearform.github.io/lyra/demo/ 可在线体验 Lyra
+>
+> https://github.com/nearform/lyra
+
+### onedev
+
+>一个自托管的 git 服务 , 自带 CI/CD 以及看板功能
+>
+>此外 , onedev 具有支持检索 , 正则查询代码 , 静态分析代码变更 , 定制化 issue 状态和区域等特性
+>
+>https://github.com/theonedev/onedev
