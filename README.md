@@ -9873,3 +9873,45 @@ Julia
 >此外 , onedev 具有支持检索 , 正则查询代码 , 静态分析代码变更 , 定制化 issue 状态和区域等特性
 >
 >https://github.com/theonedev/onedev
+
+### Engine Simulator
+
+> Engine Simulator 是一个实时内燃机模拟器
+>
+> 它能生成各种发动机音频 , 通过改变油门位置 , 调节高频增益等等操作 , 你能听到速度的声调变化
+>
+> https://github.com/ange-yaghi/engine-sim
+
+### FauxPilot
+
+> 一个本地的 Copilot
+>
+> 它采用 NVIDIA 的 Triton Inference Server 内部的 SalesForce CodeGen 模型以及 FasterTransformer Backend
+>
+> 只要你有 Docker 环境 ( docker-compose 不低于 1.28 ) 且 NVIDIA GPU 算力不低于 7.0 , 就可以自建一个自己本地的 Copilot
+>
+> https://github.com/moyix/fauxpilot
+
+### AFFiNE
+
+> 号称下一代知识管理工具 , 可替代 Notion 和 Miro 的项目
+>
+> 有着好看的 UI 界面 , 同 Notion 布局类似采用了卡片式布局 , 可以拖拽管理对应的卡片
+>
+> 在系统兼容方面 , 支持 Windows , macOS , Linux , 而服务可自托管在自己的服务器上
+>
+> https://github.com/toeverything/AFFiNE
+
+### ofrak
+
+> OFRAK（Open Firmware Reverse Analysis Konsole）是一个二进制分析和修改平台
+>
+> 具有解包 , 分析 , 修改和重新打包二进制文件等功能
+>
+> https://github.com/redballoonsecurity/ofrak
+
+### fluentui-emoji
+
+> 微软推出的一组可爱的表情包
+>
+> https://github.com/microsoft/fluentui-emoji
