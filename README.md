@@ -9915,3 +9915,31 @@ Julia
 > 微软推出的一组可爱的表情包
 >
 > https://github.com/microsoft/fluentui-emoji
+
+### Joplin
+
+> Joplin 是一个免费的开源桌面和移动笔记应用程序 , 用 JavaScript 编写而成
+>
+> 具有多端同步 , 支持 Markdown , 可检索注释等等功能
+>
+> Joplin 可在 Windows , macOS , Linux , Android 和 iOS 等多种常见系统上运行
+>
+> https://github.com/laurent22/joplin
+
+### Dragonfly
+
+>Dragonfly 是一个内存数据存储库
+>
+>Dragonfly 在多线程 , shared-nothing 的架构上集成新颖的算法和数据结构
+>
+>Dragonfly 性能可以达到 Redis 的 25 倍 , 以及单个实例可支持数百万量级的 QPS
+>
+>https://github.com/dragonflydb/dragonfly
+
+### og-aws
+
+> AWS ( Amazon Web Service )
+>
+> 十分详细的 AWS 使用指南 , 分为通用学习 , 专题 ( 高可用 , 付费管理 , 深入阅读等三个专题 ) 等两个大方向 , 带你玩转 AWS
+>
+> https://github.com/open-guides/og-aws
