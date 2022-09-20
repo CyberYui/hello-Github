@@ -10276,3 +10276,227 @@ Julia
 >基于 PyTorch 的目标检测开源工具箱 , 支持 Faster R-CNN , Mask R-CNN , RetinaNet 等主流算法
 >
 >https://github.com/open-mmlab/mmdetection
+
+### beginners-typescript-tutorial
+
+> 一个面向初学者友好的交互式 TypeScript 教程 , 配有相对应的练习
+>
+> https://github.com/total-typescript/beginners-typescript-tutorial
+
+### 100-go-mistakes
+
+> 100-go-mistakes 收录了具体的100个go语言的错误场景和最佳实践
+>
+> https://github.com/teivah/100-go-mistakes
+
+### crawlee
+
+> 一个供 Node.js 用的网页 , 浏览器爬取工具 , 可快速构建爬虫
+>
+> 通过下面的方式你可以在自己的项目中使用它 ( 需要有Playwright作为安装前置 )
+>
+> ```typescript
+> import { PlaywrightCrawler, Dataset } from 'crawlee';
+> 
+> // PlaywrightCrawler crawls the web using a headless
+> // browser controlled by the Playwright library.
+> const crawler = new PlaywrightCrawler({
+>     // Use the requestHandler to process each of the crawled pages.
+>     async requestHandler({ request, page, enqueueLinks, log }) {
+>         const title = await page.title();
+>         log.info(`Title of ${request.loadedUrl} is '${title}'`);
+> 
+>         // Save results as JSON to ./storage/datasets/default
+>         await Dataset.pushData({ title, url: request.loadedUrl });
+> 
+>         // Extract links from the current page
+>         // and add them to the crawling queue.
+>         await enqueueLinks();
+>     },
+>     // Uncomment this option to see the browser window.
+>     // headless: false,
+> });
+> 
+> // Add first URL to the queue and start the crawl.
+> await crawler.run(['https://crawlee.dev']);
+> ```
+>
+> https://github.com/apify/crawlee
+
+### surrealdb
+
+> 一个用于实时网络的可扩展 , 分布式 , 可协作的文档图数据库
+>
+> 它通过简化数据库和 API 栈来减少应用程序的开发时间
+>
+> SurrealDB 可以作为单机运行 , 也支持以高可用 , 高可扩展的分布式形式运行
+>
+> 它支持来自客户端设备的 SQL 查询 , GraphQL , ACID , WebSocket , 结构化和非结构化数据处理 , 全文索引 , 地理空间查询及权限控制
+>
+> https://github.com/surrealdb/surrealdb
+
+### Akebi-GC
+
+> 可用来开发游戏的男女角色
+>
+> 项目用了原神来做 Demo 展示了地图传送 , Noclip 等常见游戏场景
+>
+> https://github.com/Akebi-Group/Akebi-GC
+
+### upscayl
+
+> 适用 Windows , Linux , macOS 的图像增强工具
+>
+> 在本地上传一张图片之后可以得到更高清的图像
+>
+> 值得注意的是 , 这是一个 Linux-first philosophy 项目 , 优先考虑 Linux 的适配
+>
+> 当然其他系统使用也没问题 , 只要你有一个支持 Vulkan 的 GPU
+>
+> https://github.com/upscayl/upscayl
+
+### divkit
+
+> DivKit 开源的服务驱动 UI 框架 , 有了它 , 你可以将源服务器的更新同步到不同的 App 版本
+>
+> 此外 , 它可用于快速构建 UI 原型 , 编写布局并发布到不同的平台
+>
+> 例如 : iOS , Android , Web
+>
+> https://github.com/divkit/divkit
+
+### log-viewer
+
+> 一个方便查看日志的工具 , 可清晰地查看各类日志条目
+>
+> 支持检索 , 过滤 , 快速理清你的 Laravel 日志
+>
+> https://github.com/opcodesio/log-viewer
+
+### motionity
+
+> Motionity 是一款免费 , 开源的 Web 动画编辑器
+>
+> 作为 After Effects 和 Canva 的集大成者 , Motionity 具有强大的功能
+>
+> 比如 : 关键帧 , 屏蔽 , 过滤器 , 浏览器集成可轻松拖拽视频
+>
+> https://github.com/alyssaxuu/motionity
+
+### shopify(实践文章)
+
+> Shopify ( 加拿大的电子商务公司 ) 的 GitHub Action 部署实践
+>
+> 作为一家电商企业 , Shopify 在商家定制化店面的部署工作交给了 GitHub Action
+>
+> 本文主要介绍了他们是如何简化店铺部署工作 , 可以当做一篇英语阅读来看
+>
+> https://github.com/readme/guides/shopify-github-actions
+
+### TrollStore
+
+> 如果你是个 Apple 用户 , 你可能遇到过之前好好的 App 突然无法打开了
+>
+> TrollStore 作为一个“越狱”的工具 , 任何 IPA ( 苹果应用文件 ) 都能通过它打开
+>
+> 目前 , 它支持的操作系统为 iOS 14.0 ~ 15.5b4
+>
+> https://github.com/opa334/TrollStore
+
+### notesnook
+
+> 常用印象笔记的小伙伴可以试试这款印象笔记的替代品 ---- Notesnook
+>
+> 具有开源 , 端到端加密 , 易用的特点
+>
+> 按照文档说明 , Notesnook 在设备端采用了 XChaCha20-Poly1305 和 Argon2 加密
+>
+> https://github.com/streetwriters/notesnook
+
+### immich
+
+> 如果你的相册备份空间不足 , 不妨自托管一个照片 , 视频备份服务
+>
+> Immich 支持从手机和网页端来备份你的相册 , 具有以下特性：
+>
+> - 支持上传 , 查看相片和视频
+> - 自动备份
+> - 定向备份 , 可选择指定相册
+> - 支持多用户使用
+> - 支持分享 , 创建相册
+> - 支持元数据 , 目标 , Tag 查询图像
+>
+> https://github.com/immich-app/immich
+
+### runtipi
+
+> 一个个人的家庭应用服务管理工具 , 只要一条命令即可安装你心仪的应用
+>
+> 在 Tipi 的管理界面集中管理这些应用数据
+>
+> 它采用 Docker 来运行 , Tipi 管理的每个服务都有自己的配置项 , 可按需调整应用配置
+>
+> 目前 Tipi 支持 Ubuntu 18.04 及其以上版本
+>
+> https://github.com/meienberger/runtipi
+
+### ReadME Podcast(英语学习用)
+
+> ReadME Podcast 是 GitHub 官方主导的专注于开源项目 , 项目发起人的播客
+>
+> 值得一提的是 , 大家熟悉的 Vue.js 作者尤雨溪曾在第 2 期播客中担任嘉宾
+>
+> 如果你想知道这些开源项目背后发生的故事 , 不妨订阅下 ReadME Podcast
+>
+> 英文听力不好的小伙伴别担心 , 每期播客配有相关的英文文稿方便你阅读 , 以往播客可查看
+>
+> https://github.com/readme/podcast
+
+### nn-zero-to-hero
+
+> 保姆级视频教程带你入门神经网络
+>
+> 除了视频教程之外项目还配有相关的 Neural Networks 练习
+>
+> https://github.com/karpathy/nn-zero-to-hero
+
+### memlab
+
+> memlab 是 Facebook 开源的端到端测试 , 分析框架
+>
+> 可用来找寻 JavaScript 内存泄漏及优化点 , 其特性有 :
+>
+> - 浏览器内存泄漏检测
+> - 面向对象的堆遍历 API
+> - 内存 CLI 工具箱
+> - Node.js 内存断言
+>
+> https://github.com/facebookincubator/memlab
+
+### n8n
+
+> 一个可扩展的工作流自动化工具
+>
+> 通过 n8n 你可以连接各类节点 , 让他们进行数据通信
+>
+> 目前 n8n 支持 300+ 类节点 , 可快速在不同应用和数据库之间进行数据转换 , 不用烦恼去读 API 文档及排查 CORS 错误
+>
+> https://github.com/n8n-io/n8n
+
+### notes
+
+> 一款极简笔记工具用来记录你的灵光一闪
+>
+> notes 具有低内存占用 , 原生 , 多主题模式 , 支持跨平台 , 可用 Markdown 等特性
+>
+> https://github.com/nuttyartist/notes
+
+### alist
+
+> 一个使用 Gin 和 SolidJS 实现的文件分享工具
+>
+> 借助 alist 可快速分享文件
+>
+> alist 支持多种存储方式 : 本地存储 , 阿里云 , S3 , 百度云盘等主流方式都支持
+>
+> https://github.com/alist-org/alist
