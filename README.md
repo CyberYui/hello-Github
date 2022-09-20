@@ -4938,6 +4938,8 @@ Julia
 
 > CasaOS 是一个基于 Docker 生态系统的开源家庭云系统
 >
+> 只需一键即可安装在 NAS , 树莓派等各种家庭智能设备上
+>
 > 系统专为家庭场景设计 , 致力于打造世界上最简单 , 易用 , 优雅的家庭云系统
 >
 > 它兼容树莓派和 x86 设备
@@ -9943,3 +9945,137 @@ Julia
 > 十分详细的 AWS 使用指南 , 分为通用学习 , 专题 ( 高可用 , 付费管理 , 深入阅读等三个专题 ) 等两个大方向 , 带你玩转 AWS
 >
 > https://github.com/open-guides/og-aws
+
+### foolrenderer
+
+> 用C语言从零实现的软件渲染器 , 该项目使用几千行C语言代码实现了一套类似OpenGL的基本图形功能
+>
+> 该项目注释丰富 , 计算推导过程也有说明 , 可以帮助理解和学习GPU的工作原理 , 基础知识以及着色器原理
+>
+> https://github.com/cadenji/foolrenderer
+
+### Bili.Uwp
+
+> 非官方的 B 站 Windows 桌面应用 , 简单易用
+>
+> https://github.com/Richasy/Bili.Uwp
+
+### Stockfish
+
+> 强大的国际象棋引擎
+>
+> 它在众多国际象棋引擎评级列表中均名列前茅 , 棋艺基本上是吊打职业选手
+>
+> 它不仅可以对战 , 还支持棋局分析 , 评估棋艺
+>
+> 虽然这个引擎不能单独运行 , 但是社区提供了丰富的 GUI 软件下载就能用
+>
+> 甚至还可以用来解说国际象棋比赛
+>
+> https://github.com/official-stockfish/Stockfish
+
+### xbmc
+
+> 强大自由的媒体中心软件
+>
+> 这是一个媒体播放器软件 , 但折腾一下就是家庭媒体娱乐中心
+>
+> 不仅支持播放本地视频 , 还能够安装各种插件以及播放网络存储设备(NAS) , 投屏 , 直播 , 电视 , 播客等源
+>
+> 能够运行在 Linux , macOS , Windows , Android , iOS 等设备 , 界面支持中文更多功能等待你的挖掘
+>
+> https://github.com/xbmc/xbmc
+
+### Cnblogs-Theme-SimpleMemory
+
+> 一款以阅读为主的博客园皮肤
+>
+> 博客园是一个博客平台 , 它支持用户自定义皮肤
+>
+> 该项目就是一款开源的博客园皮肤 , 文档有详细的安装步骤 , 一看就会立马就能用上
+>
+> 虽然皮肤会让博客的访问速度变慢一点 , 但是皮肤效果简洁好看值得一试
+>
+> https://github.com/BNDong/Cnblogs-Theme-SimpleMemory
+
+### bk-cmdb
+
+> 腾讯开源的配置平台
+>
+> 面向资产及应用的企业级配置管理平台
+>
+> 拥有主机管理 , 组织架构管理 , 通用权限管理 , 操作审计等功能
+>
+> 该项目的代码审核很严格 , 此举不仅保证了项目的代码质量 , 还提高了代码的可读性 , 推荐阅读源码
+>
+> https://github.com/Tencent/bk-cmdb
+
+### nightingale
+
+> 开源的云原生监控系统
+>
+> 支持 Docker 等多种部署方式 , 集数据采集 , 监控告警 , 可视化为一体的企业级监控平台
+>
+> 借助高性能时序库 , 可以满足数亿时间线的采集 , 存储和告警分析的场景
+>
+> 该项目已在上千家企业部署落地 , 经历了各种生产环境的检验
+>
+> https://github.com/ccfos/nightingale
+
+### colly
+
+> 最知名的 Go 爬虫框架
+>
+> 它拥有友好的 API 和丰富代码示例 , 短时间内即可上手
+>
+> 性能方面单核能达到 1K 请求/秒 , 还可以轻松管理请求方式 , 间隔和最大并发数 , 功能强大且优雅
+>
+> https://github.com/gocolly/colly
+
+### doris
+
+> 高性能的分析数据库
+>
+> 一个基于 MPP 架构的高性能 , 实时的分析型数据库 , 尤其是在海量数据和高并发场景下表现优异
+>
+> 目前 , 在众多知名企业中均有使用 , 可用来构建用户分析 , 日志检索分析 , 用户画像等应用
+>
+> https://github.com/apache/doris
+
+### koodo-reader
+
+> 先进的电子书阅读工具
+>
+> 该阅读器支持 EPUB , Kindle , PDF , 漫画等多种常见文本格式
+>
+> 界面清爽功能丰富 , 拥有自定义字体 , 添加笔记 , 书签 , 划词翻译 , 导入图书 , 数据同步等功能
+>
+> 提供了 Windows , macOS 和 Linux 客户端 , 还支持网页版可在线使用
+>
+> https://github.com/troyeguo/koodo-reader
+
+### video.js
+
+> 流行的 HTML5 视频播放器
+>
+> 一款开箱即用的 Web 视频播放器 , 它支持 HTML5 视频和流媒体格式 , 至今有超过 45 万个网站在使用它
+>
+> https://github.com/videojs/video.js
+
+### vue-idle-game
+
+> 挂机放置类小游戏
+>
+> 用 Vue.js 写的在线 RPG 游戏 , 装备完全随机全靠刷 , 没有任务就是刷
+>
+> https://github.com/Couy69/vue-idle-game
+
+### nocobase
+
+> 易扩展的无代码开发平台
+>
+> 这个项目可以让你不写代码 , 仅通过点击和拖拽 , 分分钟搭建出协作和内部管理系统
+>
+> 项目还处于早期开发阶段 , 请勿用于生产环境
+>
+> https://github.com/nocobase/nocobase
