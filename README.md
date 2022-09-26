@@ -10500,3 +10500,57 @@ Julia
 > alist 支持多种存储方式 : 本地存储 , 阿里云 , S3 , 百度云盘等主流方式都支持
 >
 > https://github.com/alist-org/alist
+
+### Qwik
+
+> Qwik 能提供最快的页面加载速度
+>
+> 无论你网站多复杂 , 都可以将它的 JS 变成不到 1kb 的 JS 进行加载从而提高它的访问速度
+>
+> https://github.com/BuilderIO/qwik
+
+### gitui
+
+>为 git 定制的专属终端 , gitui 采用 Rust 编写
+>
+>官方用 lazygit , ti , gitui 分别解析 Linux git 仓进行过性能对比
+>
+>报告显示 gitui 有更好的访问速度以及更低的资源消耗 , 其部分特性有 :
+>
+>- 支持 git 操作
+>- 直观的键盘交互控制
+>- 无需记忆热键 , 支持基于操作上下文提供帮助
+>- 可拓展终端 UI 布局
+>- 异步 git API 灵活控制
+>
+>https://github.com/extrawurst/gitui
+
+### whisper
+
+> OpenAI 新开源的语音识别模型
+>
+> 经过大量音频数据训练 , Whisper 可用于多语言语音识别以及语音翻译
+>
+> Whisper 提供 5 种不同大小的模型 , Large 模型（含 1550M 参数）支持多语言
+>
+> 剩余的其他四种模型在英语应用程序上比较会更好
+>
+> https://github.com/openai/whisper
+
+### dub
+
+> 一款 Bitly ( 短链接服务产品 ) 的替代品
+>
+> 内置数据分析 , 定制域名等功能
+>
+> Dub 项目技术栈如下：
+>
+> - Next.js——框架
+> - TypeScript——语言
+> - Tailwind——CSS
+> - Upstash——数据库
+> - NextAuth——认证
+> - Vercel——托管
+> - Stripe——支付
+>
+> https://github.com/steven-tey/dub
