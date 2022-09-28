@@ -10411,6 +10411,8 @@ Julia
 >
 > 按照文档说明 , Notesnook 在设备端采用了 XChaCha20-Poly1305 和 Argon2 加密
 >
+> 但免费版功能阉割严重 , 比如不支持 Markdown , 插入图片等重要的功能
+>
 > https://github.com/streetwriters/notesnook
 
 ### immich
@@ -10554,3 +10556,286 @@ Julia
 > - Stripe——支付
 >
 > https://github.com/steven-tey/dub
+
+### gifsicle
+
+> 压缩和编辑 GIF 图片的工具
+>
+> 它是一款体积小 , 功能强大的 GIF 图片处理工具
+>
+> 不仅可以压缩 GIF 图片 , 还支持合并多个 GIF , 导出所有帧 , 查看图片信息 , 减少帧数 , 设置循环次数 , 延迟 , 编辑某一帧等功能
+>
+> ```shell
+> # 安装
+> brew install gifsicle
+> # 查看
+> gifsicle -I input.gif | head
+> # 优化/压缩
+> gifsicle input.gif -O3 -o output.gif
+> ```
+>
+> https://github.com/kohler/gifsicle
+
+### CPU-X
+
+> 一款显示电脑 CPU , 主板等信息的免费工具
+>
+> 能够显示设备的 CPU , 主板 , 内存 , 显卡 , 操作系统等信息
+>
+> 支持 GUI 和命令行两种启动方式 , 适用于 Linux 和 FreeBSD 操作系统
+>
+> https://github.com/X0rg/CPU-X
+
+### XCharts
+
+> Unity 数据可视化图表插件
+>
+> 一款基于 Unity UGUI 的图表插件
+>
+> 功能强大 , 简单易用，支持折线图 , 柱状图 , 饼图 , 雷达图 , 散点图 , 热力图 , 环形图 , K 线图等多种图表
+>
+> https://github.com/XCharts-Team/XCharts
+
+### Text-Grab
+
+> 一个轻量级的 Windows OCR 工具
+>
+> 它基于 Windows 10 系统自带的 OCR API 实现
+>
+> 可以将看到的所有文字转化成文本 , 而且启动速度快 , 无需常驻后台 , 可离线使用
+>
+> https://github.com/TheJoeFin/Text-Grab
+
+### 30diasDeCSS
+
+> 在 30 天内用 HTML 和 CSS 创建 30 个迷你项目的挑战
+>
+> 该项目包含了 30 个用 HTML+CSS 构建的迷你项目
+>
+> 每个项目通过动图直观地展示了实现的效果 , 不仅包含全部源码还指出了用到的知识点
+>
+> https://github.com/MilenaCarecho/30diasDeCSS
+
+### HackBrowserData
+
+> 一款浏览器数据导出工具
+>
+> 能够导出本地浏览器的密码 , 历史记录 , Cookie , 书签 , 下载记录 , localStorage 等数据的命令行工具
+>
+> 支持多平台下的多种主流浏览器
+>
+> https://github.com/moonD4rk/HackBrowserData
+
+### m3u8-downloader
+
+> m3u8 视频在线提取工具
+>
+> m3u8 视频格式常用于直播服务 , 其原理是将完整的视频拆分成多个 .ts 视频碎片
+>
+> 其中 .m3u8 文件会详细记录每个视频片段的地址
+>
+> 视频播放时 , 会先读取 .m3u8 文件 , 再逐个下载播放 .ts 视频片段
+>
+> 该项目就是基于上述原理实现的 m3u8 视频提取工具 , 使用方便无需安装打开网页即可下载完整的视频
+>
+> ```javascript
+> // 下载整合后的 TS 文件
+> downloadFile(fileDataList, fileName, fileType) {
+>     this.tips = 'ts 碎片整合中，请留意浏览器下载'
+>     const fileBlob = new Blob(fileDataList, { type: 'video/MP2T' }) // 创建一个 Blob 对象，并设置文件的 MIME 类型
+>     const a = document.createElement('a')
+>     a.download = fileName + '.' + fileType
+>     a.href = URL.createObjectURL(fileBlob)
+>     a.style.display = 'none'
+>     document.body.appendChild(a)
+>     a.click()
+>     a.remove()
+> }
+> ```
+>
+> https://github.com/Momo707577045/m3u8-downloader
+
+### pendulum
+
+> 让 Python 处理时间更简单的库
+>
+> 该项目不仅提供了更加简单易用的 API , 而且还兼容 datetime 标准库 , 可以直接替代码中的 datetime 对象
+>
+> 它提供了很多人性化的时间处理方式
+>
+> 比如时间加减 , 多长时间的描述以及时区的处理等等
+>
+> ```python
+> >>> import pendulum
+> 
+> >>> now_in_paris = pendulum.now('Europe/Paris')
+> >>> now_in_paris
+> '2016-07-04T00:49:58.502116+02:00'
+> 
+> >>> tomorrow = pendulum.now().add(days=1)
+> 
+> >>> past = pendulum.now().subtract(minutes=2)
+> >>> past.diff_for_humans()
+> '2 minutes ago'
+> 
+> >>> delta = past - last_week
+> >>> delta.hours
+> 23
+> >>> delta.in_words(locale='en')
+> '6 days 23 hours 58 minutes'
+> ```
+>
+> https://github.com/sdispater/pendulum
+
+### pg_activity
+
+> 类似 top 的 PostgreSQL 数据库命令行监控工具
+>
+> 一条命令就能实时查看 PostgreSQL 数据库状态和每条 SQL 语句执行详情 , 耗时 , 占用资源 , 读/写速度等信息的工具
+>
+> https://github.com/dalibo/pg_activity
+
+### OCRmyPDF
+
+> 可以把 PDF 文件变成可搜索文件的工具
+>
+> 它使用 Tesseract OCR 引擎  , 将 PDF 的内容识别成文本 , 然后给 PDF 文件增加 OCR 文本层
+>
+> 从而实现可搜索和复制 PDF 的内容 , 已支持 100 多种语言
+>
+> https://github.com/ocrmypdf/OCRmyPDF
+
+### espanso
+
+>Rust 写的智能文本扩展工具
+>
+>文本扩展器是可以帮你提高输入效率的工具
+>
+>当你输入一个特定的关键词时 , 它可以自动检测到并将其替换为预设的内容
+>
+>这个项目几乎可以和任何程序一起使用 , 适用于 Windows , macOS 和 Linux
+>
+>https://github.com/espanso/espanso
+
+### easy_rust
+
+> 用简单的英语写的 Rust 教程
+>
+> 虽然当下已经有很多的 Rust 教程 , 但是大多都是以英语为主
+>
+> 作者写了一份仅用简单的英语讲解 Rust 的教程 , 已有中文翻译版
+>
+> https://github.com/Dhghomon/easy_rust
+
+### TinyPNG4Mac
+
+> 适用于 macOS 的 TinyPNG 第三方客户端
+>
+> TinyPNG 是一个提供免费图像压缩服务的网站
+>
+> 该项目是其第三方 macOS 客户端 , 可以让你无需打开浏览器 , 无需手动下载图片 , 仅通过简单的拖拽就能完成对 JPEG , PNG 图片的压缩
+>
+> https://github.com/kyleduo/TinyPNG4Mac
+
+### WebKit
+
+> 苹果开源的 Web 浏览器引擎
+>
+> 它被用于开发 macOS 和 iOS 上的 Safari , App Store , Mail 等应用
+>
+> WebKit 不仅出现在苹果的生态中
+>
+> 其分支 Blink 项目也是 Chromium 的重要组成部分 , 它又是各大主流浏览器的核心
+>
+> https://github.com/WebKit/WebKit
+
+### missing-semester
+
+> 大学计算机教育中缺失的一课
+>
+> 大学里的计算机课程往往只专注于讲授数据结构 , 操作系统这些知识
+>
+> 对于编程开发中常用的工具则留给学生自行学习
+>
+> 在 MIT 这个课程中 , 你可以了解和掌握命令行(shell) , 文本编辑器(Vim) , 版本控制系统(Git)等强大的工具
+>
+> 越早接触越能更加熟练地使用它们 , 有助于未来的职业生涯
+>
+> https://github.com/missing-semester/missing-semester
+
+### nginx_tutorial
+
+> 免费的 Nginx 极简教程
+>
+> 这是一套简单的 Nginx 教程
+>
+> 包含 Nginx 的安装 , 常用命令 , 反向代理 , 负载均衡等知识点
+>
+> 能够帮助新手快速入门 Nginx
+>
+> https://github.com/dunwu/nginx-tutorial
+
+### Crash-Course-Computer-Science-Chinese
+
+> 计算机科学速成课[40集全/精校] 
+>
+> 油管上的计算机科学速成课(Crash Course Computer Science)中文字幕翻译版
+>
+> 视频从晶体管讲到了操作系统和人工智能 , 但并不会教你如何编程属于科普类视频
+>
+> https://github.com/1c7/Crash-Course-Computer-Science-Chinese
+
+### The-Art-Of-Linear-Algebra
+
+> 图解线性代数
+>
+> 《Linear Algebra for Everyone》是一门广受好评的线性代数公开课
+>
+> 该项目是基于这门公开课 , 编写整理而成的图文并茂的学习笔记
+>
+> https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra
+
+### Cookbook
+
+> 《数据工程师 Cookbook》
+>
+> 这本书会告诉你 , 如果想要成为一名出色的数据工程师 , 到底需要学习哪些知识
+>
+> https://github.com/andkret/Cookbook
+
+### stable-diffusion
+
+> 可以根据文字生成图片的模型
+>
+> 只要输入一段文字描述 , 就能得到一张由 AI 生成的图片
+>
+> 除此之外该项目还支持将粗糙的草图转化成精致的艺术图片
+>
+> ```python
+> # make sure you're logged in with `huggingface-cli login`
+> from torch import autocast
+> from diffusers import StableDiffusionPipeline
+> 
+> pipe = StableDiffusionPipeline.from_pretrained(
+>  "CompVis/stable-diffusion-v1-4", 
+>  use_auth_token=True
+> ).to("cuda")
+> 
+> prompt = "a photo of an astronaut riding a horse on mars"
+> with autocast("cuda"):
+>     image = pipe(prompt)["sample"][0]  
+>     
+> image.save("astronaut_rides_horse.png")
+> ```
+>
+> https://github.com/CompVis/stable-diffusion
+
+### style2paints
+
+> 一款给线稿上色的 AI 辅助工具
+>
+> 能够帮助用户给没有上色的图片 , 快速完成上色的 AI 工具
+>
+> 其上色效果广受好评 , 完全免费开箱即用
+>
+> https://github.com/lllyasviel/style2paints
