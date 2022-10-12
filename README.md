@@ -10592,7 +10592,7 @@ Julia
 >
 > 一款基于 Unity UGUI 的图表插件
 >
-> 功能强大 , 简单易用，支持折线图 , 柱状图 , 饼图 , 雷达图 , 散点图 , 热力图 , 环形图 , K 线图等多种图表
+> 功能强大 , 简单易用 , 支持折线图 , 柱状图 , 饼图 , 雷达图 , 散点图 , 热力图 , 环形图 , K 线图等多种图表
 >
 > https://github.com/XCharts-Team/XCharts
 
@@ -10641,8 +10641,8 @@ Julia
 > ```javascript
 > // 下载整合后的 TS 文件
 > downloadFile(fileDataList, fileName, fileType) {
->     this.tips = 'ts 碎片整合中，请留意浏览器下载'
->     const fileBlob = new Blob(fileDataList, { type: 'video/MP2T' }) // 创建一个 Blob 对象，并设置文件的 MIME 类型
+>     this.tips = 'ts 碎片整合中 , 请留意浏览器下载'
+>     const fileBlob = new Blob(fileDataList, { type: 'video/MP2T' }) // 创建一个 Blob 对象 , 并设置文件的 MIME 类型
 >     const a = document.createElement('a')
 >     a.download = fileName + '.' + fileType
 >     a.href = URL.createObjectURL(fileBlob)
@@ -10839,3 +10839,63 @@ Julia
 > 其上色效果广受好评 , 完全免费开箱即用
 >
 > https://github.com/lllyasviel/style2paints
+
+### remote-jobs
+
+> remote-jobs 收录了世界各地的远程工作的信息
+>
+> remote-working 项目则是国人发起的远程工作集
+>
+> https://github.com/remoteintech/remote-jobs
+>
+> https://github.com/greatghoul/remote-working
+
+### awesome-diagramming
+
+> awesome-diagramming 按照收费与否 , 是否开源 , 绘画风格 ( 简约 , 手绘 , 商务风… ), 绘画方式 ( 代码绘图 , 手工绘图 ) 收录了好用的绘图软件 , 并进行示例展示
+>
+> 你可以在通用软件中找到多场景绘图软件 , 也能在功能分类下找到 ER 图 , 架构图等特定场景的专用软件推荐
+>
+> https://github.com/shubhamgrg04/awesome-diagramming
+
+### langcc
+
+> 作为下一代编译器 , langcc 可以用来代替 Lex 和 Yacc , 不过它的能力不只限于此 :
+>
+> - 可生成更高效 , 线性时间解析器
+> - 可作为常见的工业语言 ( Python 3.9.12 , Golang 1.17.8 ) 编译器 , 且它生成的解析器非常快 ( 比标准的 Golang 解析器快 1.2x , 是标准 CPython 的 4.3x )
+> - langcc 会生成一个完整的编译器前端 , 包括 AST 结构定义 , 相关遍历 , 散列等等
+> - 提供方便的冲突跟踪算法
+> - 附有独立的数据类型编译器 datacc
+> - 自托管
+>
+> https://github.com/jzimmerman/langcc
+
+### tensorstore
+
+> Google 开源用来读写大型多维数组的库
+>
+> https://github.com/google/tensorstore
+
+### wordpress-wasm
+
+> 借助 WebAssembly 实现的浏览器运行 WordPress
+>
+> 一个以 PHP 和 MySQL 为平台的开源博客软件和内容管理系统
+>
+> https://github.com/WordPress/wordpress-wasm
+
+### iced
+
+> 受启发于 Elm , 采用 Rust 编写的跨平台 GUI 库 , 只要一份代码即可多平台运行 , 部分特性 :
+>
+> - 简单 , 易用 , 开箱即用 API
+> - 类型安全的反应式编程模型
+> - 支持 Windows , macOS , Linux 等多平台
+> - 响应式布局
+> - 内置小工具 , 比如 : 文本输入 , 滚动条等
+> - 可定制工具组件
+> - 支持性能指标叠加调试
+> - …
+>
+> https://github.com/iced-rs/iced
