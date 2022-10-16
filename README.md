@@ -10899,3 +10899,9 @@ Julia
 > - …
 >
 > https://github.com/iced-rs/iced
+
+### Bookmark Sidebar
+
+> chrome插件书签侧边栏的GitHub网址
+>
+> https://github.com/Kiuryy/Bookmark_Sidebar
