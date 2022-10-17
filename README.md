@@ -10905,3 +10905,49 @@ Julia
 > chrome插件书签侧边栏的GitHub网址
 >
 > https://github.com/Kiuryy/Bookmark_Sidebar
+
+### novelai-bot
+
+> novelai-bot 基于 NovelAI 的画图插件 , 已实现功能 :
+>
+> - 绘制图片
+> - 更改模型 , 采样器 , 图片尺寸
+> - 高级请求语法
+> - 自定义违禁词表
+> - 发送一段时间后自动撤回
+> - 连接到私服 - NAIFU
+> - img2img - 图片增强
+>
+> 简单介绍下 , 它是一个在线 AI 绘画 ( 图像生成 ) 工具 , 你可以用它来生成各种风格画作
+>
+> https://github.com/koishijs/novelai-bot
+
+### slash
+
+> Slash 是韩国电子钱包 toss 开源项目
+>
+> 用在其项目中的 TypeScript 和 JavaScript 包合集
+>
+> Slash 包含近 30 个 NPM 包可用来构建高质量的 Web 服务
+>
+> https://github.com/toss/slash
+
+### Mobile-Security-Framework-MobSF
+
+> Mobile Security Framework , 是一款自动化移动应用
+>
+> 支持多端自动化测试
+>
+> 它支持渗透测试 , 恶意软件分析 , 安全评估 , 可执行静态 , 动态安全分析
+>
+> https://github.com/MobSF/Mobile-Security-Framework-MobSF
+
+### maigret
+
+> Maigret 可根据用户名收集一个人的档案
+>
+> 它会检索大量网站相关账户 , 并从网页上收集所有可用的信息
+>
+> 它不需要 API key , 是高星项目 sherlock 易用且强大的分支之一
+>
+> https://github.com/soxoj/maigret
