@@ -10920,6 +10920,8 @@ Julia
 >
 > 简单介绍下 , 它是一个在线 AI 绘画 ( 图像生成 ) 工具 , 你可以用它来生成各种风格画作
 >
+> 但是具体要使用通过图片生成动漫图片的功能 , 还是需要先有个付费的 novelAI 账号的
+>
 > https://github.com/koishijs/novelai-bot
 
 ### slash
