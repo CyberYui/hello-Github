@@ -10963,3 +10963,44 @@ Julia
 > 支持 vite/webpack , vue2/vue3/react
 >
 > https://github.com/better-tcy/dom-to-code
+
+### china-ex
+
+> 中国三十四省级行政区域制霸标记生成工具 , 根据你对某个城市的熟悉程度来标记 , 生成你最终的城市得分
+>
+> 在线试玩地址 https://lab.magiconch.com/china-ex/
+>
+> 该项目作者之前做过热点趋势项目「能不能好好说话」拼音首字母缩写翻译工具
+>
+> 以及「石蒜模拟器」
+>
+> https://github.com/itorr/china-ex
+
+### Pake
+
+> 很简单的用 Rust 打包网页生成很小的 Mac App
+>
+> 底层使用 Tauri , 支持微信读书 , Flomo , RunCode , Witeboard , ToolsFun , Vercel , 即刻 , RoamResearch 等 , 其特性有 :
+>
+> - 小 : 相比传统的 Electron 套壳打包 , 大小要小将近 50 倍 , 一般不到 2M (数据)
+> - 快 : Pake 的底层使用的 Rust Tauri 框架 , 性能体验较 JS 框架要轻快不少 , 内存小很多
+> - 特 : 不是单纯打包 , 实现了通用快捷键的透传 , 沉浸式的窗口 , 拖动 , 打包样式兼容
+> - 玩 : 只是一个很简单的小玩具 , 用 Rust 替代之前套壳网页老的思路玩法
+>
+> 如果你是个 Rust 新手 , 这个详细小白开发教程是个不错选择
+>
+> https://github.com/tw93/Pake
+
+### frankenphp
+
+> 建立在 Caddy Web 服务器之上的现代 PHP 应用服务器
+>
+> 有非常丰富的服务 : Early Hints , Worker 模式 , 实时功能 , 支持 HTTPS , HTTP/2 , HTTP/3 自动化 ...
+>
+> https://github.com/dunglas/frankenphp
+
+### lucide
+
+> 开源图标项目 Feather 分支 , 由社区用户挑选出来集美貌和一致性为一身的图标工具包
+>
+> https://github.com/lucide-icons/lucide
