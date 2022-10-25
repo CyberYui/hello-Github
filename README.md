@@ -10953,3 +10953,13 @@ Julia
 > 它不需要 API key , 是高星项目 sherlock 易用且强大的分支之一
 >
 > https://github.com/soxoj/maigret
+
+### dom-to-code
+
+> 群里大佬的自制项目 , 接手一个项目开发网页时要修改某部分 , 过程极为浪费时间
+>
+> 使用 dom-to-code 插件后 , 对准想要修改的 dom 部分 ctrl + 按下鼠标滚轮 , 就会在编辑器打开对应的 dom 元素源码
+>
+> 支持 vite/webpack , vue2/vue3/react
+>
+> https://github.com/better-tcy/dom-to-code
