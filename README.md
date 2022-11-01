@@ -11004,3 +11004,367 @@ Julia
 > 开源图标项目 Feather 分支 , 由社区用户挑选出来集美貌和一致性为一身的图标工具包
 >
 > https://github.com/lucide-icons/lucide
+
+### Jellyfin
+
+> 优秀的本地媒体库管理工具
+>
+> 这是一个完全免费 , 支持中文 , 安装简单 , 跨平台 , 功能强大的媒体库管理系统
+>
+> 它能把原本躺在文件夹里的视频文件 , 变成包含封面 , 描述 , 评分 , 演员表等信息的“影碟”
+>
+> 让视频整整齐齐 , 赏心悦目 , 还支持视频续播 , 订阅更新 , 多端可看 , 让你可以远离广告优雅地追剧
+>
+> https://github.com/jellyfin/jellyfin
+
+### PRemoteM
+
+> 爽快利落的 Windows 平台远程桌面管理软件
+>
+> 该项目致力于提供优秀的远程桌面管理体验 , 通过启动器可以快速地连接到远程服务器
+>
+> 目前已支持 RDP , SSH , SFTP , FTP 等多种远程连接方式
+>
+> https://github.com/1Remote/PRemoteM
+
+### ImHex
+
+> 保护视力的十六进制编辑器
+>
+> 面向逆向工程师和程序员的编辑器 , 可用来查看 , 解码 , 分析和编辑二进制数据
+>
+> 它功能丰富 , 界面炫酷 , 多彩高亮 , 而且项目更新积极
+>
+> 比如最初不支持中文路径的问题 , 现已解决可正常使用
+>
+> https://github.com/WerWolv/ImHex
+
+### NotepadNext
+
+> Notepad++  的开源替代品
+>
+> 采用 C++ 重写的跨平台文本编辑器
+>
+> 拥有和 Notepad++ 相似的界面和功能
+>
+> https://github.com/dail8859/NotepadNext
+
+### srs
+
+> 一款简单 , 高效的实时视频服务器
+>
+> 高性能的流媒体服务器 , 支持 RTMP , WebRTC , HLS 和 HTTP-FLV 等协议
+>
+> 常用来构建直播和视频会议的后端服务
+>
+> https://github.com/ossrs/srs
+
+### env
+
+> 用于解析环境变量的 Go 语言库
+>
+> 一般情况下项目启动时需要的配置参数 , 都是通过环境变量传递的
+>
+> 该项目就是 Go 语言用来解析环境变量的库 , 它简单 , 体积小 , 零依赖
+>
+> https://github.com/caarlos0/env
+
+### k8s-tutorials
+
+> 免费的 Kubernetes 教程
+>
+> K8s 作为云原生时代的必备技能之一 , 该教程侧重于实战引导
+>
+> 用 Go 写的项目作为演示对象 , 从最基础的容器定义开始
+>
+> 逐一讲述 pod , deployment , service , ingress 等资源 , 直到用 helm 打包部署一套完整服务
+>
+> https://github.com/guangzhengli/k8s-tutorials
+
+### rod
+
+> Go 语言的网页自动化和爬虫库
+>
+> 该项目是 Go 语言封装的 DevTools 协议库 , 实现用 Go 语言操作浏览器 , 自动化之前需要手动完成的操作
+>
+> 比如 : 爬取客户端渲染的页面 , 端到端测试 , 自动填写表单 , 模拟点击等操作
+>
+> 项目包含丰富的示例代码 , 改改就能上手使用
+>
+> https://github.com/go-rod/rod
+
+### trivy
+
+> 一款全面的容器安全扫描工具
+>
+> 目前最流行的开源容器镜像漏洞扫描工具
+>
+> 拥有速度快 , 精准度高 , 依赖检测 , 机密检查 , 对 CI 友好等特点
+>
+> 它不仅安装简单而且容易上手 , 仅需一条命令 , 即可发现镜像存在的安全漏洞
+>
+> ```shell
+> # 安装
+> docker pull aquasec/trivy:0.33.0
+> # 运行
+> trivy image [YOUR_IMAGE_NAME]
+> ```
+>
+> https://github.com/aquasecurity/trivy
+
+### GoodWeather
+
+> 从零开发 Android 天气 APP
+>
+> 该项目介绍了如何开发一款支持天气预报 , 城市搜索 , 空气质量 , 自动更新等功能的 Android 应用
+>
+> 内含源码和配套讲解博文
+>
+> https://github.com/lilongweidev/GoodWeather
+
+### ava
+
+> 可以并发执行 JavaScript 测试的工具
+>
+> 这是一款 Node.js 的测试运行工具
+>
+> 拥有简洁的 API , 详细的错误输出 , 较高的执行效率等特点
+>
+> https://github.com/avajs/ava
+
+### kbar
+
+> 为你的站点提供命令面板界面的组件
+>
+> 这是一个即插即用的 React 组件 , 可以快速地为站点增加命令面板功能
+>
+> 让用户可以通过快捷键 , 灵活 , 交互式地访问网站
+>
+> https://github.com/timc1/kbar
+
+### LogicFlow
+
+> 滴滴开源的流程图编辑框架
+>
+> 该项目提供了一系列流程图交互和编辑的功能
+>
+> 支持实现脑图 , ER 图 , UML , 工作流等各种场景
+>
+> https://github.com/didi/LogicFlow
+
+### min
+
+> 一款最小化的浏览器
+>
+> 它是仅包含搜索 , 书签 , 密码管理 , 广告屏蔽器等最基础功能的极简浏览器
+>
+> 适用于 Windows , Linux , macOS 操作系统
+>
+> https://github.com/minbrowser/min
+
+### PPTist
+
+> 在线编辑和演示 PPT 的应用
+>
+> 该项目采用 Vue3+TypeScript 构建 , 还原了大部分 Office PowerPoint 常用功能
+>
+> 支持在线编辑 , 演示和导出 PPT 文件
+>
+> https://github.com/pipipi-pikachu/PPTist
+
+### uhabits
+
+> 一款帮助建立和维持好习惯的应用
+>
+> 该软件完全免费 , 支持中文 , 无广告和内购
+>
+> 首先用户需要在 APP 上新建一个习惯
+>
+> 可以设置频率 , 量化任务 , 提醒时间等，每当完成一次习惯就在应用上做一个标记
+>
+> 后面会有详细的图表展示习惯养成情况
+>
+> https://github.com/iSoron/uhabits
+
+### latexify_py
+
+> 用于生成 LaTeX 数学公式的 Python 库
+>
+> LaTeX 是一种基于 ΤΕΧ 的排版系统 , 对于展示复杂的数学公式表现极为出色
+>
+> 该项目可以用 Python 函数 , 轻松生成复杂的 LaTeX 数学公式描述
+>
+> ```python
+> import math
+> import latexify
+> 
+> @latexify.with_latex
+> def solve(a, b, c):
+>     return (-b + math.sqrt(b**2 - 4*a*c)) / (2*a)
+> 
+> print(solve(1, 4, 3))
+> print(solve)
+> # 输出如下
+> # -1.0
+> # \mathrm{solve}(a, b, c)\triangleq \frac{-b + \sqrt{b^{2} - 4ac}}{2a}
+> ```
+>
+> https://github.com/google/latexify_py
+
+### matrix-webcam
+
+> 在“矩阵”中进行视频会议 , 可以让你在视频会议时 , 实现类似《黑客帝国》数字雨的效果
+>
+> 支持 Teams/Zoom/Skype 视频软件
+>
+> 适用于 Windows , macOS , Linux 操作系统
+>
+> https://github.com/joschuck/matrix-webcam
+
+### pdf2docx
+
+> 可将 PDF 转换成 docx 文件的 Python 库
+>
+> 该项目通过 PyMuPDF 库提取 PDF 文件中的数据
+>
+> 然后采用 python-docx 库解析内容的布局 , 段落 , 图片 , 表格等，最后自动生成 docx 文件
+>
+> ```python
+> from pdf2docx import parse
+> 
+> pdf_file = '/path/to/sample.pdf'
+> docx_file = 'path/to/sample.docx'
+> 
+> # convert pdf to docx
+> parse(pdf_file, docx_file)
+> ```
+>
+> https://github.com/dothinking/pdf2docx
+
+### schedule
+
+> 简单友好的 Python 任务调度库
+>
+> 该项目人性化的 API 设计 , 让开发者仅用几行代码就能轻松实现定时任务
+>
+> 它不依赖任何第三方库 , 全部代码也就一个文件 800 多行
+>
+> 拥有丰富的注释和单元测试 , 源码阅读起来十分轻松
+>
+> ```python
+> import schedule
+> import time
+> 
+> def job():
+>     print("I'm working...")
+> 
+> schedule.every(10).minutes.do(job)
+> schedule.every().hour.do(job)
+> schedule.every().day.at("10:30").do(job)
+> schedule.every().monday.do(job)
+> schedule.every().wednesday.at("13:15").do(job)
+> schedule.every().minute.at(":17").do(job)
+> 
+> while True:
+>     schedule.run_pending()
+>     time.sleep(1)
+> ```
+>
+> https://github.com/dbader/schedule
+
+### Umi-OCR
+
+> 基于 PaddleOCR 的 OCR 图片转文字识别软件
+>
+> 完全免费 , 可离线使用的开源软件
+>
+> 支持截屏识别文字 , 批量导入图片 , 横/竖排文字
+>
+> 还可以自动忽略水印区域 , 适用于 Win10 操作系统
+>
+> https://github.com/hiroi-sora/Umi-OCR
+
+### linguist
+
+> GitHub 官方开源的识别项目编程语言的库
+>
+> 该项目是 GitHub.com 网站上 , 用于检测开源项目编程语言占比的库
+>
+> ```shell
+> # 安装
+> gem install github-linguist
+> # 在项目根目录下执行命令
+> github-linguist
+> # 结果
+> 66.84%  264519     Ruby
+> 24.68%  97685      C
+> 6.57%   25999      Go
+> 1.29%   5098       Lex
+> 0.32%   1257       Shell
+> 0.31%   1212       Dockerfile
+> ```
+>
+> https://github.com/github/linguist
+
+### atuin
+
+> 神奇的 shell 历史记录工具
+>
+> 该项目通过 SQLite 数据库存储 shell 历史
+>
+> 能够显示更多的 shell 历史 , 命令运行时间 , 执行时间等信息
+>
+> 还支持选择 , 过滤 , 统计 , 同步/备份等操作
+>
+> https://github.com/ellie/atuin
+
+### this-week-in-rust
+
+> Rust 语言社区的每周摘要
+>
+> 该项目是由 Rust 社区发起 , 每周发布一期 Rust 相关动态
+>
+> 包括 Rust 语言的文章 , 视频 , 音频 , 开源项目分享
+>
+> 以及本周的更新(PR) , RFC(征求意见)和开发进度
+>
+> https://github.com/rust-lang/this-week-in-rust
+
+### isowords
+
+> 3D 魔方单词消消乐游戏
+>
+> 这是一款用 Swift 编写的 iOS 游戏 , 玩家可以选择 3D 立方体上的字母组成英文单词
+>
+> 如果一个字母被使用 3 次 , 该字母立方体就会消失 , 显示下面更多的字母
+>
+> 支持限时 , 无限 , 多人三种游戏模式 , 以及每日挑战和全球排行榜
+>
+> https://github.com/pointfreeco/isowords
+
+### code2flow
+
+> 为动态语言生成调用图的工具
+>
+> 可根据源码文件生成漂亮的调用图的命令行工具
+>
+> 支持 Python , JavaScript , Ruby 等动态语言
+>
+> ```shell
+> # 安装
+> pip3 install code2flow
+> # 使用
+> code2flow 文件
+> ```
+>
+> https://github.com/scottrogowski/code2flow
+
+### Codex-CLI
+
+> 让终端理解自然语言命令的工具
+>
+> 该项目使用 GPT-3 Codex 可将自然语言命令 , 转换为 PowerShell , Zsh 和 Bash 中的命令
+>
+> 比如输入 what‘s my IP？就能得到本机 IP
+>
+> https://github.com/microsoft/Codex-CLI
