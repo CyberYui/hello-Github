@@ -11449,3 +11449,100 @@ Julia
 > - 支持 80+ 多种语言 ;
 >
 > https://github.com/valeriansaliou/sonic
+
+### API-Security-Checklist
+
+> 开发安全的 API 所需要核对的清单
+>
+> 在设计 , 测试和发布 API 的时候 , 需要核对的重要安全措施
+>
+> https://github.com/shieldfy/API-Security-Checklist
+
+### Vulhub
+
+> 一个面向大众的开源漏洞环境集合
+>
+> 无需 Docker 知识 , 仅需通过一条简单的命令 , 就能跑起来一个存在某个漏洞的完整应用
+>
+> 使得安全研究人员能够方便地复现与研究漏洞
+>
+> 省去了学习复杂的部署知识 , 寻找有漏洞的旧版本应用 , 搭建依赖的服务等麻烦
+>
+> https://github.com/vulhub/vulhub
+
+### lama-cleaner
+
+> 图片处理工具 , 可快速删除你图片中任何不想要的物体 , 缺陷 , 人 , 也可以替换指定物体
+>
+> 比如 : 将蹲坐在长椅的小狗换成小狐狸
+>
+> lama-cleaner 基于 cv2 经典图像嵌入算法 , 支持多种 SOTA AI 模型
+>
+> https://github.com/Sanster/lama-cleaner
+
+### conductor
+
+> Netflix 开源的微服务编排平台 , 可用于协调微服务工作流
+>
+> Conductor 依赖于 Dynomite 实现持久性 , dyno-queues 实现队列 , Elasticsearch 6.x 实现索引
+>
+> https://github.com/Netflix/conductor
+
+### refine
+
+> refine 可快速开发基于 React 的 Web 应用 , 你无需进行 CRUD 的重复工作
+>
+> 此外 , refine 还提供身份验证 , 访问控制 , 路由 , 网络管理 , i18n 等功能
+>
+> https://github.com/refinedev/refine
+
+### phlare
+
+> Grafana 开源的可用于聚合 continuous profiling ( 持续分析 ) 数据
+>
+> 持续分析可让你了解工作负载的资源使用情况
+>
+> 比如 : CPU , 内存 , 从而优化性能和节省成本
+>
+> 由于是 Grafana 开源的聚合数据工具 , phlare 可以和 Graph 完成集成协助观察资源数据
+>
+> https://github.com/grafana/phlare
+
+### stc
+
+> Rust 实现的 TypeScript 类型检测器
+>
+> https://github.com/dudykr/stc
+
+### mkcert
+
+> 无需配置，用来制作本地可信任开发证书的工具。比如参考以下方式：
+>
+> ```shell
+> $ mkcert -install
+> Created a new local CA 💥
+> The local CA is now installed in the system trust store! ⚡️
+> The local CA is now installed in the Firefox trust store (requires browser restart)! 🦊
+> 
+> $ mkcert example.com "*.example.com" example.test localhost 127.0.0.1 ::1
+> 
+> Created a new certificate valid for the following names 📜
+>  - "example.com"
+>  - "*.example.com"
+>  - "example.test"
+>  - "localhost"
+>  - "127.0.0.1"
+>  - "::1"
+> 
+> The certificate is at "./example.com+5.pem" and the key at "./example.com+5-key.pem" ✅
+> ```
+>
+> https://github.com/FiloSottile/mkcert
+
+### taxonomy
+
+> 使用 Next.js 13 中新的路由器
+>
+> 服务组件以及其他新特性构建的开源应用程序 , 方便你快速了解 Next.js 新版本
+>
+> https://github.com/shadcn/taxonomy
