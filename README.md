@@ -99,6 +99,10 @@
 
 > 突然发现自己的 Star 都快 1000+ 了 , 决定自己组装台电脑到时候慢慢看项目了 , 另外还准备把这个文档划分一下 , 按标签之类的细分一下结构和内容 , 到时候这个文档就当一个导航用就好
 
+### 2022-12-07
+
+> 最近加班有些严重 , 而且又开了几个游戏的深坑 , 导致学习激情下降了 , 今天看到了 11月29日 的热点速览 , 希望明天能直接记录完 , 争取在明年接近年底的时候能自由一段时间
+
 -------------------------------------------------
 
 ### SlimeFun
@@ -11546,3 +11550,440 @@ Julia
 > 服务组件以及其他新特性构建的开源应用程序 , 方便你快速了解 Next.js 新版本
 >
 > https://github.com/shadcn/taxonomy
+
+### django-cms
+
+> 由 Django 编写的企业级 CMS
+>
+> 功能实用 , 安全可靠 , 支持拖拽上传图片 , 轮播图 , Docker 部署等功能
+>
+> 可轻松进行二次开发 , 多用于构建企业官网
+>
+> 比如 : 国家地理等网站就是基于它开发而成
+>
+> 安装步骤 , 如下 :
+>
+> ```shell
+> $ git clone git@github.com:django-cms/django-cms-quickstart.git
+> $ cd django-cms-quickstart
+> $ docker compose build web && docker compose up -d database_default
+> $ docker compose run web python manage.py migrate && docker compose run web python manage.py createsuperuser
+> $ docker compose up -d
+> $ open http://127.0.0.1:8000
+> ```
+>
+> https://github.com/django-cms/django-cms
+
+### Ghost
+
+> 一款用 Node.js 编写 , 功能强大的无头 CMS
+>
+> 它的强大之处在于提供了丰富、免费、可自定义的主题 , 用户可以自由搭配轻松建站
+>
+> 专业的会员订阅和数据可视化功能 , 让内容创作者可以围绕内容 , 尝试发展商业化业务
+>
+> 除此之外 , 它还拥有先进的所见即所得编辑器
+>
+> 安装步骤 , 如下 :
+>
+> ```shell
+> npm install ghost-cli -g
+> ghost install local
+> ```
+>
+> https://github.com/TryGhost/Ghost
+
+### strapi
+
+> 一款完全免费 , 基于 JavaScript 构建的无头内容管理系统
+>
+> 它拥有开箱即用的 API 和友好的管理面板
+>
+> 自带权限管理 , 默认安全 , SEO 友好等特点
+>
+> 该项目作为 GitHub 上 Star 数最多的开源内容管理系统
+>
+> 目前已成为多家世界 500 公司的首选 CMS
+>
+> 安装步骤 , 如下 :
+>
+> ```shell
+> yarn create strapi-app my-project --quickstart
+> ```
+> 或者
+> ```shell
+> npx create-strapi-app my-project --quickstart
+> ```
+>
+> https://github.com/strapi/strapi
+
+### autocut
+
+> AutoCut 会对你的视频自动生成字幕 , 再选择所需保留的句子
+>
+> AutoCut 便会对视频中相应的片段裁切并保存
+>
+> 无需使用视频编辑软件 , 只需要编辑文本文件即可完成剪切
+>
+> https://github.com/mli/autocut
+
+### smiley-sans
+
+> 得意黑是一款在人文观感和几何特征中寻找平衡的中文黑体
+>
+> 整体字身窄而斜 , 细节融入了取法手绘美术字的特殊造型
+>
+> 字体支持简体中文常用字 ( 覆盖 GB2312 编码字符集 ) , 拉丁字母 , 日文假名 , 阿拉伯数字和各类标点符号
+>
+> 目前 smiley-sans 除了支持常见数字和标点外 , 还支持汉字6,767 个 , 拉丁字母 ( 覆盖欧洲 , 美洲 , 南亚各种语言所需的字符共 415 个 ) 以及日文假名 ( 174 个 )
+>
+> https://github.com/atelier-anchor/smiley-sans
+
+### greptimedb
+
+> GreptimeDB 是一个开源的时序数据库 , 专注于可扩展性 , 分析力和效率 , 一些特性 :
+>
+> - 一个单机二进制文件可以扩成为高可用的分布式集群
+> - 优化用于处理时序数据的列式布局
+> - 灵活的索引
+> - 分布式 , 并行查询执行 , 可弹性计算资源
+> - 原生 SQL 和 Python 脚本可进行进阶性分析场景
+>
+> https://github.com/GreptimeTeam/greptimedb
+
+### reference
+
+> 可快速根据你的技术栈快速找寻相关知识 , 从入门到进阶的 Tips 都有
+>
+> reference 英文可查阅链接 : https://github.com/Fechin/reference
+>
+> https://github.com/jaywcjlove/reference
+
+### katana
+
+> 作为下一代爬虫框架 , katana 有以下特性 :
+>
+> - 快速配置
+> - 支持标准和无头模式
+> - JavaScript 解析和爬取
+> - 支持自定义的自动填充
+> - 范围控制——预配置字段和正则
+> - 自定义输出
+>
+> https://github.com/projectdiscovery/katana
+
+### cockpit
+
+> 基于 Web 的服务器图形界面
+>
+> 这是一款开源的服务器管理工具 , 让你可以通过 Web 界面轻松管理 Linux 服务器
+>
+> 支持配置防火墙 , Web 终端 , 容器管理 , 查看系统日志等功能
+>
+> https://github.com/cockpit-project/cockpit
+
+### Malware-Patch
+
+> 阻止 Windows 流氓软件授权的工具
+>
+> 它轻巧 , 无需后台运行 , 可用于阻止指定软件的管理员授权
+>
+> https://github.com/the1812/Malware-Patch
+
+### Magisk
+
+> Android 获取 Root 权限的工具
+>
+> 它可以快速 , 无痛地获得 Android 的超级用户权限 , 支持 Android 5.0 以上的设备
+>
+> https://github.com/topjohnwu/Magisk
+
+### osquery
+
+> 像数据库一样查询设备的工具
+>
+> 它将操作系统抽象成一个数据库 , 让用户可以通过 SQL 查询操作系统的运行情况
+>
+> 比如运行中的进程 , 网络连接 , 文件和用户
+>
+> 攻击者一般会在运行恶意程序后删掉程序 , 通过 osquery 可以轻松找到没有源文件的进程
+>
+> ```sql
+> osquery> SELECT name, path, pid FROM processes WHERE on_disk = 0;
+> name = Drop_Agent
+> path = /Users/jim/bin/dropage
+> pid = 561
+> ```
+>
+> https://github.com/osquery/osquery
+
+### cadvisor
+
+> 一款由 Google 开源的容器监控工具
+>
+> 它可以实时统计容器运行时占用的资源 , 包括 CPU 利用率 , 内存使用量 , 网络传输等信息
+>
+> 提供了 Web 可视化页面 , 能方便用户分析和监控容器运行状态
+>
+> 支持包括 Docker 在内的几乎所有类型的容器
+>
+> ```shell
+> sudo docker run \
+>   --volume=/:/rootfs:ro \
+>   --volume=/var/run:/var/run:ro \
+>   --volume=/sys:/sys:ro \
+>   --volume=/var/lib/docker/:/var/lib/docker:ro \
+>   --volume=/dev/disk/:/dev/disk:ro \
+>   --publish=8080:8080 \
+>   --detach=true \
+>   --name=cadvisor \
+>   --privileged \
+>   --device=/dev/kmsg \
+>   gcr.io/cadvisor/cadvisor:$VERSION
+> ```
+>
+> https://github.com/google/cadvisor
+
+### json-to-go
+
+> 立刻将 JSON 转化为 Go 类型定义的工具
+>
+> 这是一个用 JavaScript 写的在线小工具 , 可以直接将输入的 JSON 转成对应的 Go 类型定义
+>
+> https://github.com/mholt/json-to-go
+
+### supervisord
+
+> 用 Go 重新实现的 supervisord
+>
+> 开源项目 supervisord 作为 Python 项目中常用的进程管理工具 , 深受广大开发爱好者的喜欢
+>
+> 但如果在非 Python 环境的情况下 , 用起来就不顺手了
+>
+> 所以作者用 Go 重写了 supervisord , 编译后可以方便地运行在任何环境下
+>
+> https://github.com/ochinchina/supervisord
+
+### Aegis
+
+> 一款免费 , 安全 , 开源的 2FA 安卓应用
+>
+> Aegis 是一款支持 HOTP 和 TOTP 算法的开源 2FA 应用
+>
+> 使用时要先将手机和账号绑定 , 绑定后 APP 就会定时刷新一组随机数字
+>
+> 需要双重认证时输入这串数字即可
+>
+> https://github.com/beemdevelopment/Aegis
+
+### jenkins
+
+> 一款由 Java 编写的开源持续集成工具
+>
+> 做为开源 CI/CD 软件的王者 , 它专注于自动化你的开发工作流程
+>
+> 具有安装简单 , 友好的操作页面 , 易于扩展 , 分布式的特点 , 常用来优化项目开发流程或自动化各种任务
+>
+> ```tex
+> 1. 下载 jar 包
+> 2. 运行：java -jar jenkins.war --httpPort=8080
+> 3. 打开浏览器访问：http://localhost:8080
+> 4. 根据提示完成安装
+> ```
+>
+> https://github.com/jenkinsci/jenkins
+
+### cypress
+
+> 基于 JavaScript 的下一代前端测试工具
+>
+> 主要用于浏览器端到端测试的自动化工具
+>
+> 端到端(E2E)测试就是站在用户的角度 , 模拟实际使用场景的测试方式
+>
+> Cypress 目前已成主流浏览器端到端测试工具
+>
+> 它运行速度快 , 上手简单 , 支持图形化界面可实时观察执行情况 , 以及截屏和视频记录测试结果
+>
+> https://github.com/cypress-io/cypress
+
+### Dashboard
+
+> 一款完全自定义配置的浏览器起始页
+>
+> 基于 Vite+Vue3+TypeScript 构建的浏览器起始页
+>
+> 预设了多款简洁清爽的主题开箱即用 , 能够随心所欲地添加组件
+>
+> 编辑模式下可拖拽组件更改大小和位置 , 支持浏览器插件和网页两种使用方式
+>
+> https://github.com/leon-kfd/Dashboard
+
+### Rocket.Chat
+
+> 一款可自由定制的企业级开源通信平台
+>
+> 功能丰富的通信平台 , 可自托管做为 Slack 的开源替代品
+>
+> 支持创建频道 , 团队和讨论等多种不同功能的群聊
+>
+> 消息支持图片 , 文件 , 视频和语音
+>
+> 拥有包括 Windows , Linux , macOS , Android 和 iOS 在内的多种客户端
+>
+> https://github.com/RocketChat/Rocket.Chat
+
+### Calibre
+
+> 一款功能强大的电子书管理工具
+>
+> 它是集下载 , 格式转化 , 制作 , 管理于一体的电子书工具
+>
+> 比如可以将 txt 文本 , 转化成包含作者信息和书籍封面的 mobi 文件
+>
+> 制作完成后还可以直接发送到 Kindle 设备上
+>
+> https://github.com/kovidgoyal/calibre
+
+### changedetection.io
+
+> 简单好用的网站变更检测 , 监控和通知服务
+>
+> 基于 Flask+Selenium 构建的 Web 服务
+>
+> 可以在目标网站发生变化时发出通知
+>
+> 可用于监控商品降价 , 工作机会 , 版本发布 , 最新内容等 , 支持 Docker 的安装方式
+>
+> https://github.com/dgtlmoon/changedetection.io
+
+### reloadium
+
+> Python 热重载调试工具
+>
+> 在不重启程序的前提下 , 通过这个项目可以查看改动后 , 最新的 Python 代码运行效果
+>
+> 以及每行代码的耗时 , 有了它可以更高效地调试 Python 代码 , 强烈推荐在 PyCharm 和 VSCode 上使用
+>
+> https://github.com/reloadware/reloadium
+
+### rocketry
+
+> 更加人性化的 Python 调度库
+>
+> 可通过 Python 装饰器语法 , 进行任务调度的 Python 库
+>
+> 它简单 , 优雅 , 高效 , 支持定时 , 并发 ( 异步 , 多线程 , 多进程 ) , 条件触发等功能
+>
+> ```python
+> from rocketry import Rocketry
+> from rocketry.conds import daily
+> 
+> app = Rocketry()
+> 
+> @app.task(daily)
+> def do_daily():
+>     ...
+> 
+> @app.task(daily & file_exists("data.csv"))
+> def do_things():
+>     ...
+> 
+> if __name__ == '__main__':
+>     app.run()
+> ```
+>
+> https://github.com/Miksus/rocketry
+
+### sniffnet
+
+> 可轻松监控网络流量的工具
+>
+> 这是一个简单 , 可靠 , 炫酷的网络监控应用 , 可以让你一目了然地了解设备的网络流量
+>
+> https://github.com/GyulyVGC/sniffnet
+
+### websocat
+
+> WebSockets 的命令行客户端
+>
+> 一条命令连接或建立 WebSockets 服务 , 适用于 Windows , macOS , Linux
+>
+> ```shell
+> A$ websocat -s 1234
+> Listening on ws://127.0.0.1:1234/
+> ABC
+> 123
+> 
+> B$ websocat ws://127.0.0.1:1234/
+> ABC
+> 123
+> ```
+>
+> https://github.com/vi/websocat
+
+### CotEditor
+
+> 一款适用于 macOS 的轻量级纯文本编辑器
+>
+> 免费 , 整洁 , 启动速度快 , 拥有看起来十分舒服的界面
+>
+> https://github.com/coteditor/CotEditor
+
+### fonteditor
+
+> 在线字体编辑器
+>
+> 在线编辑 , 转换 , 预览字体文件 , 支持多种字体格式
+>
+> https://github.com/ecomfe/fonteditor
+
+### free-for-dev
+
+> 专为程序员准备的免费服务清单
+>
+> 现在虽然有大量免费的服务 , 但大多数开发者很难找到它们
+>
+> 这是一份免费服务 ( SaaS , PaaS , IaaS 等 ) 和产品的列表
+>
+> https://github.com/ripienaar/free-for-dev
+
+### GameShell
+
+> 玩游戏学习 Shell
+>
+> 这是一款帮助入门 shell 命令的文字游戏
+>
+> https://github.com/phyver/GameShell
+
+### hackingtool
+
+> 黑客工具全家桶
+>
+> 该项目收录了各种黑客工具 , 包括破解密码 , SQL 注入 , 钓鱼攻击 , XSS , DDos 等
+>
+> https://github.com/Z4nzu/hackingtool
+
+### Book3_Elements-of-Mathematics
+
+> 《数学要素》从加减乘除到机器学习
+>
+> 全彩多图的一本科普书 , 内容以图解+数学+编程为主
+>
+> https://github.com/Visualize-ML/Book3_Elements-of-Mathematics
+
+### py4e
+
+>《Python for Everybody》适合所有人的 Python
+>
+>不管你有没有编程基础 , 只要对编程感兴趣 , 都可以通过这本书学会 Python , 进入有趣的编程世界
+>
+>https://github.com/csev/py4e
+
+### AiLearning-Theory-Applying
+
+> 快速上手 AI 理论及应用实战
+>
+> 该教程包含学习 AI 必备的数学基础 , 机器学习实战小项目 , 深度学习入门 , 自然语言通用框架 BERT 实战 , 以及大量数据集
+>
+> https://github.com/ben1234560/AiLearning-Theory-Applying
