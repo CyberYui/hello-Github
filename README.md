@@ -10423,7 +10423,7 @@ Julia
 
 > 如果你的相册备份空间不足 , 不妨自托管一个照片 , 视频备份服务
 >
-> Immich 支持从手机和网页端来备份你的相册 , 具有以下特性：
+> Immich 支持从手机和网页端来备份你的相册 , 具有以下特性 : 
 >
 > - 支持上传 , 查看相片和视频
 > - 自动备份
@@ -10549,7 +10549,7 @@ Julia
 >
 > 内置数据分析 , 定制域名等功能
 >
-> Dub 项目技术栈如下：
+> Dub 项目技术栈如下 : 
 >
 > - Next.js——框架
 > - TypeScript——语言
@@ -11184,7 +11184,7 @@ Julia
 >
 > 首先用户需要在 APP 上新建一个习惯
 >
-> 可以设置频率 , 量化任务 , 提醒时间等，每当完成一次习惯就在应用上做一个标记
+> 可以设置频率 , 量化任务 , 提醒时间等 , 每当完成一次习惯就在应用上做一个标记
 >
 > 后面会有详细的图表展示习惯养成情况
 >
@@ -11231,7 +11231,7 @@ Julia
 >
 > 该项目通过 PyMuPDF 库提取 PDF 文件中的数据
 >
-> 然后采用 python-docx 库解析内容的布局 , 段落 , 图片 , 表格等，最后自动生成 docx 文件
+> 然后采用 python-docx 库解析内容的布局 , 段落 , 图片 , 表格等 , 最后自动生成 docx 文件
 >
 > ```python
 > from pdf2docx import parse
@@ -11520,7 +11520,7 @@ Julia
 
 ### mkcert
 
-> 无需配置，用来制作本地可信任开发证书的工具。比如参考以下方式：
+> 无需配置 , 用来制作本地可信任开发证书的工具。比如参考以下方式 : 
 >
 > ```shell
 > $ mkcert -install
@@ -11578,7 +11578,7 @@ Julia
 
 > 一款用 Node.js 编写 , 功能强大的无头 CMS
 >
-> 它的强大之处在于提供了丰富、免费、可自定义的主题 , 用户可以自由搭配轻松建站
+> 它的强大之处在于提供了丰富 , 免费 , 可自定义的主题 , 用户可以自由搭配轻松建站
 >
 > 专业的会员订阅和数据可视化功能 , 让内容创作者可以围绕内容 , 尝试发展商业化业务
 >
@@ -11786,8 +11786,8 @@ Julia
 >
 > ```tex
 > 1. 下载 jar 包
-> 2. 运行：java -jar jenkins.war --httpPort=8080
-> 3. 打开浏览器访问：http://localhost:8080
+> 2. 运行 : java -jar jenkins.war --httpPort=8080
+> 3. 打开浏览器访问 : http://localhost:8080
 > 4. 根据提示完成安装
 > ```
 >
@@ -11987,3 +11987,165 @@ Julia
 > 该教程包含学习 AI 必备的数学基础 , 机器学习实战小项目 , 深度学习入门 , 自然语言通用框架 BERT 实战 , 以及大量数据集
 >
 > https://github.com/ben1234560/AiLearning-Theory-Applying
+
+### d2
+
+> 本周刚开源并突破 5k star 关卡的“爆款”项目 , 只要用文本就可以生成对应的图表
+>
+> 比如下面这段语法讲得到一个流程图
+>
+> ```go
+> # Actors
+> hans: Hans Niemann
+> 
+> defendants: {
+>   mc: Magnus Carlsen
+>   playmagnus: Play Magnus Group
+>   chesscom: Chess.com
+>   naka: Hikaru Nakamura
+> 
+>   mc -> playmagnus: Owns majority
+>   playmagnus <-> chesscom: Merger talks
+>   chesscom -> naka: Sponsoring
+> }
+> 
+> # Accusations
+> hans -> defendants: 'sueing for $100M'
+> 
+> # Offense
+> defendants.naka -> hans: Accused of cheating on his stream
+> defendants.mc -> hans: Lost then withdrew with accusations
+> defendants.chesscom -> hans: 72 page report of cheating
+> ```
+>
+> https://github.com/terrastruct/d2
+
+### buzz
+
+> 转换音频为文本的工具
+>
+> 支持麦克风实时录入转文字 , 也支持导入已有音频文件
+>
+> 文本可以导出为 TXT , SRT , VTT 格式
+>
+> https://github.com/chidiwilliams/buzz
+
+### memos
+
+> 具备知识管理能力的备忘中心 , 可多人协作 , 特性 :
+>
+> - 支持自托管 , 秒拉起来一个 Docker 应用
+> - 支持 Markdown 语法
+> - 同组内成员协作
+> - 自服务的 RESTful API
+>
+> https://github.com/usememos/memos
+
+### kubeshark
+
+> 作为 K8s 的 API 流量查看器
+>
+> kubeshark 支持对 K8s 所有集群的 API 流量和负载进行监控
+>
+> https://github.com/kubeshark/kubeshark
+
+### Leptos
+
+> 可用 Rust 快速构建 Web 应用 , 特性 :
+>
+> - 全栈 : 它可在浏览器中运行 , 也可以在服务器端渲染 , 运行 , 或是服务器渲染 HTML 时在浏览器中添加交互
+>
+> - 同构 : 你可以在客户端和服务端用相同形式调用函数 , 但它只在服务器上运行
+>
+> - Web : leptos 基于 Web 平台和 Web 标准之上 , 没有新的学习成本
+>
+>   框架 : 提供构建现代 Web 应用所需的大部分内容 : 响应式系统 , 模版库 , 可在服务端和客户端跑的路有
+>
+> - 精细的响应 : leptos 由响应式原语构造 , 当响应信号变化时 , 可以更新单个文本节点 , 单个类或是从 DOM 中删除一个元素 , 不用动其他代码
+>
+> - 声明式
+>
+> 示例代码 : 
+>
+> ```html
+> use leptos::*;
+> 
+> #[component]
+> pub fn SimpleCounter(cx: Scope, initial_value: i32) -> Element {
+>     // create a reactive signal with the initial value
+>     let (value, set_value) = create_signal(cx, initial_value);
+> 
+>     // create event handlers for our buttons
+>     // note that `value` and `set_value` are `Copy`, so it's super easy to move them into closures
+>     let clear = move |_| set_value(0);
+>     let decrement = move |_| set_value.update(|value| *value -= 1);
+>     let increment = move |_| set_value.update(|value| *value += 1);
+> 
+>     // this JSX is compiled to an HTML template string for performance
+>     view! {
+>         cx,
+>         <div>
+>             <button on:click=clear>"Clear"</button>
+>             <button on:click=decrement>"-1"</button>
+>             <span>"Value: " {move || value().to_string()} "!"</span>
+>             <button on:click=increment>"+1"</button>
+>         </div>
+>     }
+> }
+> 
+> // Easy to use with Trunk (trunkrs.dev) or with a simple wasm-bindgen setup
+> pub fn main() {
+>     mount_to_body(|cx| view! { cx,  <SimpleCounter initial_value=3 /> })
+> ```
+>
+> https://github.com/gbj/leptos
+
+### CustomTkinter
+
+> 基于 Tkinter ( Tk GUI 工具包的 Python 绑定包 ) 的 Python UI 库
+>
+> 提供了新颖 , 现代 , 可定制的小部件
+>
+> 你可以单独使用这些部件 , 也可以组合使用
+>
+> 下图为 Windows 下的蓝黑主题
+>
+> https://github.com/TomSchimansky/CustomTkinter
+
+### act
+
+> 在本地跑起你的 GitHub Actions
+>
+> 至于为什么选 act , 项目给出了两个简单粗暴的理由 :
+>
+> 快速反馈 , 不需要每次测试都提交相关 `.github/workflows/ ` 变更
+>
+> 免去 Makefile 烦恼 , 本地任务器就能搞定
+>
+> https://github.com/nektos/act
+
+### go-coffeeshop
+
+> Golang 实现的事件驱动微服务演示
+>
+> 部署用到了 Nomad , Consul , Vault 和 Terraform
+>
+> https://github.com/thangchung/go-coffeeshop
+
+### Villain
+
+> 一个给 Windows 和 Linux 系统生成后门和多会话处理的工具
+>
+> 允许用户连接兄弟服务器 ( 运行 Villain 的其他机器 ) 并共享后门会话
+>
+> https://github.com/t3l3machus/Villain
+
+### CampusShame
+
+> 什么只允许公司做海王把应届生当鱼 , 不能学生自己当海王去养公司的鱼呢
+>
+> CampusShame , 校招污点与非污点公司名单
+>
+> 校招污点行为包括但不限于 : 毁意向书 , 毁两方协定 , 毁三方协定 , 试用期裁员 , 大量裁应届生
+>
+> https://github.com/forthespada/CampusShame
