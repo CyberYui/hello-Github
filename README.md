@@ -12155,3 +12155,11 @@ Julia
 > 4K/8K超高清IPTV直播源&&直播代码仓库
 >
 > https://github.com/youshandefeiyang/IPTV
+
+### notable
+
+> 一款开源 , 高颜值 , 跨平台的 Markdown 编辑器
+>
+> 支持自定义主题 , 同 Typora不同的是 , 该编辑器开源且所有文件均支持加密
+>
+> https://github.com/notable/notable
