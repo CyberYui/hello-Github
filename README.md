@@ -255,6 +255,12 @@
 >
 > https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation
 
+### :notebook: Awesome Python
+
+> 收录了 Python 主题下相关的框架 , 库 , 软件和资料 , 是一个不错的 Python 资源项目
+>
+> https://github.com/vinta/awesome-python
+
 -----------------------------
 
 ## Finish reading
@@ -575,6 +581,20 @@
 >
 > https://github.com/Genymobile/scrcpy
 
+### :heart: MagicMirror
+
+> 一个支持第三方的开源模块化智能镜子系统 , 通过购买支持它的第三方模块可以实现你的镜子显示你需要的一些功能 , 例如提醒 , 天气等内容
+>
+> https://github.com/MichMich/MagicMirror
+
+### :computer: :heart: nocodb
+
+> 将 MySQL 等多种数据库变成一个智能电子表格 , 并支持普通表格类似的过滤 , 排序 , 隐藏列行等基础功能
+>
+> 值得注意的是 , 这个东西的使用需要 docker , 所以先看 docker 再说用它吧
+>
+> https://github.com/nocodb/nocodb
+
 -----------------------
 
 ## Programming Using (Web)
@@ -763,6 +783,63 @@
 >
 > https://github.com/DIYgod/DPlayer
 
+### :heart: :computer: astro
+
+> 建站用的一个开源源码 , 是新的实践方式
+>
+> https://github.com/snowpackjs/astro
+
+### :star: :computer: amis
+
+> 百度开源的前端低代码框架 , 通过 JSON 配置就能生成各种后台页面 , 极大减少开发成本
+>
+> https://github.com/baidu/amis
+
+### :computer: code-server
+
+> Code-server 是一个让你能在浏览器中运行 VS Code 的工具 , 还支持丰富的 VS Code 插件
+>
+> * 可在具有一致开发环境的任何设备上写代码
+> * 用云服务来加速测试 , 编译 , 下载等等功能
+>
+> https://github.com/cdr/code-server
+
+### :heart: :notebook: secguide
+
+> 腾讯出品的代码安全指南 , 旨在梳理 API 层面的风险点并提供详实可行的安全编码方案
+>
+> https://github.com/Tencent/secguide
+
+### :star: :heart: autocomplete
+
+> Autocomplete ( Fig ) 是一个终端提示 , 当你在终端输入字符时 , Fig 会在 macOS 上的现有终端界面弹出子命令 , 选项和相关的参数
+>
+> https://github.com/withfig/autocomplete
+
+### :heart: :computer: appwrite
+
+> Appwrite 是一个端到端后端服务器 , 将 Web , 移动 , 原生和后端应用打包为一组 Docker 微服务
+>
+> 相比从头构建复杂的后端 API , Appwrite 让你更快地构建安全应用程序
+>
+> https://github.com/appwrite/appwrite
+
+### :computer: :heart: ERPnext
+
+> ERPNext 是一个非常赞的 ERP 系统 , 它拥有极高的颜值 , 可用于企业日常的会计 , 财务 , 采购 , 项目管理 , 供应链 , 客户系统和设备管理
+>
+> 基于 Frappe 框架使用 Python 和 Javascript 编写而成
+>
+> https://github.com/frappe/erpnext
+
+### :heart: :star: umami
+
+> Umami 是一个简单 , 易用 , 快速的网站流量分析工具 , 可代替 Google Analysis , 支持 MySQL 数据库
+>
+> 相比 GA , 自托管的网站统计服务更能保护隐私且安全
+>
+> https://github.com/mikecao/umami
+
 ------------------------
 
 ## GameTools&Mods
@@ -872,83 +949,6 @@
 -----------------
 
 ## Not sorted yet
-
-### astro
-
-> 建站用的一个开源源码 , 是新的实践方式
->
-> https://github.com/snowpackjs/astro
-
-### MagicMirror
-
-> 一个支持第三方的开源模块化智能镜子系统 , 通过购买支持它的第三方模块可以实现你的镜子显示你需要的一些功能 , 例如提醒 , 天气等内容
->
-> https://github.com/MichMich/MagicMirror
-
-### amis
-
-> 百度开源的前端低代码框架 , 通过 JSON 配置就能生成各种后台页面 , 极大减少开发成本
->
-> https://github.com/baidu/amis
-
-### code-server
-
-> Code-server 是一个让你能在浏览器中运行 VS Code 的工具 , 还支持丰富的 VS Code 插件
->
-> * 可在具有一致开发环境的任何设备上写代码
-> * 用云服务来加速测试 , 编译 , 下载等等功能
->
-> https://github.com/cdr/code-server
-
-### secguide
-
-> 腾讯出品的代码安全指南 , 旨在梳理 API 层面的风险点并提供详实可行的安全编码方案
->
-> https://github.com/Tencent/secguide
-
-### autocomplete
-
-> Autocomplete ( Fig ) 是一个终端提示 , 当你在终端输入字符时 , Fig 会在 macOS 上的现有终端界面弹出子命令 , 选项和相关的参数
->
-> https://github.com/withfig/autocomplete
-
-### nocodb
-
-> 将 MySQL 等多种数据库变成一个智能电子表格 , 并支持普通表格类似的过滤 , 排序 , 隐藏列行等基础功能
->
-> 值得注意的是 , 这个东西的使用需要 docker , 所以先看 docker 再说用它吧
->
-> https://github.com/nocodb/nocodb
-
-### appwrite
-
-> Appwrite 是一个端到端后端服务器 , 将 Web , 移动 , 原生和后端应用打包为一组 Docker 微服务
->
-> 相比从头构建复杂的后端 API , Appwrite 让你更快地构建安全应用程序
->
-> https://github.com/appwrite/appwrite
-
-### Awsome Python
-
-> 收录了 Python 主题下相关的框架 , 库 , 软件和资料 , 是一个不错的 Python 资源项目
->
-> https://github.com/vinta/awesome-python
-
-### ERPnext
-
-> ERPNext 是一个非常赞的 ERP 系统 , 它拥有极高的颜值 , 可用于企业日常的会计 , 财务 , 采购 , 项目管理 , 供应链 , 客户系统和设备管理
->
-> 基于 Frappe 框架使用 Python 和 Javascript 编写而成
->
-> https://github.com/frappe/erpnext
-
-### umami
-
-> Umami 是一个简单 , 易用 , 快速的网站流量分析工具 , 可代替 Google Analysis , 支持 MySQL 数据库
->
-> 相比 GA , 自托管的网站统计服务更能保护隐私且安全
->
-> https://github.com/mikecao/umami
 
 ### leetcode-master
 
