@@ -12163,3 +12163,108 @@ Julia
 > 支持自定义主题 , 同 Typora不同的是 , 该编辑器开源且所有文件均支持加密
 >
 > https://github.com/notable/notable
+
+### Awesome ChatGPT Prompts
+
+> awesome-chatgpt-prompts 收录大量 ChatGPT 指示
+>
+> 如 : 扮演 Linux 终端 , 英文翻译 , 面试官
+>
+> 掌握了这些角色扮演触发方式 , 相信你和 ChatGPT 有更多的有趣故事发生
+>
+> https://github.com/f/awesome-chatgpt-prompts
+
+### wechat-chatgpt
+
+> 在应用中掌握某种技术 , 是常见的学习方法
+>
+> 现在轮到 ChatGPT 了 , 在微信上迅速接入 ChatGPT , 让它成为你最好的助手试试
+>
+> 这个项目实现了如下功能 :
+>
+> - 通过 wechaty , 将 ChatGPT 接入微信
+> - 创建 OpenAI 的账户池
+> - 支持通过代理登陆 OpenAI
+> - 加入了持续对话的功能 ( 每一个微信用户都保持自己的对话上下文 )
+> - 加入 Dockerfile
+> - 发布到 Docker.hub
+> - 通过 Railway 进行部署
+> - 实现 OpenAI 账户池的热加载
+> - 当 OpenAI 返回码为 429/503 时自动重试
+>
+> https://github.com/fuergaosi233/wechat-chatgpt
+
+### codon
+
+> 一个用 LLVM 实现的高性能 , 零开销 , 可扩展的 Python 编译器
+>
+> 无需任何 runtime 开销它就能将 Python 代码编译为原生机器码
+>
+> 此外 , 单线程的话 Python 的速率将能提升 10-100 倍 , 或者更多
+>
+> 它的编译性能可以和 C/C++ 近似
+>
+> 与 Python 不同的是 , Codon 支持原生多线程 , 这可以使编译速度更快
+>
+> Codon 是与 Python 兼容的 , 任何 Python 代码几乎可以不做修改便可以在 Codon 运行 , 像是下面这样 :
+>
+> ```python
+> def fib(n):
+>     a, b = 0, 1
+>     while a < n:
+>         print(a, end=' ')
+>         a, b = b, a+b
+>     print()
+> fib(1000)
+> ```
+>
+> https://github.com/exaloop/codon
+
+### uptime-kuma
+
+> 一个神奇的监控工具 , 有着好看的 UI 界面
+>
+> 不只是颜值 , 它还有 :
+>
+> - 监视 HTTP(s) , Ping , DNS Record , Docker 容器等服务的正常运行时 ;
+> - 响应式 , 灵敏的 UI/UX ;
+> - 集成多种通知方式 , 比如 : Telegram , Discord , Slack , Email 等等 90+ 通知服务 ;
+> - 支持多语言 , 多种状态界面 ;
+> - 2FA 可用 ;
+>
+> https://github.com/louislam/uptime-kuma
+
+### InvokeAI
+
+> 大名鼎鼎的 DALL-E 和 ChatGPT 是师出同门
+>
+> DALL-E 是文本生成图片领域的知名项目 , InvokeAI 也是
+>
+> 不过 , 相较于其他项目 , InvokeAI 更加轻量
+>
+> 它简化了图片生成的过程 , 通过各类选项帮助生成对应图片
+>
+> 此外 , 它能运行在 Windows , macOS , Linux 等主流操作系统
+>
+> 只要你有个 GPU 以及 4GB 的内存 , 就能用
+>
+> 说白了就是一个借助 AI 自动生成图片的应用
+>
+> https://github.com/invoke-ai/InvokeAI
+
+### bettercap
+
+> 网络安全从业人员的瑞士军刀
+>
+> 一个适用 802.11 , BLE , IPv4 和 IPv6 的中间人攻击框架 , 可主动/被动探测 IP 网络情况
+>
+> 部分特性 :
+>
+> - Wi-Fi 扫描 , 绕开验证攻击 , 无客户端 PMKID 关联攻击 , 自动的 WPA / WPA2 客户端握手捕获 ;
+> - 数据包 , TCP , HTTP / HTTPS 级别的代理脚本 , 可方便集成 JS 插件 ;
+> - 强大的网络嗅探器 , 可获取凭证 , 也可以作为网络协议 fuzzer ;
+> - 端口快扫 ;
+> - 有个强大的 REST API 支持 WebSocket 上的异步事件通知 , 从而轻松协调攻击 ;
+> - 便捷的 Web UI ;
+>
+> https://github.com/bettercap/bettercap
