@@ -289,6 +289,95 @@
 >
 > https://github.com/binhnguyennus/awesome-scalability
 
+### :notebook: :heart: English-level-up-tips-for-Chinese
+
+> 教你如何更好地学习英文 , 通过单词 , 阅读 , 口语 , 听力等四个方面多维度提升英文水平
+>
+> 虽然是个好教程 , 但是学习贵在坚持
+>
+> https://github.com/byoungd/english-level-up-tips-for-Chinese
+
+### :notebook: Dive into Deep Learning , D2L.ai
+
+> d2l-zh 是 <<动手学深度学习>> 教程 , 读者可从中了解概念 , 背景知识和代码 , 而项目作者也在资料中阐述剖析问题所需的批判性思维 , 解决问题所需的数学知识 , 以及实现解决方案所需的工程技能
+>
+> https://github.com/d2l-ai/d2l-zh
+
+### :heart: :notebook: Basic computer games
+
+>  basic-computer-games 是经典的游戏书籍 <<BASIC Computer Games>> 的更新版本 , 包含用各种常见编程语言编写的良好示例
+>
+>  而 basic-computer-games 也是上周 HackerNews 的热帖 , 你可以从中学到不少游戏制作和编程技能
+>
+>  https://github.com/coding-horror/basic-computer-games
+
+### :heart: :notebook: Mostly Adequate Guide
+
+> mostly-adequate-guide 是一本教你如何在日常开发实践中运用函数式编程思维的书籍
+>
+> https://github.com/MostlyAdequate/mostly-adequate-guide
+
+### :computer: :heart: Learn Data Science For Free
+
+> Learn-Datascience-For-Free 是一个全面 , 系统化学习 DataScience 的项目 , 它分为四大模块 : 
+>
+> - Part 1 : [Roadmap] ( 学习路线 ) 
+> - Part 2 : [Free Online Courses] ( 免费的网上课程 ) 
+> - Part 3 : [500 Datascience Projects] ( 500+ 案例 ) 
+> - Part 4 : [100+ Free Machine Learning Books] ( 100+ 机器学习书籍 ) 
+>
+> https://github.com/therealsreehari/Learn-Data-Science-For-Free
+
+### :heart: :notebook: Design Patterns Explained with Food
+
+> design-patterns-explained-with-food 字如其名是一个使用食物案例来和你讲解设计模式的项目 , 主要代码由 C# 实现 , 并配套对应的油管讲解视频
+>
+> https://github.com/wesdoyle/design-patterns-explained-with-food
+
+### :heart: :notebook: Naming cheatsheet
+
+> naming-cheatsheet 是一个两年之前的项目 , 本项目旨在帮你解决命名困难的问题 , 教你如何便捷 , 轻松地进行命名
+>
+> 命名谨记以下三点 (SID) :   
+>
+> - 短 :  一个名字一定不要花很长的时间来键入 , 因此 , 容易被记住是首要的选项
+> - 直观 :  一个名字必须读起来自然 , 尽可能接近日常用语
+> - 描述性 :  一个名字必须以最有效的方式反映它所做 / 拥有的东西
+>
+> https://github.com/kettanaito/naming-cheatsheet
+
+### :star: :heart: List of Free Learning Resources In Many Languages
+
+> free-programming-books 收录了大量免费的编程书籍 , 这个列表最初是 StackOverflow 免费提供的编程书籍列表的克隆项目 , 由 Karan bangui 和 George Stocker 的贡献
+>
+> https://github.com/EbookFoundation/free-programming-books
+
+### :heart: :notebook: coder2gwy
+
+> coder2gwy 互联网首份程序员考公指南 , 3 个来自同一家大厂的程序员组团在职备考一年 , 上岸成功率 100%
+>
+> 如果你想进体制内 , 一定要阅读一下这份考公务员 / 事业编制 / 教师的指南
+>
+> https://github.com/coder2gwy/coder2gwy
+
+### :notebook: :computer: 30 Days Of Python
+
+> 30-Days-Of-Python 一个三十天手把手教你学 Python 的项目 , 让你从基础数据类型学起到 MongoDB 等更进阶的开发技能 , 并搭配每日练习让你在实操中掌握技能 , 还有一个 React 三十天精通系列
+>
+> https://github.com/Asabeneh/30-Days-Of-Python
+
+### :notebook: :computer: 30 Days Of React
+
+> 一个三十天手把手教你学 React 的项目
+>
+> https://github.com/Asabeneh/30-Days-Of-React
+
+### :notebook: :computer: 30 Days Of JavaScript
+
+> 30-Days-Of-JavaScript 是一个 step by step 带新手入门前端的项目 , 在 30 天之内你将了解到大部分的 JS 工具安装 , 浏览器调试 , JS 知识技能等等
+>
+> https://github.com/Asabeneh/30-Days-Of-JavaScript
+
 -----------------------------
 
 ## Finish reading
@@ -685,6 +774,132 @@
 >
 > https://github.com/lucidrains/deep-daze
 
+### :heart: First Contributions
+
+> first-contributions 是一个帮助新手学习如何为开源项目做贡献的仓库 , 你可以往上面提交 pr 熟悉 git 操作 , 提交成功之后你就成为万星项目贡献者了
+>
+> https://github.com/firstcontributions/first-contributions
+
+### :star: :heart: Clone Wars
+
+> 收录了 70+ 国内外知名网站的 Clone 版 , 诸如 Airbnb , Amazon , Instagram , Netflix , Tiktok , Spotify 等等 , 并注明了各个网站使用了什么技术栈 , 可以说是一个十分优秀的技术学习项目了
+>
+> https://github.com/GorvGoyl/Clone-Wars
+
+### :heart: Chat/Messaging App Light and Dark Theme - Flutter UI
+
+> Chat-Messaging-App-Light-and-Dark-Theme 是一个用 Flutter 开发的聊天应用 , 支持 Dark 和 Light 模式的无缝切换
+>
+> 通过这个项目 , 你可以学到如何制作一个支持文字 , 语音 , 视频的聊天应用
+>
+> https://github.com/abuanwar072/Chat-Messaging-App-Light-and-Dark-Theme
+
+### :heart: :star: Svelte NodeGUI
+
+> velte-nodegui 是一个使用 Node.js 和 Svelte🚀 构建高性能 , 本地和跨平台的桌面应用程序的小工具 , 特性 :  
+>
+> - 🧬 跨平台 , 应该在主要的 Linux, Windows 和 macOS 上工作
+> - 📉低 CPU 和内存占用 , 当前 CPU 在空闲时保持 0% , Hello World 程序的内存使用量低于 20 MB
+> - 💅使用 CSS 样式 (包括实际的级联) , 也完全支持 flex 布局
+> - ✅完全支持 Node.js API
+> - 🎪支持原生 widget 事件监听 , 支持 Qt / NodeJs 的所有事件
+> - 💸可商业
+> - 🕵️‍♂️Devtools 支持良好
+> - 📚友好的文档和网站
+> - 🧙‍♂️对贡献者友好的贡献文档
+> - 🦹🏻‍♀️完美兼容黑暗模式 (感谢 Qt)
+> - 🏅支持  TypeScript
+>
+> https://github.com/nodegui/svelte-nodegui
+
+### :heart: Sourcetrail
+
+> Sourcetrail 是一个帮你阅读代码的工具 , 它通过将交互式依赖关系图 , 整合简洁的代码视图同有效的代码搜索 , 提供了代码的概述和详细信息 , 帮你理解软件代码体系结构
+>
+> Sourcetrail 特性 :  
+>
+> - 免费
+> - 支持离线
+> - 支持 Windows , macOS 和 Linux
+> - 支持 C , C ++ , Java 和 Python
+> - 提供了 SDK ( SourcetrailDB ) 来编写自定义语言扩展
+>
+> https://github.com/CoatiSoftware/Sourcetrail
+
+### :star: Flameshot
+
+> flameshot 是一个功能强大且易用的截图软件 🖥️ 📸  特性 : 
+>
+> - 可定制的外观
+> - 易用
+> - 应用内屏幕截图可编辑
+> - DBus 接口
+> - 上载到Imgur
+> - 支持注释
+> - 支持马赛克 , 高亮特定内容
+>
+> 不过单单只是截图的话 , Windows 中的 Snipaste , macOS 自带的截图快捷键 `Shift + Command + 4` 都是不错的选择
+>
+> https://github.com/flameshot-org/flameshot
+
+### Qwerty Learner
+
+> qwerty-learner 是一款打字训练工具 , 它是为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件
+>
+> 你可以在输入字母 / 函数 ( 可以选择对应的练习词本 ) 过程中 , 记忆这个单词 / 函数的意思
+>
+> 除了打字记忆之外 , 它支持默写模式 , 让你根据提示来输入正确的单词
+>
+> 不过唯一不足的是 , 输入过程中一旦键入错误需要从头输入单词 / 函数
+>
+> https://github.com/Kaiyiwing/qwerty-learner
+
+### :heart: :star: Info Spider
+
+> InfoSpider 一个集众多数据源于一身的爬虫工具箱 , 提供数据分析功能 , 基于用户数据生成图表文件 , 使得用户更直观 , 深入了解自己的信息
+>
+> https://github.com/kangvcar/InfoSpider
+
+### :star: github1s
+
+> github1s 是一个让你在 VS Code 即可查看某个 GitHub 仓源码的工具
+>
+> 安装完 github1s 之后直接在浏览器地址栏 http://github.com 中的 github 后面 , 加上个 1s , 然后回车即可在 VS Code 查看项目
+>
+> https://github.com/conwnet/github1s
+
+### :computer: :star: GHIDRA
+
+> Ghidra 是美国国家安全局 ( NSA ) 开源的一个软件逆向工程 ( SRE ) 框架 , 包括一套功能齐全的高端软件分析工具 , 使用户能够在各种平台上分析编译后的代码 , 支持 Windows , MacOS 和 Linux 
+>
+> Ghidra 支持的功能包括反汇编 , 汇编 , 反编译 , 绘图和脚本 , 以及数百个其他功能 , 它也支持各种处理器指令集和可执行格式 , 可以在用户交互模式和自动模式下运行 , 你还可以用公开的 API 开发自己的 Ghidra 插件和脚本
+>
+> https://github.com/NationalSecurityAgency/ghidra
+
+### :heart: Text-to-Handwriting
+
+> text-to-handwriting 是一个可以将文本转为手写体的工具
+>
+> https://github.com/saurabhdaware/text-to-handwriting
+
+### Ticker
+
+> ticker 可在终端实时显示股票数据 , 特性 :  
+>
+> - 实时股票报价
+> - 追踪仓位价值
+> - 开盘和封盘报价
+>
+> https://github.com/achannarasappa/ticker
+
+### :star: Superset
+
+> Superset 是 Apache 旗下的可视化工具 , 具有快速 , 轻量级 , 直观的特性
+>
+> 它提供了各种选项 , 让用户能够轻松地探索和可视化他们的数据 , 涵盖简单的折线图到非常详细的地理空间图
+>
+> https://github.com/apache/superset
+
 -----------------------
 
 ## Programming Using (Web)
@@ -1020,6 +1235,14 @@
 >
 > https://github.com/imaegoo/twikoo
 
+### :heart: :computer: PaddleGAN
+
+> PaddleGAN 是百度飞桨的对抗网络开发套件 , PaddleGAN 图像生成模型库覆盖当前主流的 GAN 算法 , 可简单上手各类 GAN 任务 , 也方便扩展自己的研究
+>
+> 你可以用它做图片替换 , 老视频修复 , 动作迁移 , 提高分辨率 , 妆容迁移 , 照片动漫化等等图像处理
+>
+> https://github.com/PaddlePaddle/PaddleGAN
+
 ------------------------
 
 ## GameTools&Mods
@@ -1135,241 +1358,6 @@
 -----------------
 
 ## Not sorted yet
-
-### First Contributions
-
-> first-contributions 是一个帮助新手学习如何为开源项目做贡献的仓库 , 你可以往上面提交 pr 熟悉 git 操作 , 提交成功之后你就成为万星项目贡献者了
->
-> https://github.com/firstcontributions/first-contributions
-
-### English-level-up-tips-for-Chinese
-
-> 教你如何更好地学习英文 , 通过单词 , 阅读 , 口语 , 听力等四个方面多维度提升英文水平
->
-> 虽然是个好教程 , 但是学习贵在坚持
->
-> https://github.com/byoungd/english-level-up-tips-for-Chinese
-
-### Clone Wars
-
-> 收录了 70+ 国内外知名网站的 Clone 版 , 诸如 Airbnb , Amazon , Instagram , Netflix , Tiktok , Spotify 等等 , 并注明了各个网站使用了什么技术栈 , 可以说是一个十分优秀的技术学习项目了
->
-> https://github.com/GorvGoyl/Clone-Wars
-
-### Chat/Messaging App Light and Dark Theme - Flutter UI
-
-> Chat-Messaging-App-Light-and-Dark-Theme 是一个用 Flutter 开发的聊天应用 , 支持 Dark 和 Light 模式的无缝切换
->
-> 通过这个项目 , 你可以学到如何制作一个支持文字 , 语音 , 视频的聊天应用
->
-> https://github.com/abuanwar072/Chat-Messaging-App-Light-and-Dark-Theme
-
-### Dive into Deep Learning , D2L.ai
-
-> d2l-zh 是 <<动手学深度学习>> 教程 , 读者可从中了解概念 , 背景知识和代码 , 而项目作者也在资料中阐述剖析问题所需的批判性思维 , 解决问题所需的数学知识 , 以及实现解决方案所需的工程技能
->
-> https://github.com/d2l-ai/d2l-zh
-
-### Basic computer games
-
->  basic-computer-games 是经典的游戏书籍 <<BASIC Computer Games>> 的更新版本 , 包含用各种常见编程语言编写的良好示例
->
-> 而 basic-computer-games 也是上周 HackerNews 的热帖 , 你可以从中学到不少游戏制作和编程技能
->
-> https://github.com/coding-horror/basic-computer-games
-
-### PaddleGAN
-
-> PaddleGAN 是百度飞桨的对抗网络开发套件 , PaddleGAN 图像生成模型库覆盖当前主流的 GAN 算法 , 可简单上手各类 GAN 任务 , 也方便扩展自己的研究
->
-> 你可以用它做图片替换 , 老视频修复 , 动作迁移 , 提高分辨率 , 妆容迁移 , 照片动漫化等等图像处理
->
-> https://github.com/PaddlePaddle/PaddleGAN
-
-### Svelte NodeGUI
-
-> velte-nodegui 是一个使用 Node.js 和 Svelte🚀 构建高性能 , 本地和跨平台的桌面应用程序的小工具 , 特性 :  
->
-> - 🧬 跨平台 , 应该在主要的 Linux, Windows 和 macOS 上工作
-> - 📉低 CPU 和内存占用 , 当前 CPU 在空闲时保持 0% , Hello World 程序的内存使用量低于 20 MB
-> - 💅使用 CSS 样式 (包括实际的级联) , 也完全支持 flex 布局
-> - ✅完全支持 Node.js API
-> - 🎪支持原生 widget 事件监听 , 支持 Qt / NodeJs 的所有事件
-> - 💸可商业
-> - 🕵️‍♂️Devtools 支持良好
-> - 📚友好的文档和网站
-> - 🧙‍♂️对贡献者友好的贡献文档
-> - 🦹🏻‍♀️完美兼容黑暗模式 (感谢 Qt)
-> - 🏅支持  TypeScript
->
-> https://github.com/nodegui/svelte-nodegui
-
-### Mostly Adequate Guide
-
-> mostly-adequate-guide 是一本教你如何在日常开发实践中运用函数式编程思维的书籍
->
-> https://github.com/MostlyAdequate/mostly-adequate-guide
-
-### Sourcetrail
-
-> Sourcetrail 是一个帮你阅读代码的工具 , 它通过将交互式依赖关系图 , 整合简洁的代码视图同有效的代码搜索 , 提供了代码的概述和详细信息 , 帮你理解软件代码体系结构
->
-> Sourcetrail 特性 :  
->
-> - 免费
-> - 支持离线
-> - 支持 Windows , macOS 和 Linux
-> - 支持 C , C ++ , Java 和 Python
-> - 提供了 SDK ( SourcetrailDB ) 来编写自定义语言扩展
->
-> https://github.com/CoatiSoftware/Sourcetrail
-
-### Flameshot
-
-> flameshot 是一个功能强大且易用的截图软件 🖥️ 📸  特性 : 
->
-> - 可定制的外观
-> - 易用
-> - 应用内屏幕截图可编辑
-> - DBus 接口
-> - 上载到Imgur
-> - 支持注释
-> - 支持马赛克 , 高亮特定内容
->
-> 不过单单只是截图的话 , Windows 中的 Snipaste , macOS 自带的截图快捷键 `Shift + Command + 4` 都是不错的选择
->
-> https://github.com/flameshot-org/flameshot
-
-### Qwerty Learner
-
-> qwerty-learner 是一款打字训练工具 , 它是为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件
->
-> 你可以在输入字母 / 函数 ( 可以选择对应的练习词本 ) 过程中 , 记忆这个单词 / 函数的意思
->
-> 除了打字记忆之外 , 它支持默写模式 , 让你根据提示来输入正确的单词
->
-> 不过唯一不足的是 , 输入过程中一旦键入错误需要从头输入单词 / 函数
->
-> https://github.com/Kaiyiwing/qwerty-learner
-
-### Info Spider
-
-> InfoSpider 一个集众多数据源于一身的爬虫工具箱 , 提供数据分析功能 , 基于用户数据生成图表文件 , 使得用户更直观 , 深入了解自己的信息
->
-> https://github.com/kangvcar/InfoSpider
-
-### github1s
-
-> github1s 是一个让你在 VS Code 即可查看某个 GitHub 仓源码的工具
->
-> 安装完 github1s 之后直接在浏览器地址栏 http://github.com 中的 github 后面 , 加上个 1s , 然后回车即可在 VS Code 查看项目
->
-> https://github.com/conwnet/github1s
-
-### Learn Data Science For Free
-
-> Learn-Datascience-For-Free 是一个全面 , 系统化学习 DataScience 的项目 , 它分为四大模块 : 
->
-> - Part 1 : [Roadmap] ( 学习路线 ) 
-> - Part 2 : [Free Online Courses] ( 免费的网上课程 ) 
-> - Part 3 : [500 Datascience Projects] ( 500+ 案例 ) 
-> - Part 4 : [100+ Free Machine Learning Books] ( 100+ 机器学习书籍 ) 
->
-> https://github.com/therealsreehari/Learn-Data-Science-For-Free
-
-### GHIDRA
-
-> Ghidra 是美国国家安全局 ( NSA ) 开源的一个软件逆向工程 ( SRE ) 框架 , 包括一套功能齐全的高端软件分析工具 , 使用户能够在各种平台上分析编译后的代码 , 支持 Windows , MacOS 和 Linux 
->
-> Ghidra 支持的功能包括反汇编 , 汇编 , 反编译 , 绘图和脚本 , 以及数百个其他功能 , 它也支持各种处理器指令集和可执行格式 , 可以在用户交互模式和自动模式下运行 , 你还可以用公开的 API 开发自己的 Ghidra 插件和脚本
->
-> https://github.com/NationalSecurityAgency/ghidra
-
-### Text-to-Handwriting
-
-> text-to-handwriting 是一个可以将文本转为手写体的工具
->
-> https://github.com/saurabhdaware/text-to-handwriting
-
-### Ticker
-
-> ticker 可在终端实时显示股票数据 , 特性 :  
->
-> - 实时股票报价
-> - 追踪仓位价值
-> - 开盘和封盘报价
->
-> https://github.com/achannarasappa/ticker
-
-### Design Patterns Explained with Food
-
-> design-patterns-explained-with-food 字如其名是一个使用食物案例来和你讲解设计模式的项目 , 主要代码由 C# 实现 , 并配套对应的油管讲解视频
->
-> https://github.com/wesdoyle/design-patterns-explained-with-food
-
-### Naming cheatsheet
-
-> naming-cheatsheet 是一个两年之前的项目 , 这周焕发了新生一周获得了近 5k star , 本项目旨在帮你解决命名困难的问题 , 教你如何便捷 , 轻松地进行命名
->
-> 命名谨记以下三点 (SID) :   
->
-> - 短 :  一个名字一定不要花很长的时间来键入 , 因此 , 容易被记住是首要的选项
-> - 直观 :  一个名字必须读起来自然 , 尽可能接近日常用语
-> - 描述性 :  一个名字必须以最有效的方式反映它所做 / 拥有的东西
->
-> https://github.com/kettanaito/naming-cheatsheet
-
-### List of Free Learning Resources In Many Languages
-
-> free-programming-books 收录了大量免费的编程书籍 , 这个列表最初是 StackOverflow 免费提供的编程书籍列表的克隆项目 , 由 Karan bangui 和 George Stocker 的贡献
->
-> https://github.com/EbookFoundation/free-programming-books
-
-### Superset
-
-> Superset 是 Apache 旗下的可视化工具 , 具有快速 , 轻量级 , 直观的特性
->
-> 它提供了各种选项 , 让用户能够轻松地探索和可视化他们的数据 , 涵盖简单的折线图到非常详细的地理空间图
->
-> https://github.com/apache/superset
-
-### faker.js
-
-> faker.js 是一个模拟数据的工具 , 它可在 Node.js 和浏览器中生成大量真实的假数据
->
-> https://github.com/Marak/faker.js
-
-### coder2gwy
-
-> coder2gwy 互联网首份程序员考公指南 , 3 个来自同一家大厂的程序员组团在职备考一年 , 上岸成功率 100%
->
-> 如果你想进体制内 , 一定要阅读一下这份考公务员 / 事业编制 / 教师的指南
->
-> https://github.com/coder2gwy/coder2gwy
-
-### 30 Days Of Python
-
-> 30-Days-Of-Python 一个三十天手把手教你学 Python 的项目 , 让你从基础数据类型学起到 MongoDB 等更进阶的开发技能 , 并搭配每日练习让你在实操中掌握技能 , 还有一个 React 三十天精通系列
->
-> https://github.com/Asabeneh/30-Days-Of-Python
-
-### 30 Days Of React
-
-> 一个三十天手把手教你学 React 的项目
->
-> https://github.com/Asabeneh/30-Days-Of-React
-
-### 30 Days Of JavaScript
-
-> 30-Days-Of-JavaScript 是一个 step by step 带新手入门前端的项目 , 在 30 天之内你将了解到大部分的 JS 工具安装 , 浏览器调试 , JS 知识技能等等
->
-> https://github.com/Asabeneh/30-Days-Of-JavaScript
-
-### Link Admin
-
-> Link Admin 是一套企业级后端系统框架 , 基于该系统可以快速实现企业级二次开发
->
-> https://github.com/252956/link-admin-ui
 
 ### Files
 
