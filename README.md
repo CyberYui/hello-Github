@@ -378,6 +378,18 @@
 >
 > https://github.com/Asabeneh/30-Days-Of-JavaScript
 
+### :notebook: :computer: hello-algo
+
+> 《Hello 算法》开源书籍
+>
+> 一本动画图解 , 能运行 , 可提问的数据结构与算法入门书
+>
+> 「代码实践导向」提供经典算法的清晰实现与测试代码
+>
+> 支持多种语言 , 详细注释 , 皆可一键运行
+>
+> https://github.com/krahets/hello-algo
+
 -----------------------------
 
 ## Finish reading
@@ -12260,3 +12272,313 @@ Julia
 > - 便捷的 Web UI ;
 >
 > https://github.com/bettercap/bettercap
+
+### AlmaLinux
+
+> AlmaLinux 是由社区驱动的开源项目 , 由 CloudLinux OS 的创建者打造
+>
+> 一开始是作为 CentOS 的替代品 , 从红帽企业 Linux (RHEL) 的源码编译而来
+>
+> 所以跟 RHEL 8 在二进制上完全兼容
+>
+> https://github.com/AlmaLinux
+
+### Play with Docker
+
+> Play with Docker 是一个 Docker 学习平台 , 可以在浏览器上免费体验 Alpine Linux 虚拟机
+>
+> 不过需要登录和注册 , 而且每次登录创建的实例都有**有时间限制 , 到时间还需要重新登录**
+>
+> 你可以在 Play with Docker 中构建和运行 Docker 容器
+>
+> 提升自己操作 Docker 的能力 ( 默认已搭好环境 ), 甚至在 Docker Swarm 模式下创建集群
+>
+> Docker-in-Docker (DinD) 用于提供多个 VM/PC 的效果
+>
+> https://github.com/play-with-docker/play-with-docker
+
+### Vaadin
+
+> Vaadin 是一个可在 Java 中实现 Web 用户界面的 Web 框架
+>
+> 无需编写任何 HTML 或 JavaScript 代码
+>
+> 它包含一个服务器端 , 主要的应用逻辑都在服务器端运行
+>
+> 然后浏览器端通过 Ajax 技术跟服务器端进行交互
+>
+> https://github.com/vaadin/platform
+
+### JHipster
+
+> JHipster 是一个全栈的 Java 应用程序开发平台
+>
+> 可用来创建基于 **Maven+Spring+AngularJS** 的项目 , 提供完全热加载的 Java 和 JavaScript 代码
+>
+> 它还提供了包含 CLI 工具在内的许多组件 , 用于处理多种技术栈的脚手架生成
+>
+> 比如用 Vue.js UI 为前端 MongoDB 作为后端 , 以 React 为前端的 Postgres 等等...
+>
+> https://github.com/jhipster/generator-jhipster
+
+### SolidJS
+
+> SolidJS 是一个用于构建用户界面的声明式 , 高效且灵活的 JavaScript 库
+>
+> 它不使用虚拟 DOM , 相反 , 它选择将其模板编译为真实的 DOM 节点 , 并将更新包装在细粒度的 React 中
+>
+> https://github.com/solidjs/solid
+
+### Redwood
+
+> Redwood 是一个全栈 Web 框架
+>
+> 它将 React , GraphQL , Prisma , TypeScript , Jest 和 Storybook 的优点结合在一起
+>
+> 它采用类似 Rails 的方法来满足数据建模和脚手架等重复性的需求 , 还解决了安全性和跟踪 , 集成等需求
+>
+> Redwood 允许针对各种部署环境 , 包括 Vercel 和 Netlify 等无服务器平台
+>
+> https://github.com/redwoodjs/redwood
+
+### Next.js
+
+> Next.js 是一个用于服务器渲染的通用 JavaScript Web 应用程序的小型框架
+>
+> 该框架基于 React , Webpack 和 Babel 构建 , 为建立网站提供了强大的支持
+>
+> https://github.com/vercel/next.js
+
+### Wasmtime
+
+> Wasmtime 是 WebAssembly 和 WASI 的小型高效运行时库
+>
+> 采用 Rust 编写 , 构建于编译器 Cranelift 之上
+>
+> 它完全开源 , 符合 WASI 标准
+>
+> 还支持与 C/C++ , Python , .NET , Go 和其他编程语言集成
+>
+> 可运行在 Windows , Linux , macOS 等平台
+>
+> https://github.com/bytecodealliance/wasmtime
+
+### OpenFGA
+
+> OpenFGA 是一种适用于细粒度授权的开源授权解决方案
+>
+> 允许开发人员使用易于阅读的建模语言和友好的 API 构建精细的访问控制系统
+>
+> 它应用了 ReBAC 的概念 , 由 Auth0 FGA 团队创建 , 受到 Zanzibar 的启发 , 专为大规模的可靠性和低延迟而设计的授权系统
+>
+> https://github.com/openfga/openfga
+
+### Sentry
+
+> Sentry 是一个实时的事件日志和聚合平台 , 基于 Django 构建
+>
+> Sentry 可以帮助你将 Python 程序的所有 exception 自动记录下来
+>
+> 然后在一个简单好用的 UI 上呈现和搜索
+>
+> https://github.com/getsentry/sentry
+
+### nbdev
+
+> nbdev 是一个  Jupyter Notebooks  驱动的开发平台
+>
+> 只需使用轻量级标记编写 Jupyter Notebooks , 即可获得高质量的文档
+>
+> 测试 , 持续集成和打包 , 比起传统编程环境 , nbdev 的代码调试和重构容易得多
+>
+> https://github.com/fastai/nbdev
+
+### osv-scanner
+
+> Google 开源的漏洞扫描器 , 数据由 https://osv.dev/ 提供
+>
+> 你可以用来查询项目现有依赖是否存在漏洞
+>
+> https://github.com/google/osv-scanner
+
+### lossless-cut
+
+> lossless-cut 旨在成为对视频 , 音频 , 字幕和其他媒体文件进行快速 , 无损操作的跨平台 FFmpeg GUI
+>
+> 主要功能是对视频和音频文件进行无损修剪和剪切
+>
+> 你可以快速在一段视频中提取好片段 , 并丢弃 gb 的数据量 , 无需缓慢重编码
+>
+> 同理 , 增加音频和字幕亦然 , 无需新编码
+>
+> https://github.com/mifi/lossless-cut
+
+### zod
+
+> 以 TypeScript 为先 , 带有静态类型推断的 schema 模式声明及验证库
+>
+> 这里的模式 ( schema ) 泛指任意的数据类型 , 从简单的 string 到复杂的嵌套对象
+>
+> 部分亮点 :
+>
+> - 零依赖
+> - 可用在 Node.js 和浏览器
+> - 体积小 : 缩小压缩后 8kb
+> - 不可变 : 像是 `.optional()`会返回一个新实例
+> - 接口简洁
+> - 支持纯 JavaScript , 你不一定非要用 TS 来使用它
+>
+> 以下为创建一个简单的 string 示例 :
+>
+> ```typescript
+> import { z } from "zod";
+> 
+> // creating a schema for strings
+> const mySchema = z.string();
+> 
+> // parsing
+> mySchema.parse("tuna"); // => "tuna"
+> mySchema.parse(12); // => throws ZodError
+> 
+> // "safe" parsing (doesn't throw error if validation fails)
+> mySchema.safeParse("tuna"); // => { success: true; data: "tuna" }
+> mySchema.safeParse(12); // => { success: false; error: ZodError }
+> ```
+>
+> https://github.com/colinhacks/zod
+
+### openai-cookbook
+
+> 前两周很火的 ChatGPT 的组织 OpenAI 出品的使用 OpenAI API 的示例和指南
+>
+> 当中包含了像是明星项目 GPT-3 的 Playground
+>
+> https://github.com/openai/openai-cookbook
+
+### plz-cli
+
+>  CLI 工具 , 依据你的描述生成对应的 shell 脚本 , 号称终端 Copilot
+>
+> ```shell
+> $ plz --help
+> Generates bash scripts from the command line
+> 
+> Usage: plz [OPTIONS] <PROMPT>
+> 
+> Arguments:
+>   <PROMPT>  Description of the command to execute
+> 
+> Options:
+>   -y, --force    Run the generated program without asking for confirmation
+>   -h, --help     Print help information
+>   -V, --version  Print version information
+> ```
+>
+> https://github.com/m1guelpf/plz-cli
+
+### comprehensive-rust
+
+> Google Android 团队开设的为期 4 天的 Rust 综合学习教程
+>
+> 从基础语法学习 , 再进阶到泛型和错误处理 , 甚至最后一天还是一个 Android 教学内容
+>
+> https://github.com/google/comprehensive-rust
+
+### helm-dashboard
+
+> helm-dashboard 提供了 UI 驱动的方式来查看已安装的 Helm 图表
+>
+> 查看它们的历史修订版本以及 K8s 资源
+>
+> 你可以简单地通过 Web 界面就能回滚到指定版本
+>
+> 此外 , 它还集成了主流的问题扫描工具 , 支持快速在多个集群间切换
+>
+> https://github.com/komodorio/helm-dashboard
+
+### ruff
+
+> Rust 编写的 Python linter , 从下图的性能对比中可以看出 Ruff 的性能是其他工具的几十倍
+>
+> 不同于传统的 linter , Ruff 还支持代码转换 , 能升级类型注释 , 重写类定义 , 对 import 进行排序等等
+>
+> 部分特性如下 :
+>
+> - 速度快 , 是现存 linter 的 10~100 倍
+> - 通过 `pip` 安装
+> - 兼容 Python3.11
+> - 支持 pyproject.toml
+> - 内置缓存 , 避免重分析未变更的文件
+> - 自动校正 , 用于自动纠正错误 , 比如 : 自动删除未使用的 import
+> - 几乎与内置的 Flake8 规则集相同
+> - 原生重实现了 Flask8 插件
+>
+> https://github.com/charliermarsh/ruff
+
+### atrilabs-engine
+
+> 全栈 Web 开发框架 , 为 PWA 而生 :
+>
+> - 前端开发 : 可通过编写 React 代码或者可视化编辑器来提高生产效率
+> - 后端开发 : 目前 atrilabs-engine 支持 Python , 对 Node.js 的支持在开发中
+> - 部署支持 : CLI 提供了丰富的选项 , 你可以使用 GitHub Pages 或者 AWS 来部署
+>
+> https://github.com/Atri-Labs/atrilabs-engine
+
+### vue-pure-admin
+
+> vue-pure-admin 是一款开源免费且开箱即用的中后台管理系统模版
+>
+> 使用了最新的 Vue3 , Vite , Element-Plus , TypeScript , Pinia , Tailwindcss 等主流技术开发
+>
+> https://github.com/xiaoxian521/vue-pure-admin
+
+### infisical
+
+> 端到端的加密工具 , 可用于团队在开发工作流和基础设备上管理及同步环境变量
+>
+> 它设计得非常轻巧 , 只需要几分钟就能启动
+>
+> 目前 , 支持仪表盘 , pull 和 inject 用的 CLI , 数据自托管 , 控制环境变量权限 (个人/共享), 集成 CI/CD
+>
+> https://github.com/Infisical/infisical
+
+### CodeGeeX
+
+> CodeGeeX 是一个具有 130 亿参数的多编程语言代码生成预训练模型
+>
+> CodeGeeX 采用华为 MindSpore 框架实现
+>
+> 在鹏城实验室 “鹏城云脑 II” 中的 192 个节点上训练而成 , 特性 :
+>
+> - 高精度代码生成 : 支持生成 Python , C++ , Java , JavaScript 和 Go 等多种主流编程语言的代码 , 在 HumanEval-X 代码生成任务上取得 47%~60% 求解率
+> - 跨语言代码翻译 : 支持代码片段在不同编程语言间进行自动翻译转换
+> - 自动编程插件 : CodeGeeX 插件现已上架 VSCode 插件市场
+>
+> https://github.com/THUDM/CodeGeeX
+
+### ILLA Builder
+
+> ILLA Builder 是 ILLA 的核心产品 , 它是一款**开源的低代码开发工具**
+>
+> 通过组件（Components）可以在画布实现多种功能
+>
+> 丰富的组件库可以快速的实现各种常见功能
+>
+> 截止上周四更新的版本中 , ILLA 已经有 30 多个常用组件 , 可以满足绝大部分日常的需求
+>
+> 在最新的 Action 功能中 , 现已支持可以快速连接 MySQL , PostgreSQL , Redis , RestAPI 等常用数据库和数据源 , 帮助开发者快速实现增删改查能力
+>
+> 通过 Pages 功能 , 可以允许用户通过 Builder 来构建互相连通的多页面网站从而实现一些较为复杂的需求
+>
+> https://github.com/illacloud/illa-builder
+>
+> ILLA Cloud 是 ILLA 官方基于 ILLA 生态推出的云部署平台
+>
+> 提供开箱即用的 ILLA 开发工具部署环境 , 帮助开发者快速使用 ILLA
+>
+> 预计在 2023 年 1 月中旬上线 , 感兴趣的同学可以先在官网体验和订阅发布
+>
+> 记得提前加入 ILLA 的 Discord 社群提前埋伏邀请码的发布
+>
+> https://illacloud.com
