@@ -10765,6 +10765,8 @@ Julia
 >
 > 对于编程开发中常用的工具则留给学生自行学习
 >
+> 其对应的中文地址为 : https://missing-semester-cn.github.io/
+>
 > 在 MIT 这个课程中 , 你可以了解和掌握命令行(shell) , 文本编辑器(Vim) , 版本控制系统(Git)等强大的工具
 >
 > 越早接触越能更加熟练地使用它们 , 有助于未来的职业生涯
@@ -12582,3 +12584,293 @@ Julia
 > 记得提前加入 ILLA 的 Discord 社群提前埋伏邀请码的发布
 >
 > https://illacloud.com
+
+### pics
+
+> 一个宝藏仓库 , 它收录了一些 pics
+>
+> 这些小图片讲述了常见的执行文件 , 比如 : mp4 , jpg , pdf , ascii 这些格式是如何执行的
+>
+> 你一定不知道常用的这些文件格式原来是这样工作的 , 它甚至能告诉你 Java 类是如何构成的
+>
+> https://github.com/corkami/pics
+
+### excalidraw
+
+> excalidraw 可用来进行绘图
+>
+> 它提供了在线工具 https://excalidraw.com/
+>
+> 免安装就能用 , 测试了下 , 它的模块拖拽敏感度相当不错
+>
+> https://github.com/excalidraw/excalidraw
+
+### prql
+
+> 全称 Pipelined Relational Query Language
+>
+> 这是个类 SQL 查询语言 , 适用于任意 SQL 数据库 , 因为它可以编译成 SQL 语句
+>
+> 不同于 SQL 的是 , 它有一个逻辑管道进行数据转换 , 支持变量 , 函数之类的抽象
+>
+> 下面为一个示例 : 
+>
+> ```prql
+> from employees
+> filter start_date > @2021-01-01               # Clear date syntax
+> derive [                                      # `derive` adds columns / variables
+>   gross_salary = salary + (tax ?? 0),         # Terse coalesce
+>   gross_cost = gross_salary + benefits_cost,  # Variables can use other variables
+> ]
+> filter gross_cost > 0
+> group [title, country] (                      # `group` runs a pipeline over each group
+>   aggregate [                                 # `aggregate` reduces each group to a value
+>     average gross_salary,
+>     sum_gross_cost = sum gross_cost,          # `=` sets a column name
+>   ]
+> )
+> filter sum_gross_cost > 100000                # `filter` replaces both of SQL's `WHERE` & `HAVING`
+> derive id = f"{title}_{country}"              # F-strings like python
+> derive country_code = s"LEFT(country, 2)"     # S-strings allow using SQL as an escape hatch
+> sort [sum_gross_cost, -country]               # `-country` means descending order
+> take 1..20                                    # Range expressions (also valid here as `take 20`)
+> ```
+>
+> https://github.com/PRQL/prql
+
+### AuroraEditor
+
+> 为 macOS 提供最佳性能和编程体验的 IDE--AuroraEditor
+>
+> 它支持你从 Xcode 获取的一切事项
+>
+> 比如 : git provider 的深度集成 , 项目计划 , 喜欢的内置编辑器工具
+>
+> https://github.com/AuroraEditor/AuroraEditor
+
+### Kafka UI
+
+> 用来管理 Kafka 集群的 Web UI , 可直接查看数据流 , 以便及时发现相关的问题
+>
+> 仪表盘收录了相关的 Kafka 集群指标 : Brokers , Topics , Partitions , Production 和 Consumption
+>
+> https://github.com/provectus/kafka-ui
+
+### relationship
+
+> 过年一定要安利的实用工具--亲戚计算器
+>
+> 避免不知道这位亲戚怎么称呼 , 另外一位亲戚怎么称呼
+>
+> 除了常规叫法 , 它还适配了地域特性
+>
+> 在线使用 https://passer-by.com/relationship/
+>
+> 手机版 https://passer-by.com/relationship/vue/#/
+>
+> https://github.com/mumuy/relationship
+
+### adrenaline
+
+> Adrenaline 是一个由 OpenAI Codex 支持的调试器
+>
+> 它不仅能修复你的代码 , 还能指引你写更好的代码
+>
+> 使用非常简单 , 你可以在在线网址 https://useadrenaline.com/ 输入有问题的代码和报错信息 , 剩下的事情交给它便好
+>
+> https://github.com/shobrook/adrenaline
+
+### Clipboard
+
+> 有了它 , 可以方便地从终端剪切 , 拷贝 , 复制各种内容 , 特性 :
+>
+> - 快 , 零配置可用
+> - 简单 , 新手友好
+> - 兼容 , 支持 C++23 以上系统
+> - 多语言 , 支持英语 , 西班牙语 , 葡萄牙语等等
+> - 集成 , 可与本地 GUI 剪切板集成
+> - 迷你 , 只有数千字节大小
+>
+> https://github.com/Slackadays/Clipboard
+
+### go-backend-clean-architecture
+
+> 一个 Go 实现的后端精简架构
+>
+> 包括 Gin , MongoDB , JWT 身份验证中间件 , 测试及 Docker
+>
+> 你可以将该项目作为模板 , 在此基础上构建自己的后端项目
+>
+> https://github.com/amitshekhariitbhu/go-backend-clean-architecture
+
+### APITable
+
+> APITable 是一个面向 API 的低代码平台 , 可用来代替 Airtable 来管理日常的协作事项
+>
+> Airtable 是款协作平台 , 可以把文本 , 图片 , 链接等资源集中起来 , 来管理日常工作 , 生活事项
+>
+> 同 Airtable 类似的 APITable 具有以下特性 :
+>
+> - 实时协作
+> - 自动表单 , 可自动同步相关字段
+> - API 优先的面板
+> - 不设上限的跨表连接
+> - 强大的行列权限
+> - 支持内嵌 , 可在你自己的管理系统中嵌入 APITable
+>
+> https://github.com/apitable/apitable
+
+### whisperX
+
+> 单词级别的语音识别工具 , 它用 forced alignment 来提高语音识别的时间戳精度
+>
+> WhisperX 基于 OpenAI 的 Whisper 模型 , 通过强制对齐方式与语音模型 ASR（比如：wav2vec2.0）来改进了 Whisper 的时间戳精度
+>
+> https://github.com/m-bain/whisperX
+
+### winget-cli
+
+> Windows 包管理客户端的源码 , 基于这个仓库你可以安装包管理工具 , 也可以参与包管理工具的相关开发工作
+>
+> https://github.com/microsoft/winget-cli
+
+### Open-Assistant
+
+> 基于聊天的 AI 助手 , 它能理解对话任务 , 与第三方系统交互 , 并动态检索信息
+>
+> https://github.com/LAION-AI/Open-Assistant
+
+### nostr
+
+> 近期热点的 Twitter 替代品 , 免审核 , 去中心的网络社交 App Damus 采用的去中心化协议 nostr
+>
+> 同所有去中心化协议类似 , nostr 不依赖任何中心服务器 , 有加密键和签名来防篡改记录
+>
+> https://github.com/nostr-protocol/nostr
+
+### kubernetes-learning-path
+
+> kubernetes-learning-path 提供了从初级到高级的 K8s 学习路径
+>
+> 下图展示了高级 Kubernetes 架构以及外部服务是如何连接到集群的
+>
+> 关于基于 K8s 部署 PaaS / DevOps 的完整演示教程 , 可以 pick 下 https://github.com/ben1234560/k8s_PaaS
+>
+> https://github.com/techiescamp/kubernetes-learning-path
+
+### KernelSU
+
+> 一个 Android 上基于内核的 root 方案 , 特性 :
+>
+> - 基于内核的 su 和权限管理
+> - 基于 overlayfs 的模块系统
+>
+> https://github.com/tiann/KernelSU
+
+### cleanlab
+
+> 数据集是每个数据工程师都会经手的东西 , 那么如果这个数据集本身有问题 , 很多噪音 , 后续的模型训练结果就不会多好
+>
+>  cleanlab 就能帮你检测 ML 数据集是否有问题 , 修正里面有问题的 label 以及标记错误的数据
+>
+> 它适用于 Sklearn / PyTorch / TensorFlow / XGBoost 等等框架
+>
+> 一行代码就能找到任意数据集中的数据和标签错误 , 像这样 :
+>
+> ```python
+> label_issues = cl.find_label_issues(data, labels)
+> ```
+>
+> 而这行代码能帮你降低数据的噪音 , 让训练出来的模型更健壮 :
+>
+> ```python
+> cl.fit(data, labels)
+> ```
+>
+> https://github.com/cleanlab/cleanlab
+
+### motion-canvas
+
+> Motion Canvas 提供了两样东西 :
+>
+> - 一个用于生成编程动画的 TS 库
+> - 该编程动画的实时预览
+>
+> 简单来说 , 它能创建矢量动画 , 并与旁白同步
+>
+> https://github.com/motion-canvas/motion-canvas
+
+### DocsGPT
+
+> 这是一个借助 GPT 模型帮助那些向文档提问 , 检索的人快速得到准确 , 全面的答案
+>
+> https://github.com/arc53/DocsGPT
+
+### RedTeam-Tools
+
+> RedTeam-Tools 供 Red Team 使用的 120+ 技巧和工具 , 来提高渗透团队的技术实力
+>
+> 下图为其中一个工具的截图
+>
+> https://github.com/A-poc/RedTeam-Tools
+
+### kcp
+
+> KCP 是一个快速可靠协议 , 能以比 TCP 浪费 10%-20% 的带宽的代价 , 换取平均延迟降低 30%-40% , 且最大延迟降低三倍的传输效果
+>
+> 纯算法实现 , 并不负责底层协议（如 UDP）的收发 , 需要使用者自己定义下层数据包的发送方式 , 以 callback 的方式提供给 KCP
+>
+> 连时钟都需要外部传递进来 , 内部不会有任何一次系统调用
+>
+> 在技术特性方面 , TCP 是为流量设计的 ( 每秒内可以传输多少 KB 的数据 ), 讲究的是充分利用带宽
+>
+> 而 KCP 是为流速设计的 ( 单个数据包从一端发送到一端需要多少时间 ), 以 10%-20% 带宽浪费的代价换取了比 TCP 快 30%-40% 的传输速度
+>
+> TCP 信道是一条流速很慢 , 但每秒流量很大的大运河 , 而 KCP 是水流湍急的小激流
+>
+> https://github.com/skywind3000/kcp
+
+### rerun
+
+> Rerun 是一个 SDK , 用于记录计算机视觉和机器人数据 , 并与一个可视化器配对 , 用于随着时间的推移探索这些数据
+>
+> 它让你用最少的代码调试和理解系统的内部状态和数据
+>
+> https://github.com/rerun-io/rerun
+
+### SwiftLint
+
+> 基于现有 GitHub 上的 swift-style-guide 的 Swift 编码风格指南 , 它采用了 Swift 社区普遍采纳的样式规范
+>
+> 你可以用它来强制检查 Swift 代码风格和规范
+>
+> https://github.com/realm/SwiftLint
+
+### kickstart.nvim
+
+> 对于一个 Neovim 新手而言 , Neovim 的起点应该是这样的 :
+>
+> - 小
+> - 单文件 , 带有多文件示例
+> - 文档化
+> - 模块化
+>
+> 而这个 repo 就是帮你快速度过新手阶段 , 删除你不需要的东西 , 并加入你 miss 的信息
+>
+> 当然它还有个替代品就是 LazyVim
+>
+> https://github.com/nvim-lua/kickstart.nvim
+
+### TTS
+
+> 一个文本生成语音模型 , 支持 20+ 种语言
+>
+> https://github.com/coqui-ai/TTS
+
+### PPHC
+
+> 高并发的哲学 中文书籍
+>
+> 在这本书中 , 将讨论一下高并发问题背后隐藏的一个哲学原理 -- 找出单点 , 进行拆分
+>
+> https://github.com/johnlui/PPHC
