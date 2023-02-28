@@ -8197,15 +8197,17 @@ Julia
 >
 > https://github.com/solidusio/solidus
 
-### mdBook
+### mdBook [loaded]
 
 > Rust 官方开源的 Markdown 电子书构建工具
 >
-> 类似 Gitbook 可以将 Markdown 文件制作成在线书籍
+> 类似 Gitbook 可以将 Markdown 文件制作成**在线书籍**
 >
 > 简单易用非常适合创建教程 , 课程材料 , 开源书籍等文稿
 >
 > https://github.com/rust-lang/mdBook
+
+- 使用感想 : 该项目是直接创建一个目录来生成书籍的 , 不能根据已经写好的md文档生成书籍 , 传进在线的话的确很方便 , 但是本地使用还是不如单个文件做大纲好用
 
 ### TermiWatch
 
