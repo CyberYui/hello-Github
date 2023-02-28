@@ -8197,7 +8197,7 @@ Julia
 >
 > https://github.com/solidusio/solidus
 
-### mdBook [loaded]
+### mdBook [done]
 
 > Rust 官方开源的 Markdown 电子书构建工具
 >
@@ -12876,3 +12876,484 @@ Julia
 > 在这本书中 , 将讨论一下高并发问题背后隐藏的一个哲学原理 -- 找出单点 , 进行拆分
 >
 > https://github.com/johnlui/PPHC
+
+### sds
+
+> 简单的 C 语言动态字符串库
+>
+> Redis 作者写的 C 语言字符串库 , 它相较于 C 字符串 , 使用起来更加方便
+>
+> 具有速度快 ( 常数复杂度获取字符串长度 ), 二进制安全 ( 图片 , 音频等 ), 兼容部分 C 字符串函数等特点
+>
+> https://github.com/antirez/sds
+
+### Sigma File Manager
+
+> 一款先进的文件管理器 , 这是一款免费的文件管理器 , 由开源社区维护
+>
+> 支持智能搜索 , 自定义主页 , 文件共享 , 文件下载 , 智能拖放 , 文件保护等功能 , 适用于 Windows 和 Linux
+>
+> https://github.com/aleksey-hoffman/sigma-file-manager
+
+### ttyd
+
+> 简单的网络共享终端的命令行工具
+>
+> 基于 libuv 和 WebGL2 构建的 Web 共享终端工具 , 安装简单使用方便
+>
+> 支持 SSL , 文件传输 , Sixel 图像输出等功能
+>
+> 可运行在 Windows , macOS , Linux , OpenWrt 等操作系统上
+>
+> 适用于远程运维 , 在线管理设备等场景
+>
+> https://github.com/tsl0922/ttyd
+
+### ambie
+
+> Windows 上的白噪声应用
+>
+> 一款播放白噪声和自然声音的应用
+>
+> 比如下雨 , 海滩等声音 , 支持混合 , 在线下载声音和专注功能
+>
+> 工作时使用可以帮助你集中注意力 , 还能在放松时使用有助于睡眠
+>
+> https://github.com/jenius-apps/ambie
+
+### FluentTerminal [done]
+
+> 炫酷的 Windows 终端软件
+>
+> 基于 UWP 的 Windows 终端应用 , 拥有强大的自定义主题模块 , 能够轻松定制出风格各异的主题
+>
+> 提供了中文选项 , 支持多窗口 , SSH 和搜索等功能
+>
+> https://github.com/felixse/FluentTerminal
+
+- 使用感想 : SSH好用一些的WT , 感觉还可以
+
+### gsudo
+
+> 适用于 Windows 的 sudo 命令行工具
+>
+> 它是 Windows 上的 sudo , 允许用户以最高权限运行命令 , 拥有与 Unix/Linux sudo 类似的使用体验
+>
+> 支持 CMD , PowerShell , git-bash 等
+>
+> https://github.com/gerardog/gsudo
+
+### doctest
+
+> 超快的 C++ 单头文件测试框架
+>
+> 这是一款轻量级 , 快速的 C++ 测试框架
+>
+> 它使用起来十分方便 , 引入头文件即可使用
+>
+> 而且速度快 , 编译时间短 , 支持 C++ 11/14/17/20
+>
+> ```c++
+> #define DOCTEST_CONFIG_IMPLEMENT_WITH_MAIN
+> #include "doctest.h"
+> 
+> int factorial(int number) { return number <= 1 ? number : factorial(number - 1) * number; }
+> 
+> TEST_CASE("testing the factorial function") {
+>     CHECK(factorial(1) == 1);
+>     CHECK(factorial(2) == 2);
+>     CHECK(factorial(3) == 6);
+>     CHECK(factorial(10) == 3628800);
+> }
+> ```
+>
+> https://github.com/doctest/doctest
+
+### pocketpy
+
+> 为嵌入游戏引擎而设计的 Python 解释器
+>
+> 一个 C++ 实现的轻量级的 Python 解释器
+>
+> 包含一个编译器和基于字节码的虚拟机 , 以及交互式命令窗的实现
+>
+> 所有功能均集成在单个头文件 pocketpy.h 中
+>
+> 不包含外部依赖项可以很方便地嵌入应用 , 立刻拥有执行 Python 代码的能力
+>
+> ```c++
+> #include "pocketpy.h"
+> 
+> int main(){
+>     // 创建一个虚拟机
+>     VM* vm = pkpy_new_vm(true);
+>     
+>     // Hello world!
+>     pkpy_vm_exec(vm, "print('Hello world!')");
+> 
+>     // 构建一个列表
+>     pkpy_vm_exec(vm, "a = [1, 2, 3]");
+> 
+>     // 对列表进行求和
+>     char* result = pkpy_vm_eval(vm, "sum(a)");
+>     printf("%s", result);   // 6
+> 
+>     // 释放资源
+>     pkpy_delete(result);
+>     pkpy_delete(vm);
+>     return 0;
+> }
+> ```
+>
+> https://github.com/blueloveTH/pocketpy
+
+### QGIS
+
+> 自由开源的桌面 GIS 软件
+>
+> 该项目采用 C++ 语言编写 , GUI 部分使用的是 Qt 库
+>
+> 它提供了 GIS 数据可视化 , 编辑和分析的功能 , 支持多种 GIS 数据格式
+>
+> 适用于 Windows , Linux , macOS , BSD 和移动设备
+>
+> https://github.com/qgis/QGIS
+
+### Dragonfly2
+
+> 一款基于 P2P 的智能镜像和文件分发工具
+>
+> 它提供了高效 , 稳定 , 安全的基于 P2P 技术的文件分发和镜像加速系统
+>
+> 能够提高大规模文件传输的效率和速率 , 最大限度地利用网络带宽
+>
+> 适用于应用分发 , 缓存分发 , 日志分发和镜像分发等领域
+>
+> https://github.com/dragonflyoss/Dragonfly2
+
+### req
+
+> 带黑魔法的 Go HTTP 客户端
+>
+> 该库默认就很智能 , 比如自动解码成 UTF-8 以避免乱码 , 根据 Content-Type 自动解析响应 , 自动检测服务器端并选择最优的 HTTP 协议 , 自动重试等
+>
+> 除此之外还提供了强大且便捷的调试功能
+>
+> ```go
+> package main
+> 
+> import (
+>     "github.com/imroc/req/v3"
+> )
+> 
+> func main() {
+>     req.DevMode() // Treat the package name as a Client, enable development mode
+>     req.MustGet("https://httpbin.org/uuid") // Treat the package name as a Request, send GET request.
+> 
+>     req.EnableForceHTTP1() // Force using HTTP/1.1
+>     req.MustGet("https://httpbin.org/uuid")
+> }
+> ```
+>
+> https://github.com/imroc/req
+
+### sqlc
+
+> 将 SQL 转成类型安全的 Go 代码的工具
+>
+> 它可以将输入的 SQL 语句 , 自动转化成类型安全 , 可读的操作数据库的 Go 代码
+>
+> 支持 MySQL , PostgreSQL 和 SQLite 数据库
+>
+> https://github.com/kyleconroy/sqlc
+
+### tinykv
+
+> 构建分布式 Key-Value 数据库的教程
+>
+> 介绍了如何用 Go 语言实现一个高可用 , 可水平扩展 , 支持分布式事务的键-值存储服务
+>
+> https://github.com/talent-plan/tinykv
+
+### bt
+
+> 一个 Java 的 BitTorrent 库
+>
+> 支持 DHT , 磁力链接 , 加密等功能的 Java 库
+>
+> 可以根据自己的喜好开发和定制 BT 工具 , 比如播种 , 下载种子等
+>
+> ```java
+> // Create a torrent
+> Path torrentRoot = Paths.get("/home/torrents/mytorrent");
+> Path file1 = Paths.get("/home/torrents/mytorrent/file1.bin");
+> Path file2 = Paths.get("/home/torrents/mytorrent/file2.bin");
+> Path dirToAdd = Paths.get("/home/torrents/mytorrent/dir_with_files");
+> byte[] torrentBytes = new TorrentBuilder()
+>         .rootPath(torrentRoot)
+>         .addFiles(file1, file2, dirToAdd)
+>         .announce("http://example.com/announce")
+>         .build();
+> Files.write(Paths.get("/home/torrents/mytorrent.torrent"), torrentBytes);
+> ```
+>
+> https://github.com/atomashpolskiy/bt
+
+### RoaringBitmap
+
+> 更好用的 Java 压缩位图数据结构
+>
+> 位图常用于大数据集的快速查找和去重
+>
+> 该项目提供的 RoaringBitmap 是一种压缩位图
+>
+> 相较于传统的位图数据结构 , 它更快 , 更节省内存 , 而且久经沙场值得信赖
+>
+> 比如 Spark , Hive 等知名项目上都有它的身影
+>
+> ```java
+> import org.roaringbitmap.RoaringBitmap;
+> 
+> public class Basic {
+> 
+>   public static void main(String[] args) {
+>         RoaringBitmap rr = RoaringBitmap.bitmapOf(1,2,3,1000);
+>         RoaringBitmap rr2 = new RoaringBitmap();
+>         rr2.add(4000L,4255L);
+>         rr.select(3); // would return the third value or 1000
+>         rr.rank(2); // would return the rank of 2, which is index 1
+>         rr.contains(1000); // will return true
+>         rr.contains(7); // will return false
+> 
+>         RoaringBitmap rror = RoaringBitmap.or(rr, rr2);// new bitmap
+>         rr.or(rr2); //in-place computation
+>         boolean equals = rror.equals(rr);// true
+>         if(!equals) throw new RuntimeException("bug");
+>         // number of values stored?
+>         long cardinality = rr.getLongCardinality();
+>         System.out.println(cardinality);
+>         // a "forEach" is faster than this loop, but a loop is possible:
+>         for(int i : rr) {
+>           System.out.println(i);
+>         }
+>   }
+> }
+> ```
+>
+> https://github.com/RoaringBitmap/RoaringBitmap
+
+### chatgpt-web
+
+> 一款可自定义 API 的 ChatGPT 演示网页
+>
+> 基于 Express 和 Vue3 构建的 GPT-3 模型演示网页 , 支持接入 GPT-3 API 或网页 ChatGPT
+>
+> https://github.com/Chanzhaoyu/chatgpt-web
+
+### zx
+
+> Bash 很好但我选择用 JavaScript 写脚本
+>
+> 实现用 JavaScript 写 shell 脚本的工具
+>
+> 支持 cd , fetch , within 等函数
+>
+> 无需引入就可以使用 fs , os , yaml 等库
+>
+> ```javascript
+> #!/usr/bin/env zx
+> 
+> await $`cat package.json | grep name`
+> 
+> let branch = await $`git branch --show-current`
+> await $`dep deploy --branch=${branch}`
+> 
+> await Promise.all([
+>   $`sleep 1; echo 1`,
+>   $`sleep 2; echo 2`,
+>   $`sleep 3; echo 3`,
+> ])
+> 
+> let name = 'foo bar'
+> await $`mkdir /tmp/${name}`
+> ```
+>
+> https://github.com/google/zx
+
+### ReadYou
+
+> 一款 Material 风格的 Android RSS 阅读器
+>
+> 界面简洁清爽的 RSS 阅读器
+>
+> 支持订阅 RSS 链接 , 更新通知 , 沉浸式阅读等功能
+>
+> https://github.com/Ashinch/ReadYou
+
+### edgedb
+
+> 一款采用图-关系模型的新型开源数据库
+>
+> 一个底层由 PostgreSQL 提供支持的开源数据库
+>
+> 在兼容关系数据库特性的同时  , 结合了 ORM 的声明模式和 GraphQL 式的深度查询
+>
+> 自带 WebUI 界面 , 支持在线编辑数据 , 查询 , 关系可视化等功能
+>
+> ```python
+> type Person {
+>   required property name -> str;
+> }
+> 
+> type Movie {
+>   required property title -> str;
+>   multi link actors -> Person;
+> }
+> ```
+>
+> https://github.com/edgedb/edgedb
+
+### eg
+
+> 常用的 Linux 命令示例查询工具
+>
+> 它提供了 Linux 命令的常见用法 , 不仅使用方便而且示例简洁实用
+>
+> https://github.com/srsudar/eg
+
+### sunfish
+
+> 100 多行代码的 Python 国际象棋引擎
+>
+> 一个仅用 Python 标准库和 131 行代码实现的命令行国际象棋游戏
+>
+> 它注释丰富结构清晰 , 核心代码由国际象棋逻辑 , 策略搜索和用户界面三个部分组成
+>
+> https://github.com/thomasahle/sunfish
+
+### lemmy
+
+> Rust 写的链接聚合论坛
+>
+> 该项目基于 Rust 的 Web 框架 Actix 和 Diesel ORM 库构建
+>
+> 它是一个类似 Hacker News 的网站 , 用户可以在上面订阅感兴趣的话题 , 发布链接 , 讨论和投票
+>
+> https://github.com/LemmyNet/lemmy
+
+### onefetch
+
+> 查看 Git 仓库信息的命令行工具
+>
+> 一款由 Rust 编写的命令行查看 Git 信息的工具
+>
+> 它可以直接在终端中展示本地 Git 仓库的详细信息
+>
+> 比如开源协议 , 提交次数 , 代码统计等信息
+>
+> https://github.com/o2sh/onefetch
+
+### Wave
+
+> 轻松实现丝滑动画的 Swift 库
+>
+> 用于 iOS 和 macOS 的动画引擎库 , 可以轻松创建流畅 , 感觉很棒的动画
+>
+> 它没有外部依赖 , 可以很容易地引入进基于 UIKit , SwiftUI 或 AppKit 的项目
+>
+> ```swift
+> if panGestureRecognizer.state == .ended {
+> 
+>     // Create a spring with some bounciness. `response` affects the animation's duration.
+>     let animatedSpring = Spring(dampingRatio: 0.68, response: 0.80)
+> 
+>     // Get the gesture's lift-off velocity, and pass it into the Wave animation.
+>     let gestureVelocity = panGestureRecognizer.velocity(in: view)
+> 
+>     Wave.animate(withSpring: animatedSpring, gestureVelocity: gestureVelocity) {
+>         // Update animatable properties on the view's `animator` property, _not_ the view itself.
+>         pipView.animator.center = pipViewDestination     // Some target CGPoint that you calculate.
+>         pipView.animator.scale = CGPoint(x: 1.1, y: 1.1)
+>     }
+> }
+> ```
+>
+> https://github.com/jtrivedi/Wave
+
+### blurhash
+
+> 开源的图片占位符算法和实现
+>
+> 该算法可将图片编码成一段仅 20-30 个字符的短字符串 , 解码后可展示一张基于原图的占位图 , 从而提升用户的访问体验
+>
+> 官方提供了 C , Swift , TypeScript 等编程语言的实现 , 除此之外还有丰富的第三方库
+>
+> https://github.com/woltapp/blurhash
+
+### esp32-weather-epd
+
+> 自制电子墨水屏的天气显示器
+>
+> 这是由一块支持 WiFi 的 ESP32 单片机和一个 7.5 英寸电子墨水屏组成的天气显示器
+>
+> 它能够展示通过 API 获得的天气实况和预报 , 以及传感器提供的室内温度和湿度
+>
+> https://github.com/lmarzen/esp32-weather-epd
+
+### localsend
+
+> AirDrop 的开源替代方案
+>
+> 可以通过本地网络与附近的设备 , 安全地共享文件和消息
+>
+> 此过程不需要互联网 , 不需要外部服务器 , 支持 Windows , Linux , macOS , Android , iOS 设备
+>
+> https://github.com/localsend/localsend
+
+### mactype
+
+> 美化 Windows 字体的工具
+>
+> 一款 Windows 字体美体工具 , 可以解决 Windows 字体虚化的问题
+>
+> 实现类似苹果 macOS 系统的字体渲染效果 , 安装简单效果惊人
+>
+> https://github.com/snowie2000/mactype
+
+### raft.github.io
+
+> 一个关于 Raft 共识算法的网站
+>
+> 该网站收录了关于 Raft 的论文 , 课程 , 书籍等资料 , 以及相关开源项目和 Raft 的运行情况可视化 , 帮你彻底搞懂 Raft
+>
+> https://github.com/raft/raft.github.io
+
+### cog
+
+> 将机器学习模型打包到容器的工具
+>
+> 可通过配置将机器学习模型所需的环境和依赖 , 自动打包到容器里方便部署 , 让你不再为编写 Docker 文件和 CUDA 而痛苦 , 还能自动启动 HTTP 接口服务方便调用
+>
+> ```bash
+> $ cog build -t my-colorization-model
+> --> Building Docker image...
+> --> Built my-colorization-model:latest
+> 
+> $ docker run -d -p 5000:5000 --gpus all my-colorization-model
+> 
+> $ curl http://localhost:5000/predictions -X POST \
+>     -H 'Content-Type: application/json' \
+>     -d '{"input": {"image": "https://.../input.jpg"}}'
+> ```
+>
+> https://github.com/replicate/cog
+
+### stable-diffusion-webui
+
+> Stable Diffusion 模型的 WebUI 界面
+>
+> 这是一个实现在浏览器上使用的 Stable Diffusion 模型的项目
+>
+> 支持通过文本/图片生成图片 , 嵌入文本 , 调整图片大小等功能
+>
+> https://github.com/AUTOMATIC1111/stable-diffusion-webui
