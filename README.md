@@ -13357,3 +13357,80 @@ Julia
 > 支持通过文本/图片生成图片 , 嵌入文本 , 调整图片大小等功能
 >
 > https://github.com/AUTOMATIC1111/stable-diffusion-webui
+
+### ts-reset
+
+> TypeScript 的内置类型并不完美 , ts-reset 能让它更好 , 有了 ts-reset :
+>
+> - 无论是 `fetch` 还是 `JSON.parse` 的 `.json` 都会返回 `unknown` 而不是 `any`
+> - `.filter(Boolean)` 绝对符合你预期
+> - `array.includes` 更符合工程需求 , 不再常在只读数组上中断
+>
+> 下面是一个简单的示例 :
+>
+> ```typescript
+> // Import in a single file, then across your whole project...
+> import "@total-typescript/ts-reset";
+> 
+> // .filter just got smarter!
+> const filteredArray = [1, 2, undefined].filter(Boolean); // number[]
+> 
+> // Get rid of the any's in JSON.parse and fetch
+> const result = JSON.parse("{}"); // unknown
+> 
+> fetch("/")
+>   .then((res) => res.json())
+>   .then((json) => {
+>     console.log(json); // unknown
+>   });
+> ```
+>
+> https://github.com/total-typescript/ts-reset
+
+### ControlNet
+
+> 线稿上色的 style2paints 在 ControlNet 面前可能只是个弟弟
+>
+> ControlNet 是一种通过添加额外条件来控制扩散模型的神经网络结构
+>
+> 为什么说 style2paints 是个弟弟呢 ? 
+>
+> 因为 ControlNet 的生成效果图 , 从线稿到成品 , 一句话搞定
+>
+> https://github.com/lllyasviel/ControlNet
+
+### PyGWalker
+
+> PyGWalker 可视化的探索性数据分析的 Python 库
+>
+> 可以简化 Jupyter Notebook 数据分析和数据可视化工作流程
+>
+> 通过将您的 pandas dataframe 转换为一个表风格的用户界面进行可视化探索
+>
+> https://github.com/Kanaries/pygwalker
+
+### pix2pix3D
+
+> PyTorch  [ 3D-aware Conditional Image Synthesis ] 的官方实现
+>
+> Pix2pix3D 会合成给定的 2D 标签映射的三维对象 ( 神经域 ), 如分割或边缘映射
+>
+> https://github.com/dunbar12138/pix2pix3D
+
+### Ambient
+
+> Ambient 是一个用于构建高性能多人游戏和 3D 应用程序的 runtime
+>
+> 由 WebAssembly , Rust 和 WebGPU 支持
+>
+> https://github.com/AmbientRun/Ambient
+
+### shifu
+
+> 这是一个生产级别的物联网平台
+>
+> 它可以将物联网 ( IoT ) 设备 , 封装成 K8s 的最小的可部署的计算单元 ( pod )
+>
+> 直接将设备的能力和数据通过 API 开放出来 , 让物联网应用的开发变得更加简单
+>
+> https://github.com/Edgenesis/shifu
