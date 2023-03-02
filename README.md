@@ -12931,7 +12931,7 @@ Julia
 >
 > https://github.com/felixse/FluentTerminal
 
-- 使用感想 : SSH好用一些的WT , 感觉还可以
+- 使用感想 : 必须要用密钥文件才能SSH的WT , 感觉还可以
 
 ### gsudo
 
