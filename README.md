@@ -912,6 +912,16 @@
 >
 > https://github.com/apache/superset
 
+### Files
+
+> 一个文件资源管理器 , 它利用了 Windows 平台的最新特性 , 包括流畅的设计 , 无缝的更新和符合用户期望的性能和生命周期行为的 API
+>
+> 无论你是想简化文件体验还是尝试一些新的东西 , Files 都是一种不错的选择
+>
+> Files 作为一站式的解决方案 , 可用于动态地探索文件 , 如果你想研究文件系统如何开发不妨研究下 Files
+>
+> https://github.com/files-community/Files
+
 -----------------------
 
 ## Programming Using (Web)
@@ -1255,6 +1265,14 @@
 >
 > https://github.com/PaddlePaddle/PaddleGAN
 
+### :heart: :notebook: Dockerfile
+
+> Dockerfile 是编写 Docker 镜像文件的最佳实践
+>
+> 如何使用 :  将 Dockerfile 复制到你自己的项目中 , 并根据注释创建你的 Dockerfile 即可
+>
+> https://github.com/hexops/dockerfile
+
 ------------------------
 
 ## GameTools&Mods
@@ -1277,19 +1295,19 @@
 >
 > https://github.com/TexTools/FFXIV_TexTools_UI
 
-### :star: :heart: FFXIV_TexTools2
+### :key: FFXIV_TexTools2
 
-> 一个功能更丰富的 FF14 工具 , 没怎么具体研究过
+> 一个功能更丰富的 FF14 工具 , 没怎么具体研究过 , 该项目许久未维护了 , 已经旧了
 >
 > https://github.com/liinko/FFXIV_TexTools2
 
 ### :star: GShade-Presets
 
-> GShade 的 shade 类型备份 , 有的时候安完 GShade 会没有这些内容 , 在这里可以找到它们
+> GShade 的 shade 类型备份 , 有的时候安完 GShade 会没有这些内容 , 在这里可以找到它们 , 其他的 reshade 也可以使用这些配置
 >
 > https://github.com/Mortalitas/GShade-Presets
 
-### osu
+### :heart: osu
 
 > 音游 , 触控笔游戏
 >
@@ -1370,24 +1388,6 @@
 -----------------
 
 ## Not sorted yet
-
-### Files
-
-> 一个文件资源管理器 , 它利用了 Windows 平台的最新特性 , 包括流畅的设计 , 无缝的更新和符合用户期望的性能和生命周期行为的 API
->
-> 无论你是想简化文件体验还是尝试一些新的东西 , Files 都是一种不错的选择
->
-> Files 作为一站式的解决方案 , 可用于动态地探索文件 , 如果你想研究文件系统如何开发不妨研究下 Files
->
-> https://github.com/files-community/Files
-
-### Dockerfile
-
-> Dockerfile 是编写 Docker 镜像文件的最佳实践
->
-> 如何使用 :  将 Dockerfile 复制到你自己的项目中 , 并根据注释创建你的 Dockerfile 即可
->
-> https://github.com/hexops/dockerfile
 
 ### Mega Project List
 
