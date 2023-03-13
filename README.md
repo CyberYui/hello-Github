@@ -13434,3 +13434,112 @@ Julia
 > 直接将设备的能力和数据通过 API 开放出来 , 让物联网应用的开发变得更加简单
 >
 > https://github.com/Edgenesis/shifu
+
+### bilingual_book_maker
+
+> 用 AI 翻译来制作 epub 图书的工具 , 默认用了 ChatGPT 模型
+>
+> 可用 `--model gpt3` 来使用 GPT-3 模型
+>
+> bilingual_book_maker 支持所有语言
+>
+> 可通过 `--language "Simplified Chinese` 来设定翻译语言
+>
+> 如果你在读一本外文图书 , 可以用 bilingual_book_maker 翻译整书为你熟悉的语言
+>
+> https://github.com/yihong0618/bilingual_book_maker
+
+### xiaogpt
+
+> 现在你可以和小爱同学基于 ChatGPT 模型语音交流了
+>
+> 它会比原来更加智能 , 更人性
+>
+> 除了语音交互的体验之外 , 它还给了一种无需 root 折腾小米（小爱同学）的参考思路
+>
+> https://github.com/yihong0618/xiaogpt
+
+### mrsk
+
+> MRSK 可让你不用停机就将 Web 应用部署好 , 从裸机到云虚拟机
+>
+> 在新应用程序容器启动并停止旧的应用程序容器时 , 它会使用动态反向 Proxy Traefik 保存请求
+>
+> https://github.com/mrsked/mrsk
+
+### unilm
+
+> 微软开源的跨任务 , 语言和模式的大规模自我监督的预训练模型
+>
+> https://github.com/microsoft/unilm
+
+### erdtree
+
+> 一个多线程文件树可视化器和磁盘使用分析器
+>
+> https://github.com/solidiquis/erdtree
+
+### roomGPT
+
+> 上传你的房间照片之后 , AI 会给你自动生成一张你的 dream room
+>
+> roomGPT 使用了 ML 模型以及 ControlNet 来生成各式各样的房间
+>
+> 你可以访问 https://www.roomgpt.io/ 来生成梦想之所
+>
+> https://github.com/Nutlope/roomGPT
+
+### openai-translator
+
+> 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用 , 特性 :
+>
+> 1. 支持三种翻译模式 : 翻译 , 润色 , 总结
+> 2. 支持 55 种语言的相互翻译 , 润色和总结功能
+> 3. 支持实时翻译 , 润色和总结 , 以最快的速度响应用户
+> 4. 支持自定义翻译文本
+> 5. 支持一键复制
+> 6. 全平台 ( Windows + macOS + Linux ) 支持 !
+>
+> 它的使用也非常简单 , 下载插件 / 应用之后 , 填入你的 OpenAI API Key 就能使用
+>
+> https://github.com/yetone/openai-translator
+
+### postcat
+
+> Postcat 是一个可扩展的 API 工具平台
+>
+> 它集合基础的 API 管理和测试功能 , 并且可以通过插件简化你的 API 开发工作 , 让你可以更快更好地创建 API
+>
+> 目前它支持 REST , WebSocket 等协议
+>
+> 即将支持 GraphQL , gRPC , TCP , UDP
+>
+> https://github.com/Postcatlab/postcat
+
+### weaver
+
+> Service Weaver 是一个用于编写 , 部署和管理分布式应用程序的编程框架 , 特性 :
+>
+> - 高性能
+> - 低配置
+> - 日志 , 指标 , 追踪 , 全都有
+> - sharding
+>
+> 而你用下面类似一个命令就能将应用部署上云 :
+>
+> ```go
+> $ go run .                      # Run locally.
+> $ weaver gke deploy weaver.toml # Run in the cloud.
+> ```
+>
+> https://github.com/ServiceWeaver/weaver
+
+### visual-chatgpt
+
+> 微软开源的可视化 ChatGPT
+>
+> Visual ChatGPT 将 ChatGPT 和一系列可视化基础模型连接起来
+>
+> 以便在聊天过程中发送和接收图像
+>
+> https://github.com/microsoft/visual-chatgpt
