@@ -13543,3 +13543,9 @@ Julia
 > 以便在聊天过程中发送和接收图像
 >
 > https://github.com/microsoft/visual-chatgpt
+
+### folio-2019
+
+> 一款开源的 3D 博客项目 , 这个博主还有一个针对 three.js 的相关教程 , 果然码代码的终极目的就是教学
+>
+> https://github.com/brunosimon/folio-2019
