@@ -14106,3 +14106,109 @@ Julia
 > 该项目实现了在 CPU 上流畅运行 LLaMA 模型 , 支持 macOS , Linux , Windows 操作系统
 >
 > https://github.com/ggerganov/llama.cpp
+
+### gerev
+
+> 能应用在多个软件的搜索系统 , 由 ChatGPT 提供支持
+>
+> 目前支持 Slack , Confluence , Google 全家桶 ( 包括文档 , PPT ), Bookstack , Mattermost , RocketChat 等软件 , 对 Notion , Microsoft Teams , GitHub issue 的支持尚在规划开发中
+>
+> https://github.com/GerevAI/gerev
+
+### bloop
+
+> 采用 GPT-4 实现的代码搜索引擎 , 支持用自然语言 , 正则 , 过滤查询等找寻你在本地 , 远端仓的代码
+>
+> 你也可以用它来帮你讲解他人的代码
+>
+> https://github.com/BloopAI/bloop
+
+### LangChain UI : langflow
+
+> LangChain 大型语言模型的集大成者 , 现在非常火爆的 GPT-4 便是一款语言模型
+>
+> 而 langflow 则是一个 LangChain UI , 提供了一种交互界面来使用 LangChain , 通过拖拽即可搭建自己的实验 , 原型流
+>
+> https://github.com/logspace-ai/langflow
+
+### Ciphey
+
+> 这是一个知名老项目 , 当你输入一段文字 , 甚至你不知道它是否加密过 , Ciphey 都能帮你输出解密之后的文本
+>
+> 如果你对密码学不太了解 , 或者想在自己进行密文处理之前快速检查密文 , 不妨试试它
+>
+> https://github.com/Ciphey/Ciphey
+
+### modelscope
+
+> 你是不是有很多 AI 模型想跑起来玩玩 , 但是苦于没有机器 ?
+>
+> ModelScope 托管了阿里达摩院绝大多数的模型 , 它们代码托管在 GitHub 上 , 你可以在 modelscope 上跑这些模型库 , 它提供了相关的模型运行资源
+>
+> https://github.com/modelscope/modelscope
+
+### 1Panel
+
+> 1Panel 是一个现代化 , 开源的 Linux 服务器运维管理面板 , 特性 :
+>
+> - 快速建站 : 深度集成 Wordpress 和 Halo , 域名绑定 , SSL 证书配置等一键搞定
+> - 高效管理 : 通过 Web 端轻松管理 Linux 服务器 , 包括应用管理 , 主机监控 , 文件管理 , 数据库管理 , 容器管理等
+> - 安全可靠 : 最小漏洞暴露面 , 提供防火墙和安全审计等功能
+> - 一键备份 : 支持一键备份和恢复 , 备份数据云端存储 , 永不丢失
+>
+> https://github.com/1Panel-dev/1Panel
+
+### dalai
+
+> 让你本地机器跑 LLaMA 和 Alpaca 模型的最简法
+>
+> 支持 macOS , Linux , Windows 等主流操作系统
+>
+> https://github.com/cocktailpeanut/dalai
+
+### feishu-chatgpt
+
+> 一个飞书机器人 , 对接了 GPT-3.5 , DALL-E 和 Whisper , 具有语音对话 , 角色扮演 , 多话题讨论 , 图片创作 , 表格分析 , 文档导出等等功能
+>
+> 目前 , feishu-chatgpt 支持飞书以及飞书国际版 , 支持 Serverless 云函数 , 本地环境 ,  Docker , 二进制安装包等多种渠道部署
+>
+> https://github.com/Leizhenpeng/feishu-chatgpt
+
+### ChatGPT : chatbox
+
+> 开源的 ChatGPT 桌面应用 , 支持 Windows , macOS , Linux 等主流操作系统
+>
+> 下载安装包就能用 , 可谓是开箱即用
+>
+> https://github.com/Bin-Huang/chatbox
+
+### the-algorithm
+
+> 愚人节开源的 Twitter For You 推荐算法 , 作为海外主流的社交平台
+>
+> 想必推特的推荐算法对做社交推荐有一定的参考性
+>
+> 此外 , 你还可以了解到相关的推荐设计和代码实现
+>
+> 官方的这篇博客 https://blog.twitter.com/engineering/en_us/topics/open-source/2023/twitter-recommendation-algorithm 详细介绍了推荐算法
+>
+> https://github.com/twitter/the-algorithm
+
+### cursor
+
+> 一个智能编辑器 , 可以帮你做一点点事情 :
+>
+> - 写代码 : 比 Copilot 更聪明 , 能写 10-100 行代码
+> - Diff : 根据要求编辑代码块 , 可仅查看建议变更
+> - 类 ChatGPT 交互
+> - 其他 : 修 bug , 光标评论等等
+>
+> https://github.com/getcursor/cursor
+
+### Tune-A-Video
+
+> 文本到视频生成的图像扩散模型的一次调优
+>
+> 简单来说 , 现在你也可以输入一段文字来获得一段视频了
+>
+> https://github.com/showlab/Tune-A-Video
