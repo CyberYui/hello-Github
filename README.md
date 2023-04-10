@@ -14212,3 +14212,105 @@ Julia
 > 简单来说 , 现在你也可以输入一段文字来获得一段视频了
 >
 > https://github.com/showlab/Tune-A-Video
+
+### MochiDiffusion
+
+> MochiDiffusion 内置 Apple 的 Core ML Stable Diffusion 框架 , 以实现在搭载 Apple 芯片上用极低的内存占用发挥出模型最优性能 , 特性 :
+>
+> - 可离线生图
+> - 高性能 , 极低的内存占用
+> - 图转图 , Image2Image
+> - 自定义 Stable Diffusion Core ML 模型
+> - 无需担心损坏模型
+>
+> https://github.com/godly-devotion/MochiDiffusion
+
+### tabby
+
+> 自托管的 AI 编程助手 , 可作为 Copilot 的替代品 , 特性 :
+>
+> - 无需数据库和云服务
+> - 具有可视化 , 配置模型和 MLOps 的 Web 界面
+> - 接入 OpenAPI
+> - 消费级别的 GPU 支持 ( 用不同方法优化的 FP-16 权重加载 )
+>
+> https://github.com/TabbyML/tabby
+
+### buck
+
+> Meta 开源的大规模构建系统 buck2 继承于 buck1 , 但是不同于 buck1 采用 Java 编写
+>
+> buck2 由 Rust 编写而成
+>
+> 重构 buck1 的想法源自想要提供更快速 , 更高效的构建服务 , buck2 有以下特性 :
+>
+> - 解耦特定语言规则 , buck2 的核心构建系统没有任何特定的语言规则 , 这意味着它有更好的可扩展性 , buck2 核心部分用 Rust 编写 , 语言规则部分 ( 例如 : 如何构建 C++ ) 由 Starklark 编写
+> - 构建系统由单一增量依赖图提供支持 , 由此消减多类 bug 并增加并发性
+> - 规则 API 的设计主要为提供先进的性能特性 , 以及动态依赖特征
+> - 集成远程执行 , 能在远程机器执行操作 , 它采用了同 Bazel 一样的 API , 并已经用 Buildbarn 和 EngFlow 进行远程执行测试
+> - 集成虚拟文件系统 , 不用整仓检测 , 按需获取文件即可
+>
+> https://github.com/facebook/buck2
+
+### chroma
+
+> Chroma 是一个用于 Python / JavaScript LLM 应用程序的嵌入式数据库 , 它具有内存快速访问的优势 , 它只有 4 个核心函数 : 
+>
+> ```python
+> import chromadb
+> # setup Chroma in-memory, for easy prototyping. Can add persistence easily!
+> client = chromadb.Client()
+> 
+> # Create collection. get_collection, get_or_create_collection, delete_collection also available!
+> collection = client.create_collection("all-my-documents") 
+> 
+> # Add docs to the collection. Can also update and delete. Row-based API coming soon!
+> collection.add(
+>     documents=["This is document1", "This is document2"], # we handle tokenization, embedding, and indexing automatically. You can skip that and add your own embeddings as well
+>     metadatas=[{"source": "notion"}, {"source": "google-docs"}], # filter on these!
+>     ids=["doc1", "doc2"], # unique for each doc 
+> )
+> 
+> # Query/search 2 most similar results. You can also .get by id
+> results = collection.query(
+>     query_texts=["This is a query document"],
+>     n_results=2,
+>     # where={"metadata_field": "is_equal_to_this"}, # optional filter
+>     # where_document={"$contains":"search_string"}  # optional filter
+> )
+> ```
+>
+> https://github.com/chroma-core/chroma
+
+### segment-anything
+
+>这个代码库提供了使用 SegmentAnything 模型 ( SAM ) 进行推理的代码
+>
+>SAM 是一种输入诸如点 , 框等 prompt 生成高质量目标 mask 的模型 , 它有非常出彩的标记效果
+>
+>https://github.com/facebookresearch/segment-anything
+
+### rime-ice
+
+> 雾凇拼音一个极简风的输入法
+>
+> 支持简体 , 全拼 , 双拼 , 值得一提的事 , 作者自己维护了一个词库 :
+>
+> - `8105` 字表
+> - `base` 基础词库
+> - `sogou` 搜狗流行词
+> - `ext` 扩展词库 , 小词库
+> - `tencent` 扩展词库 , 大词库
+> - `Emoji`
+>
+> https://github.com/iDvel/rime-ice
+
+### weaviate
+
+> Weaviate 是一个开源的向量数据库
+>
+> 可以存储对象和向量 , 允许将向量搜索与结构化过滤相结合 , 并具有云原生数据库的容错性和可扩展性
+>
+> 可通过 GraphQL , REST 和各种语言客户端进行访问
+>
+> https://github.com/weaviate/weaviate
