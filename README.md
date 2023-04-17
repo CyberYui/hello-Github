@@ -13704,7 +13704,7 @@ Julia
 
 ### habitica
 
-> 这是一个培养习惯的开源应用，它会将你培养习惯的过程 , 当作一个 RPG 角色扮演游戏
+> 这是一个培养习惯的开源应用 , 它会将你培养习惯的过程 , 当作一个 RPG 角色扮演游戏
 >
 > 你需要根据设定的习惯 , 创建对应现实中需要完成的任务
 >
@@ -14314,3 +14314,41 @@ Julia
 > 可通过 GraphQL , REST 和各种语言客户端进行访问
 >
 > https://github.com/weaviate/weaviate
+
+### Auto-GPT
+
+> 这周 ( 2023年4月第三周 ) 很火的一个项目 , 收割了 52k+ star
+>
+> Auto-GPT 的 Auto 本就有自动之意 , 你可以理解为它更加自主
+>
+> 它能完成你指定任务 , 用过 ChatGPT 或者其他 GPT 应用的小伙伴可能知道在整个交互过程中 , 你是需要不断地调整你的 prompt , 以便生成你想要的结果
+>
+> Auto-GPT 可以代替你的提示工作 , 你指定一个任务之后 , 它能自主地完成它 , 不需要过多的人为干预
+>
+> 简单来说 , 它的自我迭代能力更强大 , 而且你只要有个 Docker 环境 , 就能给 Auto-GPT 发布任务让它来完成了
+>
+> https://github.com/Significant-Gravitas/Auto-GPT
+
+### DeepSpeed
+
+> ChatGPT 的风靡引发了 “如何低成本快速地训练类 ChatGPT 模型” 问题
+>
+> 而 DeepSpeed 便是这一切 AI 训练的加速器
+>
+> 它能优化深度学习 , 让分布式训练 , 推理更加简单 , 高效
+>
+> https://github.com/microsoft/DeepSpeed
+
+### OpenPromptStudio
+
+> 这是一个旨在把 AIGC 提示词 ( 现在支持 Midjourney ) 可视化并提供编辑功能的工具 , 有以下特性 :
+>
+> - 显示英文提示词的中文翻译
+> - 翻译输入的中文提示词到英文 ( 因为 Midjourney 仅支持英文提示词 ) 
+> - 为提示词进行分类 ( 普通、样式、质量、命令 ) 
+> - 轻松的排序 , 隐藏提示词
+> - 把提示词可视化结果导出为图片
+> - 常用提示词词典
+> - 通过 Notion 管理提示词词典
+>
+> https://github.com/Moonvy/OpenPromptStudio
