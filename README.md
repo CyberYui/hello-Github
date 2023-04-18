@@ -532,12 +532,6 @@
 >
 > https://github.com/seven332/EhViewer
 
-### Dress
-
-> 程序员女装库 , 可以在这里学习一下简单的 git 版本控制流程 , 不过话说回来 , hso
->
-> https://github.com/komeiji-satori/Dress
-
 ### :heart: FakeScreenshot
 
 > 一个用于伪造网站截图的工具 , 制作的目的是为了防止人们轻易相信 "眼见为实" 的东西
