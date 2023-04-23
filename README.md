@@ -13614,7 +13614,7 @@ Julia
 > - 带有 Neo-tree 的文件浏览器
 > - 支持 Cmp 的自动填充
 > - 集成了 Gitsigns 的 git
-> - 使用 Heirline 的 Statusline、Winbar 和 Bufferline
+> - 使用 Heirline 的 Statusline , Winbar 和 Bufferline
 > - 使用 Toggleterm 的终端
 > - 用 Telescope 进行模糊查找
 > - 用 Treesitter 实现语法高亮
@@ -14339,10 +14339,11 @@ Julia
 >
 > - 显示英文提示词的中文翻译
 > - 翻译输入的中文提示词到英文 ( 因为 Midjourney 仅支持英文提示词 ) 
-> - 为提示词进行分类 ( 普通、样式、质量、命令 ) 
+> - 为提示词进行分类 ( 普通 , 样式 , 质量 , 命令 ) 
 > - 轻松的排序 , 隐藏提示词
 > - 把提示词可视化结果导出为图片
 > - 常用提示词词典
 > - 通过 Notion 管理提示词词典
 >
 > https://github.com/Moonvy/OpenPromptStudio
+
