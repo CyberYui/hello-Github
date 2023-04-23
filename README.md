@@ -14347,3 +14347,16 @@ Julia
 >
 > https://github.com/Moonvy/OpenPromptStudio
 
+### MiniGPT-4
+
+> MiniGPT-4 是基于一些开源大模型来训练得到的识图AI
+>
+> 该团队正在准备一个更轻量级的版本 , 部署起来只需要23GB显存
+>
+> 这也就意味着未来可以在一些消费级的显卡中或许就可以进行本地训练了
+>
+> - 在线体验：https://minigpt-4.github.io
+> - GitHub仓库：https://github.com/Vision-CAIR/MiniGPT-4
+> - 论文：https://github.com/Vision-CAIR/MiniGPT-4/blob/main/MiniGPT_4.pdf
+>
+> https://github.com/Vision-CAIR/MiniGPT-4
