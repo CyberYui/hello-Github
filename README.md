@@ -14360,3 +14360,11 @@ Julia
 > - 论文：https://github.com/Vision-CAIR/MiniGPT-4/blob/main/MiniGPT_4.pdf
 >
 > https://github.com/Vision-CAIR/MiniGPT-4
+
+### chrome-plugin-demo
+
+> 一篇关于如何制作Chrome插件的博文
+>
+> 最近在搞自己的翻译插件 , 借用了大佬的代码 , 顺便看了看相关的教程
+>
+> https://github.com/sxei/chrome-plugin-demo
