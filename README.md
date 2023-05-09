@@ -14368,3 +14368,482 @@ Julia
 > 最近在搞自己的翻译插件 , 借用了大佬的代码 , 顺便看了看相关的教程
 >
 > https://github.com/sxei/chrome-plugin-demo
+
+### HealthGPT
+
+> HealthGPT 是一款实验性的 iOS 应用程序
+>
+> 允许用户使用自然语言与存储在 Apple Health 应用程序中的健康数据进行交互
+>
+> https://github.com/StanfordBDHG/HealthGPT
+
+### dperf
+
+> 一款能模拟巨大流量的压测工具
+>
+> 该项目是基于 DPDK 开发的高性能压测工具
+>
+> 能够每秒建立千万级的 HTTP 连接 , 亿级别的并发请求和数百 Gbps 的吞吐量
+>
+> https://github.com/baidu/dperf
+
+### ExplorerPatcher
+
+> 自由切换 Windows11 开始菜单样式的工具
+>
+> 这是一款能够让 Windows 11 的开始菜单栏 (Explorer) 重回 Windows 10 样式的扩展工具
+>
+> 除此之外还支持禁用 Windows 11 的上下文菜单和命令栏等功能
+>
+> 让你在 Windows 上拥有更舒适的工作环境
+>
+> https://github.com/valinet/ExplorerPatcher
+
+### ImageMagick
+
+> 一款强大的编辑和处理图像的桌面工具
+>
+> 该项目可用于创建 , 调整大小 , 裁剪 , 颜色校正和合成图像
+>
+> 支持超过 200 种的图像文件格式
+>
+> 其强大之处在于提供了处理复杂图像处理任务的 CLI 和 API
+>
+> ImageMagick 被广泛应用于平面设计 , 科学研究 , 医学影像 , 天文等领域
+>
+> 适用于 Windows , Linux 和 macOS 系统
+>
+> https://github.com/ImageMagick/ImageMagick
+
+### ScottPlot
+
+> 一个免费 , 开源的 .NET 绘图库
+>
+> 该项目可以轻松地以交互方式显示大型数据集
+>
+> 只需几行代码即可实现折线图 , 条形图 , 饼图 , 散点图等
+>
+> https://github.com/ScottPlot/ScottPlot
+
+### SpleeterGui
+
+> 一款 Windows 上的音轨分离工具
+>
+> 它是第三方制作的 Spleeter 桌面应用 , 支持中文在内的多国语言
+>
+> 可以将音乐里的人声和乐器声分离 , 轻松实现提取音乐中的伴奏
+>
+> https://github.com/boy1dr/SpleeterGui
+
+### VPet
+
+> 一款虚拟桌宠模拟器
+>
+> 这是一款 Windows 桌面宠物软件
+>
+> 支持摸头 , 喂食 , 喝水 , 打工 , 睡觉 , 玩耍等多种互动方式
+>
+> https://github.com/LorisYounger/VPet
+
+### AirSim
+
+> 基于虚幻引擎构建的无人机 , 汽车模拟器
+>
+> 这是一款微软开源的无人机和汽车的仿真模拟器
+>
+> 支持使用流行的飞行控制器进行软件在环 (SIL) 仿真
+>
+> 并使用 PX4 进行硬件在环 (HIL) 模拟
+>
+> 实现物理和视觉上逼真的模拟
+>
+> 可用于试验自动驾驶汽车 , 计算机视觉和强化学习算法
+>
+> https://github.com/microsoft/AirSim
+
+### krita
+
+> 自由开源的免费绘画软件
+>
+> 它强大且完全免费 , 无需注册 , 没有广告 , 试用期和商用限制 , 让每一位画师都可以有尊严地进行创作
+>
+> 可用于绘制概念草图 , 插画 , 漫画 , 动画 , 接景和 3D 贴图
+>
+> 支持数位板 , 压感 , 防抖 , 图层 , 滤镜 , 色彩管理等功能
+>
+> 适用于 Windows , Linux , macOS 操作系统
+>
+> https://github.com/KDE/krita
+
+### notekit
+
+> 一款支持手绘笔记的 Markdown 编辑器
+>
+> 这是一个基于 GTK+ 3 开发的笔记工具 , 支持所见即所得的 Markdown 内容
+>
+> 以及通过鼠标 , 触摸屏或数字转化器添加手绘笔记
+>
+> https://github.com/blackhole89/notekit
+
+### dozzle
+
+>轻巧的 Docker 实时日志查看工具
+>
+>这是一个实时监控 Docker 日志的 Web 应用 , 打包成了一个非常小的 Docker 应用
+>
+>它开箱即用 , 占用内存少 , 不存储任何日志文件
+>
+>支持更加友好的日志展示 , 容器名称模糊搜索 , 正则表达式搜索日志等功能
+>
+>https://github.com/amir20/dozzle
+
+### go-captcha
+
+> Go 写的行为验证码库
+>
+> 这是一个 Go 语言 , 简单易用 , 交互友好的行为验证码库
+>
+> 支持随机验证文本和点选式验证码
+>
+> 采用展示验证码 , 采集用户行为 , 验证行为数据的流程 , 整个过程用户只需点击操作就能完成验证
+>
+> https://github.com/wenlng/go-captcha
+
+### kwok
+
+> 模拟 K8s 集群的工具
+>
+> 它可以在几秒钟内搭建一个由数千个节点组成的 Kubernetes 集群
+>
+> 整个过程仅占用非常少的资源 , 轻松实现在本机上学习 , 测试和开发 K8s 集群应用
+>
+> https://github.com/kubernetes-sigs/kwok
+
+### scrutiny
+
+> 一款监控硬盘运行状况的仪表板
+>
+> 这是 smartd 的 WebUI 平台
+>
+> smartd 是一个守护进程 , 它能够监视拥有 S.M.A.R.T. (自我监测 , 分析及报告技术) 规范的硬盘
+>
+> 该项目基于 smartd 实现了硬盘各项指标的可视化界面 , 并增加了告警 , 自定义阈值等功能
+>
+> https://github.com/AnalogJ/scrutiny
+
+### sqlflow
+
+> 连接 SQL 和 AI 框架的工具
+>
+> 该项目能够将类似 SQL 的代码 , 编译成可运行在 K8s 集群的工作流
+>
+> 实现只写 SQL 就能得到 AI 引擎训练/预测的结果
+>
+> 支持 MySQL , MariaDB , TiDB , Hive 等数据库 , 以及 TensorFlow , Keras 等框架
+>
+> https://github.com/sql-machine-learning/sqlflow
+
+### circuitjs1
+
+> 浏览器上的电子电路模拟器
+>
+> 这是一个在浏览器中运行的电子电路模拟器
+>
+> 鼠标点击即可打开或关闭开关 , 当鼠标移动到任何组件上 , 会显示该组件的当前状态和简短描述
+>
+> 支持绘制电路 , 添加电路组件 , 修改数值 , 动态显示电压信号 , 导入/导出/存储等功能
+>
+> 可用于电子电路相关的教学和实验
+>
+> https://github.com/pfalstad/circuitjs1
+
+### MoonBox
+
+> 无侵入的线上流量录制/回放平台
+>
+> 这是一款由 vivo 开源的基于 jvm-sandbox-repeater 的流量回放平台
+>
+> 提供了数据统计和存储能力以及大量插件
+>
+> 适用于自动化测试 , 线上问题追踪和业务监控等场景
+>
+> https://github.com/vivo/MoonBox
+
+### oshi
+
+> 获取操作系统和硬件信息的 Java 库
+>
+> 这是一个基于 JNA 实现的获取本机操作系统和硬件信息的库
+>
+> 支持操作系统版本 , 进程 , 内存 ,  CPU 使用率 , 磁盘和分区 , 设备 , 传感器等信息
+>
+> https://github.com/oshi/oshi
+
+### mathquill
+
+> 数学公式在线编辑器
+>
+> 这是一个 JavaScript 写的公式编辑器 , 它可以让数学公式输入变得简单和美观
+>
+> https://github.com/mathquill/mathquill
+
+### quill
+
+> 一款强大的富文本编辑器
+>
+> 它是目前 GitHub 上 Star 数最多的所见即所得 Web 编辑器
+>
+> 具有强大的可扩展性和兼容性 , 支持台式机 , 平板电脑和手机上几乎所有的浏览器
+>
+> https://github.com/quilljs/quill
+
+### react-hot-toast
+
+> 轻便的 React toast 提示组件
+>
+> 它使用方便 , 易于定制 , 小于 5kb , 支持 Emoji 图标 , 悬浮保持等功能
+>
+> 提供了多种不同样式的示例代码 , 拿来就能直接用
+>
+> https://github.com/timolins/react-hot-toast
+
+### Music-Player-GO
+
+> 一款小巧但功能齐全的本地 Android 音乐播放器
+>
+> 它拥有极简的界面和小巧的体积 , 支持中文
+>
+> 有定时关闭 , 随机播放 , 按艺术家 , 专辑 , 歌曲或文件夹组织音乐等功能
+>
+> https://github.com/enricocid/Music-Player-GO
+
+### Easydict
+
+> 一款简洁优雅的翻译词典
+>
+> 它开箱即用 , 能够自动识别输入文本的语言
+>
+> 支持输入翻译 , 划词翻译和 OCR 截图翻译等功能
+>
+> https://github.com/tisfeng/Easydict
+
+### datasette
+
+> 一个用于探索和发布数据的 Python 工具
+>
+> 该项目可以将 CSV , JSON , 数据库等各种形式的数据 , 在几分钟内发布成 API 接口或网页
+>
+> 轻松实现数据集的 Web 可视化 , 搜索 , 分析等功能
+>
+> https://github.com/simonw/datasette
+
+### mercury
+
+> 能够将 Jupyter Notebook 变成 Web 应用的框架
+>
+> 该项目可以让你在 Python Notebook 中添加交互式部件
+>
+> 实现自动生成一个漂亮的 Web 应用 , 方便分享和展示你的成果
+>
+> https://github.com/mljar/mercury
+
+### pyotp
+
+> Python 的一次性密码库
+>
+> 它是一个能够生成/验证一次性密码(短信验证码)的 Python 库
+>
+> 可以在 Web 应用或其它需要登录的系统上 , 实现双因素 (2FA) 或多因素 (MFA) 身份验证方法
+>
+> https://github.com/pyauth/pyotp
+
+### hidden
+
+> 帮助隐藏 macOS 菜单栏图标的小工具
+>
+> 它能够灵活地隐藏菜单栏应用 , 让你的 Mac 看起来更加简洁
+>
+> 可通过 App Store 一键安装
+>
+> https://github.com/dwarvesf/hidden
+
+### distrochooser
+
+> 帮你找到适合自己的 Linux 发行版
+>
+> 该网站通过询问一些问题 , 为你推荐符合你要求的 Linux 发行版 , 支持中文
+>
+> https://github.com/distrochooser/distrochooser
+
+### dockerlabs
+
+> 适合所有阶段开发者的 Docker 教程
+>
+> 该教程的内容分为初 , 中 , 高三个级别 , 适合所有阶段的 Docker
+>
+> 内含 500 个动手实验 , 以及 Docker 和 Docker Compose 小抄
+>
+> 这一切全部开源且分文不取
+>
+> https://github.com/collabnix/dockerlabs
+
+### flutter_twitter_clone
+
+> Flutter 写的推特客户端
+>
+> 这是一款用 Flutter 写的第三方 Twitter 客户端
+>
+> 实现了登录/注册 , 信息流 , 回复 , 通知 , 个人主页等功能
+>
+> https://github.com/TheAlphamerc/flutter_twitter_clone
+
+### my-re0-k8s-security
+
+> 从零开始的 Kubernetes 攻防
+>
+> 该项目包含了作者在多处攻防场景 , 所遇到的云原生相关的漏洞挖掘和漏洞利用实例
+>
+> https://github.com/neargle/my-re0-k8s-security
+
+### static-marks
+
+> 将浏览器书签转换为静态网站的工具
+>
+> 该项目能够将本地的浏览器书签 , 生成一个方便部署的独立 HTML 文件
+>
+> 轻松实现在线分享浏览器书签的功能
+>
+> https://github.com/darekkay/static-marks
+
+### learn-javascript
+
+> 一本教授 JavaScript 语言的电子书
+>
+> 这是一本从零开始教授 JavaScript 编程语言基础的书 , 内含丰富的在线练习
+>
+> https://github.com/sumn2u/learn-javascript
+
+### bark
+
+> Text-Prompted 生成音频的模型
+>
+> 该项目可以根据你输入的文本提示生成音频 , 甚至可以指定背景声音
+>
+> 生成的语音会包含爽朗的笑声
+>
+> 它还可以模拟音乐 , 声效 , 比传统的文本转语音更智能
+>
+> ```python
+> from bark import SAMPLE_RATE, generate_audio, preload_models
+> from IPython.display import Audio
+> 
+> # download and load all models
+> preload_models()
+> 
+> # generate audio from text
+> text_prompt = """
+>      Hello, my name is Suno. And, uh — and I like pizza. [laughs] 
+>      But I also have other interests such as playing tic tac toe.
+> """
+> audio_array = generate_audio(text_prompt)
+> 
+> # play text in notebook
+> Audio(audio_array, rate=SAMPLE_RATE)
+> ```
+>
+> https://github.com/suno-ai/bark
+
+### chart-gpt
+
+> 一款新的 AI 应用 , 通过文本描述 , 你就能获得对应的图表
+>
+> https://github.com/whoiskatrin/chart-gpt
+
+### LocalAI
+
+> 一个自托管 , 社区驱动的 , 简单的本地 OpenAI 兼容 API
+>
+> 它采用 Go 编写 , 可用于本地 CPU 推理
+>
+> 它适用于 ggml 兼容模型
+>
+> 例如 : llama.cpp , alpaca.cpp , gpt4all.cpp , vicuna , koala , gpt4all-j 和 cerebras
+>
+> https://github.com/go-skynet/LocalAI
+
+### rye
+
+> Rye 是 Armin 的个人一站式 Python 解决方案
+>
+> 它会安装和管理 Python 安装程序 , 管理 `pyproject.toml` 文件 , 安装和卸载依赖 , 在后台管理虚拟环境
+>
+> 此外 , 它还支持单一代码仓库和全局工具安装
+>
+> https://github.com/mitsuhiko/rye
+
+### Atlas
+
+> Atlas 是一个修改版的 Windows 10 , 删除了众多拖慢 Windows 系统的组件 (游戏性能下降的罪魁祸首)
+>
+> Atlas 在主要优化性能的同时 , 也是减少系统 , 网络 , 输入延迟的一个极佳选择
+>
+> https://github.com/Atlas-OS/Atlas
+
+### PentestGPT
+
+> 在渗透测试中加入 GPT 如何 ? 
+>
+> PentestGPT 基于 ChatGPT 构建 , 以交互模式运行 , 指导测试人员
+>
+> https://github.com/GreyDGL/PentestGPT
+
+### AudioGPT
+
+> AudioGPT 是个音频处理工具 , 借助 GPT 技术它几乎能完成同音频相关的所有工作
+>
+> 比如 : 生成音乐 , 背景音乐等 , 其运行方式也非常简单 :
+>
+> ```python
+> # create a new environment
+> conda create -n audiogpt python=3.8
+> 
+> #  prepare the basic environments
+> pip install -r requirements.txt
+> 
+> # download the foundation models you need
+> bash download.sh
+> 
+> # prepare your private openAI private key
+> export OPENAI_API_KEY={Your_Private_Openai_Key}
+> 
+> # Start AudioGPT !
+> python audio-chatgpt.py
+> ```
+>
+> https://github.com/AIGC-Audio/AudioGPT
+
+### Ryujinx
+
+> Ryujinx 是一款由 gdkchan 开发的开源 Nintendo Switch 模拟器 , 采用 C# 编写
+>
+> 而近期的 Switch 新款游戏《塞尔达传说·王国之泪》也能在该模拟器上运行 , B 站便有相关的视频分享
+>
+> https://github.com/Ryujinx/Ryujinx
+
+### mojo
+
+> 这个新编程语言本周可谓是一大热点 , 它号称性能是 Python 的 35000 倍之余
+>
+> 兼顾了 Python 的语法优点以及易用性 , 而 Mojo 更是由 LLVM 和 Swift 之父发布
+>
+> https://github.com/modularml/mojo
+
+### cube
+
+> Cube 是用于构建数据应用的语义层
+>
+> 它帮助数据工程师和应用程序开发人员从数据存储中访问数据 , 将其组织成一致的定义
+>
+> 并将其传递给每个应用程序
+>
+> https://github.com/cube-js/cube
