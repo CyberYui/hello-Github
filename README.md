@@ -14847,3 +14847,82 @@ Julia
 > 并将其传递给每个应用程序
 >
 > https://github.com/cube-js/cube
+
+### Orillusion
+
+> Orillusion 引擎是一个轻量级的渲染引擎 , 完全支持 WebGPU 标准
+>
+> 它基于最新的 Web 图形 API 标准 , 实现了许多以前在 Web 上难以或不可能实现的功能
+>
+> 特性 :
+>
+> - 支持 WebGPU
+> - ECS 组件式系统
+> - 面向数据设计
+> - 集群光照剔除
+> - 物理仿真系统
+> - 基于物理的材质渲染
+> - 丰富的后处理特效
+>
+> https://github.com/Orillusion/orillusion
+
+### Shap-e
+
+> OpenAI (ChatGPT 开发商) 开源的一款新模型
+>
+> 这个模型能实现输入文本或者图片 , 生成对应的 3D 对象
+>
+> 它的使用也非常简单 , 安装一个包即可 :
+>
+> ```python
+> pip install -e .
+> ```
+>
+> https://github.com/openai/shap-e
+
+### qdrant
+
+> 大模型火了之后 , 向量数据库也因此得到关注
+>
+> 而 Qdrant(读作：quadrant) 是一款向量相似性搜索引擎和向量数据库
+>
+> 它生产可用 , 具有方便的 API 来存储 , 搜索和管理点和带有额外负载的向量
+>
+> Qdrant 专为支持扩展过滤而设计
+>
+> 所以 , 对各种神经网络或基于语义的匹配 , 分面搜索和其他应用非常有效
+>
+> https://github.com/qdrant/qdrant
+
+### azerothcore-wotlk
+
+> AzerothCore(AC) 是一个开源的游戏服务器应用程序
+>
+> 采用 C++ 编写 , 基于 MaNGOS , TrinityCore 和 SunwellCore 开发
+>
+> 部分特性 :
+>
+> - 稳定
+> - 模块化
+> - 丰富的模块
+> - 更好的配置文件系统
+> - 兼容其他仿真器
+> - 友好 , 互助的社区
+>
+> https://github.com/azerothcore/azerothcore-wotlk
+
+### netdata
+
+> Netdata 是一款监控工具 , 兼顾颜值 , 分布式 , 高保真 , 预配置 , 实时等特性
+>
+> 可用来收集系统 , 硬件 , 容器 , 应用等上千个指标 , 是一个排除系统故障的好帮手
+>
+> https://github.com/netdata/netdata
+
+### source-code-hunter
+
+> 这是一个读互联网公司常用框架源码的项目
+>
+> 目前开放 Spring 全家桶 , Mybatis , Netty , Dubbo 框架 , 及 Redis , Tomcat 中间件等
+>
+> https://github.com/doocs/source-code-hunter
