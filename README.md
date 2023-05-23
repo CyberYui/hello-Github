@@ -14956,3 +14956,13 @@ Julia
 > 这些游戏的代码简单易懂 , 用游戏开启你的 Python 学习之旅 , 玩完再学源码 , 其乐无穷啊
 >
 > https://github.com/grantjenks/free-python-games
+
+### vpncn.github.io
+
+> 由于工作生活的需要我们不得不借助一些科学方式去访问外网
+>
+> 但是面对全网五花八门的梯子 , 具体选哪个估计大家都摸不着头脑
+>
+> 可以参考这个仓库的博文进行选择 , 且基本都一直在实时更新
+>
+> https://github.com/vpncn/vpncn.github.io
