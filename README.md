@@ -14926,3 +14926,33 @@ Julia
 > 目前开放 Spring 全家桶 , Mybatis , Netty , Dubbo 框架 , 及 Redis , Tomcat 中间件等
 >
 > https://github.com/doocs/source-code-hunter
+
+### WinUtil
+
+> winutil 便是一个工程师的 Windows 工具箱
+>
+> 它不仅提供了开发工具的一键安装 , 还通过配置关闭了系统更新和多余的功能
+>
+> 精简了 Windows 正在运行的进程 , 可用来快速配置出一个简洁 , 高效的 WIndows 系统环境
+>
+> https://github.com/ChrisTitusTech/winutil
+
+### Dapr
+
+> Dapr 是一款便携式 , 无服务器 , 事件驱动的 runtime
+>
+> 相关开发人员通过它能够轻松构建 , 具有弹性 , 无状态和有状态微服务
+>
+> 并在云端和边缘上运行 , 支持多种语言和开发框架
+>
+> https://github.com/dapr/dapr
+
+### Free Python Games
+
+> 这是都是 Python 写的简单小游戏 , 比如贪吃蛇 , 迷宫 , Pong , 猜字等
+>
+> 没有复杂的环境搭建 , 一条命令即可安装所有游戏 , 一条命令就能运行指定游戏
+>
+> 这些游戏的代码简单易懂 , 用游戏开启你的 Python 学习之旅 , 玩完再学源码 , 其乐无穷啊
+>
+> https://github.com/grantjenks/free-python-games
