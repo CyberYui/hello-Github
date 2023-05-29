@@ -14966,3 +14966,256 @@ Julia
 > 可以参考这个仓库的博文进行选择 , 且基本都一直在实时更新
 >
 > https://github.com/vpncn/vpncn.github.io
+
+### Linux-wifi-hotspot
+
+> 功能丰富的 Linux WiFi 热点工具
+>
+> 这是一款拥有图形化操作界面的 Wi-Fi 创建器 , 使用方便 , 功能丰富 , 支持命令行 , 创建热点 , 二维码分享网络 , 查看已连接设备等功能
+>
+> https://github.com/lakinduakash/linux-wifi-hotspot
+
+### progress
+
+> 查看 Linux 命令执行进度的工具
+>
+> 这是一个可以查看 cp , mv , dd , tar 等命令执行进度的 Linux 工具
+>
+> 它可以显示已处理数据的百分比 , 处理速度和预计完成时间 , 并提供了类似 top 的监控模式
+>
+> https://github.com/Xfennec/progress
+
+### Opserver
+
+> Stack Exchange 团队开源的监控系统
+>
+> 这是一个采用 .Net 开发的轻量级监控系统 , 它可以监控包括服务器 , 日志 , SQL Server 集群 , Redis 在内的多种服务 , 支持修改 JSON 配置文件自定义仪表盘展示
+>
+> Stack Exchange 也是一个网站 , 它和程序员常用的 Stack Overflow 背后都是同一家公司
+>
+> https://github.com/opserver/Opserver
+
+### SophiApp
+
+> 一款强大的 Windows 微调工具
+>
+> 这是一个用于微调 Windows 10 和 Windows 11 配置的调整器
+>
+> 它拥有现代化的操作界面 , 在保证系统稳定的前提下 , 提供了超过 130 种的调整选项
+>
+> https://github.com/Sophia-Community/SophiApp
+
+### kdeconnect-kde
+
+> Linux 上的设备互联工具
+>
+> 这是一款由 KDE(知名 Linux 桌面环境) 开源的 , 方便手机与电脑实现无线互联的应用
+>
+> 支持手机和电脑之间共享剪贴板 , 通知 , 文件 , 运行命令等功能 , 还可以将手机作为电脑的触控板 , 键盘和幻灯片遥控器等外接设备
+>
+> https://github.com/KDE/kdeconnect-kde
+
+### gitpod
+
+> 随时准备好编码的云开发环境
+>
+> 这是一个提供在线开发环境的 K8s 应用程序 , 通过配置文件可以快速地为 GitHub , GitLab 上的项目
+>
+> 创建一个集成了在线 IDE , 库 , 依赖项等工具的在线开发环境
+>
+> https://github.com/gitpod-io/gitpod
+
+### LocalAI
+
+> OpenAI 的本地替代品
+>
+> 一个实现了在个人电脑上运行 LLM 模型 , 并集成了服务接口和在线聊天界面的项目
+>
+> 虽然效果无法和 GPT-4 媲美 , 但它开箱即用且免费 , 支持 Vicuna , Alpaca , GPT4ALL 等模型
+>
+> ```go
+> # Clone LocalAI
+> git clone https://github.com/go-skynet/LocalAI
+> 
+> cd LocalAI
+> 
+> # (optional) Checkout a specific LocalAI tag
+> # git checkout -b build <TAG>
+> 
+> # Download gpt4all-j to models/
+> wget https://gpt4all.io/models/ggml-gpt4all-j.bin -O models/ggml-gpt4all-j
+> 
+> # Use a template from the examples
+> cp -rf prompt-templates/ggml-gpt4all-j.tmpl models/
+> 
+> # (optional) Edit the .env file to set things like context size and threads
+> # vim .env
+> 
+> # start with docker-compose
+> docker-compose up -d --pull always
+> # or you can build the images with:
+> # docker-compose up -d --build
+> # Now API is accessible at localhost:8080
+> curl http://localhost:8080/v1/models
+> # {"object":"list","data":[{"id":"ggml-gpt4all-j","object":"model"}]}
+> 
+> curl http://localhost:8080/v1/chat/completions -H "Content-Type: application/json" -d '{
+>      "model": "ggml-gpt4all-j",
+>      "messages": [{"role": "user", "content": "How are you?"}],
+>      "temperature": 0.9 
+>    }'
+> 
+> # {"model":"ggml-gpt4all-j","choices":[{"message":{"role":"assistant","content":"I'm doing well, thanks. How about you?"}}]}
+> ```
+>
+> https://github.com/go-skynet/LocalAI
+
+### nexttrace
+
+> 一款可视化路由跟踪工具
+>
+> 该项目默认使用 ICMP 协议发送 TraceRoute 请求
+>
+> 特点是显示经过路由器的 IP , 地理位置和耗时 , 以及在地图上以可视化的方式显示路径
+>
+> https://github.com/sjlleo/nexttrace
+
+### jetlinks-community
+
+> 一个全响应式的企业级物联网平台
+>
+> 基于 Spring Boot 开发的一款开箱即用 , 可二次开发的企业级物联网基础平台
+>
+> 支持不同设备的统一接入 , 规则模型配置 , 数据权限控制等功能
+>
+> https://github.com/jetlinks/jetlinks-community
+
+### PlayEdu
+
+> 一款 Java 写的内部培训系统
+>
+> 这是一款基于 SpringBoot+React 开发而成的视频培训系统 , 它界面清爽 , 交互流畅 , 支持上传资源 , 创建部门 , 添加学员 , 指派课程等功能 , 可用于企业和机构搭建内部培训平台
+>
+> https://github.com/PlayEdu/PlayEdu
+
+### EasySpider
+
+> 一款可视化爬虫工具
+>
+> 该项目可以让用户在图形化界面下 , 无需写代码实现自动采集/爬虫的功能
+>
+> 用户只需要在网页上选择想要爬的内容 , 并根据提示框操作即可完成爬虫的设计和执行
+>
+> https://github.com/NaiboWang/EasySpider
+
+### ts-config-helper
+
+> TypeScript 配置可视化工具
+>
+> 该项目提供了 TypeScript 配置解析 , 可视化 , 文档查阅等功能 , 帮你快速 , 准确地生成 tsconfig.json 文件
+>
+> https://github.com/yue1123/ts-config-helper
+
+### wallabag
+
+> 保存网页稍后阅读的应用
+>
+> 这是一款能够将网络上的文章下载到本地离线保存的应用 , 它完全免费 , 拥有中文界面和移动端 , 让你可以随时随地阅读自己保存的文章
+>
+> https://github.com/wallabag/wallabag
+
+### domain-admin
+
+> 域名和 SSL 证书监测平台
+>
+> 采用 Flask+peewee+Vue3 构建的域名和 SSL 证书到期监测平台 , 支持批量导入域名 , 多域名管理 , 到期通知等功能
+>
+> https://github.com/mouday/domain-admin
+
+### musicpy
+
+> 用 Python 创作音乐
+>
+> 该项目可以用简洁的 Python 代码生成一段音乐 , 它提供了和弦 , 音符和音阶等几个基本类型 , 需要具备一定的音理基础才能上手
+>
+> ```python
+> from musicpy import *
+> 
+> # 尼龙弦吉他分解和弦演奏一个和弦进行
+> guitar = (C('CM7', 3, 1/4, 1/8)^2 |
+>           C('G7sus', 2, 1/4, 1/8)^2 |
+>           C('A7sus', 2, 1/4, 1/8)^2 |
+>           C('Em7', 2, 1/4, 1/8)^2 | 
+>           C('FM7', 2, 1/4, 1/8)^2 |
+>           C('CM7', 3, 1/4, 1/8)@1 |
+>           C('AbM7', 2, 1/4, 1/8)^2 |
+>           C('G7sus', 2, 1/4, 1/8)^2) * 2
+> 
+> play(guitar, bpm=100, instrument=25)
+> ```
+>
+> https://github.com/Rainbow-Dreamer/musicpy
+
+### FlyingCarpet
+
+> 无需网络的文件传输工具
+>
+> 这是一个支持在 Android , iOS , Linux , macOS 和 Windows 系统之间通过 WiFi 点对点(Ad-Hoc)传输文件的工具
+>
+> 它不需要网络基础设施 , 只需要两台支持 WiFi 的设备 , 即可实现近距离无线传输
+>
+> https://github.com/spieglt/FlyingCarpet
+
+### oxipng
+
+> 多线程的 PNG 图片压缩工具
+>
+> 这是一个 Rust 写的命令行 PNG 无损压缩工具 , 支持多线程压缩速度快 , 还可作为 Rust 库使用
+>
+> https://github.com/shssoichiro/oxipng
+
+### fsnotes
+
+> macOS/iOS 上的笔记管理器
+>
+> 这是一款适用于 macOS 和 iOS 的笔记管理工具
+>
+> 支持 Markdown , 加密笔记 , 生成网页 , TouchBar 快捷键 , 超过 170 种编程语言的语法高亮 , iCloud Drive 或 Dropbox 同步内容等功能
+>
+> https://github.com/glushchenko/fsnotes
+
+### swift-foundation
+
+> 用 Swift 重写后的 Foundation 框架
+>
+> Foundation 框架是 macOS 和 iOS 的基础组件(标准库) , 该项目是 Apple 用 Swift 重写后的 Foundation 源码 , 它更快 , 更安全
+>
+> https://github.com/apple/swift-foundation
+
+### source-han-serif
+
+> 思源宋体一套泛中日韩字体
+>
+> 思源宋体是 Adobe 开源的泛中日韩字体
+>
+> 这个开源项目不仅提供了思源宋体可用的 OpenType 字体 , 还提供了利用 AFDKO 工具创建这些 OpenType 字体时的所有源文件
+>
+> https://github.com/adobe-fonts/source-han-serif
+
+### wai
+
+> 一款可以预防颈椎病的项目
+>
+> 这是一个通过非正常的方式 , 展示历史上的今天和这个季节吃什么果蔬的内容 , “强迫”你活动脖子从而实现预防颈椎病的目的
+>
+> https://github.com/DukeLuo/wai
+
+### AI4Animation
+
+> AI 生成游戏角色动画
+>
+> 该项目可以基于原始的动作捕捉数据 , 生成更加自然 , 可控的角色动画
+>
+> 解决两足 , 四足动物的动画生成问题 , 比如无需人为干涉就能生成坐下 , 跳跃 , 开门 , 武术等复杂动作的动画
+>
+> https://github.com/sebastianstarke/AI4Animation
