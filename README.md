@@ -15219,3 +15219,51 @@ Julia
 > 解决两足 , 四足动物的动画生成问题 , 比如无需人为干涉就能生成坐下 , 跳跃 , 开门 , 武术等复杂动作的动画
 >
 > https://github.com/sebastianstarke/AI4Animation
+
+### DragGAN
+
+> 又一个 AI 项目 , 这个项目主打一个快速处理图片 , 只用拖拽鼠标就能调整图像 , 生成新的图像 : 比如让猫咪眨眼 , 狮子开口 , 大象转身等效果 , 不过 , 目前项目代码还未开源 , 不妨先关注下这个仓库
+>
+> https://github.com/XingangPan/DragGAN
+
+### joshuto
+
+> 类 ranger 的终端文件管理器 , 采用 Rust 编写 , 支持绝大多数的管理操作 , 可进行文件模糊搜索
+>
+> https://github.com/kamiyaa/joshuto
+
+### van
+
+> 据说是最小的响应式 UI 框架 , VanJS 是 Vanilla JavaScript 的缩写
+>
+> 这是个轻量级 , 零依赖的响应式 UI 框架 , 基于纯 vanilla JavaScript 和 DOM 实现
+>
+> 它的用法同 React 有点类似 , 可以参考下面的代码 : 
+>
+> ```javascript
+> // Reusable components can be just pure vanilla JavaScript functions.
+> // Here we capitalize the first letter to follow React conventions.
+> const Hello = () => div(
+>   p("👋Hello"),
+>   ul(
+>     li("🗺️World"),
+>     li(a({href: "https://vanjs.org/"}, "🍦VanJS")),
+>   ),
+> )
+> 
+> van.add(document.body, Hello())
+> // Alternatively, you can write:
+> // document.body.appendChild(Hello())
+> ```
+>
+> https://github.com/vanjs-org/van
+
+### AudioFlux
+
+> 一个用于音频和音乐分析 , 特征提取的深度学习工具库
+>
+> 支持数十种时频分析变换方法和数百种对应的时域 , 频域特征组合
+>
+> 它可以提供给深度学习网络进行训练 , 用于研究音频领域的各种任务 , 如分类 , 分离 , 音乐信息检索 (MIR) 和 ASR 等
+>
+> https://github.com/libAudioFlux/audioFlux
