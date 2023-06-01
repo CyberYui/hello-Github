@@ -15267,3 +15267,9 @@ Julia
 > 它可以提供给深度学习网络进行训练 , 用于研究音频领域的各种任务 , 如分类 , 分离 , 音乐信息检索 (MIR) 和 ASR 等
 >
 > https://github.com/libAudioFlux/audioFlux
+
+### sd-model-preview-xd
+
+> StableDiffusion webUI 中用来完整显示模型预览和介绍文档的插件, 有完整的介绍文档, 且支持多种格式的文档和图片
+>
+> https://github.com/CurtisDS/sd-model-preview-xd#name-matching-rules
