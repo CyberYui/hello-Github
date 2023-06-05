@@ -15273,3 +15273,43 @@ Julia
 > StableDiffusion webUI 中用来完整显示模型预览和介绍文档的插件, 有完整的介绍文档, 且支持多种格式的文档和图片
 >
 > https://github.com/CurtisDS/sd-model-preview-xd#name-matching-rules
+
+### chinese-poetry
+
+> 最全中华古诗词数据库 , 唐宋两朝近一万四千古诗人 , 接近 5.5 万首唐诗加 26 万宋词
+>
+> 两宋时期 1564 位词人, 21050 首词
+>
+> https://github.com/chinese-poetry/chinese-poetry
+
+### drizzle-orm
+
+> “如果你懂 SQL, 你就懂 Drizzle ORM”, Drizzle ORM 是一款专为 SQL 数据库设计的 TypeScript ORM , 它在编译时会强制类型检查 , 并且不会在 runtime 失败 , 下面是一个示例 :
+>
+> ```typescript
+> export type User = InferModel<typeof users>;
+> export type NewUser = InferModel<typeof users, 'insert'>;
+> 
+> const pool = new Pool({
+>   connectionString: 'postgres://user:password@host:port/db',
+> });
+> const db = drizzle(pool);
+> 
+> // Insert
+> const newUser: NewUser = {
+>   fullName: 'John Doe',
+>   phone: '+123456789',
+> };
+> const insertedUsers /* : User[] */ = await db.insert(users).values(newUser).returning();
+> const insertedUser = insertedUsers[0]!;
+> ```
+>
+> https://github.com/drizzle-team/drizzle-orm
+
+### ecoute
+
+> Ecoute 是一款实时转录工具 , 可以为用户的麦克风输入和扬声器输出提供实时文本转录
+>
+> 它还使用 OpenAI 的 GPT-3.5 生成回复建议 , 根据对话的实时转录提示用户说什么
+>
+> https://github.com/SevaSk/ecoute
