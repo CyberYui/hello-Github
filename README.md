@@ -15313,3 +15313,14 @@ Julia
 > 它还使用 OpenAI 的 GPT-3.5 生成回复建议 , 根据对话的实时转录提示用户说什么
 >
 > https://github.com/SevaSk/ecoute
+
+### SwitchHosts
+
+> SwitchHosts 是一个管理 hosts 文件的应用 , 特性有 :
+>
+> - 快速切换 hosts 方案
+> - hosts 语法高亮
+> - 支持从网络加载远程 hosts 配置
+> - 可从系统菜单栏图标快速切换 hosts
+>
+> https://github.com/oldj/SwitchHosts
