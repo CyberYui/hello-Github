@@ -15324,3 +15324,377 @@ Julia
 > - 可从系统菜单栏图标快速切换 hosts
 >
 > https://github.com/oldj/SwitchHosts
+
+### Qalculate
+
+> 一款外表简单易用 , 内核强大且功能丰富的跨平台 , 全免费的计算器应用
+>
+> 可以进行普通计算 , 科学计算 , 自定义函数 , 单位 , 高计算精度 , 作图以及可以输入一行表达式的图形界面
+>
+> 这个计算器并没有开源 , 其相关的 GitHub 页面 : https://github.com/Qalculate 
+>
+> 计算器的使用说明参照这个链接 : [Qalculate! Manual v4.7.0](https://qalculate.github.io/manual/index.html) 
+
+### qrbtf-AI二维码
+
+> 它主要是通过  Checkpoint + LoRA + QR Code ControlNet 方法实现
+>
+> 简单来说它是并不是一个开源的项目 , 而是由AI模型生成的二维码图片
+>
+> 可以在这篇文章[《AI 生成可扫码图像 — 新 ControlNet 模型展示》](https://mp.weixin.qq.com/s?__biz=MzU1Njg1NTU2Mw==&mid=2247488073&idx=1&sn=ea0c92558d8125d24e049670081cc191&scene=21#wechat_redirect)中下载到中国传统纹样 , 浮世绘 , 二次元 , 插画等多种风格的艺术二维码
+>
+> 不过这里其实是想推荐这篇文章作者开源的二维码生成器 : qrbtf
+>
+> 虽然相较于 ControlNet 模型 , qrbtf 显得有点平平无奇
+>
+> 但是胜在兼顾了便捷和美观 , 毕竟不是谁都有条件训练一个模型出来的
+>
+> qrbtf 的使用非常简单 , 项目克隆下来之后 , 有 npm 的话直接 start 即可使用 , 支持导出 SVG 和 JPG 格式的图像
+>
+> https://github.com/ciaochaos/qrbtf
+
+### intel-one-mono intel字体
+
+> 英特尔刚开源的字体项目 intel-one-mono
+>
+> 它是一款富有表现力的等宽字体 , 非常方便阅读 , 主要设计目的是减少读者的视觉疲劳
+>
+> intel-one-mono 支持 Light , Regular , Medium , Bold 等 4 种字重
+>
+> https://github.com/intel/intel-one-mono
+
+### canvas-editor
+
+> 由 Canvas 和 SVG 实现的富文本编辑器 , 如果想自己做一个富文本编辑器 , 可以学习下本项目
+>
+> https://github.com/Hufe921/canvas-editor
+
+### sam-hq
+
+> Segment Anything in High Quality 是一个高质量的目标识别 , 分割项目
+>
+> 如果不是 AI 从业者 , 可以试试用它来抠图 , 会非常好用
+>
+> https://github.com/SysCV/sam-hq
+
+### prompt-engineering-for-developers
+
+> 吴恩达大模型系列课程中文版 , 包括《Prompt Engineering》,《Building System》和《LangChain》
+>
+> https://github.com/datawhalechina/prompt-engineering-for-developers
+
+### reactpy
+
+> reactpy 的项目介绍 , 简洁明了就是 Python 中的 react
+>
+> 展开来说 , 它是一个在 Python 中构建用户界面的库 , 不需要 JavaScript 就能搞
+>
+> 它的界面同 React 类似 , 由各种组件构成
+>
+> 即便是新手 , 从未从事过 Web 开发 , 也能很快上手
+>
+> https://github.com/reactive-python/reactpy
+
+### audiocraft
+
+> 现在已经有文本生成文本的对话模型 ChatGPT , 也有文本生成图片的 Stable Diffusion / Midjourney 之类的工具 , 现在多了一个文本生成音乐的 Audiocraft
+>
+> 它是由 facebooksearch 团队开源的音乐生成语言模型 , 基于 PyTroch 深度学习的音频处理和生成库
+>
+> 目前 , 它含有 MusicGen 代码 , 一个目前最先进的文本生成音乐模型
+>
+> 可以在示例页面感受下文本生成的音乐
+>
+> https://github.com/facebookresearch/audiocraft
+
+### offensive-bookmarks
+
+> 无论是渗透测试人员 , 还是漏洞悬赏猎人 , 或者是恶意软件开发者 , 以及逆向工程师 , 这个项目提供了一个安全方面全面的收藏夹 , 只要对信息安全有兴趣 , 里面的内容应该就会有用
+>
+> https://github.com/kargisimos/offensive-bookmarks
+
+### tremor
+
+> 一个 React 库 , 能快速构建 dashboard , 来观测各类数据信息
+>
+> https://github.com/tremorlabs/tremor
+
+### ChatGPT-Midjourney
+
+> AIGC 服务逐渐成熟 , 大家使用的工具也相对固定下来
+>
+> ChatGPT-Midjourney 就是一个一键建立 ChatGPT+Midjourney 网页服务的项目
+>
+> 如果不想访问 ChatGPT 和 Midjourney 两个网站 , 不妨试试这个网页服务
+>
+> https://github.com/Licoy/ChatGPT-Midjourney
+
+### DreamBerd
+
+> 一个新的编程语言  , 号称是一款完美的编程语言 , 同其他的编程语言类似 , 它具有灵活 , 易读写等特性
+>
+> 值得一提的是 , 它采用了 `!` 而非常规的 `;` 作为分隔符 , 如果你愿意 , 你甚至在一个代码后面加上多个感叹号表示对这段代码的运行正常性有清晰的确定 , 像是这样 :
+>
+> ```
+> print("Hello world")!!!
+> ```
+>
+> 如果你对你写的代码有些不确定 , 你甚至可以在代码后面加上问号 , 这样在运行时这一行会在控制台列出相关的debug信息 :
+>
+> ```
+> print("Hello world")?
+> ```
+>
+> https://github.com/TodePond/DreamBerd
+
+### sst
+
+> sst 让你在 AWS 上一站式拉起全栈应用  , 在 AWS 上装上 Next.js , Svelte , Astro 任意一款
+>
+> 再用它们提供的后端组件扩展下应用 , 你就得到了一个 serverless 应用
+>
+> https://github.com/serverless-stack/sst
+
+### kilo
+
+> 不到 1 千行代码实现的迷你文本编辑器
+>
+> 该项目是 Redis 作者用 C 语言写的迷你文本编辑器 , 支持语法高亮和搜索等功能
+>
+> 它不依赖第三方库 , 代码简洁优雅 , 去掉注释和空行后不到 1000 行 , 且只有一个文件 , 源码阅读起来十分清爽
+>
+> https://github.com/antirez/kilo
+
+### geometrize
+
+> 将图像用几何图形重绘的工具
+>
+> 该项目可以用圆形 , 三角形 , 矩形等几何图形重新绘制图像 , 并将结果导出为 SVG , PNG , JPG , GIF 等格式
+>
+> https://github.com/Tw1ddle/geometrize
+
+### shotcut
+
+> 一款功能强大的免费视频剪辑软件
+>
+> 这款软件虽然免费但在功能上完全不输收费的视频剪辑工具 , 可作为 Pr 的开源替代品
+>
+> 它拥有中文和直观的操作界面 , 支持数百种音频和视频格式 , 素材原生编辑 , 多时间线等功能 , 适用于 Windows , Linux , macOS 系统
+>
+> https://github.com/mltframework/shotcut
+
+### sqlitebrowser
+
+> SQLite 可视化管理工具
+>
+> 这是一款实用的 SQLite 数据库桌面管理工具 , 它支持创建和编辑 SQLite 数据库文件
+>
+> 可通过图形化界面创建 , 定义 , 修改 , 删除表和索引 , 以及执行 SQL 和导出数据等操作
+>
+> https://github.com/sqlitebrowser/sqlitebrowser
+
+### slides
+
+> 一款命令行演示工具
+>
+> 这款命令行工具可以让你在终端中轻松创建和演示幻灯片 , 它开箱即用 , 支持 Markdown 语法
+>
+> https://github.com/maaslalani/slides
+
+### sourcegraph
+
+> 一款强大的代码搜索平台
+>
+> 该项目能够对代码库进行语义索引和分析 , 支持正则表达式搜索 , 输入搜索条件时的自动补全 , 类似 IDE 的跳转到定义和引用
+>
+> 它可以用于构建公司内部的代码搜索平台 , 帮助程序员完成跨项目的代码查找 , 代码审查 , 代码追踪等
+>
+> https://github.com/sourcegraph/sourcegraph
+
+### SurveyKing
+
+> 功能强大的调查问卷系统
+>
+> 这是一款 Java 写的问卷调查和考试系统 , 支持 20 多种题型 , Excel 导入问卷 , 白名单答卷 , 公开查询 , 数据导出等功能
+>
+> https://github.com/javahuang/SurveyKing
+
+### ChatGPT-Next-Web
+
+> 免费部署私人 ChatGPT 网页应用
+>
+> 该项目不仅提供了更加人性化的 ChatGPT 聊天界面 , 还支持一键部署到 Vercel
+>
+> 你只需要提供 OpenAI API Key , 就能免费拥有私人 ChatGPT 服务
+>
+> https://github.com/Yidadaa/ChatGPT-Next-Web
+
+### Painter
+
+> 小程序生成图片库
+>
+> 该项目可以让小程序开发者通过 JSON 的方式绘制图片 , 支持绘制文本 , 图片 , 二维码 , 多种布局 , 自定义字体 , 圆角等功能
+>
+> https://github.com/Kujiale-Mobile/Painter
+
+### patch-package
+
+> 给 npm 依赖项打补丁的库
+>
+> 如果项目依赖的第三方库有个 bug , 需要手动添加一段代码才能解决 , 这个时候用它打个补丁就轻松搞定 , 支持 npm , yarn , pnpm 等
+>
+> https://github.com/ds300/patch-package
+
+### legado
+
+> 一款免费的安卓小说阅读器
+>
+> 这款阅读器体积小 , 无广告 , 界面简洁 , 支持自定义书源 , 本地导入小说 , 多种翻页模式 , 替换净化等功能
+>
+> 需要注意的是 , 它只是一个阅读器 , 不提供小说内容 , 初次安装后需要自行导入书源
+>
+> https://github.com/gedoor/legado
+
+### Auto_Bangumi
+
+> 全自动追番工具 , 该项目是 Python 写的自动订阅更新和下载动画的工具
+>
+> 用户只需在 Mikan Project 上订阅番剧 , 然后简单配置一下就可以安心追番了
+>
+> https://github.com/EstrellaXD/Auto_Bangumi
+
+### edx-platform
+
+> Django 写的开源慕课平台
+>
+> 该项目是由麻省理工和哈佛大学联合开源的大规模开放式在线课堂(MOOC)平台
+>
+> 它提供了内容管理和学习管理服务
+>
+> 该平台支持在线讲课 , 创建课程 , 发布前预览 , 内容库 , 学生反馈 , 考试等功能
+>
+> 虽然它功能丰富 , 但界面十分简陋
+>
+> https://github.com/openedx/edx-platform
+
+### PyQt-Fluent-Widgets
+
+> Fluent Design 风格的 PyQt 组件库
+>
+> 基于 PyQt/PySide 的 Fluent Design 风格组件库 , 内含多种美观 , 实用的组件 , 支持亮暗主题切换和自定义主题色
+>
+> https://github.com/zhiyiYo/PyQt-Fluent-Widgets
+
+### stitching
+
+> 强大的图片拼接 Python 库
+>
+> 这是一个基于 OpenCV 的拼接模块开发的用于快速拼接图片的 Python 库 , 支持在 Python 脚本中使用和命令行方式
+>
+> ```python
+> import stitching
+> 
+> stitcher = stitching.Stitcher()
+> # 多个文件
+> panorama = stitcher.stitch(["img1.jpg", "img2.jpg", "img3.jpg"])
+> # 通配符
+> panorama = stitcher.stitch(["img?.jpg"])
+> ```
+>
+> https://github.com/OpenStitching/stitching
+
+### sympy
+
+> 进行符号运算的 Python 库
+>
+> 这是一个功能齐全 , 纯 Python 写的计算机代数系统(CAS) , 可用于计算复杂的数学问题
+>
+> 它支持解方程 , 离散数学 , 微积分 , 逻辑计算 , 几何 , 概率与统计等功能
+>
+> ```shell
+> >>> from sympy import Symbol, cos
+> >>> x = Symbol('x')
+> >>> e = 1/cos(x)
+> >>> print(e.series(x, 0, 10))
+> 1 + x**2/2 + 5*x**4/24 + 61*x**6/720 + 277*x**8/8064 + O(x**10)
+> ```
+>
+> https://github.com/sympy/sympy
+
+### hexyl
+
+> 命令行十六进制查看器
+>
+> 这是一款 Rust 写的命令行十六进制查看器 , 它简单纯粹 , 彩色输出效果十分舒服
+>
+> https://github.com/sharkdp/hexyl
+
+### LocationSimulator
+
+> iOS 设备的定位模拟器
+>
+> 这是一个能够轻松修改 iOS 和 iPadOS 位置信息的 macOS 应用 , 使用时手机端无需越狱和安装应用 , 只需通过 USB 或 WiFi 将设备连接上电脑 , 即可轻松完成位置修改
+>
+> https://github.com/Schlaubischlump/LocationSimulator
+
+### SwiftUI-Cheat-Sheet
+
+> SwiftUI 小抄 , 该项目是一份 SwiftUI 2.0 速查表 , 内容包含复制即用的代码片段和运行效果截图
+>
+> https://github.com/SimpleBoilerplates/SwiftUI-Cheat-Sheet
+
+### awesome-macos-screensavers
+
+> 令人惊艳的 macOS 屏保集合
+>
+> 这里有不同风格 , 样式 , 趣味性十足的 macOS 屏保 , 相信总有一款适合你
+>
+> https://github.com/agarrharr/awesome-macos-screensavers
+
+### BlackHole
+
+> 一款高颜值的音乐播放器应用
+>
+> 该项目是用 Flutter 写的高颜值 , 无广告 , 免费音乐播放器
+>
+> 拥有歌词 , 专辑 , 艺术家 , 播放列表 , 定时关闭等功能
+>
+> 支持 Android , iOS , macOS 系统
+>
+> https://github.com/Sangwan5688/BlackHole
+
+### Clean-Code-Notes
+
+> 一本关于如何写出 Clean Code 的书
+>
+> 该书从什么是 Clean Code 讲起 , 一步步教你如何写出简洁 , 容易理解和维护的代码 , 帮助你养成良好的编码习惯
+>
+> https://github.com/JuanCrg90/Clean-Code-Notes
+
+### AI-For-Binginners
+
+> 微软开源的入门级人工智能教程
+>
+> 这是一份完全免费 , 面向零基础人群的 AI 课程 , 为期 12 周共计 24 节课
+>
+> 你将学习到关于 AI 的历史 , 基本知识 , 主流框架 , CV 和 NLP 等知识
+>
+> https://github.com/microsoft/AI-For-Beginners
+
+### background-removal-js
+
+> 不知道有多少小伙伴用过一个去背景服务叫做 remove.bg
+>
+> 这是一个开源的去背景服务 , 不用受限于 remove.bg 的清晰度限制 , 你可以自己抠掉图像中的背景
+>
+> 当然它提供了在线试用链接 : https://img.ly/showcases/cesdk/web/background-removal/web
+>
+> https://github.com/imgly/background-removal-js
+
+### google-ctf
+
+> google-ctf 收录了自 2017 年以来 Google CTF（安全网络竞赛）的挑战
+>
+> 如果你想试试你的密码学 , 逆向工程 , 漏洞检测等安全技能到底如何 , 不妨试试这些难题
+>
+> https://github.com/google/google-ctf
