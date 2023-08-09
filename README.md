@@ -15805,3 +15805,292 @@ Julia
 > 该项目是基于 JavaFX 的 2D 游戏开发引擎 , 它无需安装 , API 简单 , 能够轻松地将开发的游戏打包成一个可执行的 jar 包 , 一切的一切都是为了让你喜欢上开发游戏
 >
 > https://github.com/AlmasB/FXGL
+
+### no-more-secrets
+
+> 在终端中模拟电影里的数据解密效果
+>
+> 这是一个可以在终端中模拟 1992 年 *通天神偷* 电影中的数据解密效果的命令行工具
+>
+> 它可以将 ASCII 或 UTF-8 文本 , 用好莱坞式的解密效果展示
+>
+> ```shell
+> $ ls -l | nms
+> $ ls -l | nms -a           // Set auto-decrypt flag
+> $ ls -l | nms -s           // Set flag to mask space characters
+> $ ls -l | nms -f green     // Set foreground color to green
+> $ ls -l | nms -c           // Clear screen
+> $ nms -v                   // Display version
+> ```
+>
+> https://github.com/bartobri/no-more-secrets
+
+### opencv-mobile
+
+> 最小化的 OpenCV 库
+>
+> 这是一个比官方版本小 10 多倍的 OpenCV 库 , 它对模块进行了删减 , 仅保留了最基本的运算模块和常见的图像处理功能 , 适用于 Android , iOS , Windows , Linux , macOS 等平台
+>
+> https://github.com/nihui/opencv-mobile
+
+### FluentHub
+
+> 好看的 GitHub 客户端
+>
+> 这是一款 C# 编写的 GitHub 客户端 , 采用 Fluent Design 设计 , 界面清爽且时尚 , 适用于 Windows 系统
+>
+> https://github.com/FluentHub/FluentHub
+
+### wincompose
+
+> 免费的特殊符号输入法
+>
+> 这是一款 Windows 小工具 , 可以让你轻松输入特殊符号和 Emoji
+>
+> 它内置了上千种特殊符号和 Emoji , 支持自定义组合键快速输入特殊字符
+>
+> https://github.com/samhocevar/wincompose
+
+### clink
+
+> Windows 命令行增强工具
+>
+> 该项目可以让 Windows 原生的 cmd.exe 拥有类似 bash 一样强大的自动补全 , 历史记录 , 行编辑等功能 , 就像在 Linux 终端上一样
+>
+> https://github.com/chrisant996/clink
+
+### miniob
+
+> 从 0 到 1 数据库内核实战教程
+>
+> 该项目是 OceanBase 团队基于华中科技大学数据库课程原型 , 联合多所高校重新开发的 , 从零上手数据库的学习项目
+>
+> 它结构简单 , 代码简洁 , 不仅有文字讲解和视频教程 , 还有由浅入深的题目
+>
+> 通过理论+实战的方式 , 帮忙初学者迅速掌握内核模块功能和协同关系 , 提高工程编码能力
+>
+> https://github.com/oceanbase/miniob
+
+### layui
+
+> 面向后端开发者的 Web UI 组件库
+>
+> 这是一款采用原生态 HTML/CSS/JS 开发模式的免费 Web UI 组件库 , 它拿来即用无需构建工具 , 极易上手 , UI 简约清爽 , 深受广大后端开发者们的喜爱
+>
+> ```html
+> <!DOCTYPE html>
+> <html>
+>   <head>
+>     <meta charset="utf-8">
+>     <meta name="viewport" content="width=device-width, initial-scale=1">
+>     <title>开始使用 Layui</title>
+>     <link href="./layui/css/layui.css" rel="stylesheet">
+>   </head>
+>   <body>
+>     <!-- HTML -->
+>      
+>     <script src="./layui/layui.js"></script>
+>     <script>
+>     // 使用组件
+>     layui.use(['layer', 'form'], function(){
+>       var layer = layui.layer;
+>       var form = layui.form;
+>       
+>       // 欢迎语
+>       layer.msg('Hello World');
+>     });
+>     </script> 
+>   </body>
+> </html>
+> ```
+>
+> https://github.com/layui/layui
+
+### compress
+
+> 强大的 Go 语言压缩库
+>
+> 该项目包含了多种压缩算法 , 支持实时压缩算法 zstandard , Snappy 优化版压缩算法 S2 等 , 还可用来替代 gzip , zip , zlib 等标准库
+>
+> https://github.com/klauspost/compress
+
+### antlr4
+
+> 强大的语法分析器生成工具
+>
+> 简洁的 ANTLR 语法能够构造一个词法分析器和语法分析器 , 将一份文件生成 10 余种目标语言代码(Java/C++/Python 等) , 多用于文本解析 , 配置文件读取器 , 遗留代码转换器 , JSON 解析器等
+>
+> ```latex
+> grammar Expr;
+> prog:   (expr NEWLINE)* ;
+> expr:   expr ('*'|'/') expr
+>     |   expr ('+'|'-') expr
+>     |   INT
+>     |   '(' expr ')'
+>     ;
+> NEWLINE : [\r\n]+ ;
+> INT     : [0-9]+ ;
+> ```
+>
+> https://github.com/antlr/antlr4
+
+### Flowise
+
+> 用拖拽的方式构建大模型应用
+>
+> 该项目可以让你通过可视化 , 拖拽组件的方式自定义大模型(LLM)流程 , 轻松构建 LLM 应用 , 支持 Docker 一键启动服务
+>
+> https://github.com/FlowiseAI/Flowise
+
+### react-login-page
+
+> 漂亮的 React 登录页组件
+>
+> 用于快速构建登录页面的 React 组件 , 内含十几款封装好的界面炫酷 , 即插即用的登陆页
+>
+> https://github.com/uiwjs/react-login-page
+
+### talk
+
+> 点开即用的在线视频应用
+>
+> 这是一款基于 WebRTC 构建的 P2P 在线视频应用 , 它免费 , 无需下载和注册 , 点开即用
+>
+> https://github.com/vasanthv/talk
+
+### cudf
+
+> 支持 GPU 的数据库处理 Python 库
+>
+> 它相当于支持 GPU 的 pandas , 处理数据的速度直接起飞
+>
+> 提供了类似 pandas 的 API , 支持加载 , 合并 , 聚合 , 过滤等方式操作数据
+>
+> ```python
+> import cudf, requests
+> from io import StringIO
+> 
+> url = "https://github.com/plotly/datasets/raw/master/tips.csv"
+> content = requests.get(url).content.decode('utf-8')
+> 
+> tips_df = cudf.read_csv(StringIO(content))
+> tips_df['tip_percentage'] = tips_df['tip'] / tips_df['total_bill'] * 100
+> 
+> # display average tip by dining party size
+> print(tips_df.groupby('size').tip_percentage.mean())
+> ```
+>
+> https://github.com/rapidsai/cudf
+
+### fastapi-users
+
+> 开箱即用的 FastAPI 用户管理
+>
+> 该项目可以快速将用户注册和身份认证功能集成到 FastAPI 项目中 , 支持注册 , 登录 , 密码重置 , 邮箱验证 , OAuth2 , 自定义身份验证等功能
+>
+> https://github.com/fastapi-users/fastapi-users
+
+### dm-ticket
+
+> Rust 写的大麦网自动购票工具
+>
+> 大麦网的抢票工具 , 仅支持购买 H5 页面上的票 , 不支持选座
+>
+> https://github.com/ClassmateLin/dm-ticket
+
+### gping
+
+> ust 写的 ping 工具 , 该项目能够以折线图的方式 , 实时展示 ping 的结果 , 支持 Windows , Linux 和 macOS 操作系统
+>
+> https://github.com/orf/gping
+
+### pot-desktop
+
+> 一款跨平台的划词翻译软件
+>
+> 支持划词翻译 , 输入翻译 , 截图翻译等多种模式的翻译工具 , 适用于 Windows , macOS 和 Linux
+>
+> https://github.com/pot-app/pot-desktop
+
+### digital_video_introduction
+
+> 一份讲解视频技术的教程
+>
+> 这是一份循序渐进的视频技术教程 , 从基本概念讲到视频编码器如何工作 , 内容通俗易懂 , 图文并茂
+>
+> https://github.com/leandromoreira/digital_video_introduction
+
+### Book4_Power-of-Matrix
+
+> 《矩阵力量》
+>
+> 该书介绍了向量 , 矩阵 , 向量空间 , 矩阵分解 , 微积分 , 空间几何等知识 , 内含全彩图解和 Python 示例代码
+>
+> https://github.com/Visualize-ML/Book4_Power-of-Matrix
+
+### languagetool
+
+> 一个开源的词法校对器 , 它会自动校对你输入文字的语法以及拼写 , 能有效地检测出拼写错误 , 以及语法问题
+>
+> 如果你对日常外文书写不是很有信心 , 可以试试 LanguageTool , 支持英文 , 德语 , 西班牙语 , 法语等等 25+ 外文
+>
+> 在线体验 : https://languagetool.org/
+>
+> https://github.com/languagetool-org/languagetool
+
+### docuseal
+
+> DocuSeal 是一个开源平台 , 提供安全高效的数字文档签名和处理功能
+>
+> 你可以创建 / 编辑 PDF , 在文件上进行签名 (网络数字签名) , 并邮件到邮箱
+>
+> https://github.com/docusealco/docuseal
+
+### plane
+
+> JIRA , Linear 之类项目管理器的开源替代品 , 可以方便地跟踪 issue , 产品开发进度等等 , 特性 :
+>
+> - issue 规划和追踪 : 支持富文本 , 可快速创建 issue
+> - issue 附件 : 支持文件上传 , 作为附件附属在对应 issue 中
+> - 自定义布局
+> - 模块化 : 方便拆解大任务为小任务 , 快速推进项目开展
+> - 可与 GitHub 同步
+>
+> https://github.com/makeplane/plane
+
+### sql-mother
+
+> 免费的闯关式 SQL 自学教程网站 , 从 0 到 1 带大家掌握常用 SQL 语法 , 目前一共有 30 多个关卡 , 希望你在通关的时候 , 变身为一个 SQL 高手
+>
+> 除了闯关模式之外 , 这个项目支持自由选择关卡 , 自定义关卡 , SQL 在线练习广场等功能 , 方便自由地查漏补缺
+>
+> https://github.com/liyupi/sql-mother
+
+### sweep
+
+> 一个帮你实现代码的编码初级工 , 你在项目的 issue 区 , 描述清楚你的需求 , 无论是 bugfix 还是 feature 开发 , 你在 issue 区描述清楚之后 , 它就能帮你生成代码
+>
+> 与 Copilot 不同的是 , 它只提供基于 IDE 的自动补全功能 , Sweep 处理整个流程的始终如一
+>
+> 与 ChatGPT 不同的是 , Sweep 不需要粘贴文件
+>
+> https://github.com/sweepai/sweep
+
+### Graphite
+
+>  一个在线的图像编辑器 , 你可以用来编辑矢量图片
+>
+> 同大多数的图像编辑器一样 , 它也采用了图层模式 , 你可以在原图的基础上做出更具有艺术感的图片
+>
+> https://github.com/GraphiteEditor/Graphite
+
+### manticoresearch
+
+> 用来搜索的高效数据库搜索 , 它是一个很好的 Elasticsearch 替代品 , 它有着良好的性能 :
+>
+> - 比 MySQL 快 182x
+> - 在日志分析方面 , 比 ES 快 29x
+> - 在不同的数据量下 , 是 ES 的 4-15x
+> - 单服务器的最大吞吐量比 ES 高 2x
+>
+> https://github.com/manticoresoftware/manticoresearch
