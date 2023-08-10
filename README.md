@@ -398,6 +398,20 @@
 >
 > https://github.com/karan/Projects
 
+### :notebook: :heart: Machine Learning for Beginners - A Curriculum
+
+> ML-For-Beginners 是微软开源的机器学习课程 , 你可在 12 周上完他们安排的 24 节机器学习相关课程
+>
+> https://github.com/microsoft/ML-For-Beginners
+
+### :notebook: explainshell
+
+> 一个用于解析 Linux 命令的网站 , 使用 Python 作为开发语言 , 好家伙语言越来越多了
+>
+> 输入命令就能解析出对应的命令说明和参数解释 , 属于比较新颖的 Web 项目
+>
+> https://github.com/idank/explainshell
+
 -----------------------------
 
 ## Finish reading
@@ -978,6 +992,44 @@
 >
 > https://github.com/be5invis/Sarasa-Gothic
 
+### :star: JimuReport
+
+> jeecg 团队的积木报表源码 , 一款免费的数据可视化工具 , 功能可以在线使用 , 但是有的源码是没有的
+>
+> https://github.com/jeecgboot/JimuReport
+
+### :computer: :star: 小说精品屋-plus (Novel-plus)
+
+> 基于小说精品屋-plus构建的Spring Cloud 微服务小说门户平台 , 是一个不错的 Java 项目
+>
+> 说精品屋-plus是在**小说精品屋**的基础上 , 去除了漫画和弹幕模块 , 专注于小说 , 是一个多端 ( PC , WAP ) 阅读 , 功能完善的原创文学CMS系统 , 由前台门户系统 , 作家后台管理系统 , 平台后台管理系统 , 爬虫管理系统等多个子系统构成 , 支持会员充值 , 订阅模式 , 新闻发布和实时统计报表等功能
+>
+> https://github.com/201206030/novel-plus
+>
+> 相关的老项目地址在这里 https://github.com/201206030/fiction_house
+
+### File Browser
+
+> 在线文件管理系统 , 用 Go 语言编写的开源项目
+>
+> 安装成功后直接指定目录即可运行起来一个 Web 文件管理系统 , 支持文件浏览 , 生成分享链接 , 批量上传 , 文件夹管理 , 用户系统等功能
+>
+> https://github.com/filebrowser/filebrowser
+
+### :star: :heart: eul
+
+> 一款极简免费的 macOS 状态监控工具
+>
+> 使用 SwiftUI 编写 , 先体验它的好 , 再剖析它的妙
+>
+> https://github.com/gao-sun/eul
+
+### :star: TrafficMonitor
+
+> 一款用于Windows平台的网速监控悬浮窗软件 , 可以显示当前网速 , CPU及内存利用率 , 支持嵌入到任务栏显示 , 支持更换皮肤 , 历史流量统计等功能
+>
+> https://github.com/zhongyang219/TrafficMonitor
+
 -----------------------
 
 ## Programming Using (Web)
@@ -1411,6 +1463,66 @@
 >
 > https://github.com/upgundecha/howtheysre
 
+### :computer: :star: homeland
+
+> 一款开源不限制商用的精致社区/论坛系统 , 开发语言为 Ruby , 由 Ruby China 社区各位大佬们创建的
+>
+> https://github.com/ruby-china/homeland
+
+### :computer: :star: HumHub
+
+> 在线开源的社交平台 , 开发语言为 PHP , 真的是厉害
+>
+> 这个项目基于 Yii 2 框架实现 , 包含了社交平台所需的基本功能而且运行简单 , 跑起来后来个二次开发 , 搞一个有特色的社交平台
+>
+> https://github.com/humhub/humhub
+
+### :star2: :computer: Wiki.js
+
+> 强大且漂亮的开源维基平台 , 它的图标 LOGO 是真的好看 , I了I了
+>
+> 项目采用 Vue.js+Node.js+Git 实现 , 可直接部署用于团队内部多人协作下的写作和知识管理
+>
+> **想要做全栈的小伙伴 , 快拿下这个项目吧** 
+>
+> https://github.com/Requarks/wiki
+
+### :notebook: :computer: Halo
+
+> 一款现代化的个人独立博客系统 , 给习惯写博客的同学多一个选择
+>
+> 项目配有相应的开发文档和部署文档 , 而且有相关的项目端 , 是个不错的部署练手内容
+>
+> https://github.com/halo-dev/halo
+
+### :notebook: :computer: vueblog
+
+>一个基于SpringBoot + Vue开发的前后端分离博客项目 , 带有超级详细开发文档和讲解视频
+>
+>十分适合正在学习 JS 和 Vue , 但是还未接触过vue开发 , 或者前后端分离的同学
+>
+>https://github.com/MarkerHub/vueblog
+
+### :notebook: :computer: N-blog
+
+> 使用 Express + MongoDB 搭建多人博客
+>
+> https://github.com/nswbmw/N-blog
+
+### :notebook: :computer: Typecho
+
+> 用 PHP 编写的博客平台 , 简单且强力的一款博客
+>
+> https://github.com/typecho/typecho
+
+### :notebook: :computer: HelloDjango
+
+> **完全免费 , 开源的 HelloDjango 系列教程之博客开发**
+>
+> 是一个文档十分详细的 Python 编写的博客系统 , 很适合作为 Python 项目入手
+>
+> https://github.com/HelloGitHub-Team/HelloDjango-blog-tutorial
+
 ------------------------
 
 ## GameTools&Mods
@@ -1523,73 +1635,7 @@
 >
 > https://github.com/lettier/3d-game-shaders-for-beginners
 
------------------
-
-## Not sorted yet
-
-### Machine Learning for Beginners - A Curriculum
-
-> ML-For-Beginners 是微软开源的机器学习课程 , 你可在 12 周上完他们安排的 24 节机器学习相关课程
->
-> https://github.com/microsoft/ML-For-Beginners
-
-### JimuReport
-
-> jeecg 团队的积木报表源码 , 一款免费的数据可视化工具 , 功能可以在线使用 , 但是有的源码是没有的
->
-> https://github.com/jeecgboot/JimuReport
-
-### 小说精品屋-plus (Novel-plus)
-
-> 基于小说精品屋-plus构建的Spring Cloud 微服务小说门户平台 , 是一个不错的 Java 项目
->
-> 说精品屋-plus是在**小说精品屋**的基础上 , 去除了漫画和弹幕模块 , 专注于小说 , 是一个多端 ( PC , WAP ) 阅读 , 功能完善的原创文学CMS系统 , 由前台门户系统 , 作家后台管理系统 , 平台后台管理系统 , 爬虫管理系统等多个子系统构成 , 支持会员充值 , 订阅模式 , 新闻发布和实时统计报表等功能
->
-> https://github.com/201206030/novel-plus
->
-> 相关的老项目地址在这里 https://github.com/201206030/fiction_house
-
-### homeland
-
-> 一款开源不限制商用的精致社区/论坛系统 , 开发语言为 Ruby , 由 Ruby China 社区各位大佬们创建的
->
-> https://github.com/ruby-china/homeland
-
-### File Browser
-
-> 在线文件管理系统 , 用 Go 语言编写的开源项目
->
-> 安装成功后直接指定目录即可运行起来一个 Web 文件管理系统 , 支持文件浏览 , 生成分享链接 , 批量上传 , 文件夹管理 , 用户系统等功能
->
-> https://github.com/filebrowser/filebrowser
-
-### HumHub
-
-> 在线开源的社交平台 , 开发语言为 PHP , 真的是厉害
->
-> 这个项目基于 Yii 2 框架实现 , 包含了社交平台所需的基本功能而且运行简单 , 跑起来后来个二次开发 , 搞一个有特色的社交平台
->
-> https://github.com/humhub/humhub
-
-### Wiki.js
-
-> 强大且漂亮的开源维基平台 , 它的图标 LOGO 是真的好看 , I了I了
->
-> 项目采用 Vue.js+Node.js+Git 实现 , 可直接部署用于团队内部多人协作下的写作和知识管理
->
-> **想要做全栈的小伙伴 , 快拿下这个项目吧** 
->
-> https://github.com/Requarks/wiki
-
-### explainshell
-
-> 一个用于解析 Linux 命令的网站 , 使用 Python 作为开发语言 , 好家伙语言越来越多了
->
-> 输入命令就能解析出对应的命令说明和参数解释 , 属于比较新颖的 Web 项目
->
-> https://github.com/idank/explainshell
-
-### DungeonRush
+### :video_game: DungeonRush
 
 > 虽然直译过来叫地牢奔跑 , 但是实际上是一个不一样的单机贪吃蛇游戏
 >
@@ -1599,7 +1645,7 @@
 >
 > https://github.com/Rapiz1/DungeonRush
 
-### ChineseChess
+### :video_game: :notebook: ChineseChess
 
 > 基于 Qt5 开发的中国象棋网络对战平台 , 项目是用 C++ 编写的
 >
@@ -1607,55 +1653,9 @@
 >
 > https://github.com/xmuli/chinessChess
 
-### eul
+-----------------
 
-> 一款极简免费的 macOS 状态监控工具
->
-> 使用 SwiftUI 编写 , 先体验它的好 , 再剖析它的妙
->
-> https://github.com/gao-sun/eul
-
-### Halo
-
-> 一款现代化的个人独立博客系统 , 给习惯写博客的同学多一个选择
->
-> 项目配有相应的开发文档和部署文档 , 而且有相关的项目端 , 是个不错的部署练手内容
->
-> https://github.com/halo-dev/halo
-
-### vueblog
-
->一个基于SpringBoot + Vue开发的前后端分离博客项目 , 带有超级详细开发文档和讲解视频
->
->十分适合正在学习 JS 和 Vue , 但是还未接触过vue开发 , 或者前后端分离的同学
->
->https://github.com/MarkerHub/vueblog
-
-### N-blog
-
-> 使用 Express + MongoDB 搭建多人博客
->
-> https://github.com/nswbmw/N-blog
-
-### Typecho
-
-> 用 PHP 编写的博客平台 , 简单且强力的一款博客
->
-> https://github.com/typecho/typecho
-
-### HelloDjango
-
-> **完全免费 , 开源的 HelloDjango 系列教程之博客开发**
->
-> 是一个文档十分详细的 Python 编写的博客系统 , 很适合作为 Python 项目入手
->
-> https://github.com/HelloGitHub-Team/HelloDjango-blog-tutorial
-
-### TrafficMonitor
-
-> 一款用于Windows平台的网速监控悬浮窗软件 , 可以显示当前网速 , CPU及内存利用率 , 支持嵌入到任务栏显示 , 支持更换皮肤 , 历史流量统计等功能
->
-> https://github.com/zhongyang219/TrafficMonitor
+## Not sorted yet
 
 ### MoChat
 
