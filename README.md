@@ -390,6 +390,14 @@
 >
 > https://github.com/krahets/hello-algo
 
+### :notebook: :key: Mega Project List
+
+> Projects 是一个老项目 , 但是个好项目 , 它收录了大量编程实践 , 你可以学习之后将它们应用于你的业务中
+>
+> 对于这些题目的解决方案 , 可以参照这个项目 [Projects-Solutions](https://github.com/karan/Projects-Solutions)
+>
+> https://github.com/karan/Projects
+
 -----------------------------
 
 ## Finish reading
@@ -916,6 +924,60 @@
 >
 > https://github.com/files-community/Files
 
+### :star: Work Adventure
+
+> Work Adventure 以 16 位 RPG 电子游戏的形式呈现的协作 Web 应用程序 ( 虚拟办公室 ) 
+>
+> 在 Work Adventure 中 , 你可以在办公室里四处走动 , 与同事聊天 ( 使用视频聊天功能 , 当你走到一位同事旁边时就会触发视频聊天功能 ) 
+>
+> https://github.com/thecodingmachine/workadventure
+
+### :notebook: faceai
+
+> faceai 是一款优秀入门级 AI 项目以及教程 , 内容涵盖 : 人脸 , 视频 , 文字的检测和识别
+>
+> 他不仅包含最基本的人脸检测 , 识别 ( 图片 , 视频 )  , 轮廓标识 , 头像合成 ( 给人戴帽子 )  , 还有表情识别 ( 生气 , 厌恶 , 恐惧等 )  , 视频对象提取 , 图片修复 ( 可用于水印去除 )  , 图片自动上色等等
+>
+> 推荐这个开源项目不是因为它的内容强大 , 而是它的教程写的实在太好了
+>
+> 手把手教你如何使用这个项目 , 做出上述功能来 , 在每篇功能文章的教程里 , 不仅仅写了每个功能的技术实现方案 , 还有具体重点关键代码的注释和解释以及具体实现 , 让你非常轻松的能够看懂 , 学习和使用
+>
+> 对于想要入门或者了解机器学习的初学者不能再友好了
+>
+> https://github.com/vipstone/faceai
+
+### :computer: :star: showdoc
+
+> showdoc 是一款基于 JavaScript 实现的开源在线文档工具
+>
+> 支持 :  
+>
+> 多端编辑查看 , 权限管理 , 文档导出 , Markdown 语法等 , 功能虽不多但已足够用了
+>
+> 推荐自建自用 , 小团队内部使用
+>
+> https://github.com/star7th/showdoc
+
+### :heart: My  wonderful world of macOS
+
+> my-mac-os 项目罗列了作者自用 , 收集的 macOS 上实用 , 炫酷的软件
+>
+> https://github.com/nikitavoloboev/my-mac-os
+
+### duf
+
+> 一款查看磁盘空间情况的命令行工具 , 足以代替 df 命令
+>
+> 上手简单使用方便 , 界面简洁且友好同时支持 Linux , macOS 和 Windows
+>
+> https://github.com/muesli/duf
+
+### :star2: :heart: Sarasa Gothic
+
+> 更纱黑体 , 一个用于编程的字体 , 在控制台和代码区域显示很不错
+>
+> https://github.com/be5invis/Sarasa-Gothic
+
 -----------------------
 
 ## Programming Using (Web)
@@ -1267,6 +1329,88 @@
 >
 > https://github.com/hexops/dockerfile
 
+### :star: :computer: Demo - Figma - Twitter
+
+> 开源图标 UI 库
+>
+> 支持 CSS , SVG , Figma , NPM 等
+>
+> https://github.com/astrit/css.gg
+
+### :computer: :heart: stylus-shortcut
+
+> 基于 stylus 实现的快速编写 CSS 样式的库
+>
+> https://github.com/kwokronny/stylus-shortcut
+
+### :heart: :star: pattern.css
+
+> 用漂亮的图形填充背景的 CSS 库 , 免去了下载 pattern 的烦恼
+>
+> 我原先下载 pattern 是在这个网站 :  https://www.toptal.com/designers/subtlepatterns/
+>
+> https://github.com/bansal-io/pattern.css
+
+### :computer: vue-manage-system
+
+> 基于Vue.js + Element UI 的后台管理系统解决方案
+>
+> https://github.com/xzfxz/vue-manager-system
+
+### :computer: renren-fast
+
+> renren-fast是一个轻量级的Java快速开发平台 , 能快速开发项目并交付【接私活利器】
+>
+> https://github.com/zhaoqicheng/renren-fast
+>
+> 这个项目的 GitHub 维护比较少 , 可以在 gitee 上面看
+>
+> https://gitee.com/renrenio/renren-fast
+
+### :computer: renren-fast-vue
+
+> renren-fast-vue基于vue , element-ui构建开发 , 实现 [renren-fast](https://gitee.com/renrenio/renren-fast) 后台管理前端功能 , 提供一套更优的前端解决方案 , 其实就是 renren-fast 的前后端分离版本
+>
+> https://github.com/renrenio/renren-fast-vue
+
+### :star: :computer: iTerm Color Schemes
+
+> 全网最全配色方案 , 可用于多种终端内 , 比如 Windows terminal
+>
+> https://github.com/mbadolato/iTerm2-Color-Schemes
+
+### :star: :computer: oh-my-posh
+
+> WIndows Terminal PowerShell 的终极解决方案 , 能让命令行更加漂亮的主题设置
+>
+> https://github.com/JanDeDobbeleer/oh-my-posh
+>
+> 相关的主题可以在这里看到
+>
+> https://github.com/JanDeDobbeleer/oh-my-posh/tree/main/themes
+>
+> 期间遇到很多问题 , 参照了这个帖子完成了设置
+>
+> https://blog.csdn.net/weixin_44490152/article/details/113854767
+
+### :computer: iView
+
+> 基于 vue.js 2.0 的又一个 UI 框架 , 编码风格就是典型的 vue 风格 , 内容还是挺丰富的 , 只不过有付费版本
+>
+> https://github.com/iview/iview
+
+### :notebook: Devops Exercises
+
+> Devops-exercises 收录了大量运维 , SRE 人员需要掌握的知识 , 包括 Linux , Jenkins , AWS , Prometheus , Docker , Python , K8s 在内的 20 多个技术领域的练习
+>
+> https://github.com/bregman-arie/devops-exercises
+
+### :notebook: How they SRE
+
+> howtheysre 记录了国内外各地的技术团队 , 组织是如何实践站点可靠性工程 ( SRE , 全称 Site Reliability Engineering ), 这些团队包括 Atlassian , 百度 , Google , Netflix 在内的 50+ 公司
+>
+> https://github.com/upgundecha/howtheysre
+
 ------------------------
 
 ## GameTools&Mods
@@ -1367,7 +1511,7 @@
 >
 > https://github.com/DirtDiglett/Pressure-for-Steam
 
-### DouZero
+### :video_game: DouZero
 
 > 开源斗地主,和 AI 打斗地主让你再也不想斗地主
 >
@@ -1382,156 +1526,6 @@
 -----------------
 
 ## Not sorted yet
-
-### Mega Project List
-
-> Projects 是一个老项目 , 但是个好项目 , 它收录了大量编程实践 , 你可以学习之后将它们应用于你的业务中
->
-> https://github.com/karan/Projects
-
-### Work Adventure
-
-> Work Adventure 以 16 位 RPG 电子游戏的形式呈现的协作 Web 应用程序 ( 虚拟办公室 ) 
->
-> 在 Work Adventure 中 , 你可以在办公室里四处走动 , 与同事聊天 ( 使用视频聊天功能 , 当你走到一位同事旁边时就会触发视频聊天功能 ) 
->
-> https://github.com/thecodingmachine/workadventure
-
-### miaosha
-
-> miaosha 是一款秒杀系统设计与实现
->
-> 高并发大流量的秒杀是面试常见问题 , 该项目不仅有具体问题的解决思路 , 还有具体代码实现和示例 demo
->
-> https://github.com/qiurunze123/miaosha
-
-### faceai
-
-> faceai 是一款优秀入门级 AI 项目以及教程 , 内容涵盖 : 人脸 , 视频 , 文字的检测和识别
->
-> 他不仅包含最基本的人脸检测 , 识别 ( 图片 , 视频 )  , 轮廓标识 , 头像合成 ( 给人戴帽子 )  , 还有表情识别 ( 生气 , 厌恶 , 恐惧等 )  , 视频对象提取 , 图片修复 ( 可用于水印去除 )  , 图片自动上色等等
->
-> 推荐这个开源项目不是因为它的内容强大 , 而是它的教程写的实在太好了
->
-> 手把手教你如何使用这个项目 , 做出上述功能来 , 在每篇功能文章的教程里 , 不仅仅写了每个功能的技术实现方案 , 还有具体重点关键代码的注释和解释以及具体实现 , 让你非常轻松的能够看懂 , 学习和使用
->
-> 对于想要入门或者了解机器学习的初学者不能再友好了
->
-> https://github.com/vipstone/faceai
-
-### showdoc
-
-> showdoc 是一款基于 JavaScript 实现的开源在线文档工具
->
-> 支持 :  
->
-> 多端编辑查看 , 权限管理 , 文档导出 , Markdown 语法等 , 功能虽不多但已足够用了
->
-> 推荐自建自用 , 小团队内部使用
->
-> https://github.com/star7th/showdoc
-
-### My  wonderful world of macOS
-
-> my-mac-os 项目罗列了作者自用 , 收集的 macOS 上实用 , 炫酷的软件
->
-> https://github.com/nikitavoloboev/my-mac-os
-
-### Demo - Figma - Twitter
-
-> 开源图标 UI 库
->
-> 支持 CSS , SVG , Figma , NPM 等
->
-> https://github.com/astrit/css.gg
-
-### stylus-shortcut
-
-> 基于 stylus 实现的快速编写 CSS 样式的库
->
-> https://github.com/kwokronny/stylus-shortcut
-
-### pattern.css
-
-> 用漂亮的图形填充背景的 CSS 库 , 免去了下载 pattern 的烦恼
->
-> 我原先下载 pattern 是在这个网站 :  https://www.toptal.com/designers/subtlepatterns/
->
-> https://github.com/bansal-io/pattern.css
-
-### duf
-
-> 一款查看磁盘空间情况的命令行工具 , 足以代替 df 命令
->
-> 上手简单使用方便 , 界面简洁且友好同时支持 Linux , macOS 和 Windows
->
-> https://github.com/muesli/duf
-
-### vue-manage-system
-
-> 基于Vue.js + Element UI 的后台管理系统解决方案
->
-> https://github.com/xzfxz/vue-manager-system
-
-### renren-fast
-
-> renren-fast是一个轻量级的Java快速开发平台 , 能快速开发项目并交付【接私活利器】
->
-> https://github.com/zhaoqicheng/renren-fast
->
-> 这个项目的 GitHub 维护比较少 , 可以在 gitee 上面看
->
-> https://gitee.com/renrenio/renren-fast
-
-### renren-fast-vue
-
-> renren-fast-vue基于vue , element-ui构建开发 , 实现 [renren-fast](https://gitee.com/renrenio/renren-fast) 后台管理前端功能 , 提供一套更优的前端解决方案 , 其实就是 renren-fast 的前后端分离版本
->
-> https://github.com/renrenio/renren-fast-vue
-
-### Sarasa Gothic
-
-> 更纱黑体 , 一个用于编程的字体 , 在控制台和代码区域显示很不错
->
-> https://github.com/be5invis/Sarasa-Gothic
-
-### iTerm Color Schemes
-
-> 全网最全配色方案 , 可用于多种终端内 , 比如 Windows terminal
->
-> https://github.com/mbadolato/iTerm2-Color-Schemes
-
-### oh-my-posh
-
-> WIndows Terminal PowerShell 的终极解决方案 , 能让命令行更加漂亮的主题设置
->
-> https://github.com/JanDeDobbeleer/oh-my-posh
->
-> 相关的主题可以在这里看到
->
-> https://github.com/JanDeDobbeleer/oh-my-posh/tree/main/themes
->
-> 期间遇到很多问题 , 参照了这个帖子完成了设置
->
-> https://blog.csdn.net/weixin_44490152/article/details/113854767
-
-### iView
-
-> 基于 vue.js 2.0 的又一个 UI 框架 , 编码风格就是典型的 vue 风格 , 内容还是挺丰富的 , 只不过有付费版本
->
-> https://github.com/iview/iview
-
-### Devops Exercises
-
-> Devops-exercises 收录了大量运维 , SRE 人员需要掌握的知识 , 包括 Linux , Jenkins , AWS , Prometheus , Docker , Python , K8s 在内的 20 多个技术领域的练习
->
-> https://github.com/bregman-arie/devops-exercises
-
-### How they SRE
-
-> howtheysre 记录了国内外各地的技术团队 , 组织是如何实践站点可靠性工程 ( SRE , 全称 Site Reliability Engineering ), 这些团队包括 Atlassian , 百度 , Google , Netflix 在内的 50+ 公司
->
-> https://github.com/upgundecha/howtheysre
 
 ### Machine Learning for Beginners - A Curriculum
 
