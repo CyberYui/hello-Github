@@ -412,6 +412,36 @@
 >
 > https://github.com/idank/explainshell
 
+### :notebook: :star: Learn Regex
+
+> 学习正则表达式的项目 , 配有中文版 , 虽然不是很完整但是作为学习很不错
+>
+> https://github.com/ziishaned/learn-regex
+
+### :notebook: :star: Psyduck
+
+> Psyduck 是一个使用 XMind 记录 Linux 操作系统 , 网络 , C++ , Golang 以及数据库的一些设计的项目
+>
+> 项目作者之前也曾用 XMind 脑图来记录 CS 基础问题
+>
+> 面对一个大问题 , 学会将其分解成一个一个的小问题 , 然后逐一地处理 , 不失为一个好方法
+>
+> https://github.com/SmartKeyerror/Psyduck
+
+### :heart: :notebook: 50 Projects in 50 Days
+
+> 50projects50days 是一个面向前端新手同学的项目 , 它用 50 个涵盖 CSS , HTML , Javascript 相关的练手项目让你在实践中掌握前端技能点
+>
+> https://github.com/bradtraversy/50projects50days
+
+### :heart: :notebook: IoT for Beginners - A Curriculum
+
+> IoT-For-Beginners 是微软开源的同其他系列类似的 12 周 24 堂课程的教程
+>
+> 带你入门 IoT 开发
+>
+> https://github.com/microsoft/IoT-For-Beginners
+
 -----------------------------
 
 ## Finish reading
@@ -1030,6 +1060,44 @@
 >
 > https://github.com/zhongyang219/TrafficMonitor
 
+### :star: MoChat
+
+> 一套通用的企业微信管理系统 , 是一个开源的企业微信应用开发框架&引擎
+>
+> https://github.com/mochat-cloud/mochat
+
+### :star: :heart: Fakeflix
+
+> 如果你想要使用 Redux 构建一个中等复杂度的 Web 应用 , 不妨试试 Fakeflix , 项目作者拿它练手 , 复制了 Netflix 的原有布局 , 并在此基础之上添加了自己的路由和交互动效
+>
+> 所以 Fakeflix 不是传统意义上的复制项目
+>
+> https://github.com/Th3Wall/Fakeflix
+
+### transfer.sh
+
+> Transfer.sh 是一个命令行文件共享工具 , 支持上传下载 , 加密传输
+>
+> 目前支持 Amazon s3 , Google Driver , Storj 和本地存储等方式
+>
+> https://github.com/dutchcoders/transfer.sh
+
+### :star: Security Scorecards
+
+> Security Scorecards 是正如字面上所说 , 是一个安全健康度检测项目 , 它会根据开源项目近 90 天是否有 commit 来判断项目是否活跃 , 以及项目是否使用工具来自动更新项目依赖版本 , 项目是否有 CI 流程 , 令牌是否有授权等等 18 个方面 , 来判断项目的“安全”健康度
+>
+> 有了这个项目也不用担心自己的项目用到的开源项“年久失修”了
+>
+> https://github.com/ossf/scorecard
+
+### :notebook: mimikatz
+
+> Mimikatz 是个作者用来练习 C 语言的一个项目 , 它主要针对 Windows 安全问题 , 如作者所说它可以从内存中提取明文密码 , 哈希 , PIN 码和 kerberos 凭据 ( ticket )
+>
+> 此外它还能做哈希传递 , 凭据传递或构建黄金凭证
+>
+> https://github.com/gentilkiwi/mimikatz
+
 -----------------------
 
 ## Programming Using (Web)
@@ -1523,6 +1591,12 @@
 >
 > https://github.com/HelloGitHub-Team/HelloDjango-blog-tutorial
 
+### :heart: :computer: Awesome-bookmarks
+
+> 推荐用的书签库 , 在这里没事可以随便康康
+>
+> https://github.com/PanJiaChen/awesome-bookmarks
+
 ------------------------
 
 ## GameTools&Mods
@@ -1657,79 +1731,11 @@
 
 ## Not sorted yet
 
-### MoChat
+> 
 
-> 一套通用的企业微信管理系统 , 是一个开源的企业微信应用开发框架&引擎
->
-> https://github.com/mochat-cloud/mochat
+> 
 
-### Awesome-bookmarks
-
-> 推荐用的书签库 , 在这里没事可以随便康康
->
-> https://github.com/PanJiaChen/awesome-bookmarks
-
-### Learn Regex
-
-> 学习正则表达式的项目 , 配有中文版 , 虽然不是很完整但是作为学习很不错
->
-> https://github.com/ziishaned/learn-regex
-
-### Fakeflix
-
-> 如果你想要使用 Redux 构建一个中等复杂度的 Web 应用 , 不妨试试 Fakeflix , 项目作者拿它练手 , 复制了 Netflix 的原有布局 , 并在此基础之上添加了自己的路由和交互动效
->
-> 所以 Fakeflix 不是传统意义上的复制项目
->
-> https://github.com/Th3Wall/Fakeflix
-
-### Psyduck
-
-> Psyduck 是一个使用 XMind 记录 Linux 操作系统 , 网络 , C++ , Golang 以及数据库的一些设计的项目
->
-> 项目作者之前也曾用 XMind 脑图来记录 CS 基础问题
->
-> 面对一个大问题 , 学会将其分解成一个一个的小问题 , 然后逐一地处理 , 不失为一个好方法
->
-> https://github.com/SmartKeyerror/Psyduck
-
-### 50 Projects in 50 Days
-
-> 50projects50days 是一个面向前端新手同学的项目 , 它用 50 个涵盖 CSS , HTML , Javascript 相关的练手项目让你在实践中掌握前端技能点
->
-> https://github.com/bradtraversy/50projects50days
-
-### transfer.sh
-
-> Transfer.sh 是一个命令行文件共享工具 , 支持上传下载 , 加密传输
->
-> 目前支持 Amazon s3 , Google Driver , Storj 和本地存储等方式
->
-> https://github.com/dutchcoders/transfer.sh
-
-### Security Scorecards
-
-> Security Scorecards 是正如字面上所说 , 是一个安全健康度检测项目 , 它会根据开源项目近 90 天是否有 commit 来判断项目是否活跃 , 以及项目是否使用工具来自动更新项目依赖版本 , 项目是否有 CI 流程 , 令牌是否有授权等等 18 个方面 , 来判断项目的“安全”健康度
->
-> 有了这个项目也不用担心自己的项目用到的开源项“年久失修”了
->
-> https://github.com/ossf/scorecard
-
-### mimikatz
-
-> Mimikatz 是个作者用来练习 C 语言的一个项目 , 它主要针对 Windows 安全问题 , 如作者所说它可以从内存中提取明文密码 , 哈希 , PIN 码和 kerberos 凭据 ( ticket )
->
-> 此外它还能做哈希传递 , 凭据传递或构建黄金凭证
->
-> https://github.com/gentilkiwi/mimikatz
-
-### IoT for Beginners - A Curriculum
-
-> IoT-For-Beginners 是微软开源的同其他系列类似的 12 周 24 堂课程的教程
->
-> 带你入门 IoT 开发
->
-> https://github.com/microsoft/IoT-For-Beginners
+> 
 
 ### SigNoz
 
