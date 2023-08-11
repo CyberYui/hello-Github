@@ -442,6 +442,20 @@
 >
 > https://github.com/microsoft/IoT-For-Beginners
 
+### :notebook: :heart: Devops-Exercises
+
+> Devops-exercises 收录了大量运维 , SRE 人员需要掌握的知识 , 包括 Linux , Jenkins , AWS , Prometheus , Docker , Python , K8s 在内的 20 多个技术领域的练习
+>
+> https://github.com/bregman-arie/devops-exercises
+
+### :notebook: :heart: ToastFish
+
+> 这是一个利用Windows通知栏背单词的软件
+>
+> 可以让你在上班 , 上课等恶劣环境下安全隐蔽的背单词
+>
+> https://github.com/Uahh/ToastFish
+
 -----------------------------
 
 ## Finish reading
@@ -1098,6 +1112,48 @@
 >
 > https://github.com/gentilkiwi/mimikatz
 
+### SigNoz
+
+> SigNoz 可帮助开发人员监控应用以及排除故障问题 , 是 DataDog , NewRelic 等产品的开源替代品 , 特性 : 
+>
+> - 支持应用 metric 指标 , 例如 : P50 , P90 , P99 延迟和错误率 
+> - 应用中最慢的端点 
+> - 精准的请求跟踪 
+> - 根据服务名称 , 延迟 , 错误 , 注释进行筛选 
+> - 统一指标和跟踪 , 你无需在 Prometheus 和 Jaeger 间切换来定位问题
+>
+> https://github.com/SigNoz/signoz
+
+### :star: seafile
+
+> Seafile 是一款优秀的开源企业云盘软件 , 拥有文件版本管理 , 跨平台文件同步和共享等功能 , 可以方便自建一个私有的云存储服务
+>
+> https://github.com/haiwen/seafile
+
+### :heart: :computer: Awesome Mac
+
+> Awesome Mac 收集各种类别非常好用的 Mac 应用程序 , 软件以及工具 , 包括开发者工具 , 设计和产品 , 虚拟机 , 通信 , 数据恢复 , 音视频 , 书签阅读等等 20 多个分类 , 并加上了是否开源 , 是否可在 App Store 下载 , 是否免费等图标
+>
+> https://github.com/jaywcjlove/awesome-mac
+
+### :star2: LXGW WenKai
+
+> 一款基于 FONTWORKS 的 Klee One 的开源中文字体
+>
+> https://github.com/lxgw/LxgwWenKai
+
+### :star: :computer: VisualCppRedist AIO
+
+> 微软运行库安装包发行目录 , 可以每过一段时间就来看一下
+>
+> https://github.com/abbodi1406/vcredist
+
+### :star: Xshell-ColorScheme
+
+> Xshell 的配色方案 , 可以自行下载并导入到 xshell 中 , 在 XShell 中点击 <kbd>工具→配色方案</kbd> 可以看到导入导出选项
+>
+> https://github.com/netsarang/Xshell-ColorScheme
+
 -----------------------
 
 ## Programming Using (Web)
@@ -1597,6 +1653,44 @@
 >
 > https://github.com/PanJiaChen/awesome-bookmarks
 
+### :star: :computer: Julia
+
+> Julia 是一个新的高性能动态高级编程语言 , 它是为了整合各种语言的优点而设定的 , 比 Python 更加快速
+>
+> 语法和其他编程语言类似 , 易于其他语言用户学习 , 顶尖的程序员通常使用 Julia , Go 和 Rust
+>
+> Julia 是一门开源的编程语言 , 它擅长数学和技术任务 , 而 Go 则擅长模块化程序 , Rust 是系统编程的首选 , Julia 也有 Python 无法比拟的优点
+>
+> https://github.com/JuliaLang/julia
+
+### :star: Vegeta
+
+> 一款用 Go 语言编写的多功能 HTTP(S) 压测工具
+>
+> 安装方便 , 功能齐全 , 使用简单 , 还可作为命令行工具或者开发库进行使用
+>
+> 它不仅提供了常见的压测功能 , 还支持格式化结果并输出为图表或动态显示当前结果
+>
+> https://github.com/tsenart/vegeta
+
+### :heart: ONLYOFFICE
+
+> 一个开源的 office 在线查看和编辑工具 , 配有相关的各种文档 , 我收藏的是 docker 的文档
+>
+> https://github.com/ONLYOFFICE
+
+### :heart: :computer: Nushell
+
+> 基于Rust编写的高效命令行工具 , 创建具有现代感的灵活的跨平台Shell
+>
+> https://github.com/nushell/nushell
+
+### Erda
+
+> Erda 是一款基于多云架构的一站式企业数字化平台 , 为企业提供 DevOps , 微服务治理 , 多云管理以及快数据管理等云厂商无绑定的 IT 服务
+>
+> https://github.com/erda-project/erda
+
 ------------------------
 
 ## GameTools&Mods
@@ -1727,145 +1821,23 @@
 >
 > https://github.com/xmuli/chinessChess
 
------------------
-
-## Not sorted yet
-
-> 
-
-> 
-
-> 
-
-### SigNoz
-
-> SigNoz 可帮助开发人员监控应用以及排除故障问题 , 是 DataDog , NewRelic 等产品的开源替代品 , 特性 : 
->
-> - 支持应用 metric 指标 , 例如 : P50 , P90 , P99 延迟和错误率 
-> - 应用中最慢的端点 
-> - 精准的请求跟踪 
-> - 根据服务名称 , 延迟 , 错误 , 注释进行筛选 
-> - 统一指标和跟踪 , 你无需在 Prometheus 和 Jaeger 间切换来定位问题
->
-> https://github.com/SigNoz/signoz
-
-### How they SRE
-
-> howtheysre 记录了国内外各地的技术团队 , 组织是如何实践站点可靠性工程 ( SRE , 全称 Site Reliability Engineering), 这些团队包括 Atlassian , 百度 , Google , Netflix 在内的 50+ 公司
->
-> https://github.com/upgundecha/howtheysre
-
-### Devops-Exercises
-
-> Devops-exercises 收录了大量运维 , SRE 人员需要掌握的知识 , 包括 Linux , Jenkins , AWS , Prometheus , Docker , Python , K8s 在内的 20 多个技术领域的练习
->
-> https://github.com/bregman-arie/devops-exercises
-
-### seafile
-
-> Seafile 是一款优秀的开源企业云盘软件 , 拥有文件版本管理 , 跨平台文件同步和共享等功能 , 可以方便自建一个私有的云存储服务
->
-> https://github.com/haiwen/seafile
-
-Julia
-
-> Julia 是一个新的高性能动态高级编程语言 , 它是为了整合各种语言的优点而设定的 , 比 Python 更加快速
->
-> 语法和其他编程语言类似 , 易于其他语言用户学习 , 顶尖的程序员通常使用 Julia , Go 和 Rust
->
-> Julia 是一门开源的编程语言 , 它擅长数学和技术任务 , 而 Go 则擅长模块化程序 , Rust 是系统编程的首选 , Julia 也有 Python 无法比拟的优点
->
-> https://github.com/JuliaLang/julia
-
-### Awesome Mac
-
-> Awesome Mac 收集各种类别非常好用的 Mac 应用程序 , 软件以及工具 , 包括开发者工具 , 设计和产品 , 虚拟机 , 通信 , 数据恢复 , 音视频 , 书签阅读等等 20 多个分类 , 并加上了是否开源 , 是否可在 App Store 下载 , 是否免费等图标
->
-> https://github.com/jaywcjlove/awesome-mac
-
-### LXGW WenKai
-
-> 一款基于 FONTWORKS 的 Klee One 的开源中文字体
->
-> https://github.com/lxgw/LxgwWenKai
-
-### DesktopNaotu
-
-> 百度脑图的本地化版本 , 即使没有互联网也能使用它
->
-> https://github.com/NaoTu/DesktopNaotu
-
-### Vegeta
-
-> 一款用 Go 语言编写的多功能 HTTP(S) 压测工具
->
-> 安装方便 , 功能齐全 , 使用简单 , 还可作为命令行工具或者开发库进行使用
->
-> 它不仅提供了常见的压测功能 , 还支持格式化结果并输出为图表或动态显示当前结果
->
-> https://github.com/tsenart/vegeta
-
-### VisualCppRedist AIO
-
-> 微软运行库安装包发行目录 , 可以每过一段时间就来看一下
->
-> https://github.com/abbodi1406/vcredist
-
-### Xshell-ColorScheme
-
-> Xshell 的配色方案 , 可以自行下载并导入到 xshell 中 , 在 XShell 中点击 <kbd>工具→配色方案</kbd> 可以看到导入导出选项
->
-> https://github.com/netsarang/Xshell-ColorScheme
-
-### ONLYOFFICE
-
-> 一个开源的 office 在线查看和编辑工具 , 配有相关的各种文档 , 我收藏的是 docker 的文档
->
-> https://github.com/ONLYOFFICE
-
-### Nushell
-
-> 基于Rust编写的高效命令行工具 , 创建具有现代感的灵活的跨平台Shell
->
-> https://github.com/nushell/nushell
-
-### Erda
-
-> Erda 是一款基于多云架构的一站式企业数字化平台 , 为企业提供 DevOps , 微服务治理 , 多云管理以及快数据管理等云厂商无绑定的 IT 服务
->
-> https://github.com/erda-project/erda
-
-### X-TRACK
-
-> 开源的 GPS 自行车码表
->
-> 拥有可以实时显示位置的离线地图 , 国人所制 , 在 B 站有相关的演示视频
->
-> * https://www.bilibili.com/video/BV1GB4y1K7VV
->
-> https://github.com/FASTSHIFT/X-TRACK
-
-### Xbox 下载助手
+### :video_game: :heart: Xbox 下载助手
 
 > 软件提速工具 , 能加速 Xbox商店 , 微软商店 , EA Desktop & Origin 加速
 >
 > https://github.com/skydevil88/XboxDownload
 
-### ToastFish
-
-> 这是一个利用Windows通知栏背单词的软件
->
-> 可以让你在上班 , 上课等恶劣环境下安全隐蔽的背单词
->
-> https://github.com/Uahh/ToastFish
-
-### PVZ Online Battle
+### :video_game: PVZ Online Battle
 
 > 在没有游戏源代码的前提下 , 通过逆向工程和代码注入实现植物大战僵尸局域网对战模式
 >
 > 成功加载后解密模式的最后一关 , 会变为网络对战关卡
 >
 > https://github.com/czs108/Plants-vs.-Zombies-Online-Battle
+
+-----------------
+
+## Not sorted yet
 
 ### xpack
 
