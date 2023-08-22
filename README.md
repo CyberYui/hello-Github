@@ -16066,3 +16066,13 @@
 > - 单服务器的最大吞吐量比 ES 高 2x
 >
 > https://github.com/manticoresoftware/manticoresearch
+
+### RemoteCam
+
+> 将安卓手机的相机作为摄像头使用
+>
+> 并支持流式传输 : 用作 OBS 的来源 , 或用作 v4l2 的网络摄像头
+>
+> 免费✅无广告✅开源✅
+>
+> https://github.com/Ruddle/RemoteCam
